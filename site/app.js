@@ -1102,68 +1102,70 @@ function buildClassRatioHtml(rows){
   if (!total) return "";
 
   const map = {};
-
   for (const row of list) {
     const cls = normalizeText(row?.class || "기타");
     map[cls] = (map[cls] || 0) + 1;
   }
 
   const entries = Object.entries(map).sort((a, b) => b[1] - a[1]);
+  const maxCount = entries[0]?.[1] || 1;
+  const palette = [
+    "#6fa8ff", "#d9b56d", "#6fd0bd", "#b58cff",
+    "#ff8d7a", "#7fc9ef", "#a9c96f", "#e99ac5"
+  ];
 
-  let html = `
-    <div style="
-      margin: 14px 0 16px;
-      padding: 14px;
-      border: 1px solid #23324a;
-      border-radius: 12px;
-      background: rgba(15, 23, 38, .75);
-    ">
-      <div style="font-weight:900; font-size:17px; margin-bottom:10px;">
-        직업 분포
-      </div>
-
-      <div style="display:flex; flex-wrap:wrap; gap:8px;">
-  `;
-
-  for (const [cls, count] of entries) {
-    const ratio = total
-      ? ((count / total) * 100).toFixed(1)
-      : "0.0";
-
-    html += `
-      <span style="
-        display:inline-flex;
-        align-items:center;
-        gap:6px;
-        padding:8px 10px;
-        border:1px solid #2b3c5c;
-        border-radius:999px;
-        background:#111a2a;
-        color:#fff;
-        font-weight:800;
-        font-size:14px;
-      ">
-        <span style="color:#7fb0ff;">
-          ${escapeHtml(cls)}
-        </span>
-
-        <span>
-          ${count.toLocaleString("ko-KR")}명
-        </span>
-
-        <span style="opacity:.8;">
-          ${ratio}%
-        </span>
-      </span>
+  const segmentsHtml = entries.map(([cls, count], index) => {
+    const ratio = (count / total) * 100;
+    const color = palette[index % palette.length];
+    return `
+      <span
+        class="class-share-segment"
+        style="width:${ratio.toFixed(4)}%; background:${color};"
+        title="${escapeHtml(cls)} · ${count.toLocaleString("ko-KR")}명 · ${ratio.toFixed(1)}%"
+        aria-label="${escapeHtml(cls)} ${ratio.toFixed(1)}%"
+      ></span>
     `;
-  }
+  }).join("");
 
-  html += `
+  const cardsHtml = entries.map(([cls, count], index) => {
+    const ratio = (count / total) * 100;
+    const relativeWidth = (count / maxCount) * 100;
+    const color = palette[index % palette.length];
+
+    return `
+      <div class="class-share-item" style="--class-color:${color};">
+        <div class="class-share-rank">${index + 1}</div>
+        <div class="class-share-main">
+          <div class="class-share-name">${escapeHtml(cls)}</div>
+          <div class="class-share-track" aria-hidden="true">
+            <span style="width:${relativeWidth.toFixed(2)}%;"></span>
+          </div>
+        </div>
+        <div class="class-share-count">${count.toLocaleString("ko-KR")}<small>명</small></div>
+        <div class="class-share-percent">${ratio.toFixed(1)}%</div>
       </div>
-    </div>
-  `;
+    `;
+  }).join("");
 
-  return html;
+  return `
+    <section class="class-share-card" aria-label="직업 분포">
+      <div class="class-share-heading">
+        <div>
+          <span class="class-share-kicker">CLASS DISTRIBUTION</span>
+          <strong>직업 분포</strong>
+        </div>
+        <span class="class-share-total">총 ${total.toLocaleString("ko-KR")}명</span>
+      </div>
+
+      <div class="class-share-bar" aria-label="직업별 전체 비율">
+        ${segmentsHtml}
+      </div>
+
+      <div class="class-share-grid">
+        ${cardsHtml}
+      </div>
+    </section>
+  `;
 }
 function sortMemberRows(rows, sortType = "grade"){
   const list = Array.isArray(rows) ? [...rows] : [];
