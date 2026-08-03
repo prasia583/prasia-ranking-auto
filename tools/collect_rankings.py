@@ -32,7 +32,7 @@ def fetch_server(session, world_no, realm_no):
     response = session.post(
         API,
         json={"world_id": world, "world_group_id": group},
-        timeout=30,
+        timeout=10,
     )
     response.raise_for_status()
     payload = response.json()
@@ -84,7 +84,7 @@ def build():
     active_servers = 0
     for world_no, world_name in WORLD_NAMES.items():
         empty_streak = 0
-        for realm_no in range(1, 11):
+        for realm_no in range(1, 6):
             try:
                 raw_rows = fetch_server(session, world_no, realm_no)
             except Exception as exc:
