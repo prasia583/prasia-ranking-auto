@@ -120,7 +120,7 @@ def build():
     if active_servers < 1 or len(all_members) < 100:
         raise RuntimeError(
             f"수집 데이터가 비정상적으로 적어 기존 스냅샷을 보존합니다: "
-            f"{active_servers}개 서버, {len(all_members)}명"
+            f"{active_servers}개 서버, {len(all_members)}명; 오류: {failures[:5]}"
         )
 
     guild_members = defaultdict(list)
