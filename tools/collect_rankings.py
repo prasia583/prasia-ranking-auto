@@ -26,19 +26,19 @@ CLASS_NAMES = {
     "IncenseArcher":"향사수","RuneScribe":"주문각인사","Enforcer":"집행관",
 }
 
-def fetch_server(page, world_no, realm_no):
+def fetch_server(page, auth_headers, world_no, realm_no):
     group = f"LIVE_W{world_no:02d}"
     world = f"{group}_R{realm_no}"
     result = page.evaluate(
-        """async ({api, payload}) => {
+        """async ({api, payload, authHeaders}) => {
           const response = await fetch(api, {
             method: "POST",
-            headers: {"Content-Type": "application/json"},
+            headers: {"Content-Type": "application/json", ...authHeaders},
             body: JSON.stringify(payload)
           });
           return {status: response.status, text: await response.text()};
         }""",
-        {"api": API, "payload": {"world_id": world, "world_group_id": group}},
+        {"api": API, "payload": {"world_id": world, "world_group_id": group}, "authHeaders": auth_headers},
     )
     if result["status"] != 200:
         raise RuntimeError(f"HTTP {result['status']}")
@@ -81,8 +81,21 @@ def build():
     playwright = sync_playwright().start()
     browser = playwright.chromium.launch(headless=True)
     page = browser.new_page(locale="ko-KR")
-    page.goto("https://wp.nexon.com/records/ranking?world=2-1", wait_until="domcontentloaded", timeout=120000)
-    page.wait_for_timeout(2500)
+    auth_headers = {}
+
+    def capture_auth(request):
+        if "/GameData/gcranking" not in request.url:
+            return
+        headers = request.headers
+        for name in ("authorization", "x-wp-api-key"):
+            if headers.get(name):
+                auth_headers[name] = headers[name]
+
+    page.on("request", capture_auth)
+    page.goto("https://wp.nexon.com/records/ranking?world=2-1", wait_until="networkidle", timeout=120000)
+    page.wait_for_timeout(1000)
+    if not auth_headers.get("authorization") or not auth_headers.get("x-wp-api-key"):
+        raise RuntimeError("넥슨 임시 인증 헤더를 가져오지 못했습니다")
 
 
     failures = []
@@ -91,7 +104,7 @@ def build():
         empty_streak = 0
         for realm_no in range(1, 6):
             try:
-                raw_rows = fetch_server(page, world_no, realm_no)
+                raw_rows = fetch_server(page, auth_headers, world_no, realm_no)
             except Exception as exc:
                 failures.append(f"W{world_no:02d}_R{realm_no}: {exc}")
                 empty_streak += 1
