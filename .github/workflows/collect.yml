@@ -106,3 +106,28 @@ jobs:
       - name: Report collector failure
         if: steps.snapshot.outputs.needed == 'true' && steps.collector.outcome == 'failure'
         run: exit 1
+
+  deploy:
+    needs: collect
+    if: success()
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/configure-pages@v5
+        with:
+          enablement: true
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - name: Deploy current site
+        id: deployment
+        uses: actions/deploy-pages@v4
