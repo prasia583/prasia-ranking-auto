@@ -701,55 +701,41 @@ showModal(
 
 function renderKeyValueTable(obj, col1, col2, clickType = ""){
   const entries = Object.entries(obj || {});
-  if (entries.length === 0) return `<div style="opacity:.85;">데이터 없음</div>`;
+  if (entries.length === 0) return '<div class="stat-empty">집계 데이터가 없습니다.</div>';
 
   if (clickType === "guild-grade" || clickType === "guild-level") {
     entries.sort((a, b) => {
       const ak = Number(a[0]);
       const bk = Number(b[0]);
-
-      if (Number.isFinite(ak) && Number.isFinite(bk)) {
-        return bk - ak; // 등급 높은 순
-      }
+      if (Number.isFinite(ak) && Number.isFinite(bk)) return bk - ak;
       return String(b[0]).localeCompare(String(a[0]), "ko");
     });
   } else {
-    entries.sort((a, b) => (b[1] || 0) - (a[1] || 0)); // 인원수 많은 순
+    entries.sort((a, b) => (b[1] || 0) - (a[1] || 0));
   }
 
-  let html = `
-    <table style="width:100%; border-collapse:collapse; font-size:16px; table-layout:fixed;">
-      <thead>
-        <tr>
-          <th style="text-align:center !important; border-bottom:1px solid #23324a; padding:10px;">${escapeHtml(col1)}</th>
-          <th style="text-align:center !important; border-bottom:1px solid #23324a; padding:10px;">${escapeHtml(col2)}</th>
-        </tr>
-      </thead>
-      <tbody>
-  `;
+  const total = entries.reduce((sum, item) => sum + Number(item[1] || 0), 0);
+  let html = '<div class="stat-list">';
 
-  for (const [k, v] of entries){
+  for (const [key, rawCount] of entries) {
+    const count = Number(rawCount || 0);
+    const ratio = total ? (count / total) * 100 : 0;
+    const countHtml = clickType
+      ? `<button type="button" class="guild-member-open stat-count" data-type="${escapeHtml(clickType)}" data-key="${escapeHtml(String(key))}" aria-label="${escapeHtml(String(key))} ${count}명 보기">${count.toLocaleString("ko-KR")}명</button>`
+      : `<span class="stat-count">${count.toLocaleString("ko-KR")}명</span>`;
+
     html += `
-      <tr>
-        <td style="padding:10px; border-bottom:1px solid rgba(35,50,74,.6); text-align:center !important;">${escapeHtml(k)}</td>
-        <td style="padding:10px; border-bottom:1px solid rgba(35,50,74,.6); text-align:center !important;">
-          ${
-            clickType
-              ? `<button
-                  type="button"
-                  class="guild-member-open"
-                  data-type="${escapeHtml(clickType)}"
-                  data-key="${escapeHtml(String(k))}"
-                  style="background:none; border:none; color:#7fb0ff; font-weight:800; cursor:pointer;"
-                >${Number(v || 0).toLocaleString("ko-KR")}</button>`
-              : Number(v || 0).toLocaleString("ko-KR")
-          }
-        </td>
-      </tr>
+      <div class="stat-row">
+        <div class="stat-bar" style="width:${Math.max(2, ratio).toFixed(1)}%"></div>
+        <div class="stat-name" title="${escapeHtml(String(key))}">${escapeHtml(String(key))}</div>
+        <div class="stat-values">
+          ${countHtml}
+          <span class="stat-ratio">${ratio.toFixed(1)}%</span>
+        </div>
+      </div>
     `;
   }
-
-  html += `</tbody></table>`;
+  html += "</div>";
   return html;
 }
 
@@ -768,11 +754,13 @@ function showModal(title, sub, clsHtml, grdHtml, lvlHtml = ""){
   if (l) l.innerHTML = lvlHtml;
 
   if (modal) modal.style.display = "block";
+  document.body.style.overflow = "hidden";
 }
 
 function hideModal(){
   const modal = document.getElementById("guildModal");
   if (modal) modal.style.display = "none";
+  document.body.style.overflow = "";
 }
 
 function bindOverallStatsUI(){
