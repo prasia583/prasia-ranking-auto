@@ -611,6 +611,14 @@ body{
   .hero-side{background:rgba(6,9,14,.78)}
 }
 
+
+.hero-description{display:flex;flex-direction:column;gap:4px;max-width:720px}
+.hero-description span{display:block}
+@media(max-width:640px){
+  .hero-description{gap:6px}
+  .hero-description span{display:inline}
+}
+
 </style>
 </head>
 
@@ -620,7 +628,7 @@ body{
   <div class="hero-copy">
     <div class="eyebrow"><span class="live-dot"></span> NEXON DATA · AUTO UPDATE</div>
     <h1>강모찌의 프라시아<br><span>자동 결사 랭킹</span></h1>
-    <p>전 서버·전 직업 랭킹을 매일 자동 집계합니다. 결사를 눌러 구성원과 직업·등급 분포를 확인하세요.</p>
+    <p class="hero-description"><span>전 서버·전 직업 랭킹을 매일 자동 집계합니다.</span><span>결사를 선택하면 구성원과 직업·등급 분포를 확인할 수 있습니다.</span></p>
   </div>
   <div class="hero-side">
     <div class="update-label">마지막 데이터 갱신</div>
