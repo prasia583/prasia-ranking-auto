@@ -226,6 +226,11 @@ function bindSearchUI(){
     });
   }
 
+  const serverFilter = document.getElementById("serverFilter");
+  const minMembers = document.getElementById("minMembers");
+  if (serverFilter) serverFilter.addEventListener("change", () => { CURRENT_PAGE = 1; applySearch(); });
+  if (minMembers) minMembers.addEventListener("change", () => { CURRENT_PAGE = 1; applySearch(); });
+
   if (form) {
     form.addEventListener("submit", (e) => {
       e.preventDefault();
@@ -437,6 +442,8 @@ async function loadRanking(fileName) {
       };
     });
 
+    populateServerFilter();
+    updateDashboardSummary(fileName);
     CURRENT_PAGE = 1;
     applySearch();
 
@@ -453,12 +460,19 @@ async function loadRanking(fileName) {
 
 function applySearch(){
   const input = document.getElementById("search");
+  const serverSelect = document.getElementById("serverFilter");
+  const minMembersSelect = document.getElementById("minMembers");
   const q = normalizeText(input?.value ?? "").toLowerCase();
+  const selectedServer = normalizeText(serverSelect?.value ?? "");
+  const minMembers = toNum(minMembersSelect?.value ?? 0);
 
-  FILTERED_ROWS = !q ? CURRENT_VIEW_ROWS : CURRENT_VIEW_ROWS.filter((x) => {
+  FILTERED_ROWS = CURRENT_VIEW_ROWS.filter((x) => {
     const guild = normalizeText(x.guild).toLowerCase();
-    const server = normalizeText(x.server).toLowerCase();
-    return guild.includes(q) || server.includes(q);
+    const server = normalizeText(x.server);
+    const matchesText = !q || guild.includes(q) || server.toLowerCase().includes(q);
+    const matchesServer = !selectedServer || server === selectedServer;
+    const matchesMembers = toNum(x.members) >= minMembers;
+    return matchesText && matchesServer && matchesMembers;
   });
 
   renderCurrentPage();
@@ -482,11 +496,16 @@ function renderRows(rows){
   if (!tbody) return;
 
   let html = "";
+  if (!rows.length) {
+    tbody.innerHTML = '<tr class="empty-state"><td colspan="7">조건에 맞는 결사가 없습니다. 검색어나 필터를 바꿔보세요.</td></tr>';
+    return;
+  }
   for (const x of rows) {
+    const rankClass = x.curRank >= 1 && x.curRank <= 3 ? `rank-${x.curRank}` : "";
     html += `
-      <tr data-guild="${escapeHtml(x.guild)}" data-server="${escapeHtml(x.server)}" style="cursor:pointer;">
+      <tr class="${rankClass}" data-guild="${escapeHtml(x.guild)}" data-server="${escapeHtml(x.server)}" style="cursor:pointer;">
         <td class="delta-cell ${x.moveClass}">${escapeHtml(x.moveText)}</td>
-        <td>${x.curRank || ""}</td>
+        <td><span class="rank-badge">${x.curRank || ""}</span></td>
         <td>${escapeHtml(x.guild)}</td>
         <td>${fmtNum(x.members)}</td>
         <td>${escapeHtml(x.server)}</td>
@@ -1286,5 +1305,42 @@ function bindMemberListModalUI(){
     });
   }
 }
+
+
+function populateServerFilter(){
+  const select = document.getElementById("serverFilter");
+  if (!select) return;
+  const current = select.value;
+  const servers = [...new Set(CURRENT_VIEW_ROWS.map(x => normalizeText(x.server)).filter(Boolean))]
+    .sort((a,b) => a.localeCompare(b, "ko"));
+  select.innerHTML = '<option value="">전체 서버</option>' +
+    servers.map(server => `<option value="${escapeHtml(server)}">${escapeHtml(server)}</option>`).join("");
+  if (servers.includes(current)) select.value = current;
+}
+
+function updateDashboardSummary(fileName){
+  const snapshot = SNAP_LIST.find(x => x.file === fileName) || {};
+  const servers = new Set(CURRENT_VIEW_ROWS.map(x => normalizeText(x.server)).filter(Boolean));
+  const top = CURRENT_VIEW_ROWS.find(x => x.curRank === 1) || CURRENT_VIEW_ROWS[0];
+  const set = (id, value) => { const el = document.getElementById(id); if (el) el.textContent = value; };
+  set("summaryGuilds", CURRENT_VIEW_ROWS.length.toLocaleString("ko-KR"));
+  set("summaryCharacters", toNum(snapshot.characters).toLocaleString("ko-KR"));
+  set("summaryServers", (toNum(snapshot.servers) || servers.size).toLocaleString("ko-KR"));
+  set("summaryTopGuild", top?.guild || "-");
+  set("summaryTopServer", top ? `${top.server} · ${fmtNum(top.total)}점` : "-");
+  set("lastUpdated", snapshot.collectedAt
+    ? new Date(snapshot.collectedAt).toLocaleString("ko-KR", {dateStyle:"medium", timeStyle:"short"})
+    : (snapshot.label || "-"));
+  const status = document.getElementById("status");
+  if (status) status.textContent = "● 정상 운영 중";
+}
+
+function bindScrollTop(){
+  const button = document.getElementById("scrollTop");
+  if (!button) return;
+  window.addEventListener("scroll", () => button.classList.toggle("visible", window.scrollY > 500), {passive:true});
+  button.addEventListener("click", () => window.scrollTo({top:0, behavior:"smooth"}));
+}
+document.addEventListener("DOMContentLoaded", bindScrollTop);
 
 loadSnapshots();
