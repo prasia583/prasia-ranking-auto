@@ -23,7 +23,7 @@ let MEMBER_LIST_STATE = {
   key: "",
   rows: [],
   page: 1,
-  pageSize: 100,
+  pageSize: 50,
   sort: "grade"
 };
 
@@ -960,14 +960,13 @@ function searchOverallMembers(){
     key: q,
     rows: matched,
     page: 1,
-    pageSize: 100,
+    pageSize: 50,
     sort: "grade"
   };
 
   renderMemberListModal();
 
-  const modal = document.getElementById("memberListModal");
-  if (modal) modal.style.display = "block";
+  showMemberListModal();
 }
 
 function clearOverallMemberSearch(){
@@ -989,19 +988,33 @@ function openMemberListModal(type, key){
     key,
     rows: Array.isArray(rows) ? rows : [],
     page: 1,
-    pageSize: 100,
+    pageSize: 50,
     sort: "grade"
   };
 
   renderMemberListModal();
 
+  showMemberListModal();
+}
+
+function showMemberListModal(){
   const modal = document.getElementById("memberListModal");
-  if (modal) modal.style.display = "block";
+  document.body.classList.add("member-list-open");
+  document.body.style.overflow = "hidden";
+  if (modal) {
+    modal.scrollTop = 0;
+    modal.style.display = "block";
+    const wrap = document.getElementById("mlTableWrap");
+    if (wrap) wrap.scrollTop = 0;
+  }
 }
 
 function hideMemberListModal(){
   const modal = document.getElementById("memberListModal");
   if (modal) modal.style.display = "none";
+  document.body.classList.remove("member-list-open");
+  const guildModal = document.getElementById("guildModal");
+  document.body.style.overflow = guildModal?.style.display === "block" ? "hidden" : "";
 }
 function buildClassRatioHtml(rows){
   const list = Array.isArray(rows) ? rows : [];
@@ -1145,14 +1158,13 @@ function openGuildFilteredMemberList(type, key){
     key,
     rows,
     page: 1,
-    pageSize: 100,
+    pageSize: 50,
     sort: "grade"
   };
 
   renderMemberListModal();
 
-  const modal = document.getElementById("memberListModal");
-  if (modal) modal.style.display = "block";
+  showMemberListModal();
 }
 function renderMemberListModal(){
   const titleEl = document.getElementById("mlTitle");
