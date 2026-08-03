@@ -953,6 +953,101 @@ body.compact-table #rank tr{contain-intrinsic-size:auto 38px}
   }
 }
 
+
+/* ====== Compact ranking table + smooth overall statistics scroll ====== */
+@media(min-width:901px){
+  .ranking-panel .table-shell,
+  .ranking-panel .pager{
+    width:min(1120px,100%);
+    margin-left:auto;
+    margin-right:auto;
+  }
+}
+.ranking-panel .table-shell table{
+  min-width:760px;
+}
+.ranking-panel .table-shell th,
+.ranking-panel .table-shell td{
+  padding:8px 9px;
+}
+.ranking-panel .table-shell th:nth-child(1),
+.ranking-panel .table-shell td:nth-child(1){width:7%}
+.ranking-panel .table-shell th:nth-child(2),
+.ranking-panel .table-shell td:nth-child(2){width:8%}
+.ranking-panel .table-shell th:nth-child(3),
+.ranking-panel .table-shell td:nth-child(3){width:24%}
+.ranking-panel .table-shell th:nth-child(4),
+.ranking-panel .table-shell td:nth-child(4){width:9%}
+.ranking-panel .table-shell th:nth-child(5),
+.ranking-panel .table-shell td:nth-child(5){width:20%}
+.ranking-panel .table-shell th:nth-child(6),
+.ranking-panel .table-shell td:nth-child(6){width:17%}
+.ranking-panel .table-shell th:nth-child(7),
+.ranking-panel .table-shell td:nth-child(7){width:15%}
+
+#overallModal{
+  backdrop-filter:none!important;
+  -webkit-backdrop-filter:none!important;
+  background:rgba(2,5,10,.94)!important;
+  contain:layout paint style;
+}
+#overallModal .modal-card{
+  height:calc(100vh - 40px);
+  max-height:calc(100vh - 40px);
+  transform:translateZ(0);
+  backface-visibility:hidden;
+  box-shadow:0 20px 60px rgba(0,0,0,.42)!important;
+}
+#overallModal .modal-head{
+  position:relative!important;
+  top:auto!important;
+  padding-bottom:14px;
+  border-bottom:1px solid #23324a;
+}
+#overallModal .modal-grid{
+  flex:1 1 auto;
+  min-height:0;
+  margin-top:0!important;
+  padding:12px 4px 4px 0;
+  overflow-y:auto!important;
+  overflow-x:hidden!important;
+  overscroll-behavior:contain;
+  scrollbar-gutter:stable;
+  align-content:start;
+  -webkit-overflow-scrolling:touch;
+}
+#overallModal .panel{
+  min-width:0;
+  overflow:visible!important;
+}
+#overallModal #omLevel,
+#overallModal #omGrade{
+  max-height:none!important;
+  overflow:visible!important;
+  scrollbar-gutter:auto!important;
+}
+#overallModal table{
+  transform:translateZ(0);
+}
+#overallModal tbody tr,
+#overallModal tbody tr:hover{
+  transition:none!important;
+}
+#overallModal th,
+#overallModal td{
+  padding:8px!important;
+  line-height:1.15;
+}
+@media(max-width:720px){
+  #overallModal .modal-card{
+    height:calc(100vh - 16px);
+    max-height:calc(100vh - 16px);
+  }
+  #overallModal .modal-grid{
+    padding-right:0;
+  }
+}
+
 </style>
 </head>
 
@@ -1092,7 +1187,7 @@ body.compact-table #rank tr{contain-intrinsic-size:auto 38px}
 
 <button id="scrollTop" class="scroll-top" type="button" aria-label="맨 위로">↑</button>
 
-<script src="./app.js?v=4"></script>
+<script src="./app.js?v=5"></script>
 
 <!-- 결사 상세 모달 -->
 <div id="guildModal">
