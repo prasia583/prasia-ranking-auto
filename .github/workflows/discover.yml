@@ -27,10 +27,15 @@ jobs:
       - run: pip install playwright
       - run: python -m playwright install --with-deps chromium
       - run: python tools/discover_api.py
+      - name: Bootstrap ranking snapshot
+        run: |
+          pip install -r requirements.txt
+          set -o pipefail
+          python tools/collect_rankings.py 2>&1 | tee diagnostics/collector.log
       - name: Save diagnostics
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add diagnostics/discovery.json
+          git add diagnostics/discovery.json diagnostics/collector.log site/snapshots
           git diff --cached --quiet || git commit -m "Record Nexon ranking discovery"
           git push
