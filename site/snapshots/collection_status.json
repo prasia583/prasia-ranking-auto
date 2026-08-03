@@ -1,8 +1,16 @@
 {
   "ok": true,
-  "collectedAt": "2026-08-03T16:11:42+09:00",
+  "collectedAt": "2026-08-04T07:32:20+09:00",
   "servers": 125,
-  "characters": 76175,
+  "characters": 76180,
   "guilds": 8349,
-  "failures": []
+  "failures": [],
+  "complete": true,
+  "worlds": 29,
+  "requests": {
+    "total": 1015,
+    "success": 1015,
+    "empty": 243,
+    "retried": 486
+  }
 }
