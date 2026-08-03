@@ -4,7 +4,7 @@ from urllib.parse import urlparse
 
 from playwright.sync_api import sync_playwright
 
-TARGET = "https://wp.nexon.com/records/ranking?world=2-1"
+TARGET = "https://wp.nexon.com/records/ranking?world=2-1&class=wildwarrior"
 OUT = Path("diagnostics")
 OUT.mkdir(parents=True, exist_ok=True)
 
