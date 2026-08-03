@@ -51,6 +51,12 @@ function normalizeText(v){
     .trim();
 }
 
+function normalizeSearchText(v){
+  return normalizeText(v)
+    .toLowerCase()
+    .replace(/[\s_-]+/g, "");
+}
+
 function keyOfGuildServer(guild, server) {
   return `${normalizeText(guild)}@@${normalizeText(server)}`;
 }
@@ -490,14 +496,15 @@ function applySearch(){
   const input = document.getElementById("search");
   const serverSelect = document.getElementById("serverFilter");
   const minMembersSelect = document.getElementById("minMembers");
-  const q = normalizeText(input?.value ?? "").toLowerCase();
+  const q = normalizeSearchText(input?.value ?? "");
   const selectedServer = normalizeText(serverSelect?.value ?? "");
   const minMembers = toNum(minMembersSelect?.value ?? 0);
 
   FILTERED_ROWS = CURRENT_VIEW_ROWS.filter((x) => {
-    const guild = normalizeText(x.guild).toLowerCase();
+    const guild = normalizeSearchText(x.guild);
     const server = normalizeText(x.server);
-    const matchesText = !q || guild.includes(q) || server.toLowerCase().includes(q);
+    const serverSearch = normalizeSearchText(server);
+    const matchesText = !q || guild.includes(q) || serverSearch.includes(q);
     const matchesServer = !selectedServer || server === selectedServer;
     const matchesMembers = toNum(x.members) >= minMembers;
     return matchesText && matchesServer && matchesMembers;
