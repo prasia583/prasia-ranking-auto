@@ -2,14 +2,14 @@
   "server": "트렌체 02",
   "guilds": {
     "kingdom": {
-      "members": 10,
+      "members": 29,
       "byClass": {
-        "향사수": 3,
-        "환영검사": 2,
-        "태양감시자": 2,
-        "심연추방자": 1,
-        "주문각인사": 1,
-        "집행관": 1
+        "심연추방자": 6,
+        "태양감시자": 6,
+        "환영검사": 6,
+        "주문각인사": 4,
+        "집행관": 4,
+        "향사수": 3
       },
       "byGrade": {
         "16": 1,
@@ -18,8 +18,11 @@
         "11": 1,
         "10": 1,
         "9": 3,
-        "2": 1,
-        "1": 1
+        "5": 1,
+        "4": 2,
+        "3": 1,
+        "2": 2,
+        "1": 15
       },
       "membersList": [
         {
@@ -87,10 +90,58 @@
           "server": "트렌체 02"
         },
         {
+          "nickname": "김피탕",
+          "guild": "kingdom",
+          "class": "환영검사",
+          "grade": 5,
+          "level": 51,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "고치돈",
+          "guild": "kingdom",
+          "class": "환영검사",
+          "grade": 4,
+          "level": 49,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "생선까스타르타르",
+          "guild": "kingdom",
+          "class": "환영검사",
+          "grade": 4,
+          "level": 49,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "에이릴",
+          "guild": "kingdom",
+          "class": "태양감시자",
+          "grade": 3,
+          "level": 62,
+          "server": "트렌체 02"
+        },
+        {
           "nickname": "어갸터",
           "guild": "kingdom",
           "class": "향사수",
           "grade": 2,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "포크",
+          "guild": "kingdom",
+          "class": "주문각인사",
+          "grade": 2,
+          "level": 63,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "Deet",
+          "guild": "kingdom",
+          "class": "환영검사",
+          "grade": 1,
           "level": 65,
           "server": "트렌체 02"
         },
@@ -101,27 +152,113 @@
           "grade": 1,
           "level": 65,
           "server": "트렌체 02"
+        },
+        {
+          "nickname": "YYah",
+          "guild": "kingdom",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "YYax",
+          "guild": "kingdom",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "aiqi",
+          "guild": "kingdom",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "yong",
+          "guild": "kingdom",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "오렌지오렌지",
+          "guild": "kingdom",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "은하수행성",
+          "guild": "kingdom",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "mmd",
+          "guild": "kingdom",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 64,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "머리카락",
+          "guild": "kingdom",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 64,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "jjmmkk",
+          "guild": "kingdom",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 61,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "하오",
+          "guild": "kingdom",
+          "class": "집행관",
+          "grade": 1,
+          "level": 56,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "오카리나",
+          "guild": "kingdom",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 54,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "rgdf",
+          "guild": "kingdom",
+          "class": "집행관",
+          "grade": 1,
+          "level": 52,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "gfbc",
+          "guild": "kingdom",
+          "class": "집행관",
+          "grade": 1,
+          "level": 51,
+          "server": "트렌체 02"
         }
       ],
       "byClassMembers": {
-        "환영검사": [
-          {
-            "nickname": "도루코",
-            "guild": "kingdom",
-            "class": "환영검사",
-            "grade": 16,
-            "level": 79,
-            "server": "트렌체 02"
-          },
-          {
-            "nickname": "Gsdff",
-            "guild": "kingdom",
-            "class": "환영검사",
-            "grade": 1,
-            "level": 65,
-            "server": "트렌체 02"
-          }
-        ],
         "심연추방자": [
           {
             "nickname": "사마귀",
@@ -129,6 +266,46 @@
             "class": "심연추방자",
             "grade": 15,
             "level": 78,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "YYah",
+            "guild": "kingdom",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "YYax",
+            "guild": "kingdom",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "aiqi",
+            "guild": "kingdom",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "yong",
+            "guild": "kingdom",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "mmd",
+            "guild": "kingdom",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 64,
             "server": "트렌체 02"
           }
         ],
@@ -148,15 +325,87 @@
             "grade": 9,
             "level": 72,
             "server": "트렌체 02"
+          },
+          {
+            "nickname": "에이릴",
+            "guild": "kingdom",
+            "class": "태양감시자",
+            "grade": 3,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "오렌지오렌지",
+            "guild": "kingdom",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "머리카락",
+            "guild": "kingdom",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 64,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "오카리나",
+            "guild": "kingdom",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 54,
+            "server": "트렌체 02"
           }
         ],
-        "주문각인사": [
+        "환영검사": [
           {
-            "nickname": "루페스",
+            "nickname": "도루코",
             "guild": "kingdom",
-            "class": "주문각인사",
-            "grade": 12,
-            "level": 72,
+            "class": "환영검사",
+            "grade": 16,
+            "level": 79,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "김피탕",
+            "guild": "kingdom",
+            "class": "환영검사",
+            "grade": 5,
+            "level": 51,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "고치돈",
+            "guild": "kingdom",
+            "class": "환영검사",
+            "grade": 4,
+            "level": 49,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "생선까스타르타르",
+            "guild": "kingdom",
+            "class": "환영검사",
+            "grade": 4,
+            "level": 49,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "Deet",
+            "guild": "kingdom",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "Gsdff",
+            "guild": "kingdom",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 65,
             "server": "트렌체 02"
           }
         ],
@@ -186,6 +435,40 @@
             "server": "트렌체 02"
           }
         ],
+        "주문각인사": [
+          {
+            "nickname": "루페스",
+            "guild": "kingdom",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 72,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "포크",
+            "guild": "kingdom",
+            "class": "주문각인사",
+            "grade": 2,
+            "level": 63,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "은하수행성",
+            "guild": "kingdom",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "jjmmkk",
+            "guild": "kingdom",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          }
+        ],
         "집행관": [
           {
             "nickname": "잠지공주",
@@ -194,20 +477,34 @@
             "grade": 9,
             "level": 65,
             "server": "트렌체 02"
+          },
+          {
+            "nickname": "하오",
+            "guild": "kingdom",
+            "class": "집행관",
+            "grade": 1,
+            "level": 56,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "rgdf",
+            "guild": "kingdom",
+            "class": "집행관",
+            "grade": 1,
+            "level": 52,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "gfbc",
+            "guild": "kingdom",
+            "class": "집행관",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
           }
         ]
       },
       "byGradeMembers": {
-        "16": [
-          {
-            "nickname": "도루코",
-            "guild": "kingdom",
-            "class": "환영검사",
-            "grade": 16,
-            "level": 79,
-            "server": "트렌체 02"
-          }
-        ],
         "15": [
           {
             "nickname": "사마귀",
@@ -215,6 +512,128 @@
             "class": "심연추방자",
             "grade": 15,
             "level": 78,
+            "server": "트렌체 02"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "Deet",
+            "guild": "kingdom",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "Gsdff",
+            "guild": "kingdom",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "YYah",
+            "guild": "kingdom",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "YYax",
+            "guild": "kingdom",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "aiqi",
+            "guild": "kingdom",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "yong",
+            "guild": "kingdom",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "오렌지오렌지",
+            "guild": "kingdom",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "은하수행성",
+            "guild": "kingdom",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "mmd",
+            "guild": "kingdom",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 64,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "머리카락",
+            "guild": "kingdom",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 64,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "jjmmkk",
+            "guild": "kingdom",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "하오",
+            "guild": "kingdom",
+            "class": "집행관",
+            "grade": 1,
+            "level": 56,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "오카리나",
+            "guild": "kingdom",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 54,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "rgdf",
+            "guild": "kingdom",
+            "class": "집행관",
+            "grade": 1,
+            "level": 52,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "gfbc",
+            "guild": "kingdom",
+            "class": "집행관",
+            "grade": 1,
+            "level": 51,
             "server": "트렌체 02"
           }
         ],
@@ -244,16 +663,6 @@
             "server": "트렌체 02"
           }
         ],
-        "12": [
-          {
-            "nickname": "루페스",
-            "guild": "kingdom",
-            "class": "주문각인사",
-            "grade": 12,
-            "level": 72,
-            "server": "트렌체 02"
-          }
-        ],
         "10": [
           {
             "nickname": "키미데쓰",
@@ -261,6 +670,54 @@
             "class": "태양감시자",
             "grade": 10,
             "level": 71,
+            "server": "트렌체 02"
+          }
+        ],
+        "3": [
+          {
+            "nickname": "에이릴",
+            "guild": "kingdom",
+            "class": "태양감시자",
+            "grade": 3,
+            "level": 62,
+            "server": "트렌체 02"
+          }
+        ],
+        "16": [
+          {
+            "nickname": "도루코",
+            "guild": "kingdom",
+            "class": "환영검사",
+            "grade": 16,
+            "level": 79,
+            "server": "트렌체 02"
+          }
+        ],
+        "5": [
+          {
+            "nickname": "김피탕",
+            "guild": "kingdom",
+            "class": "환영검사",
+            "grade": 5,
+            "level": 51,
+            "server": "트렌체 02"
+          }
+        ],
+        "4": [
+          {
+            "nickname": "고치돈",
+            "guild": "kingdom",
+            "class": "환영검사",
+            "grade": 4,
+            "level": 49,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "생선까스타르타르",
+            "guild": "kingdom",
+            "class": "환영검사",
+            "grade": 4,
+            "level": 49,
             "server": "트렌체 02"
           }
         ],
@@ -282,32 +739,815 @@
             "grade": 2,
             "level": 65,
             "server": "트렌체 02"
+          },
+          {
+            "nickname": "포크",
+            "guild": "kingdom",
+            "class": "주문각인사",
+            "grade": 2,
+            "level": 63,
+            "server": "트렌체 02"
+          }
+        ],
+        "12": [
+          {
+            "nickname": "루페스",
+            "guild": "kingdom",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 72,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "명품": {
+      "members": 4,
+      "byClass": {
+        "심연추방자": 2,
+        "태양감시자": 1,
+        "집행관": 1
+      },
+      "byGrade": {
+        "11": 1,
+        "9": 1,
+        "6": 1,
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "아니",
+          "guild": "명품",
+          "class": "심연추방자",
+          "grade": 11,
+          "level": 70,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "래쉬",
+          "guild": "명품",
+          "class": "심연추방자",
+          "grade": 9,
+          "level": 63,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "비토",
+          "guild": "명품",
+          "class": "태양감시자",
+          "grade": 6,
+          "level": 69,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "유진",
+          "guild": "명품",
+          "class": "집행관",
+          "grade": 1,
+          "level": 57,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "아니",
+            "guild": "명품",
+            "class": "심연추방자",
+            "grade": 11,
+            "level": 70,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "래쉬",
+            "guild": "명품",
+            "class": "심연추방자",
+            "grade": 9,
+            "level": 63,
+            "server": "트렌체 02"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "비토",
+            "guild": "명품",
+            "class": "태양감시자",
+            "grade": 6,
+            "level": 69,
+            "server": "트렌체 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "유진",
+            "guild": "명품",
+            "class": "집행관",
+            "grade": 1,
+            "level": 57,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "11": [
+          {
+            "nickname": "아니",
+            "guild": "명품",
+            "class": "심연추방자",
+            "grade": 11,
+            "level": 70,
+            "server": "트렌체 02"
+          }
+        ],
+        "9": [
+          {
+            "nickname": "래쉬",
+            "guild": "명품",
+            "class": "심연추방자",
+            "grade": 9,
+            "level": 63,
+            "server": "트렌체 02"
+          }
+        ],
+        "6": [
+          {
+            "nickname": "비토",
+            "guild": "명품",
+            "class": "태양감시자",
+            "grade": 6,
+            "level": 69,
+            "server": "트렌체 02"
           }
         ],
         "1": [
           {
-            "nickname": "Gsdff",
-            "guild": "kingdom",
-            "class": "환영검사",
+            "nickname": "유진",
+            "guild": "명품",
+            "class": "집행관",
+            "grade": 1,
+            "level": 57,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "DYNT": {
+      "members": 3,
+      "byClass": {
+        "집행관": 2,
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "6": 1,
+        "4": 1,
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "TGSF",
+          "guild": "DYNT",
+          "class": "심연추방자",
+          "grade": 6,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "뎌튜져",
+          "guild": "DYNT",
+          "class": "집행관",
+          "grade": 4,
+          "level": 61,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "가벼운그리움시간우",
+          "guild": "DYNT",
+          "class": "집행관",
+          "grade": 1,
+          "level": 62,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "TGSF",
+            "guild": "DYNT",
+            "class": "심연추방자",
+            "grade": 6,
+            "level": 65,
+            "server": "트렌체 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "뎌튜져",
+            "guild": "DYNT",
+            "class": "집행관",
+            "grade": 4,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "가벼운그리움시간우",
+            "guild": "DYNT",
+            "class": "집행관",
+            "grade": 1,
+            "level": 62,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "6": [
+          {
+            "nickname": "TGSF",
+            "guild": "DYNT",
+            "class": "심연추방자",
+            "grade": 6,
+            "level": 65,
+            "server": "트렌체 02"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "가벼운그리움시간우",
+            "guild": "DYNT",
+            "class": "집행관",
+            "grade": 1,
+            "level": 62,
+            "server": "트렌체 02"
+          }
+        ],
+        "4": [
+          {
+            "nickname": "뎌튜져",
+            "guild": "DYNT",
+            "class": "집행관",
+            "grade": 4,
+            "level": 61,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "Bigbad": {
+      "members": 21,
+      "byClass": {
+        "심연추방자": 6,
+        "태양감시자": 4,
+        "주문각인사": 4,
+        "환영검사": 3,
+        "향사수": 2,
+        "집행관": 2
+      },
+      "byGrade": {
+        "4": 14,
+        "1": 7
+      },
+      "membersList": [
+        {
+          "nickname": "이과장과장",
+          "guild": "Bigbad",
+          "class": "향사수",
+          "grade": 4,
+          "level": 63,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "캄파놀로",
+          "guild": "Bigbad",
+          "class": "향사수",
+          "grade": 4,
+          "level": 63,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "괴서린",
+          "guild": "Bigbad",
+          "class": "태양감시자",
+          "grade": 4,
+          "level": 62,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "도윤",
+          "guild": "Bigbad",
+          "class": "집행관",
+          "grade": 4,
+          "level": 62,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "루루호",
+          "guild": "Bigbad",
+          "class": "환영검사",
+          "grade": 4,
+          "level": 62,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "무난",
+          "guild": "Bigbad",
+          "class": "주문각인사",
+          "grade": 4,
+          "level": 62,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "벨로체",
+          "guild": "Bigbad",
+          "class": "주문각인사",
+          "grade": 4,
+          "level": 62,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "샤가넘버원",
+          "guild": "Bigbad",
+          "class": "태양감시자",
+          "grade": 4,
+          "level": 62,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "수컷너구리",
+          "guild": "Bigbad",
+          "class": "태양감시자",
+          "grade": 4,
+          "level": 62,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "시크리스",
+          "guild": "Bigbad",
+          "class": "주문각인사",
+          "grade": 4,
+          "level": 62,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "아르아쉬",
+          "guild": "Bigbad",
+          "class": "환영검사",
+          "grade": 4,
+          "level": 62,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "야꿀벌",
+          "guild": "Bigbad",
+          "class": "태양감시자",
+          "grade": 4,
+          "level": 62,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "초희",
+          "guild": "Bigbad",
+          "class": "주문각인사",
+          "grade": 4,
+          "level": 61,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "유련화",
+          "guild": "Bigbad",
+          "class": "환영검사",
+          "grade": 4,
+          "level": 60,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "사랑비",
+          "guild": "Bigbad",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "외로운과술",
+          "guild": "Bigbad",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "그림자",
+          "guild": "Bigbad",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 64,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "별사탕탕",
+          "guild": "Bigbad",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 64,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "슬슬픈픈",
+          "guild": "Bigbad",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 64,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "당황하다",
+          "guild": "Bigbad",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 63,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "웃여위",
+          "guild": "Bigbad",
+          "class": "집행관",
+          "grade": 1,
+          "level": 56,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "사랑비",
+            "guild": "Bigbad",
+            "class": "심연추방자",
             "grade": 1,
             "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "외로운과술",
+            "guild": "Bigbad",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "그림자",
+            "guild": "Bigbad",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 64,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "별사탕탕",
+            "guild": "Bigbad",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 64,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "슬슬픈픈",
+            "guild": "Bigbad",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 64,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "당황하다",
+            "guild": "Bigbad",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 63,
+            "server": "트렌체 02"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "괴서린",
+            "guild": "Bigbad",
+            "class": "태양감시자",
+            "grade": 4,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "샤가넘버원",
+            "guild": "Bigbad",
+            "class": "태양감시자",
+            "grade": 4,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "수컷너구리",
+            "guild": "Bigbad",
+            "class": "태양감시자",
+            "grade": 4,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "야꿀벌",
+            "guild": "Bigbad",
+            "class": "태양감시자",
+            "grade": 4,
+            "level": 62,
+            "server": "트렌체 02"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "루루호",
+            "guild": "Bigbad",
+            "class": "환영검사",
+            "grade": 4,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "아르아쉬",
+            "guild": "Bigbad",
+            "class": "환영검사",
+            "grade": 4,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "유련화",
+            "guild": "Bigbad",
+            "class": "환영검사",
+            "grade": 4,
+            "level": 60,
+            "server": "트렌체 02"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "이과장과장",
+            "guild": "Bigbad",
+            "class": "향사수",
+            "grade": 4,
+            "level": 63,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "캄파놀로",
+            "guild": "Bigbad",
+            "class": "향사수",
+            "grade": 4,
+            "level": 63,
+            "server": "트렌체 02"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "무난",
+            "guild": "Bigbad",
+            "class": "주문각인사",
+            "grade": 4,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "벨로체",
+            "guild": "Bigbad",
+            "class": "주문각인사",
+            "grade": 4,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "시크리스",
+            "guild": "Bigbad",
+            "class": "주문각인사",
+            "grade": 4,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "초희",
+            "guild": "Bigbad",
+            "class": "주문각인사",
+            "grade": 4,
+            "level": 61,
+            "server": "트렌체 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "도윤",
+            "guild": "Bigbad",
+            "class": "집행관",
+            "grade": 4,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "웃여위",
+            "guild": "Bigbad",
+            "class": "집행관",
+            "grade": 1,
+            "level": 56,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "사랑비",
+            "guild": "Bigbad",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "외로운과술",
+            "guild": "Bigbad",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "그림자",
+            "guild": "Bigbad",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 64,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "별사탕탕",
+            "guild": "Bigbad",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 64,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "슬슬픈픈",
+            "guild": "Bigbad",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 64,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "당황하다",
+            "guild": "Bigbad",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 63,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "웃여위",
+            "guild": "Bigbad",
+            "class": "집행관",
+            "grade": 1,
+            "level": 56,
+            "server": "트렌체 02"
+          }
+        ],
+        "4": [
+          {
+            "nickname": "이과장과장",
+            "guild": "Bigbad",
+            "class": "향사수",
+            "grade": 4,
+            "level": 63,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "캄파놀로",
+            "guild": "Bigbad",
+            "class": "향사수",
+            "grade": 4,
+            "level": 63,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "괴서린",
+            "guild": "Bigbad",
+            "class": "태양감시자",
+            "grade": 4,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "도윤",
+            "guild": "Bigbad",
+            "class": "집행관",
+            "grade": 4,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "루루호",
+            "guild": "Bigbad",
+            "class": "환영검사",
+            "grade": 4,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "무난",
+            "guild": "Bigbad",
+            "class": "주문각인사",
+            "grade": 4,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "벨로체",
+            "guild": "Bigbad",
+            "class": "주문각인사",
+            "grade": 4,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "샤가넘버원",
+            "guild": "Bigbad",
+            "class": "태양감시자",
+            "grade": 4,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "수컷너구리",
+            "guild": "Bigbad",
+            "class": "태양감시자",
+            "grade": 4,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "시크리스",
+            "guild": "Bigbad",
+            "class": "주문각인사",
+            "grade": 4,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "아르아쉬",
+            "guild": "Bigbad",
+            "class": "환영검사",
+            "grade": 4,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "야꿀벌",
+            "guild": "Bigbad",
+            "class": "태양감시자",
+            "grade": 4,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "초희",
+            "guild": "Bigbad",
+            "class": "주문각인사",
+            "grade": 4,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "유련화",
+            "guild": "Bigbad",
+            "class": "환영검사",
+            "grade": 4,
+            "level": 60,
             "server": "트렌체 02"
           }
         ]
       }
     },
     "루비": {
-      "members": 4,
+      "members": 7,
       "byClass": {
+        "향사수": 3,
         "주문각인사": 2,
-        "향사수": 1,
+        "심연추방자": 1,
         "환영검사": 1
       },
       "byGrade": {
         "13": 1,
         "12": 1,
         "11": 1,
-        "7": 1
+        "8": 1,
+        "7": 1,
+        "6": 1,
+        "1": 1
       },
       "membersList": [
         {
@@ -335,15 +1575,85 @@
           "server": "트렌체 02"
         },
         {
+          "nickname": "궁돌",
+          "guild": "루비",
+          "class": "향사수",
+          "grade": 8,
+          "level": 64,
+          "server": "트렌체 02"
+        },
+        {
           "nickname": "차가운유혹",
           "guild": "루비",
           "class": "환영검사",
           "grade": 7,
           "level": 70,
           "server": "트렌체 02"
+        },
+        {
+          "nickname": "햄톨",
+          "guild": "루비",
+          "class": "향사수",
+          "grade": 6,
+          "level": 64,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "YYag",
+          "guild": "루비",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
         }
       ],
       "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "YYag",
+            "guild": "루비",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "차가운유혹",
+            "guild": "루비",
+            "class": "환영검사",
+            "grade": 7,
+            "level": 70,
+            "server": "트렌체 02"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "Yaman",
+            "guild": "루비",
+            "class": "향사수",
+            "grade": 12,
+            "level": 72,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "궁돌",
+            "guild": "루비",
+            "class": "향사수",
+            "grade": 8,
+            "level": 64,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "햄톨",
+            "guild": "루비",
+            "class": "향사수",
+            "grade": 6,
+            "level": 64,
+            "server": "트렌체 02"
+          }
+        ],
         "주문각인사": [
           {
             "nickname": "노상",
@@ -361,36 +1671,26 @@
             "level": 71,
             "server": "트렌체 02"
           }
-        ],
-        "향사수": [
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
           {
-            "nickname": "Yaman",
+            "nickname": "YYag",
             "guild": "루비",
-            "class": "향사수",
-            "grade": 12,
-            "level": 72,
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
             "server": "트렌체 02"
           }
         ],
-        "환영검사": [
+        "7": [
           {
             "nickname": "차가운유혹",
             "guild": "루비",
             "class": "환영검사",
             "grade": 7,
             "level": 70,
-            "server": "트렌체 02"
-          }
-        ]
-      },
-      "byGradeMembers": {
-        "13": [
-          {
-            "nickname": "노상",
-            "guild": "루비",
-            "class": "주문각인사",
-            "grade": 13,
-            "level": 75,
             "server": "트렌체 02"
           }
         ],
@@ -404,6 +1704,36 @@
             "server": "트렌체 02"
           }
         ],
+        "8": [
+          {
+            "nickname": "궁돌",
+            "guild": "루비",
+            "class": "향사수",
+            "grade": 8,
+            "level": 64,
+            "server": "트렌체 02"
+          }
+        ],
+        "6": [
+          {
+            "nickname": "햄톨",
+            "guild": "루비",
+            "class": "향사수",
+            "grade": 6,
+            "level": 64,
+            "server": "트렌체 02"
+          }
+        ],
+        "13": [
+          {
+            "nickname": "노상",
+            "guild": "루비",
+            "class": "주문각인사",
+            "grade": 13,
+            "level": 75,
+            "server": "트렌체 02"
+          }
+        ],
         "11": [
           {
             "nickname": "테레사",
@@ -413,14 +1743,4429 @@
             "level": 71,
             "server": "트렌체 02"
           }
+        ]
+      }
+    },
+    "ZHY": {
+      "members": 12,
+      "byClass": {
+        "심연추방자": 12
+      },
+      "byGrade": {
+        "1": 12
+      },
+      "membersList": [
+        {
+          "nickname": "dddsaad",
+          "guild": "ZHY",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "sdadddd",
+          "guild": "ZHY",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "sdsaaaa",
+          "guild": "ZHY",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "ssdda",
+          "guild": "ZHY",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "sssaad",
+          "guild": "ZHY",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "asdwasdas",
+          "guild": "ZHY",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 64,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "ddsadaa",
+          "guild": "ZHY",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 64,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "dsaaa",
+          "guild": "ZHY",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 64,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "sdaddd",
+          "guild": "ZHY",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 64,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "sssdda",
+          "guild": "ZHY",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 64,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "dsdaaaa",
+          "guild": "ZHY",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 63,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "sssaadd",
+          "guild": "ZHY",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 63,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "dddsaad",
+            "guild": "ZHY",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "sdadddd",
+            "guild": "ZHY",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "sdsaaaa",
+            "guild": "ZHY",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "ssdda",
+            "guild": "ZHY",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "sssaad",
+            "guild": "ZHY",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "asdwasdas",
+            "guild": "ZHY",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 64,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "ddsadaa",
+            "guild": "ZHY",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 64,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "dsaaa",
+            "guild": "ZHY",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 64,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "sdaddd",
+            "guild": "ZHY",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 64,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "sssdda",
+            "guild": "ZHY",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 64,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "dsdaaaa",
+            "guild": "ZHY",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 63,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "sssaadd",
+            "guild": "ZHY",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 63,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "dddsaad",
+            "guild": "ZHY",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "sdadddd",
+            "guild": "ZHY",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "sdsaaaa",
+            "guild": "ZHY",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "ssdda",
+            "guild": "ZHY",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "sssaad",
+            "guild": "ZHY",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "asdwasdas",
+            "guild": "ZHY",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 64,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "ddsadaa",
+            "guild": "ZHY",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 64,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "dsaaa",
+            "guild": "ZHY",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 64,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "sdaddd",
+            "guild": "ZHY",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 64,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "sssdda",
+            "guild": "ZHY",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 64,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "dsdaaaa",
+            "guild": "ZHY",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 63,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "sssaadd",
+            "guild": "ZHY",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 63,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "버프버프": {
+      "members": 13,
+      "byClass": {
+        "향사수": 4,
+        "주문각인사": 3,
+        "태양감시자": 2,
+        "환영검사": 2,
+        "심연추방자": 1,
+        "집행관": 1
+      },
+      "byGrade": {
+        "7": 4,
+        "5": 1,
+        "4": 1,
+        "2": 1,
+        "1": 6
+      },
+      "membersList": [
+        {
+          "nickname": "향사수",
+          "guild": "버프버프",
+          "class": "향사수",
+          "grade": 7,
+          "level": 69,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "미아르",
+          "guild": "버프버프",
+          "class": "주문각인사",
+          "grade": 7,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "Ami",
+          "guild": "버프버프",
+          "class": "태양감시자",
+          "grade": 7,
+          "level": 64,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "와스레나이",
+          "guild": "버프버프",
+          "class": "주문각인사",
+          "grade": 7,
+          "level": 62,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "토듀뎌",
+          "guild": "버프버프",
+          "class": "주문각인사",
+          "grade": 5,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "MusicBoy",
+          "guild": "버프버프",
+          "class": "태양감시자",
+          "grade": 4,
+          "level": 55,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "옹하하",
+          "guild": "버프버프",
+          "class": "집행관",
+          "grade": 2,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "YYaj",
+          "guild": "버프버프",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "간우연히",
+          "guild": "버프버프",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "사령심마름",
+          "guild": "버프버프",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "홀로즐기다",
+          "guild": "버프버프",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "QOAK",
+          "guild": "버프버프",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 52,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "WPZM",
+          "guild": "버프버프",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 52,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "YYaj",
+            "guild": "버프버프",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "Ami",
+            "guild": "버프버프",
+            "class": "태양감시자",
+            "grade": 7,
+            "level": 64,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "MusicBoy",
+            "guild": "버프버프",
+            "class": "태양감시자",
+            "grade": 4,
+            "level": 55,
+            "server": "트렌체 02"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "QOAK",
+            "guild": "버프버프",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 52,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "WPZM",
+            "guild": "버프버프",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 52,
+            "server": "트렌체 02"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "향사수",
+            "guild": "버프버프",
+            "class": "향사수",
+            "grade": 7,
+            "level": 69,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "간우연히",
+            "guild": "버프버프",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "사령심마름",
+            "guild": "버프버프",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "홀로즐기다",
+            "guild": "버프버프",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "미아르",
+            "guild": "버프버프",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "와스레나이",
+            "guild": "버프버프",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "토듀뎌",
+            "guild": "버프버프",
+            "class": "주문각인사",
+            "grade": 5,
+            "level": 65,
+            "server": "트렌체 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "옹하하",
+            "guild": "버프버프",
+            "class": "집행관",
+            "grade": 2,
+            "level": 65,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "YYaj",
+            "guild": "버프버프",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "간우연히",
+            "guild": "버프버프",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "사령심마름",
+            "guild": "버프버프",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "홀로즐기다",
+            "guild": "버프버프",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "QOAK",
+            "guild": "버프버프",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 52,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "WPZM",
+            "guild": "버프버프",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 52,
+            "server": "트렌체 02"
+          }
         ],
         "7": [
           {
-            "nickname": "차가운유혹",
-            "guild": "루비",
-            "class": "환영검사",
+            "nickname": "향사수",
+            "guild": "버프버프",
+            "class": "향사수",
             "grade": 7,
+            "level": 69,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "미아르",
+            "guild": "버프버프",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "Ami",
+            "guild": "버프버프",
+            "class": "태양감시자",
+            "grade": 7,
+            "level": 64,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "와스레나이",
+            "guild": "버프버프",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 62,
+            "server": "트렌체 02"
+          }
+        ],
+        "4": [
+          {
+            "nickname": "MusicBoy",
+            "guild": "버프버프",
+            "class": "태양감시자",
+            "grade": 4,
+            "level": 55,
+            "server": "트렌체 02"
+          }
+        ],
+        "5": [
+          {
+            "nickname": "토듀뎌",
+            "guild": "버프버프",
+            "class": "주문각인사",
+            "grade": 5,
+            "level": 65,
+            "server": "트렌체 02"
+          }
+        ],
+        "2": [
+          {
+            "nickname": "옹하하",
+            "guild": "버프버프",
+            "class": "집행관",
+            "grade": 2,
+            "level": 65,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "공격력": {
+      "members": 10,
+      "byClass": {
+        "향사수": 4,
+        "주문각인사": 4,
+        "심연추방자": 1,
+        "집행관": 1
+      },
+      "byGrade": {
+        "11": 1,
+        "10": 2,
+        "8": 2,
+        "5": 1,
+        "2": 1,
+        "1": 3
+      },
+      "membersList": [
+        {
+          "nickname": "또우",
+          "guild": "공격력",
+          "class": "집행관",
+          "grade": 11,
+          "level": 69,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "WP",
+          "guild": "공격력",
+          "class": "향사수",
+          "grade": 10,
+          "level": 70,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "조리보이최강록",
+          "guild": "공격력",
+          "class": "향사수",
+          "grade": 10,
+          "level": 66,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "마스터즈",
+          "guild": "공격력",
+          "class": "주문각인사",
+          "grade": 8,
+          "level": 63,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "놀고자빠",
+          "guild": "공격력",
+          "class": "주문각인사",
+          "grade": 8,
+          "level": 58,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "재뎌",
+          "guild": "공격력",
+          "class": "향사수",
+          "grade": 5,
+          "level": 63,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "락스",
+          "guild": "공격력",
+          "class": "주문각인사",
+          "grade": 2,
+          "level": 63,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "퐁퐁",
+          "guild": "공격력",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 64,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "YYaz",
+          "guild": "공격력",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 63,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "철학등산",
+          "guild": "공격력",
+          "class": "향사수",
+          "grade": 1,
+          "level": 63,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "YYaz",
+            "guild": "공격력",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 63,
+            "server": "트렌체 02"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "WP",
+            "guild": "공격력",
+            "class": "향사수",
+            "grade": 10,
             "level": 70,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "조리보이최강록",
+            "guild": "공격력",
+            "class": "향사수",
+            "grade": 10,
+            "level": 66,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "재뎌",
+            "guild": "공격력",
+            "class": "향사수",
+            "grade": 5,
+            "level": 63,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "철학등산",
+            "guild": "공격력",
+            "class": "향사수",
+            "grade": 1,
+            "level": 63,
+            "server": "트렌체 02"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "마스터즈",
+            "guild": "공격력",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 63,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "놀고자빠",
+            "guild": "공격력",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 58,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "락스",
+            "guild": "공격력",
+            "class": "주문각인사",
+            "grade": 2,
+            "level": 63,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "퐁퐁",
+            "guild": "공격력",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 64,
+            "server": "트렌체 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "또우",
+            "guild": "공격력",
+            "class": "집행관",
+            "grade": 11,
+            "level": 69,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "퐁퐁",
+            "guild": "공격력",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 64,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "YYaz",
+            "guild": "공격력",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 63,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "철학등산",
+            "guild": "공격력",
+            "class": "향사수",
+            "grade": 1,
+            "level": 63,
+            "server": "트렌체 02"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "WP",
+            "guild": "공격력",
+            "class": "향사수",
+            "grade": 10,
+            "level": 70,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "조리보이최강록",
+            "guild": "공격력",
+            "class": "향사수",
+            "grade": 10,
+            "level": 66,
+            "server": "트렌체 02"
+          }
+        ],
+        "5": [
+          {
+            "nickname": "재뎌",
+            "guild": "공격력",
+            "class": "향사수",
+            "grade": 5,
+            "level": 63,
+            "server": "트렌체 02"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "마스터즈",
+            "guild": "공격력",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 63,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "놀고자빠",
+            "guild": "공격력",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 58,
+            "server": "트렌체 02"
+          }
+        ],
+        "2": [
+          {
+            "nickname": "락스",
+            "guild": "공격력",
+            "class": "주문각인사",
+            "grade": 2,
+            "level": 63,
+            "server": "트렌체 02"
+          }
+        ],
+        "11": [
+          {
+            "nickname": "또우",
+            "guild": "공격력",
+            "class": "집행관",
+            "grade": 11,
+            "level": 69,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "lxd1111": {
+      "members": 20,
+      "byClass": {
+        "심연추방자": 20
+      },
+      "byGrade": {
+        "1": 20
+      },
+      "membersList": [
+        {
+          "nickname": "asfafew",
+          "guild": "lxd1111",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 63,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "adfewf",
+          "guild": "lxd1111",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 62,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "adfsfewd",
+          "guild": "lxd1111",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 62,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "asdwasd",
+          "guild": "lxd1111",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 62,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "asdwasdw",
+          "guild": "lxd1111",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 62,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "dasfsafe",
+          "guild": "lxd1111",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 62,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "dfsafes",
+          "guild": "lxd1111",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 62,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "fdsfes",
+          "guild": "lxd1111",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 62,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "sdafesd",
+          "guild": "lxd1111",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 62,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "sdfasfew",
+          "guild": "lxd1111",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 62,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "asdfew",
+          "guild": "lxd1111",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 61,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "asdwq",
+          "guild": "lxd1111",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 61,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "dddfg",
+          "guild": "lxd1111",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 61,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "dfgdgrdf",
+          "guild": "lxd1111",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 61,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "fgjy",
+          "guild": "lxd1111",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 61,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "gfdgr",
+          "guild": "lxd1111",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 61,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "sadfr",
+          "guild": "lxd1111",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 61,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "sdfsfeasda",
+          "guild": "lxd1111",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 61,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "hgjyfjh",
+          "guild": "lxd1111",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 60,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "sadfes",
+          "guild": "lxd1111",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 59,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "asfafew",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 63,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "adfewf",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "adfsfewd",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "asdwasd",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "asdwasdw",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "dasfsafe",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "dfsafes",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "fdsfes",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "sdafesd",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "sdfasfew",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "asdfew",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "asdwq",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "dddfg",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "dfgdgrdf",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "fgjy",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "gfdgr",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "sadfr",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "sdfsfeasda",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "hgjyfjh",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 60,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "sadfes",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 59,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "asfafew",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 63,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "adfewf",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "adfsfewd",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "asdwasd",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "asdwasdw",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "dasfsafe",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "dfsafes",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "fdsfes",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "sdafesd",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "sdfasfew",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "asdfew",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "asdwq",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "dddfg",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "dfgdgrdf",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "fgjy",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "gfdgr",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "sadfr",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "sdfsfeasda",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "hgjyfjh",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 60,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "sadfes",
+            "guild": "lxd1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 59,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "이거": {
+      "members": 14,
+      "byClass": {
+        "환영검사": 5,
+        "집행관": 5,
+        "향사수": 3,
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "8": 7,
+        "6": 6,
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "라면",
+          "guild": "이거",
+          "class": "환영검사",
+          "grade": 8,
+          "level": 66,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "루이비통",
+          "guild": "이거",
+          "class": "환영검사",
+          "grade": 8,
+          "level": 66,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "천천히",
+          "guild": "이거",
+          "class": "환영검사",
+          "grade": 8,
+          "level": 66,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "러시아에",
+          "guild": "이거",
+          "class": "환영검사",
+          "grade": 8,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "요즘",
+          "guild": "이거",
+          "class": "환영검사",
+          "grade": 8,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "태형이",
+          "guild": "이거",
+          "class": "향사수",
+          "grade": 8,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "티아라",
+          "guild": "이거",
+          "class": "향사수",
+          "grade": 8,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "에픽하이",
+          "guild": "이거",
+          "class": "심연추방자",
+          "grade": 6,
+          "level": 63,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "애들이",
+          "guild": "이거",
+          "class": "집행관",
+          "grade": 6,
+          "level": 60,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "여자",
+          "guild": "이거",
+          "class": "집행관",
+          "grade": 6,
+          "level": 60,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "크리스마스",
+          "guild": "이거",
+          "class": "집행관",
+          "grade": 6,
+          "level": 60,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "토요일",
+          "guild": "이거",
+          "class": "집행관",
+          "grade": 6,
+          "level": 60,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "평택",
+          "guild": "이거",
+          "class": "집행관",
+          "grade": 6,
+          "level": 60,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "가벼운그리움시간우연",
+          "guild": "이거",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "에픽하이",
+            "guild": "이거",
+            "class": "심연추방자",
+            "grade": 6,
+            "level": 63,
+            "server": "트렌체 02"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "라면",
+            "guild": "이거",
+            "class": "환영검사",
+            "grade": 8,
+            "level": 66,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "루이비통",
+            "guild": "이거",
+            "class": "환영검사",
+            "grade": 8,
+            "level": 66,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "천천히",
+            "guild": "이거",
+            "class": "환영검사",
+            "grade": 8,
+            "level": 66,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "러시아에",
+            "guild": "이거",
+            "class": "환영검사",
+            "grade": 8,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "요즘",
+            "guild": "이거",
+            "class": "환영검사",
+            "grade": 8,
+            "level": 65,
+            "server": "트렌체 02"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "태형이",
+            "guild": "이거",
+            "class": "향사수",
+            "grade": 8,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "티아라",
+            "guild": "이거",
+            "class": "향사수",
+            "grade": 8,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "가벼운그리움시간우연",
+            "guild": "이거",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "애들이",
+            "guild": "이거",
+            "class": "집행관",
+            "grade": 6,
+            "level": 60,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "여자",
+            "guild": "이거",
+            "class": "집행관",
+            "grade": 6,
+            "level": 60,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "크리스마스",
+            "guild": "이거",
+            "class": "집행관",
+            "grade": 6,
+            "level": 60,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "토요일",
+            "guild": "이거",
+            "class": "집행관",
+            "grade": 6,
+            "level": 60,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "평택",
+            "guild": "이거",
+            "class": "집행관",
+            "grade": 6,
+            "level": 60,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "6": [
+          {
+            "nickname": "에픽하이",
+            "guild": "이거",
+            "class": "심연추방자",
+            "grade": 6,
+            "level": 63,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "애들이",
+            "guild": "이거",
+            "class": "집행관",
+            "grade": 6,
+            "level": 60,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "여자",
+            "guild": "이거",
+            "class": "집행관",
+            "grade": 6,
+            "level": 60,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "크리스마스",
+            "guild": "이거",
+            "class": "집행관",
+            "grade": 6,
+            "level": 60,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "토요일",
+            "guild": "이거",
+            "class": "집행관",
+            "grade": 6,
+            "level": 60,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "평택",
+            "guild": "이거",
+            "class": "집행관",
+            "grade": 6,
+            "level": 60,
+            "server": "트렌체 02"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "라면",
+            "guild": "이거",
+            "class": "환영검사",
+            "grade": 8,
+            "level": 66,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "루이비통",
+            "guild": "이거",
+            "class": "환영검사",
+            "grade": 8,
+            "level": 66,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "천천히",
+            "guild": "이거",
+            "class": "환영검사",
+            "grade": 8,
+            "level": 66,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "러시아에",
+            "guild": "이거",
+            "class": "환영검사",
+            "grade": 8,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "요즘",
+            "guild": "이거",
+            "class": "환영검사",
+            "grade": 8,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "태형이",
+            "guild": "이거",
+            "class": "향사수",
+            "grade": 8,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "티아라",
+            "guild": "이거",
+            "class": "향사수",
+            "grade": 8,
+            "level": 65,
+            "server": "트렌체 02"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "가벼운그리움시간우연",
+            "guild": "이거",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "BBA": {
+      "members": 11,
+      "byClass": {
+        "주문각인사": 5,
+        "집행관": 4,
+        "심연추방자": 2
+      },
+      "byGrade": {
+        "4": 1,
+        "1": 10
+      },
+      "membersList": [
+        {
+          "nickname": "nmlgb",
+          "guild": "BBA",
+          "class": "주문각인사",
+          "grade": 4,
+          "level": 58,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "변경합니다변경합니",
+          "guild": "BBA",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 62,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "qweq",
+          "guild": "BBA",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 61,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "변경니다합니다",
+          "guild": "BBA",
+          "class": "집행관",
+          "grade": 1,
+          "level": 61,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "변경합니다경합다",
+          "guild": "BBA",
+          "class": "집행관",
+          "grade": 1,
+          "level": 61,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "변경합니다변경",
+          "guild": "BBA",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 61,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "변경합니다변다",
+          "guild": "BBA",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 61,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "변경합니다합니다",
+          "guild": "BBA",
+          "class": "집행관",
+          "grade": 1,
+          "level": 61,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "변경합니변합다",
+          "guild": "BBA",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 61,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "wcnmd",
+          "guild": "BBA",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 59,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "변경합니다변경니",
+          "guild": "BBA",
+          "class": "집행관",
+          "grade": 1,
+          "level": 56,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "변경합니다변경합니",
+            "guild": "BBA",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "wcnmd",
+            "guild": "BBA",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 59,
+            "server": "트렌체 02"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "nmlgb",
+            "guild": "BBA",
+            "class": "주문각인사",
+            "grade": 4,
+            "level": 58,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "qweq",
+            "guild": "BBA",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "변경합니다변경",
+            "guild": "BBA",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "변경합니다변다",
+            "guild": "BBA",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "변경합니변합다",
+            "guild": "BBA",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "변경니다합니다",
+            "guild": "BBA",
+            "class": "집행관",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "변경합니다경합다",
+            "guild": "BBA",
+            "class": "집행관",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "변경합니다합니다",
+            "guild": "BBA",
+            "class": "집행관",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "변경합니다변경니",
+            "guild": "BBA",
+            "class": "집행관",
+            "grade": 1,
+            "level": 56,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "변경합니다변경합니",
+            "guild": "BBA",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "qweq",
+            "guild": "BBA",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "변경니다합니다",
+            "guild": "BBA",
+            "class": "집행관",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "변경합니다경합다",
+            "guild": "BBA",
+            "class": "집행관",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "변경합니다변경",
+            "guild": "BBA",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "변경합니다변다",
+            "guild": "BBA",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "변경합니다합니다",
+            "guild": "BBA",
+            "class": "집행관",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "변경합니변합다",
+            "guild": "BBA",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "wcnmd",
+            "guild": "BBA",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 59,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "변경합니다변경니",
+            "guild": "BBA",
+            "class": "집행관",
+            "grade": 1,
+            "level": 56,
+            "server": "트렌체 02"
+          }
+        ],
+        "4": [
+          {
+            "nickname": "nmlgb",
+            "guild": "BBA",
+            "class": "주문각인사",
+            "grade": 4,
+            "level": 58,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "번개의장치얽힘": {
+      "members": 3,
+      "byClass": {
+        "심연추방자": 1,
+        "태양감시자": 1,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "6": 1,
+        "2": 1,
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "살귀",
+          "guild": "번개의장치얽힘",
+          "class": "심연추방자",
+          "grade": 6,
+          "level": 61,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "도나",
+          "guild": "번개의장치얽힘",
+          "class": "주문각인사",
+          "grade": 2,
+          "level": 61,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "수선화",
+          "guild": "번개의장치얽힘",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 64,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "살귀",
+            "guild": "번개의장치얽힘",
+            "class": "심연추방자",
+            "grade": 6,
+            "level": 61,
+            "server": "트렌체 02"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "수선화",
+            "guild": "번개의장치얽힘",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 64,
+            "server": "트렌체 02"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "도나",
+            "guild": "번개의장치얽힘",
+            "class": "주문각인사",
+            "grade": 2,
+            "level": 61,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "6": [
+          {
+            "nickname": "살귀",
+            "guild": "번개의장치얽힘",
+            "class": "심연추방자",
+            "grade": 6,
+            "level": 61,
+            "server": "트렌체 02"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "수선화",
+            "guild": "번개의장치얽힘",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 64,
+            "server": "트렌체 02"
+          }
+        ],
+        "2": [
+          {
+            "nickname": "도나",
+            "guild": "번개의장치얽힘",
+            "class": "주문각인사",
+            "grade": 2,
+            "level": 61,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "공주님": {
+      "members": 4,
+      "byClass": {
+        "심연추방자": 1,
+        "태양감시자": 1,
+        "향사수": 1,
+        "집행관": 1
+      },
+      "byGrade": {
+        "8": 1,
+        "6": 1,
+        "1": 2
+      },
+      "membersList": [
+        {
+          "nickname": "김윈터",
+          "guild": "공주님",
+          "class": "향사수",
+          "grade": 8,
+          "level": 66,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "김태양",
+          "guild": "공주님",
+          "class": "태양감시자",
+          "grade": 6,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "함숨만",
+          "guild": "공주님",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 60,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "cbds",
+          "guild": "공주님",
+          "class": "집행관",
+          "grade": 1,
+          "level": 51,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "함숨만",
+            "guild": "공주님",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 60,
+            "server": "트렌체 02"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "김태양",
+            "guild": "공주님",
+            "class": "태양감시자",
+            "grade": 6,
+            "level": 65,
+            "server": "트렌체 02"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "김윈터",
+            "guild": "공주님",
+            "class": "향사수",
+            "grade": 8,
+            "level": 66,
+            "server": "트렌체 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "cbds",
+            "guild": "공주님",
+            "class": "집행관",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "함숨만",
+            "guild": "공주님",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 60,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "cbds",
+            "guild": "공주님",
+            "class": "집행관",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          }
+        ],
+        "6": [
+          {
+            "nickname": "김태양",
+            "guild": "공주님",
+            "class": "태양감시자",
+            "grade": 6,
+            "level": 65,
+            "server": "트렌체 02"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "김윈터",
+            "guild": "공주님",
+            "class": "향사수",
+            "grade": 8,
+            "level": 66,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "별빛의기억조작": {
+      "members": 2,
+      "byClass": {
+        "태양감시자": 2
+      },
+      "byGrade": {
+        "4": 1,
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "큐쟈자",
+          "guild": "별빛의기억조작",
+          "class": "태양감시자",
+          "grade": 4,
+          "level": 61,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "참외참외",
+          "guild": "별빛의기억조작",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "큐쟈자",
+            "guild": "별빛의기억조작",
+            "class": "태양감시자",
+            "grade": 4,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "참외참외",
+            "guild": "별빛의기억조작",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "참외참외",
+            "guild": "별빛의기억조작",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          }
+        ],
+        "4": [
+          {
+            "nickname": "큐쟈자",
+            "guild": "별빛의기억조작",
+            "class": "태양감시자",
+            "grade": 4,
+            "level": 61,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "삭제합니다": {
+      "members": 25,
+      "byClass": {
+        "향사수": 12,
+        "주문각인사": 9,
+        "집행관": 2,
+        "태양감시자": 1,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "2": 1,
+        "1": 24
+      },
+      "membersList": [
+        {
+          "nickname": "sdsafx",
+          "guild": "삭제합니다",
+          "class": "주문각인사",
+          "grade": 2,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "XXZZXX",
+          "guild": "삭제합니다",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "ffgjkl",
+          "guild": "삭제합니다",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "ghgfhf",
+          "guild": "삭제합니다",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "pouk",
+          "guild": "삭제합니다",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "qqzcd",
+          "guild": "삭제합니다",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "swdsa",
+          "guild": "삭제합니다",
+          "class": "집행관",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "ttyyuucv",
+          "guild": "삭제합니다",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "yyhjj",
+          "guild": "삭제합니다",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "yytqr",
+          "guild": "삭제합니다",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "zxaawd",
+          "guild": "삭제합니다",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "기다화니다",
+          "guild": "삭제합니다",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "기합다",
+          "guild": "삭제합니다",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "초기니다",
+          "guild": "삭제합니다",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "초기다",
+          "guild": "삭제합니다",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "초기합니다",
+          "guild": "삭제합니다",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "초기합화니다",
+          "guild": "삭제합니다",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "초기화니다",
+          "guild": "삭제합니다",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "초기화다",
+          "guild": "삭제합니다",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "초기화합니다",
+          "guild": "삭제합니다",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "초합니다",
+          "guild": "삭제합니다",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "초화합니다",
+          "guild": "삭제합니다",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "gggasw",
+          "guild": "삭제합니다",
+          "class": "집행관",
+          "grade": 1,
+          "level": 64,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "sadwf",
+          "guild": "삭제합니다",
+          "class": "향사수",
+          "grade": 1,
+          "level": 64,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "ssdsawf",
+          "guild": "삭제합니다",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 64,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "ssdsawf",
+            "guild": "삭제합니다",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 64,
+            "server": "트렌체 02"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "yyhjj",
+            "guild": "삭제합니다",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "ffgjkl",
+            "guild": "삭제합니다",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "ghgfhf",
+            "guild": "삭제합니다",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "pouk",
+            "guild": "삭제합니다",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "qqzcd",
+            "guild": "삭제합니다",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "ttyyuucv",
+            "guild": "삭제합니다",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "yytqr",
+            "guild": "삭제합니다",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "zxaawd",
+            "guild": "삭제합니다",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "기다화니다",
+            "guild": "삭제합니다",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "초기합니다",
+            "guild": "삭제합니다",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "초기화다",
+            "guild": "삭제합니다",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "초화합니다",
+            "guild": "삭제합니다",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "sadwf",
+            "guild": "삭제합니다",
+            "class": "향사수",
+            "grade": 1,
+            "level": 64,
+            "server": "트렌체 02"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "sdsafx",
+            "guild": "삭제합니다",
+            "class": "주문각인사",
+            "grade": 2,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "XXZZXX",
+            "guild": "삭제합니다",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "기합다",
+            "guild": "삭제합니다",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "초기니다",
+            "guild": "삭제합니다",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "초기다",
+            "guild": "삭제합니다",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "초기합화니다",
+            "guild": "삭제합니다",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "초기화니다",
+            "guild": "삭제합니다",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "초기화합니다",
+            "guild": "삭제합니다",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "초합니다",
+            "guild": "삭제합니다",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "swdsa",
+            "guild": "삭제합니다",
+            "class": "집행관",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "gggasw",
+            "guild": "삭제합니다",
+            "class": "집행관",
+            "grade": 1,
+            "level": 64,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "XXZZXX",
+            "guild": "삭제합니다",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "ffgjkl",
+            "guild": "삭제합니다",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "ghgfhf",
+            "guild": "삭제합니다",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "pouk",
+            "guild": "삭제합니다",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "qqzcd",
+            "guild": "삭제합니다",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "swdsa",
+            "guild": "삭제합니다",
+            "class": "집행관",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "ttyyuucv",
+            "guild": "삭제합니다",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "yyhjj",
+            "guild": "삭제합니다",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "yytqr",
+            "guild": "삭제합니다",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "zxaawd",
+            "guild": "삭제합니다",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "기다화니다",
+            "guild": "삭제합니다",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "기합다",
+            "guild": "삭제합니다",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "초기니다",
+            "guild": "삭제합니다",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "초기다",
+            "guild": "삭제합니다",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "초기합니다",
+            "guild": "삭제합니다",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "초기합화니다",
+            "guild": "삭제합니다",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "초기화니다",
+            "guild": "삭제합니다",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "초기화다",
+            "guild": "삭제합니다",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "초기화합니다",
+            "guild": "삭제합니다",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "초합니다",
+            "guild": "삭제합니다",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "초화합니다",
+            "guild": "삭제합니다",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "gggasw",
+            "guild": "삭제합니다",
+            "class": "집행관",
+            "grade": 1,
+            "level": 64,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "sadwf",
+            "guild": "삭제합니다",
+            "class": "향사수",
+            "grade": 1,
+            "level": 64,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "ssdsawf",
+            "guild": "삭제합니다",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 64,
+            "server": "트렌체 02"
+          }
+        ],
+        "2": [
+          {
+            "nickname": "sdsafx",
+            "guild": "삭제합니다",
+            "class": "주문각인사",
+            "grade": 2,
+            "level": 65,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "이실로테": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "2": 1
+      },
+      "membersList": [
+        {
+          "nickname": "슈나링",
+          "guild": "이실로테",
+          "class": "태양감시자",
+          "grade": 2,
+          "level": 64,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "슈나링",
+            "guild": "이실로테",
+            "class": "태양감시자",
+            "grade": 2,
+            "level": 64,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "2": [
+          {
+            "nickname": "슈나링",
+            "guild": "이실로테",
+            "class": "태양감시자",
+            "grade": 2,
+            "level": 64,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "흙빛용병대": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "허브허브",
+          "guild": "흙빛용병대",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 64,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "허브허브",
+            "guild": "흙빛용병대",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 64,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "허브허브",
+            "guild": "흙빛용병대",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 64,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "동물원": {
+      "members": 6,
+      "byClass": {
+        "태양감시자": 6
+      },
+      "byGrade": {
+        "7": 6
+      },
+      "membersList": [
+        {
+          "nickname": "거북이",
+          "guild": "동물원",
+          "class": "태양감시자",
+          "grade": 7,
+          "level": 62,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "댕댕이",
+          "guild": "동물원",
+          "class": "태양감시자",
+          "grade": 7,
+          "level": 62,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "사자",
+          "guild": "동물원",
+          "class": "태양감시자",
+          "grade": 7,
+          "level": 62,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "오리",
+          "guild": "동물원",
+          "class": "태양감시자",
+          "grade": 7,
+          "level": 62,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "냥이",
+          "guild": "동물원",
+          "class": "태양감시자",
+          "grade": 7,
+          "level": 61,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "타조",
+          "guild": "동물원",
+          "class": "태양감시자",
+          "grade": 7,
+          "level": 61,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "거북이",
+            "guild": "동물원",
+            "class": "태양감시자",
+            "grade": 7,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "댕댕이",
+            "guild": "동물원",
+            "class": "태양감시자",
+            "grade": 7,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "사자",
+            "guild": "동물원",
+            "class": "태양감시자",
+            "grade": 7,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "오리",
+            "guild": "동물원",
+            "class": "태양감시자",
+            "grade": 7,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "냥이",
+            "guild": "동물원",
+            "class": "태양감시자",
+            "grade": 7,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "타조",
+            "guild": "동물원",
+            "class": "태양감시자",
+            "grade": 7,
+            "level": 61,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "7": [
+          {
+            "nickname": "거북이",
+            "guild": "동물원",
+            "class": "태양감시자",
+            "grade": 7,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "댕댕이",
+            "guild": "동물원",
+            "class": "태양감시자",
+            "grade": 7,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "사자",
+            "guild": "동물원",
+            "class": "태양감시자",
+            "grade": 7,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "오리",
+            "guild": "동물원",
+            "class": "태양감시자",
+            "grade": 7,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "냥이",
+            "guild": "동물원",
+            "class": "태양감시자",
+            "grade": 7,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "타조",
+            "guild": "동물원",
+            "class": "태양감시자",
+            "grade": 7,
+            "level": 61,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "느대그": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "7": 1
+      },
+      "membersList": [
+        {
+          "nickname": "xbdzpzk",
+          "guild": "느대그",
+          "class": "태양감시자",
+          "grade": 7,
+          "level": 60,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "xbdzpzk",
+            "guild": "느대그",
+            "class": "태양감시자",
+            "grade": 7,
+            "level": 60,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "7": [
+          {
+            "nickname": "xbdzpzk",
+            "guild": "느대그",
+            "class": "태양감시자",
+            "grade": 7,
+            "level": 60,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "ddd": {
+      "members": 5,
+      "byClass": {
+        "태양감시자": 4,
+        "향사수": 1
+      },
+      "byGrade": {
+        "1": 5
+      },
+      "membersList": [
+        {
+          "nickname": "하다만뒷",
+          "guild": "ddd",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "마마보",
+          "guild": "ddd",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 58,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "수운돌",
+          "guild": "ddd",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 58,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "프라닭지",
+          "guild": "ddd",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 58,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "항진투",
+          "guild": "ddd",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 58,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "마마보",
+            "guild": "ddd",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 58,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "수운돌",
+            "guild": "ddd",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 58,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "프라닭지",
+            "guild": "ddd",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 58,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "항진투",
+            "guild": "ddd",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 58,
+            "server": "트렌체 02"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "하다만뒷",
+            "guild": "ddd",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "하다만뒷",
+            "guild": "ddd",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "마마보",
+            "guild": "ddd",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 58,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "수운돌",
+            "guild": "ddd",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 58,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "프라닭지",
+            "guild": "ddd",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 58,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "항진투",
+            "guild": "ddd",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 58,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "타라라": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "2": 1
+      },
+      "membersList": [
+        {
+          "nickname": "트렌킴",
+          "guild": "타라라",
+          "class": "태양감시자",
+          "grade": 2,
+          "level": 56,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "트렌킴",
+            "guild": "타라라",
+            "class": "태양감시자",
+            "grade": 2,
+            "level": 56,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "2": [
+          {
+            "nickname": "트렌킴",
+            "guild": "타라라",
+            "class": "태양감시자",
+            "grade": 2,
+            "level": 56,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "자스민": {
+      "members": 2,
+      "byClass": {
+        "태양감시자": 1,
+        "집행관": 1
+      },
+      "byGrade": {
+        "1": 2
+      },
+      "membersList": [
+        {
+          "nickname": "bfgfhgt",
+          "guild": "자스민",
+          "class": "집행관",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "환난을함께겪다",
+          "guild": "자스민",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 53,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "환난을함께겪다",
+            "guild": "자스민",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 53,
+            "server": "트렌체 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "bfgfhgt",
+            "guild": "자스민",
+            "class": "집행관",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "bfgfhgt",
+            "guild": "자스민",
+            "class": "집행관",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "환난을함께겪다",
+            "guild": "자스민",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 53,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "히든": {
+      "members": 2,
+      "byClass": {
+        "태양감시자": 2
+      },
+      "byGrade": {
+        "5": 1,
+        "4": 1
+      },
+      "membersList": [
+        {
+          "nickname": "불도저에탄소녀",
+          "guild": "히든",
+          "class": "태양감시자",
+          "grade": 5,
+          "level": 53,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "킬러들위쇼핑몰",
+          "guild": "히든",
+          "class": "태양감시자",
+          "grade": 4,
+          "level": 53,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "불도저에탄소녀",
+            "guild": "히든",
+            "class": "태양감시자",
+            "grade": 5,
+            "level": 53,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "킬러들위쇼핑몰",
+            "guild": "히든",
+            "class": "태양감시자",
+            "grade": 4,
+            "level": 53,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "5": [
+          {
+            "nickname": "불도저에탄소녀",
+            "guild": "히든",
+            "class": "태양감시자",
+            "grade": 5,
+            "level": 53,
+            "server": "트렌체 02"
+          }
+        ],
+        "4": [
+          {
+            "nickname": "킬러들위쇼핑몰",
+            "guild": "히든",
+            "class": "태양감시자",
+            "grade": 4,
+            "level": 53,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "gklj": {
+      "members": 7,
+      "byClass": {
+        "집행관": 4,
+        "태양감시자": 3
+      },
+      "byGrade": {
+        "1": 7
+      },
+      "membersList": [
+        {
+          "nickname": "남자울지마",
+          "guild": "gklj",
+          "class": "집행관",
+          "grade": 1,
+          "level": 52,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "벗어나다",
+          "guild": "gklj",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 52,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "성신시간",
+          "guild": "gklj",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 52,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "싱크대남자",
+          "guild": "gklj",
+          "class": "집행관",
+          "grade": 1,
+          "level": 52,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "양파인기",
+          "guild": "gklj",
+          "class": "집행관",
+          "grade": 1,
+          "level": 52,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "창바깥시간",
+          "guild": "gklj",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 52,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "추억명상미래",
+          "guild": "gklj",
+          "class": "집행관",
+          "grade": 1,
+          "level": 52,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "벗어나다",
+            "guild": "gklj",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 52,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "성신시간",
+            "guild": "gklj",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 52,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "창바깥시간",
+            "guild": "gklj",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 52,
+            "server": "트렌체 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "남자울지마",
+            "guild": "gklj",
+            "class": "집행관",
+            "grade": 1,
+            "level": 52,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "싱크대남자",
+            "guild": "gklj",
+            "class": "집행관",
+            "grade": 1,
+            "level": 52,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "양파인기",
+            "guild": "gklj",
+            "class": "집행관",
+            "grade": 1,
+            "level": 52,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "추억명상미래",
+            "guild": "gklj",
+            "class": "집행관",
+            "grade": 1,
+            "level": 52,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "남자울지마",
+            "guild": "gklj",
+            "class": "집행관",
+            "grade": 1,
+            "level": 52,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "벗어나다",
+            "guild": "gklj",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 52,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "성신시간",
+            "guild": "gklj",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 52,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "싱크대남자",
+            "guild": "gklj",
+            "class": "집행관",
+            "grade": 1,
+            "level": 52,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "양파인기",
+            "guild": "gklj",
+            "class": "집행관",
+            "grade": 1,
+            "level": 52,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "창바깥시간",
+            "guild": "gklj",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 52,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "추억명상미래",
+            "guild": "gklj",
+            "class": "집행관",
+            "grade": 1,
+            "level": 52,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "뚜렷하다": {
+      "members": 20,
+      "byClass": {
+        "태양감시자": 14,
+        "환영검사": 4,
+        "집행관": 2
+      },
+      "byGrade": {
+        "1": 20
+      },
+      "membersList": [
+        {
+          "nickname": "가라앉으면",
+          "guild": "뚜렷하다",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 51,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "모든",
+          "guild": "뚜렷하다",
+          "class": "집행관",
+          "grade": 1,
+          "level": 51,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "사랑은",
+          "guild": "뚜렷하다",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 51,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "사진",
+          "guild": "뚜렷하다",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 51,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "생각이",
+          "guild": "뚜렷하다",
+          "class": "집행관",
+          "grade": 1,
+          "level": 51,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "손손",
+          "guild": "뚜렷하다",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 51,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "아편이다",
+          "guild": "뚜렷하다",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 51,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "있다있",
+          "guild": "뚜렷하다",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 51,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "조금씩",
+          "guild": "뚜렷하다",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 51,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "지루한",
+          "guild": "뚜렷하다",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 51,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "찍은",
+          "guild": "뚜렷하다",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 51,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "금세",
+          "guild": "뚜렷하다",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 50,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "놓여",
+          "guild": "뚜렷하다",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 50,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "담배",
+          "guild": "뚜렷하다",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 50,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "묘하다",
+          "guild": "뚜렷하다",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 50,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "세기말의",
+          "guild": "뚜렷하다",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 50,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "소일거리",
+          "guild": "뚜렷하다",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 50,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "아니지",
+          "guild": "뚜렷하다",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 50,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "옆에",
+          "guild": "뚜렷하다",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 50,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "정신",
+          "guild": "뚜렷하다",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 50,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "사진",
+            "guild": "뚜렷하다",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "손손",
+            "guild": "뚜렷하다",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "있다있",
+            "guild": "뚜렷하다",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "지루한",
+            "guild": "뚜렷하다",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "찍은",
+            "guild": "뚜렷하다",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "금세",
+            "guild": "뚜렷하다",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "놓여",
+            "guild": "뚜렷하다",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "담배",
+            "guild": "뚜렷하다",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "묘하다",
+            "guild": "뚜렷하다",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "세기말의",
+            "guild": "뚜렷하다",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "소일거리",
+            "guild": "뚜렷하다",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "아니지",
+            "guild": "뚜렷하다",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "옆에",
+            "guild": "뚜렷하다",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "정신",
+            "guild": "뚜렷하다",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "가라앉으면",
+            "guild": "뚜렷하다",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "사랑은",
+            "guild": "뚜렷하다",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "아편이다",
+            "guild": "뚜렷하다",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "조금씩",
+            "guild": "뚜렷하다",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "모든",
+            "guild": "뚜렷하다",
+            "class": "집행관",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "생각이",
+            "guild": "뚜렷하다",
+            "class": "집행관",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "가라앉으면",
+            "guild": "뚜렷하다",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "모든",
+            "guild": "뚜렷하다",
+            "class": "집행관",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "사랑은",
+            "guild": "뚜렷하다",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "사진",
+            "guild": "뚜렷하다",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "생각이",
+            "guild": "뚜렷하다",
+            "class": "집행관",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "손손",
+            "guild": "뚜렷하다",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "아편이다",
+            "guild": "뚜렷하다",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "있다있",
+            "guild": "뚜렷하다",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "조금씩",
+            "guild": "뚜렷하다",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "지루한",
+            "guild": "뚜렷하다",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "찍은",
+            "guild": "뚜렷하다",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "금세",
+            "guild": "뚜렷하다",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "놓여",
+            "guild": "뚜렷하다",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "담배",
+            "guild": "뚜렷하다",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "묘하다",
+            "guild": "뚜렷하다",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "세기말의",
+            "guild": "뚜렷하다",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "소일거리",
+            "guild": "뚜렷하다",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "아니지",
+            "guild": "뚜렷하다",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "옆에",
+            "guild": "뚜렷하다",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "정신",
+            "guild": "뚜렷하다",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "황족": {
+      "members": 2,
+      "byClass": {
+        "태양감시자": 2
+      },
+      "byGrade": {
+        "1": 2
+      },
+      "membersList": [
+        {
+          "nickname": "많이비포를",
+          "guild": "황족",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 50,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "많이탄포",
+          "guild": "황족",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 50,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "많이비포를",
+            "guild": "황족",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "많이탄포",
+            "guild": "황족",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "많이비포를",
+            "guild": "황족",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "많이탄포",
+            "guild": "황족",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 50,
             "server": "트렌체 02"
           }
         ]
@@ -469,6 +6214,653 @@
         ]
       }
     },
+    "개": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "4": 1
+      },
+      "membersList": [
+        {
+          "nickname": "멍빠노예",
+          "guild": "개",
+          "class": "환영검사",
+          "grade": 4,
+          "level": 56,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "멍빠노예",
+            "guild": "개",
+            "class": "환영검사",
+            "grade": 4,
+            "level": 56,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "4": [
+          {
+            "nickname": "멍빠노예",
+            "guild": "개",
+            "class": "환영검사",
+            "grade": 4,
+            "level": 56,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "레인보우": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "AJZN",
+          "guild": "레인보우",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 53,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "AJZN",
+            "guild": "레인보우",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 53,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "AJZN",
+            "guild": "레인보우",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 53,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "wawa": {
+      "members": 2,
+      "byClass": {
+        "환영검사": 2
+      },
+      "byGrade": {
+        "1": 2
+      },
+      "membersList": [
+        {
+          "nickname": "WPSL",
+          "guild": "wawa",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 52,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "AJZM",
+          "guild": "wawa",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 51,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "WPSL",
+            "guild": "wawa",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 52,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "AJZM",
+            "guild": "wawa",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "WPSL",
+            "guild": "wawa",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 52,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "AJZM",
+            "guild": "wawa",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "qwe": {
+      "members": 18,
+      "byClass": {
+        "환영검사": 18
+      },
+      "byGrade": {
+        "1": 18
+      },
+      "membersList": [
+        {
+          "nickname": "agh",
+          "guild": "qwe",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 51,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "rw",
+          "guild": "qwe",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 51,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "sd",
+          "guild": "qwe",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 51,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "wes",
+          "guild": "qwe",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 51,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "aqw",
+          "guild": "qwe",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 50,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "bg",
+          "guild": "qwe",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 50,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "ce",
+          "guild": "qwe",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 50,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "ds",
+          "guild": "qwe",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 50,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "emm",
+          "guild": "qwe",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 50,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "fd",
+          "guild": "qwe",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 50,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "ffg",
+          "guild": "qwe",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 50,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "ij",
+          "guild": "qwe",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 50,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "qf",
+          "guild": "qwe",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 50,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "sw",
+          "guild": "qwe",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 50,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "xqa",
+          "guild": "qwe",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 50,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "ea",
+          "guild": "qwe",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 49,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "nh",
+          "guild": "qwe",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 49,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "rd",
+          "guild": "qwe",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 49,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "agh",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "rw",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "sd",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "wes",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "aqw",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "bg",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "ce",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "ds",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "emm",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "fd",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "ffg",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "ij",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "qf",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "sw",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "xqa",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "ea",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 49,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "nh",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 49,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "rd",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 49,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "agh",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "rw",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "sd",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "wes",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "aqw",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "bg",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "ce",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "ds",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "emm",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "fd",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "ffg",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "ij",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "qf",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "sw",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "xqa",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "ea",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 49,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "nh",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 49,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "rd",
+            "guild": "qwe",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 49,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "프린이": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "발렌",
+          "guild": "프린이",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 50,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "발렌",
+            "guild": "프린이",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "발렌",
+            "guild": "프린이",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 50,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
     "중립": {
       "members": 1,
       "byClass": {
@@ -507,6 +6899,301 @@
             "class": "향사수",
             "grade": 10,
             "level": 71,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "다마고치": {
+      "members": 2,
+      "byClass": {
+        "향사수": 2
+      },
+      "byGrade": {
+        "1": 2
+      },
+      "membersList": [
+        {
+          "nickname": "랑령심마름",
+          "guild": "다마고치",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "사의령인장마",
+          "guild": "다마고치",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "랑령심마름",
+            "guild": "다마고치",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "사의령인장마",
+            "guild": "다마고치",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "랑령심마름",
+            "guild": "다마고치",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "사의령인장마",
+            "guild": "다마고치",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "어도어": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "랑가범장기",
+          "guild": "어도어",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "랑가범장기",
+            "guild": "어도어",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "랑가범장기",
+            "guild": "어도어",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "드드드드드드드드드드": {
+      "members": 5,
+      "byClass": {
+        "집행관": 4,
+        "향사수": 1
+      },
+      "byGrade": {
+        "1": 5
+      },
+      "membersList": [
+        {
+          "nickname": "가인심장마여향",
+          "guild": "드드드드드드드드드드",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "드드드드드드드드드드",
+          "guild": "드드드드드드드드드드",
+          "class": "집행관",
+          "grade": 1,
+          "level": 65,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "배상",
+          "guild": "드드드드드드드드드드",
+          "class": "집행관",
+          "grade": 1,
+          "level": 57,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "안토니",
+          "guild": "드드드드드드드드드드",
+          "class": "집행관",
+          "grade": 1,
+          "level": 57,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "형제",
+          "guild": "드드드드드드드드드드",
+          "class": "집행관",
+          "grade": 1,
+          "level": 56,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "가인심장마여향",
+            "guild": "드드드드드드드드드드",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "드드드드드드드드드드",
+            "guild": "드드드드드드드드드드",
+            "class": "집행관",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "배상",
+            "guild": "드드드드드드드드드드",
+            "class": "집행관",
+            "grade": 1,
+            "level": 57,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "안토니",
+            "guild": "드드드드드드드드드드",
+            "class": "집행관",
+            "grade": 1,
+            "level": 57,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "형제",
+            "guild": "드드드드드드드드드드",
+            "class": "집행관",
+            "grade": 1,
+            "level": 56,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "가인심장마여향",
+            "guild": "드드드드드드드드드드",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "드드드드드드드드드드",
+            "guild": "드드드드드드드드드드",
+            "class": "집행관",
+            "grade": 1,
+            "level": 65,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "배상",
+            "guild": "드드드드드드드드드드",
+            "class": "집행관",
+            "grade": 1,
+            "level": 57,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "안토니",
+            "guild": "드드드드드드드드드드",
+            "class": "집행관",
+            "grade": 1,
+            "level": 57,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "형제",
+            "guild": "드드드드드드드드드드",
+            "class": "집행관",
+            "grade": 1,
+            "level": 56,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "토트넘": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "6": 1
+      },
+      "membersList": [
+        {
+          "nickname": "손흥민",
+          "guild": "토트넘",
+          "class": "향사수",
+          "grade": 6,
+          "level": 62,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "손흥민",
+            "guild": "토트넘",
+            "class": "향사수",
+            "grade": 6,
+            "level": 62,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "6": [
+          {
+            "nickname": "손흥민",
+            "guild": "토트넘",
+            "class": "향사수",
+            "grade": 6,
+            "level": 62,
             "server": "트렌체 02"
           }
         ]
@@ -625,171 +7312,215 @@
         ]
       }
     },
-    "명품": {
-      "members": 2,
+    "리치": {
+      "members": 8,
       "byClass": {
-        "심연추방자": 1,
-        "태양감시자": 1
+        "주문각인사": 8
       },
       "byGrade": {
-        "11": 1,
-        "6": 1
+        "3": 1,
+        "1": 7
       },
       "membersList": [
         {
-          "nickname": "아니",
-          "guild": "명품",
-          "class": "심연추방자",
-          "grade": 11,
-          "level": 70,
+          "nickname": "쇼로",
+          "guild": "리치",
+          "class": "주문각인사",
+          "grade": 3,
+          "level": 61,
           "server": "트렌체 02"
         },
         {
-          "nickname": "비토",
-          "guild": "명품",
-          "class": "태양감시자",
-          "grade": 6,
-          "level": 69,
+          "nickname": "류루",
+          "guild": "리치",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 63,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "오올",
+          "guild": "리치",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 63,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "쟈너",
+          "guild": "리치",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 63,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "토너",
+          "guild": "리치",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 62,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "소고기",
+          "guild": "리치",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 61,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "어뎌",
+          "guild": "리치",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 61,
+          "server": "트렌체 02"
+        },
+        {
+          "nickname": "겨어",
+          "guild": "리치",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 60,
           "server": "트렌체 02"
         }
       ],
       "byClassMembers": {
-        "심연추방자": [
+        "주문각인사": [
           {
-            "nickname": "아니",
-            "guild": "명품",
-            "class": "심연추방자",
-            "grade": 11,
-            "level": 70,
+            "nickname": "쇼로",
+            "guild": "리치",
+            "class": "주문각인사",
+            "grade": 3,
+            "level": 61,
             "server": "트렌체 02"
-          }
-        ],
-        "태양감시자": [
+          },
           {
-            "nickname": "비토",
-            "guild": "명품",
-            "class": "태양감시자",
-            "grade": 6,
-            "level": 69,
+            "nickname": "류루",
+            "guild": "리치",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 63,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "오올",
+            "guild": "리치",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 63,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "쟈너",
+            "guild": "리치",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 63,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "토너",
+            "guild": "리치",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "소고기",
+            "guild": "리치",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "어뎌",
+            "guild": "리치",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "겨어",
+            "guild": "리치",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 60,
             "server": "트렌체 02"
           }
         ]
       },
       "byGradeMembers": {
-        "11": [
+        "1": [
           {
-            "nickname": "아니",
-            "guild": "명품",
-            "class": "심연추방자",
-            "grade": 11,
-            "level": 70,
-            "server": "트렌체 02"
-          }
-        ],
-        "6": [
-          {
-            "nickname": "비토",
-            "guild": "명품",
-            "class": "태양감시자",
-            "grade": 6,
-            "level": 69,
-            "server": "트렌체 02"
-          }
-        ]
-      }
-    },
-    "공격력": {
-      "members": 3,
-      "byClass": {
-        "향사수": 2,
-        "집행관": 1
-      },
-      "byGrade": {
-        "11": 1,
-        "10": 2
-      },
-      "membersList": [
-        {
-          "nickname": "또우",
-          "guild": "공격력",
-          "class": "집행관",
-          "grade": 11,
-          "level": 69,
-          "server": "트렌체 02"
-        },
-        {
-          "nickname": "WP",
-          "guild": "공격력",
-          "class": "향사수",
-          "grade": 10,
-          "level": 70,
-          "server": "트렌체 02"
-        },
-        {
-          "nickname": "조리보이최강록",
-          "guild": "공격력",
-          "class": "향사수",
-          "grade": 10,
-          "level": 66,
-          "server": "트렌체 02"
-        }
-      ],
-      "byClassMembers": {
-        "향사수": [
-          {
-            "nickname": "WP",
-            "guild": "공격력",
-            "class": "향사수",
-            "grade": 10,
-            "level": 70,
+            "nickname": "류루",
+            "guild": "리치",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 63,
             "server": "트렌체 02"
           },
           {
-            "nickname": "조리보이최강록",
-            "guild": "공격력",
-            "class": "향사수",
-            "grade": 10,
-            "level": 66,
-            "server": "트렌체 02"
-          }
-        ],
-        "집행관": [
-          {
-            "nickname": "또우",
-            "guild": "공격력",
-            "class": "집행관",
-            "grade": 11,
-            "level": 69,
-            "server": "트렌체 02"
-          }
-        ]
-      },
-      "byGradeMembers": {
-        "10": [
-          {
-            "nickname": "WP",
-            "guild": "공격력",
-            "class": "향사수",
-            "grade": 10,
-            "level": 70,
+            "nickname": "오올",
+            "guild": "리치",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 63,
             "server": "트렌체 02"
           },
           {
-            "nickname": "조리보이최강록",
-            "guild": "공격력",
-            "class": "향사수",
-            "grade": 10,
-            "level": 66,
+            "nickname": "쟈너",
+            "guild": "리치",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 63,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "토너",
+            "guild": "리치",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 62,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "소고기",
+            "guild": "리치",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "어뎌",
+            "guild": "리치",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 61,
+            "server": "트렌체 02"
+          },
+          {
+            "nickname": "겨어",
+            "guild": "리치",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 60,
             "server": "트렌체 02"
           }
         ],
-        "11": [
+        "3": [
           {
-            "nickname": "또우",
-            "guild": "공격력",
-            "class": "집행관",
-            "grade": 11,
-            "level": 69,
+            "nickname": "쇼로",
+            "guild": "리치",
+            "class": "주문각인사",
+            "grade": 3,
+            "level": 61,
             "server": "트렌체 02"
           }
         ]
@@ -838,570 +7569,7 @@
         ]
       }
     },
-    "버프버프": {
-      "members": 1,
-      "byClass": {
-        "향사수": 1
-      },
-      "byGrade": {
-        "7": 1
-      },
-      "membersList": [
-        {
-          "nickname": "향사수",
-          "guild": "버프버프",
-          "class": "향사수",
-          "grade": 7,
-          "level": 69,
-          "server": "트렌체 02"
-        }
-      ],
-      "byClassMembers": {
-        "향사수": [
-          {
-            "nickname": "향사수",
-            "guild": "버프버프",
-            "class": "향사수",
-            "grade": 7,
-            "level": 69,
-            "server": "트렌체 02"
-          }
-        ]
-      },
-      "byGradeMembers": {
-        "7": [
-          {
-            "nickname": "향사수",
-            "guild": "버프버프",
-            "class": "향사수",
-            "grade": 7,
-            "level": 69,
-            "server": "트렌체 02"
-          }
-        ]
-      }
-    },
-    "이거": {
-      "members": 7,
-      "byClass": {
-        "환영검사": 5,
-        "향사수": 2
-      },
-      "byGrade": {
-        "8": 7
-      },
-      "membersList": [
-        {
-          "nickname": "라면",
-          "guild": "이거",
-          "class": "환영검사",
-          "grade": 8,
-          "level": 66,
-          "server": "트렌체 02"
-        },
-        {
-          "nickname": "루이비통",
-          "guild": "이거",
-          "class": "환영검사",
-          "grade": 8,
-          "level": 66,
-          "server": "트렌체 02"
-        },
-        {
-          "nickname": "천천히",
-          "guild": "이거",
-          "class": "환영검사",
-          "grade": 8,
-          "level": 66,
-          "server": "트렌체 02"
-        },
-        {
-          "nickname": "러시아에",
-          "guild": "이거",
-          "class": "환영검사",
-          "grade": 8,
-          "level": 65,
-          "server": "트렌체 02"
-        },
-        {
-          "nickname": "요즘",
-          "guild": "이거",
-          "class": "환영검사",
-          "grade": 8,
-          "level": 65,
-          "server": "트렌체 02"
-        },
-        {
-          "nickname": "태형이",
-          "guild": "이거",
-          "class": "향사수",
-          "grade": 8,
-          "level": 65,
-          "server": "트렌체 02"
-        },
-        {
-          "nickname": "티아라",
-          "guild": "이거",
-          "class": "향사수",
-          "grade": 8,
-          "level": 65,
-          "server": "트렌체 02"
-        }
-      ],
-      "byClassMembers": {
-        "환영검사": [
-          {
-            "nickname": "라면",
-            "guild": "이거",
-            "class": "환영검사",
-            "grade": 8,
-            "level": 66,
-            "server": "트렌체 02"
-          },
-          {
-            "nickname": "루이비통",
-            "guild": "이거",
-            "class": "환영검사",
-            "grade": 8,
-            "level": 66,
-            "server": "트렌체 02"
-          },
-          {
-            "nickname": "천천히",
-            "guild": "이거",
-            "class": "환영검사",
-            "grade": 8,
-            "level": 66,
-            "server": "트렌체 02"
-          },
-          {
-            "nickname": "러시아에",
-            "guild": "이거",
-            "class": "환영검사",
-            "grade": 8,
-            "level": 65,
-            "server": "트렌체 02"
-          },
-          {
-            "nickname": "요즘",
-            "guild": "이거",
-            "class": "환영검사",
-            "grade": 8,
-            "level": 65,
-            "server": "트렌체 02"
-          }
-        ],
-        "향사수": [
-          {
-            "nickname": "태형이",
-            "guild": "이거",
-            "class": "향사수",
-            "grade": 8,
-            "level": 65,
-            "server": "트렌체 02"
-          },
-          {
-            "nickname": "티아라",
-            "guild": "이거",
-            "class": "향사수",
-            "grade": 8,
-            "level": 65,
-            "server": "트렌체 02"
-          }
-        ]
-      },
-      "byGradeMembers": {
-        "8": [
-          {
-            "nickname": "라면",
-            "guild": "이거",
-            "class": "환영검사",
-            "grade": 8,
-            "level": 66,
-            "server": "트렌체 02"
-          },
-          {
-            "nickname": "루이비통",
-            "guild": "이거",
-            "class": "환영검사",
-            "grade": 8,
-            "level": 66,
-            "server": "트렌체 02"
-          },
-          {
-            "nickname": "천천히",
-            "guild": "이거",
-            "class": "환영검사",
-            "grade": 8,
-            "level": 66,
-            "server": "트렌체 02"
-          },
-          {
-            "nickname": "러시아에",
-            "guild": "이거",
-            "class": "환영검사",
-            "grade": 8,
-            "level": 65,
-            "server": "트렌체 02"
-          },
-          {
-            "nickname": "요즘",
-            "guild": "이거",
-            "class": "환영검사",
-            "grade": 8,
-            "level": 65,
-            "server": "트렌체 02"
-          },
-          {
-            "nickname": "태형이",
-            "guild": "이거",
-            "class": "향사수",
-            "grade": 8,
-            "level": 65,
-            "server": "트렌체 02"
-          },
-          {
-            "nickname": "티아라",
-            "guild": "이거",
-            "class": "향사수",
-            "grade": 8,
-            "level": 65,
-            "server": "트렌체 02"
-          }
-        ]
-      }
-    },
-    "공주님": {
-      "members": 1,
-      "byClass": {
-        "향사수": 1
-      },
-      "byGrade": {
-        "8": 1
-      },
-      "membersList": [
-        {
-          "nickname": "김윈터",
-          "guild": "공주님",
-          "class": "향사수",
-          "grade": 8,
-          "level": 66,
-          "server": "트렌체 02"
-        }
-      ],
-      "byClassMembers": {
-        "향사수": [
-          {
-            "nickname": "김윈터",
-            "guild": "공주님",
-            "class": "향사수",
-            "grade": 8,
-            "level": 66,
-            "server": "트렌체 02"
-          }
-        ]
-      },
-      "byGradeMembers": {
-        "8": [
-          {
-            "nickname": "김윈터",
-            "guild": "공주님",
-            "class": "향사수",
-            "grade": 8,
-            "level": 66,
-            "server": "트렌체 02"
-          }
-        ]
-      }
-    },
-    "DYNT": {
-      "members": 1,
-      "byClass": {
-        "심연추방자": 1
-      },
-      "byGrade": {
-        "6": 1
-      },
-      "membersList": [
-        {
-          "nickname": "TGSF",
-          "guild": "DYNT",
-          "class": "심연추방자",
-          "grade": 6,
-          "level": 65,
-          "server": "트렌체 02"
-        }
-      ],
-      "byClassMembers": {
-        "심연추방자": [
-          {
-            "nickname": "TGSF",
-            "guild": "DYNT",
-            "class": "심연추방자",
-            "grade": 6,
-            "level": 65,
-            "server": "트렌체 02"
-          }
-        ]
-      },
-      "byGradeMembers": {
-        "6": [
-          {
-            "nickname": "TGSF",
-            "guild": "DYNT",
-            "class": "심연추방자",
-            "grade": 6,
-            "level": 65,
-            "server": "트렌체 02"
-          }
-        ]
-      }
-    },
-    "삭제합니다": {
-      "members": 9,
-      "byClass": {
-        "향사수": 6,
-        "주문각인사": 2,
-        "환영검사": 1
-      },
-      "byGrade": {
-        "2": 1,
-        "1": 8
-      },
-      "membersList": [
-        {
-          "nickname": "sdsafx",
-          "guild": "삭제합니다",
-          "class": "주문각인사",
-          "grade": 2,
-          "level": 65,
-          "server": "트렌체 02"
-        },
-        {
-          "nickname": "XXZZXX",
-          "guild": "삭제합니다",
-          "class": "주문각인사",
-          "grade": 1,
-          "level": 65,
-          "server": "트렌체 02"
-        },
-        {
-          "nickname": "ghgfhf",
-          "guild": "삭제합니다",
-          "class": "향사수",
-          "grade": 1,
-          "level": 65,
-          "server": "트렌체 02"
-        },
-        {
-          "nickname": "pouk",
-          "guild": "삭제합니다",
-          "class": "향사수",
-          "grade": 1,
-          "level": 65,
-          "server": "트렌체 02"
-        },
-        {
-          "nickname": "qqzcd",
-          "guild": "삭제합니다",
-          "class": "향사수",
-          "grade": 1,
-          "level": 65,
-          "server": "트렌체 02"
-        },
-        {
-          "nickname": "ttyyuucv",
-          "guild": "삭제합니다",
-          "class": "향사수",
-          "grade": 1,
-          "level": 65,
-          "server": "트렌체 02"
-        },
-        {
-          "nickname": "yyhjj",
-          "guild": "삭제합니다",
-          "class": "환영검사",
-          "grade": 1,
-          "level": 65,
-          "server": "트렌체 02"
-        },
-        {
-          "nickname": "yytqr",
-          "guild": "삭제합니다",
-          "class": "향사수",
-          "grade": 1,
-          "level": 65,
-          "server": "트렌체 02"
-        },
-        {
-          "nickname": "zxaawd",
-          "guild": "삭제합니다",
-          "class": "향사수",
-          "grade": 1,
-          "level": 65,
-          "server": "트렌체 02"
-        }
-      ],
-      "byClassMembers": {
-        "향사수": [
-          {
-            "nickname": "ghgfhf",
-            "guild": "삭제합니다",
-            "class": "향사수",
-            "grade": 1,
-            "level": 65,
-            "server": "트렌체 02"
-          },
-          {
-            "nickname": "pouk",
-            "guild": "삭제합니다",
-            "class": "향사수",
-            "grade": 1,
-            "level": 65,
-            "server": "트렌체 02"
-          },
-          {
-            "nickname": "qqzcd",
-            "guild": "삭제합니다",
-            "class": "향사수",
-            "grade": 1,
-            "level": 65,
-            "server": "트렌체 02"
-          },
-          {
-            "nickname": "ttyyuucv",
-            "guild": "삭제합니다",
-            "class": "향사수",
-            "grade": 1,
-            "level": 65,
-            "server": "트렌체 02"
-          },
-          {
-            "nickname": "yytqr",
-            "guild": "삭제합니다",
-            "class": "향사수",
-            "grade": 1,
-            "level": 65,
-            "server": "트렌체 02"
-          },
-          {
-            "nickname": "zxaawd",
-            "guild": "삭제합니다",
-            "class": "향사수",
-            "grade": 1,
-            "level": 65,
-            "server": "트렌체 02"
-          }
-        ],
-        "환영검사": [
-          {
-            "nickname": "yyhjj",
-            "guild": "삭제합니다",
-            "class": "환영검사",
-            "grade": 1,
-            "level": 65,
-            "server": "트렌체 02"
-          }
-        ],
-        "주문각인사": [
-          {
-            "nickname": "sdsafx",
-            "guild": "삭제합니다",
-            "class": "주문각인사",
-            "grade": 2,
-            "level": 65,
-            "server": "트렌체 02"
-          },
-          {
-            "nickname": "XXZZXX",
-            "guild": "삭제합니다",
-            "class": "주문각인사",
-            "grade": 1,
-            "level": 65,
-            "server": "트렌체 02"
-          }
-        ]
-      },
-      "byGradeMembers": {
-        "1": [
-          {
-            "nickname": "XXZZXX",
-            "guild": "삭제합니다",
-            "class": "주문각인사",
-            "grade": 1,
-            "level": 65,
-            "server": "트렌체 02"
-          },
-          {
-            "nickname": "ghgfhf",
-            "guild": "삭제합니다",
-            "class": "향사수",
-            "grade": 1,
-            "level": 65,
-            "server": "트렌체 02"
-          },
-          {
-            "nickname": "pouk",
-            "guild": "삭제합니다",
-            "class": "향사수",
-            "grade": 1,
-            "level": 65,
-            "server": "트렌체 02"
-          },
-          {
-            "nickname": "qqzcd",
-            "guild": "삭제합니다",
-            "class": "향사수",
-            "grade": 1,
-            "level": 65,
-            "server": "트렌체 02"
-          },
-          {
-            "nickname": "ttyyuucv",
-            "guild": "삭제합니다",
-            "class": "향사수",
-            "grade": 1,
-            "level": 65,
-            "server": "트렌체 02"
-          },
-          {
-            "nickname": "yyhjj",
-            "guild": "삭제합니다",
-            "class": "환영검사",
-            "grade": 1,
-            "level": 65,
-            "server": "트렌체 02"
-          },
-          {
-            "nickname": "yytqr",
-            "guild": "삭제합니다",
-            "class": "향사수",
-            "grade": 1,
-            "level": 65,
-            "server": "트렌체 02"
-          },
-          {
-            "nickname": "zxaawd",
-            "guild": "삭제합니다",
-            "class": "향사수",
-            "grade": 1,
-            "level": 65,
-            "server": "트렌체 02"
-          }
-        ],
-        "2": [
-          {
-            "nickname": "sdsafx",
-            "guild": "삭제합니다",
-            "class": "주문각인사",
-            "grade": 2,
-            "level": 65,
-            "server": "트렌체 02"
-          }
-        ]
-      }
-    },
-    "드드드드드드드드드드": {
+    "qq666": {
       "members": 1,
       "byClass": {
         "집행관": 1
@@ -1411,8 +7579,8 @@
       },
       "membersList": [
         {
-          "nickname": "드드드드드드드드드드",
-          "guild": "드드드드드드드드드드",
+          "nickname": "bbvbbb",
+          "guild": "qq666",
           "class": "집행관",
           "grade": 1,
           "level": 65,
@@ -1422,8 +7590,8 @@
       "byClassMembers": {
         "집행관": [
           {
-            "nickname": "드드드드드드드드드드",
-            "guild": "드드드드드드드드드드",
+            "nickname": "bbvbbb",
+            "guild": "qq666",
             "class": "집행관",
             "grade": 1,
             "level": 65,
@@ -1434,8 +7602,8 @@
       "byGradeMembers": {
         "1": [
           {
-            "nickname": "드드드드드드드드드드",
-            "guild": "드드드드드드드드드드",
+            "nickname": "bbvbbb",
+            "guild": "qq666",
             "class": "집행관",
             "grade": 1,
             "level": 65,
@@ -1444,32 +7612,32 @@
         ]
       }
     },
-    "다마고치": {
+    "에테르": {
       "members": 1,
       "byClass": {
-        "향사수": 1
+        "집행관": 1
       },
       "byGrade": {
         "1": 1
       },
       "membersList": [
         {
-          "nickname": "랑령심마름",
-          "guild": "다마고치",
-          "class": "향사수",
+          "nickname": "린아",
+          "guild": "에테르",
+          "class": "집행관",
           "grade": 1,
-          "level": 65,
+          "level": 63,
           "server": "트렌체 02"
         }
       ],
       "byClassMembers": {
-        "향사수": [
+        "집행관": [
           {
-            "nickname": "랑령심마름",
-            "guild": "다마고치",
-            "class": "향사수",
+            "nickname": "린아",
+            "guild": "에테르",
+            "class": "집행관",
             "grade": 1,
-            "level": 65,
+            "level": 63,
             "server": "트렌체 02"
           }
         ]
@@ -1477,109 +7645,42 @@
       "byGradeMembers": {
         "1": [
           {
-            "nickname": "랑령심마름",
-            "guild": "다마고치",
-            "class": "향사수",
+            "nickname": "린아",
+            "guild": "에테르",
+            "class": "집행관",
             "grade": 1,
-            "level": 65,
+            "level": 63,
             "server": "트렌체 02"
           }
         ]
       }
     },
-    "Bigbad": {
-      "members": 2,
-      "byClass": {
-        "심연추방자": 2
-      },
-      "byGrade": {
-        "1": 2
-      },
-      "membersList": [
-        {
-          "nickname": "사랑비",
-          "guild": "Bigbad",
-          "class": "심연추방자",
-          "grade": 1,
-          "level": 65,
-          "server": "트렌체 02"
-        },
-        {
-          "nickname": "외로운과술",
-          "guild": "Bigbad",
-          "class": "심연추방자",
-          "grade": 1,
-          "level": 65,
-          "server": "트렌체 02"
-        }
-      ],
-      "byClassMembers": {
-        "심연추방자": [
-          {
-            "nickname": "사랑비",
-            "guild": "Bigbad",
-            "class": "심연추방자",
-            "grade": 1,
-            "level": 65,
-            "server": "트렌체 02"
-          },
-          {
-            "nickname": "외로운과술",
-            "guild": "Bigbad",
-            "class": "심연추방자",
-            "grade": 1,
-            "level": 65,
-            "server": "트렌체 02"
-          }
-        ]
-      },
-      "byGradeMembers": {
-        "1": [
-          {
-            "nickname": "사랑비",
-            "guild": "Bigbad",
-            "class": "심연추방자",
-            "grade": 1,
-            "level": 65,
-            "server": "트렌체 02"
-          },
-          {
-            "nickname": "외로운과술",
-            "guild": "Bigbad",
-            "class": "심연추방자",
-            "grade": 1,
-            "level": 65,
-            "server": "트렌체 02"
-          }
-        ]
-      }
-    },
-    "ddd": {
+    "몽이네": {
       "members": 1,
       "byClass": {
-        "향사수": 1
+        "집행관": 1
       },
       "byGrade": {
         "1": 1
       },
       "membersList": [
         {
-          "nickname": "하다만뒷",
-          "guild": "ddd",
-          "class": "향사수",
+          "nickname": "mtgred",
+          "guild": "몽이네",
+          "class": "집행관",
           "grade": 1,
-          "level": 65,
+          "level": 56,
           "server": "트렌체 02"
         }
       ],
       "byClassMembers": {
-        "향사수": [
+        "집행관": [
           {
-            "nickname": "하다만뒷",
-            "guild": "ddd",
-            "class": "향사수",
+            "nickname": "mtgred",
+            "guild": "몽이네",
+            "class": "집행관",
             "grade": 1,
-            "level": 65,
+            "level": 56,
             "server": "트렌체 02"
           }
         ]
@@ -1587,11 +7688,140 @@
       "byGradeMembers": {
         "1": [
           {
-            "nickname": "하다만뒷",
-            "guild": "ddd",
-            "class": "향사수",
+            "nickname": "mtgred",
+            "guild": "몽이네",
+            "class": "집행관",
             "grade": 1,
-            "level": 65,
+            "level": 56,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "강남": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "보다",
+          "guild": "강남",
+          "class": "집행관",
+          "grade": 1,
+          "level": 53,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "보다",
+            "guild": "강남",
+            "class": "집행관",
+            "grade": 1,
+            "level": 53,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "보다",
+            "guild": "강남",
+            "class": "집행관",
+            "grade": 1,
+            "level": 53,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "asn": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "DJweige",
+          "guild": "asn",
+          "class": "집행관",
+          "grade": 1,
+          "level": 51,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "DJweige",
+            "guild": "asn",
+            "class": "집행관",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "DJweige",
+            "guild": "asn",
+            "class": "집행관",
+            "grade": 1,
+            "level": 51,
+            "server": "트렌체 02"
+          }
+        ]
+      }
+    },
+    "spin": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "2": 1
+      },
+      "membersList": [
+        {
+          "nickname": "환묵",
+          "guild": "spin",
+          "class": "집행관",
+          "grade": 2,
+          "level": 49,
+          "server": "트렌체 02"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "환묵",
+            "guild": "spin",
+            "class": "집행관",
+            "grade": 2,
+            "level": 49,
+            "server": "트렌체 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "2": [
+          {
+            "nickname": "환묵",
+            "guild": "spin",
+            "class": "집행관",
+            "grade": 2,
+            "level": 49,
             "server": "트렌체 02"
           }
         ]

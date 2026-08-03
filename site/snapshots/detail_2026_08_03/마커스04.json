@@ -1,14 +1,1848 @@
 {
   "server": "마커스 04",
   "guilds": {
-    "아기고양이": {
-      "members": 22,
+    "안전가옥": {
+      "members": 9,
       "byClass": {
-        "집행관": 7,
-        "환영검사": 5,
-        "향사수": 4,
-        "주문각인사": 4,
-        "태양감시자": 2
+        "심연추방자": 3,
+        "태양감시자": 3,
+        "향사수": 3
+      },
+      "byGrade": {
+        "12": 2,
+        "11": 1,
+        "10": 1,
+        "6": 1,
+        "1": 4
+      },
+      "membersList": [
+        {
+          "nickname": "덱스터",
+          "guild": "안전가옥",
+          "class": "향사수",
+          "grade": 12,
+          "level": 72,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "공명",
+          "guild": "안전가옥",
+          "class": "심연추방자",
+          "grade": 12,
+          "level": 70,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "역전",
+          "guild": "안전가옥",
+          "class": "태양감시자",
+          "grade": 11,
+          "level": 71,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "워니",
+          "guild": "안전가옥",
+          "class": "태양감시자",
+          "grade": 10,
+          "level": 71,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "새우튀김",
+          "guild": "안전가옥",
+          "class": "태양감시자",
+          "grade": 6,
+          "level": 64,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "ghh",
+          "guild": "안전가옥",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "북쪽의",
+          "guild": "안전가옥",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "송도윤",
+          "guild": "안전가옥",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "DDFF",
+          "guild": "안전가옥",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 48,
+          "server": "마커스 04"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "공명",
+            "guild": "안전가옥",
+            "class": "심연추방자",
+            "grade": 12,
+            "level": 70,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "ghh",
+            "guild": "안전가옥",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "DDFF",
+            "guild": "안전가옥",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 48,
+            "server": "마커스 04"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "역전",
+            "guild": "안전가옥",
+            "class": "태양감시자",
+            "grade": 11,
+            "level": 71,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "워니",
+            "guild": "안전가옥",
+            "class": "태양감시자",
+            "grade": 10,
+            "level": 71,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "새우튀김",
+            "guild": "안전가옥",
+            "class": "태양감시자",
+            "grade": 6,
+            "level": 64,
+            "server": "마커스 04"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "덱스터",
+            "guild": "안전가옥",
+            "class": "향사수",
+            "grade": 12,
+            "level": 72,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "북쪽의",
+            "guild": "안전가옥",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "송도윤",
+            "guild": "안전가옥",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "12": [
+          {
+            "nickname": "덱스터",
+            "guild": "안전가옥",
+            "class": "향사수",
+            "grade": 12,
+            "level": 72,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "공명",
+            "guild": "안전가옥",
+            "class": "심연추방자",
+            "grade": 12,
+            "level": 70,
+            "server": "마커스 04"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "ghh",
+            "guild": "안전가옥",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "북쪽의",
+            "guild": "안전가옥",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "송도윤",
+            "guild": "안전가옥",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "DDFF",
+            "guild": "안전가옥",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 48,
+            "server": "마커스 04"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "워니",
+            "guild": "안전가옥",
+            "class": "태양감시자",
+            "grade": 10,
+            "level": 71,
+            "server": "마커스 04"
+          }
+        ],
+        "11": [
+          {
+            "nickname": "역전",
+            "guild": "안전가옥",
+            "class": "태양감시자",
+            "grade": 11,
+            "level": 71,
+            "server": "마커스 04"
+          }
+        ],
+        "6": [
+          {
+            "nickname": "새우튀김",
+            "guild": "안전가옥",
+            "class": "태양감시자",
+            "grade": 6,
+            "level": 64,
+            "server": "마커스 04"
+          }
+        ]
+      }
+    },
+    "중립": {
+      "members": 41,
+      "byClass": {
+        "향사수": 17,
+        "태양감시자": 10,
+        "심연추방자": 9,
+        "환영검사": 2,
+        "집행관": 2,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "18": 1,
+        "15": 1,
+        "13": 1,
+        "11": 1,
+        "6": 2,
+        "4": 2,
+        "3": 2,
+        "2": 1,
+        "1": 30
+      },
+      "membersList": [
+        {
+          "nickname": "샤론",
+          "guild": "중립",
+          "class": "태양감시자",
+          "grade": 18,
+          "level": 80,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "리오",
+          "guild": "중립",
+          "class": "주문각인사",
+          "grade": 15,
+          "level": 78,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "사후",
+          "guild": "중립",
+          "class": "태양감시자",
+          "grade": 13,
+          "level": 79,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "건조",
+          "guild": "중립",
+          "class": "태양감시자",
+          "grade": 11,
+          "level": 71,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "아귀",
+          "guild": "중립",
+          "class": "향사수",
+          "grade": 6,
+          "level": 70,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "연우",
+          "guild": "중립",
+          "class": "향사수",
+          "grade": 6,
+          "level": 70,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "리퍼",
+          "guild": "중립",
+          "class": "향사수",
+          "grade": 4,
+          "level": 70,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "메티스",
+          "guild": "중립",
+          "class": "향사수",
+          "grade": 4,
+          "level": 70,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "더윈",
+          "guild": "중립",
+          "class": "향사수",
+          "grade": 3,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "요염하고",
+          "guild": "중립",
+          "class": "향사수",
+          "grade": 3,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "덱스",
+          "guild": "중립",
+          "class": "집행관",
+          "grade": 2,
+          "level": 73,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "asfdd",
+          "guild": "중립",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 66,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "hgwbd",
+          "guild": "중립",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 66,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "고라파도",
+          "guild": "중립",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 66,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "마이클잭손",
+          "guild": "중립",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 66,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "전지현양",
+          "guild": "중립",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 66,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "허니레인",
+          "guild": "중립",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 66,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "Goop",
+          "guild": "중립",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "Hssd",
+          "guild": "중립",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "Okji",
+          "guild": "중립",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "applekk",
+          "guild": "중립",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "kelas",
+          "guild": "중립",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "가나마",
+          "guild": "중립",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "과일과일과",
+          "guild": "중립",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "귀여운고양이",
+          "guild": "중립",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "그레이프프",
+          "guild": "중립",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "날짜날짜날",
+          "guild": "중립",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "눈송이",
+          "guild": "중립",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "덩굴월귤덩굴",
+          "guild": "중립",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "블루베리타",
+          "guild": "중립",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "블루타르트",
+          "guild": "중립",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "애플애플애",
+          "guild": "중립",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "전혀",
+          "guild": "중립",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "체리모야체리",
+          "guild": "중립",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "커스터드커스터",
+          "guild": "중립",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "파인애플파인",
+          "guild": "중립",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "혼돈의여신",
+          "guild": "중립",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "bananall",
+          "guild": "중립",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 64,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "무덤의감시자",
+          "guild": "중립",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 64,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "펭귄파티",
+          "guild": "중립",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 64,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "duuytio",
+          "guild": "중립",
+          "class": "집행관",
+          "grade": 1,
+          "level": 60,
+          "server": "마커스 04"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "asfdd",
+            "guild": "중립",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 66,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "hgwbd",
+            "guild": "중립",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 66,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "고라파도",
+            "guild": "중립",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 66,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "마이클잭손",
+            "guild": "중립",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 66,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "전지현양",
+            "guild": "중립",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 66,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "허니레인",
+            "guild": "중립",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 66,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "Goop",
+            "guild": "중립",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "Hssd",
+            "guild": "중립",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "kelas",
+            "guild": "중립",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "샤론",
+            "guild": "중립",
+            "class": "태양감시자",
+            "grade": 18,
+            "level": 80,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "사후",
+            "guild": "중립",
+            "class": "태양감시자",
+            "grade": 13,
+            "level": 79,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "건조",
+            "guild": "중립",
+            "class": "태양감시자",
+            "grade": 11,
+            "level": 71,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "applekk",
+            "guild": "중립",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "귀여운고양이",
+            "guild": "중립",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "눈송이",
+            "guild": "중립",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "전혀",
+            "guild": "중립",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "혼돈의여신",
+            "guild": "중립",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "무덤의감시자",
+            "guild": "중립",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 64,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "펭귄파티",
+            "guild": "중립",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 64,
+            "server": "마커스 04"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "Okji",
+            "guild": "중립",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "bananall",
+            "guild": "중립",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 64,
+            "server": "마커스 04"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "아귀",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 6,
+            "level": 70,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "연우",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 6,
+            "level": 70,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "리퍼",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 4,
+            "level": 70,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "메티스",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 4,
+            "level": 70,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "더윈",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 3,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "요염하고",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 3,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "가나마",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "과일과일과",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "그레이프프",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "날짜날짜날",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "덩굴월귤덩굴",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "블루베리타",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "블루타르트",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "애플애플애",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "체리모야체리",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "커스터드커스터",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "파인애플파인",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "리오",
+            "guild": "중립",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 78,
+            "server": "마커스 04"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "덱스",
+            "guild": "중립",
+            "class": "집행관",
+            "grade": 2,
+            "level": 73,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "duuytio",
+            "guild": "중립",
+            "class": "집행관",
+            "grade": 1,
+            "level": 60,
+            "server": "마커스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "asfdd",
+            "guild": "중립",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 66,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "hgwbd",
+            "guild": "중립",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 66,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "고라파도",
+            "guild": "중립",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 66,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "마이클잭손",
+            "guild": "중립",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 66,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "전지현양",
+            "guild": "중립",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 66,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "허니레인",
+            "guild": "중립",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 66,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "Goop",
+            "guild": "중립",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "Hssd",
+            "guild": "중립",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "Okji",
+            "guild": "중립",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "applekk",
+            "guild": "중립",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "kelas",
+            "guild": "중립",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "가나마",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "과일과일과",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "귀여운고양이",
+            "guild": "중립",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "그레이프프",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "날짜날짜날",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "눈송이",
+            "guild": "중립",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "덩굴월귤덩굴",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "블루베리타",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "블루타르트",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "애플애플애",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "전혀",
+            "guild": "중립",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "체리모야체리",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "커스터드커스터",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "파인애플파인",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "혼돈의여신",
+            "guild": "중립",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "bananall",
+            "guild": "중립",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 64,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "무덤의감시자",
+            "guild": "중립",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 64,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "펭귄파티",
+            "guild": "중립",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 64,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "duuytio",
+            "guild": "중립",
+            "class": "집행관",
+            "grade": 1,
+            "level": 60,
+            "server": "마커스 04"
+          }
+        ],
+        "18": [
+          {
+            "nickname": "샤론",
+            "guild": "중립",
+            "class": "태양감시자",
+            "grade": 18,
+            "level": 80,
+            "server": "마커스 04"
+          }
+        ],
+        "13": [
+          {
+            "nickname": "사후",
+            "guild": "중립",
+            "class": "태양감시자",
+            "grade": 13,
+            "level": 79,
+            "server": "마커스 04"
+          }
+        ],
+        "11": [
+          {
+            "nickname": "건조",
+            "guild": "중립",
+            "class": "태양감시자",
+            "grade": 11,
+            "level": 71,
+            "server": "마커스 04"
+          }
+        ],
+        "6": [
+          {
+            "nickname": "아귀",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 6,
+            "level": 70,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "연우",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 6,
+            "level": 70,
+            "server": "마커스 04"
+          }
+        ],
+        "4": [
+          {
+            "nickname": "리퍼",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 4,
+            "level": 70,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "메티스",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 4,
+            "level": 70,
+            "server": "마커스 04"
+          }
+        ],
+        "3": [
+          {
+            "nickname": "더윈",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 3,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "요염하고",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 3,
+            "level": 65,
+            "server": "마커스 04"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "리오",
+            "guild": "중립",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 78,
+            "server": "마커스 04"
+          }
+        ],
+        "2": [
+          {
+            "nickname": "덱스",
+            "guild": "중립",
+            "class": "집행관",
+            "grade": 2,
+            "level": 73,
+            "server": "마커스 04"
+          }
+        ]
+      }
+    },
+    "뿡뿡": {
+      "members": 21,
+      "byClass": {
+        "환영검사": 15,
+        "심연추방자": 3,
+        "주문각인사": 2,
+        "향사수": 1
+      },
+      "byGrade": {
+        "16": 1,
+        "15": 1,
+        "1": 19
+      },
+      "membersList": [
+        {
+          "nickname": "방구뿡",
+          "guild": "뿡뿡",
+          "class": "주문각인사",
+          "grade": 16,
+          "level": 79,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "똥내뿡뿡",
+          "guild": "뿡뿡",
+          "class": "주문각인사",
+          "grade": 15,
+          "level": 80,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "냄시뿡",
+          "guild": "뿡뿡",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 66,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "듬뿡듬뿡",
+          "guild": "뿡뿡",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 66,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "뿌직뿡",
+          "guild": "뿡뿡",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 66,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "사뿡사뿡",
+          "guild": "뿡뿡",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 66,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "순뿡순뿡",
+          "guild": "뿡뿡",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 66,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "장뿡",
+          "guild": "뿡뿡",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 66,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "짬뿡",
+          "guild": "뿡뿡",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 66,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "쭉쭉뿡뿡",
+          "guild": "뿡뿡",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 66,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "망구뿡",
+          "guild": "뿡뿡",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "폭뿡",
+          "guild": "뿡뿡",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "이쭉",
+          "guild": "뿡뿡",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 62,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "일뿌직",
+          "guild": "뿡뿡",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 62,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "이냄시",
+          "guild": "뿡뿡",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 61,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "일냄시",
+          "guild": "뿡뿡",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 61,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "일망구",
+          "guild": "뿡뿡",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 61,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "일쭉",
+          "guild": "뿡뿡",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 61,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "이망구",
+          "guild": "뿡뿡",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 60,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "일순뿡",
+          "guild": "뿡뿡",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 60,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "일짬",
+          "guild": "뿡뿡",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 60,
+          "server": "마커스 04"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "듬뿡듬뿡",
+            "guild": "뿡뿡",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 66,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "사뿡사뿡",
+            "guild": "뿡뿡",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 66,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "장뿡",
+            "guild": "뿡뿡",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 66,
+            "server": "마커스 04"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "냄시뿡",
+            "guild": "뿡뿡",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 66,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "뿌직뿡",
+            "guild": "뿡뿡",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 66,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "순뿡순뿡",
+            "guild": "뿡뿡",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 66,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "짬뿡",
+            "guild": "뿡뿡",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 66,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "쭉쭉뿡뿡",
+            "guild": "뿡뿡",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 66,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "망구뿡",
+            "guild": "뿡뿡",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "이쭉",
+            "guild": "뿡뿡",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 62,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "일뿌직",
+            "guild": "뿡뿡",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 62,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "이냄시",
+            "guild": "뿡뿡",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 61,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "일냄시",
+            "guild": "뿡뿡",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 61,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "일망구",
+            "guild": "뿡뿡",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 61,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "일쭉",
+            "guild": "뿡뿡",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 61,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "이망구",
+            "guild": "뿡뿡",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 60,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "일순뿡",
+            "guild": "뿡뿡",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 60,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "일짬",
+            "guild": "뿡뿡",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 60,
+            "server": "마커스 04"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "폭뿡",
+            "guild": "뿡뿡",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "방구뿡",
+            "guild": "뿡뿡",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 79,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "똥내뿡뿡",
+            "guild": "뿡뿡",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 80,
+            "server": "마커스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "냄시뿡",
+            "guild": "뿡뿡",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 66,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "듬뿡듬뿡",
+            "guild": "뿡뿡",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 66,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "뿌직뿡",
+            "guild": "뿡뿡",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 66,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "사뿡사뿡",
+            "guild": "뿡뿡",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 66,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "순뿡순뿡",
+            "guild": "뿡뿡",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 66,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "장뿡",
+            "guild": "뿡뿡",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 66,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "짬뿡",
+            "guild": "뿡뿡",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 66,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "쭉쭉뿡뿡",
+            "guild": "뿡뿡",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 66,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "망구뿡",
+            "guild": "뿡뿡",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "폭뿡",
+            "guild": "뿡뿡",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "이쭉",
+            "guild": "뿡뿡",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 62,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "일뿌직",
+            "guild": "뿡뿡",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 62,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "이냄시",
+            "guild": "뿡뿡",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 61,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "일냄시",
+            "guild": "뿡뿡",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 61,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "일망구",
+            "guild": "뿡뿡",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 61,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "일쭉",
+            "guild": "뿡뿡",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 61,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "이망구",
+            "guild": "뿡뿡",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 60,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "일순뿡",
+            "guild": "뿡뿡",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 60,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "일짬",
+            "guild": "뿡뿡",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 60,
+            "server": "마커스 04"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "똥내뿡뿡",
+            "guild": "뿡뿡",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 80,
+            "server": "마커스 04"
+          }
+        ],
+        "16": [
+          {
+            "nickname": "방구뿡",
+            "guild": "뿡뿡",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 79,
+            "server": "마커스 04"
+          }
+        ]
+      }
+    },
+    "아기고양이": {
+      "members": 38,
+      "byClass": {
+        "집행관": 12,
+        "환영검사": 8,
+        "향사수": 7,
+        "주문각인사": 6,
+        "태양감시자": 4,
+        "심연추방자": 1
       },
       "byGrade": {
         "23": 1,
@@ -18,9 +1852,14 @@
         "18": 1,
         "17": 4,
         "16": 3,
-        "15": 2,
-        "14": 2,
-        "11": 1
+        "15": 6,
+        "14": 4,
+        "12": 3,
+        "11": 2,
+        "10": 1,
+        "9": 1,
+        "8": 1,
+        "1": 3
       },
       "membersList": [
         {
@@ -176,6 +2015,38 @@
           "server": "마커스 04"
         },
         {
+          "nickname": "필라이트",
+          "guild": "아기고양이",
+          "class": "주문각인사",
+          "grade": 15,
+          "level": 70,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "소맥",
+          "guild": "아기고양이",
+          "class": "집행관",
+          "grade": 15,
+          "level": 68,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "켈리",
+          "guild": "아기고양이",
+          "class": "주문각인사",
+          "grade": 15,
+          "level": 68,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "한잔",
+          "guild": "아기고양이",
+          "class": "집행관",
+          "grade": 15,
+          "level": 67,
+          "server": "마커스 04"
+        },
+        {
           "nickname": "양파쿵야",
           "guild": "아기고양이",
           "class": "향사수",
@@ -192,15 +2063,329 @@
           "server": "마커스 04"
         },
         {
+          "nickname": "노바네오원",
+          "guild": "아기고양이",
+          "class": "향사수",
+          "grade": 14,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "노바네오투",
+          "guild": "아기고양이",
+          "class": "태양감시자",
+          "grade": 14,
+          "level": 64,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "짜파게티",
+          "guild": "아기고양이",
+          "class": "태양감시자",
+          "grade": 12,
+          "level": 67,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "두부사",
+          "guild": "아기고양이",
+          "class": "집행관",
+          "grade": 12,
+          "level": 66,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "두부오",
+          "guild": "아기고양이",
+          "class": "환영검사",
+          "grade": 12,
+          "level": 63,
+          "server": "마커스 04"
+        },
+        {
           "nickname": "아기곰",
           "guild": "아기고양이",
           "class": "향사수",
           "grade": 11,
           "level": 72,
           "server": "마커스 04"
+        },
+        {
+          "nickname": "공주알밤",
+          "guild": "아기고양이",
+          "class": "환영검사",
+          "grade": 11,
+          "level": 62,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "두부육",
+          "guild": "아기고양이",
+          "class": "집행관",
+          "grade": 10,
+          "level": 55,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "두둥",
+          "guild": "아기고양이",
+          "class": "환영검사",
+          "grade": 9,
+          "level": 61,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "땡눈",
+          "guild": "아기고양이",
+          "class": "집행관",
+          "grade": 8,
+          "level": 68,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "hgwcnm",
+          "guild": "아기고양이",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 66,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "까부리준배",
+          "guild": "아기고양이",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "비타민십",
+          "guild": "아기고양이",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
         }
       ],
       "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "hgwcnm",
+            "guild": "아기고양이",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 66,
+            "server": "마커스 04"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "화룡",
+            "guild": "아기고양이",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 85,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "노바네오",
+            "guild": "아기고양이",
+            "class": "태양감시자",
+            "grade": 17,
+            "level": 82,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "노바네오투",
+            "guild": "아기고양이",
+            "class": "태양감시자",
+            "grade": 14,
+            "level": 64,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "짜파게티",
+            "guild": "아기고양이",
+            "class": "태양감시자",
+            "grade": 12,
+            "level": 67,
+            "server": "마커스 04"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "별빛소나타",
+            "guild": "아기고양이",
+            "class": "환영검사",
+            "grade": 21,
+            "level": 86,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "두뿌",
+            "guild": "아기고양이",
+            "class": "환영검사",
+            "grade": 19,
+            "level": 83,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "KunGen",
+            "guild": "아기고양이",
+            "class": "환영검사",
+            "grade": 17,
+            "level": 82,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "달빛로비스트",
+            "guild": "아기고양이",
+            "class": "환영검사",
+            "grade": 17,
+            "level": 72,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "달빛소나타",
+            "guild": "아기고양이",
+            "class": "환영검사",
+            "grade": 15,
+            "level": 71,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "두부오",
+            "guild": "아기고양이",
+            "class": "환영검사",
+            "grade": 12,
+            "level": 63,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "공주알밤",
+            "guild": "아기고양이",
+            "class": "환영검사",
+            "grade": 11,
+            "level": 62,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "두둥",
+            "guild": "아기고양이",
+            "class": "환영검사",
+            "grade": 9,
+            "level": 61,
+            "server": "마커스 04"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "쥐띠",
+            "guild": "아기고양이",
+            "class": "향사수",
+            "grade": 21,
+            "level": 86,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "귤외삼촌",
+            "guild": "아기고양이",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "양파쿵야",
+            "guild": "아기고양이",
+            "class": "향사수",
+            "grade": 14,
+            "level": 76,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "노바네오원",
+            "guild": "아기고양이",
+            "class": "향사수",
+            "grade": 14,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "아기곰",
+            "guild": "아기고양이",
+            "class": "향사수",
+            "grade": 11,
+            "level": 72,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "까부리준배",
+            "guild": "아기고양이",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "비타민십",
+            "guild": "아기고양이",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "한치",
+            "guild": "아기고양이",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "오동",
+            "guild": "아기고양이",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 81,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "코젤",
+            "guild": "아기고양이",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 79,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "필라이트",
+            "guild": "아기고양이",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 70,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "켈리",
+            "guild": "아기고양이",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 68,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "토깽이",
+            "guild": "아기고양이",
+            "class": "주문각인사",
+            "grade": 14,
+            "level": 71,
+            "server": "마커스 04"
+          }
+        ],
         "집행관": [
           {
             "nickname": "행복",
@@ -257,163 +2442,73 @@
             "grade": 15,
             "level": 79,
             "server": "마커스 04"
-          }
-        ],
-        "환영검사": [
-          {
-            "nickname": "별빛소나타",
-            "guild": "아기고양이",
-            "class": "환영검사",
-            "grade": 21,
-            "level": 86,
-            "server": "마커스 04"
           },
           {
-            "nickname": "두뿌",
+            "nickname": "소맥",
             "guild": "아기고양이",
-            "class": "환영검사",
-            "grade": 19,
-            "level": 83,
-            "server": "마커스 04"
-          },
-          {
-            "nickname": "KunGen",
-            "guild": "아기고양이",
-            "class": "환영검사",
-            "grade": 17,
-            "level": 82,
-            "server": "마커스 04"
-          },
-          {
-            "nickname": "달빛로비스트",
-            "guild": "아기고양이",
-            "class": "환영검사",
-            "grade": 17,
-            "level": 72,
-            "server": "마커스 04"
-          },
-          {
-            "nickname": "달빛소나타",
-            "guild": "아기고양이",
-            "class": "환영검사",
+            "class": "집행관",
             "grade": 15,
-            "level": 71,
-            "server": "마커스 04"
-          }
-        ],
-        "향사수": [
-          {
-            "nickname": "쥐띠",
-            "guild": "아기고양이",
-            "class": "향사수",
-            "grade": 21,
-            "level": 86,
+            "level": 68,
             "server": "마커스 04"
           },
           {
-            "nickname": "귤외삼촌",
+            "nickname": "한잔",
             "guild": "아기고양이",
-            "class": "향사수",
-            "grade": 20,
-            "level": 85,
+            "class": "집행관",
+            "grade": 15,
+            "level": 67,
             "server": "마커스 04"
           },
           {
-            "nickname": "양파쿵야",
+            "nickname": "두부사",
             "guild": "아기고양이",
-            "class": "향사수",
-            "grade": 14,
-            "level": 76,
+            "class": "집행관",
+            "grade": 12,
+            "level": 66,
             "server": "마커스 04"
           },
           {
-            "nickname": "아기곰",
+            "nickname": "두부육",
             "guild": "아기고양이",
-            "class": "향사수",
-            "grade": 11,
-            "level": 72,
-            "server": "마커스 04"
-          }
-        ],
-        "태양감시자": [
-          {
-            "nickname": "화룡",
-            "guild": "아기고양이",
-            "class": "태양감시자",
-            "grade": 20,
-            "level": 85,
+            "class": "집행관",
+            "grade": 10,
+            "level": 55,
             "server": "마커스 04"
           },
           {
-            "nickname": "노바네오",
+            "nickname": "땡눈",
             "guild": "아기고양이",
-            "class": "태양감시자",
-            "grade": 17,
-            "level": 82,
-            "server": "마커스 04"
-          }
-        ],
-        "주문각인사": [
-          {
-            "nickname": "한치",
-            "guild": "아기고양이",
-            "class": "주문각인사",
-            "grade": 20,
-            "level": 84,
-            "server": "마커스 04"
-          },
-          {
-            "nickname": "오동",
-            "guild": "아기고양이",
-            "class": "주문각인사",
-            "grade": 16,
-            "level": 81,
-            "server": "마커스 04"
-          },
-          {
-            "nickname": "코젤",
-            "guild": "아기고양이",
-            "class": "주문각인사",
-            "grade": 16,
-            "level": 79,
-            "server": "마커스 04"
-          },
-          {
-            "nickname": "토깽이",
-            "guild": "아기고양이",
-            "class": "주문각인사",
-            "grade": 14,
-            "level": 71,
+            "class": "집행관",
+            "grade": 8,
+            "level": 68,
             "server": "마커스 04"
           }
         ]
       },
       "byGradeMembers": {
-        "23": [
+        "1": [
           {
-            "nickname": "행복",
+            "nickname": "hgwcnm",
             "guild": "아기고양이",
-            "class": "집행관",
-            "grade": 23,
-            "level": 88,
-            "server": "마커스 04"
-          }
-        ],
-        "21": [
-          {
-            "nickname": "별빛소나타",
-            "guild": "아기고양이",
-            "class": "환영검사",
-            "grade": 21,
-            "level": 86,
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 66,
             "server": "마커스 04"
           },
           {
-            "nickname": "쥐띠",
+            "nickname": "까부리준배",
             "guild": "아기고양이",
             "class": "향사수",
-            "grade": 21,
-            "level": 86,
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "비타민십",
+            "guild": "아기고양이",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
             "server": "마커스 04"
           }
         ],
@@ -459,16 +2554,6 @@
             "server": "마커스 04"
           }
         ],
-        "19": [
-          {
-            "nickname": "두뿌",
-            "guild": "아기고양이",
-            "class": "환영검사",
-            "grade": 19,
-            "level": 83,
-            "server": "마커스 04"
-          }
-        ],
         "17": [
           {
             "nickname": "KunGen",
@@ -503,13 +2588,169 @@
             "server": "마커스 04"
           }
         ],
-        "18": [
+        "12": [
           {
-            "nickname": "빨리",
+            "nickname": "짜파게티",
+            "guild": "아기고양이",
+            "class": "태양감시자",
+            "grade": 12,
+            "level": 67,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "두부사",
             "guild": "아기고양이",
             "class": "집행관",
-            "grade": 18,
-            "level": 81,
+            "grade": 12,
+            "level": 66,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "두부오",
+            "guild": "아기고양이",
+            "class": "환영검사",
+            "grade": 12,
+            "level": 63,
+            "server": "마커스 04"
+          }
+        ],
+        "14": [
+          {
+            "nickname": "양파쿵야",
+            "guild": "아기고양이",
+            "class": "향사수",
+            "grade": 14,
+            "level": 76,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "토깽이",
+            "guild": "아기고양이",
+            "class": "주문각인사",
+            "grade": 14,
+            "level": 71,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "노바네오원",
+            "guild": "아기고양이",
+            "class": "향사수",
+            "grade": 14,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "노바네오투",
+            "guild": "아기고양이",
+            "class": "태양감시자",
+            "grade": 14,
+            "level": 64,
+            "server": "마커스 04"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "별빛소나타",
+            "guild": "아기고양이",
+            "class": "환영검사",
+            "grade": 21,
+            "level": 86,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "쥐띠",
+            "guild": "아기고양이",
+            "class": "향사수",
+            "grade": 21,
+            "level": 86,
+            "server": "마커스 04"
+          }
+        ],
+        "19": [
+          {
+            "nickname": "두뿌",
+            "guild": "아기고양이",
+            "class": "환영검사",
+            "grade": 19,
+            "level": 83,
+            "server": "마커스 04"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "마기라스",
+            "guild": "아기고양이",
+            "class": "집행관",
+            "grade": 15,
+            "level": 79,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "달빛소나타",
+            "guild": "아기고양이",
+            "class": "환영검사",
+            "grade": 15,
+            "level": 71,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "필라이트",
+            "guild": "아기고양이",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 70,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "소맥",
+            "guild": "아기고양이",
+            "class": "집행관",
+            "grade": 15,
+            "level": 68,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "켈리",
+            "guild": "아기고양이",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 68,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "한잔",
+            "guild": "아기고양이",
+            "class": "집행관",
+            "grade": 15,
+            "level": 67,
+            "server": "마커스 04"
+          }
+        ],
+        "11": [
+          {
+            "nickname": "아기곰",
+            "guild": "아기고양이",
+            "class": "향사수",
+            "grade": 11,
+            "level": 72,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "공주알밤",
+            "guild": "아기고양이",
+            "class": "환영검사",
+            "grade": 11,
+            "level": 62,
+            "server": "마커스 04"
+          }
+        ],
+        "9": [
+          {
+            "nickname": "두둥",
+            "guild": "아기고양이",
+            "class": "환영검사",
+            "grade": 9,
+            "level": 61,
             "server": "마커스 04"
           }
         ],
@@ -539,63 +2780,109 @@
             "server": "마커스 04"
           }
         ],
-        "15": [
+        "23": [
           {
-            "nickname": "마기라스",
+            "nickname": "행복",
             "guild": "아기고양이",
             "class": "집행관",
-            "grade": 15,
-            "level": 79,
-            "server": "마커스 04"
-          },
-          {
-            "nickname": "달빛소나타",
-            "guild": "아기고양이",
-            "class": "환영검사",
-            "grade": 15,
-            "level": 71,
+            "grade": 23,
+            "level": 88,
             "server": "마커스 04"
           }
         ],
-        "14": [
+        "18": [
           {
-            "nickname": "양파쿵야",
+            "nickname": "빨리",
             "guild": "아기고양이",
-            "class": "향사수",
-            "grade": 14,
-            "level": 76,
-            "server": "마커스 04"
-          },
-          {
-            "nickname": "토깽이",
-            "guild": "아기고양이",
-            "class": "주문각인사",
-            "grade": 14,
-            "level": 71,
+            "class": "집행관",
+            "grade": 18,
+            "level": 81,
             "server": "마커스 04"
           }
         ],
-        "11": [
+        "8": [
           {
-            "nickname": "아기곰",
+            "nickname": "땡눈",
             "guild": "아기고양이",
-            "class": "향사수",
-            "grade": 11,
-            "level": 72,
+            "class": "집행관",
+            "grade": 8,
+            "level": 68,
+            "server": "마커스 04"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "두부육",
+            "guild": "아기고양이",
+            "class": "집행관",
+            "grade": 10,
+            "level": 55,
+            "server": "마커스 04"
+          }
+        ]
+      }
+    },
+    "석": {
+      "members": 1,
+      "byClass": {
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "이리와",
+          "guild": "석",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "이리와",
+            "guild": "석",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "이리와",
+            "guild": "석",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
             "server": "마커스 04"
           }
         ]
       }
     },
     "블랑": {
-      "members": 2,
+      "members": 10,
       "byClass": {
+        "주문각인사": 5,
+        "심연추방자": 1,
+        "태양감시자": 1,
+        "환영검사": 1,
         "향사수": 1,
-        "주문각인사": 1
+        "집행관": 1
       },
       "byGrade": {
         "19": 1,
-        "3": 1
+        "16": 1,
+        "10": 1,
+        "7": 1,
+        "6": 1,
+        "3": 1,
+        "1": 4
       },
       "membersList": [
         {
@@ -607,15 +2894,109 @@
           "server": "마커스 04"
         },
         {
+          "nickname": "키미",
+          "guild": "블랑",
+          "class": "태양감시자",
+          "grade": 16,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "BHJG",
+          "guild": "블랑",
+          "class": "환영검사",
+          "grade": 10,
+          "level": 67,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "명찬",
+          "guild": "블랑",
+          "class": "주문각인사",
+          "grade": 7,
+          "level": 69,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "이유",
+          "guild": "블랑",
+          "class": "주문각인사",
+          "grade": 6,
+          "level": 66,
+          "server": "마커스 04"
+        },
+        {
           "nickname": "스탠다드",
           "guild": "블랑",
           "class": "주문각인사",
           "grade": 3,
           "level": 72,
           "server": "마커스 04"
+        },
+        {
+          "nickname": "YYDS",
+          "guild": "블랑",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "리둠",
+          "guild": "블랑",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "리카르리",
+          "guild": "블랑",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 63,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "크룬",
+          "guild": "블랑",
+          "class": "집행관",
+          "grade": 1,
+          "level": 60,
+          "server": "마커스 04"
         }
       ],
       "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "리둠",
+            "guild": "블랑",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "키미",
+            "guild": "블랑",
+            "class": "태양감시자",
+            "grade": 16,
+            "level": 65,
+            "server": "마커스 04"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "BHJG",
+            "guild": "블랑",
+            "class": "환영검사",
+            "grade": 10,
+            "level": 67,
+            "server": "마커스 04"
+          }
+        ],
         "향사수": [
           {
             "nickname": "유즈",
@@ -628,16 +3009,112 @@
         ],
         "주문각인사": [
           {
+            "nickname": "명찬",
+            "guild": "블랑",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 69,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "이유",
+            "guild": "블랑",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 66,
+            "server": "마커스 04"
+          },
+          {
             "nickname": "스탠다드",
             "guild": "블랑",
             "class": "주문각인사",
             "grade": 3,
             "level": 72,
             "server": "마커스 04"
+          },
+          {
+            "nickname": "YYDS",
+            "guild": "블랑",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "리카르리",
+            "guild": "블랑",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 63,
+            "server": "마커스 04"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "크룬",
+            "guild": "블랑",
+            "class": "집행관",
+            "grade": 1,
+            "level": 60,
+            "server": "마커스 04"
           }
         ]
       },
       "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "YYDS",
+            "guild": "블랑",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "리둠",
+            "guild": "블랑",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "리카르리",
+            "guild": "블랑",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 63,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "크룬",
+            "guild": "블랑",
+            "class": "집행관",
+            "grade": 1,
+            "level": 60,
+            "server": "마커스 04"
+          }
+        ],
+        "16": [
+          {
+            "nickname": "키미",
+            "guild": "블랑",
+            "class": "태양감시자",
+            "grade": 16,
+            "level": 65,
+            "server": "마커스 04"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "BHJG",
+            "guild": "블랑",
+            "class": "환영검사",
+            "grade": 10,
+            "level": 67,
+            "server": "마커스 04"
+          }
+        ],
         "19": [
           {
             "nickname": "유즈",
@@ -657,64 +3134,621 @@
             "level": 72,
             "server": "마커스 04"
           }
+        ],
+        "7": [
+          {
+            "nickname": "명찬",
+            "guild": "블랑",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 69,
+            "server": "마커스 04"
+          }
+        ],
+        "6": [
+          {
+            "nickname": "이유",
+            "guild": "블랑",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 66,
+            "server": "마커스 04"
+          }
         ]
       }
     },
-    "그대": {
-      "members": 1,
+    "최강": {
+      "members": 21,
       "byClass": {
-        "향사수": 1
+        "환영검사": 18,
+        "주문각인사": 2,
+        "심연추방자": 1
       },
       "byGrade": {
-        "17": 1
+        "10": 2,
+        "9": 1,
+        "1": 18
       },
       "membersList": [
         {
-          "nickname": "웃어요",
-          "guild": "그대",
-          "class": "향사수",
-          "grade": 17,
-          "level": 82,
+          "nickname": "아기공룡둘리",
+          "guild": "최강",
+          "class": "환영검사",
+          "grade": 10,
+          "level": 72,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "레이디루미",
+          "guild": "최강",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 69,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "희동",
+          "guild": "최강",
+          "class": "환영검사",
+          "grade": 9,
+          "level": 70,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "꿀벌",
+          "guild": "최강",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "나빙",
+          "guild": "최강",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "말벌",
+          "guild": "최강",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "장수말벌",
+          "guild": "최강",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "최악",
+          "guild": "최강",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "호박벌",
+          "guild": "최강",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "고파",
+          "guild": "최강",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 64,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "꽃소금",
+          "guild": "최강",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 64,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "다잉",
+          "guild": "최강",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 64,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "육아",
+          "guild": "최강",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 64,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "천도복숭아",
+          "guild": "최강",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 64,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "핑크퐁",
+          "guild": "최강",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 64,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "파당",
+          "guild": "최강",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 62,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "전남",
+          "guild": "최강",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 60,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "단백질",
+          "guild": "최강",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 59,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "연어롤",
+          "guild": "최강",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 59,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "점심",
+          "guild": "최강",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 59,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "파닥",
+          "guild": "최강",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 59,
           "server": "마커스 04"
         }
       ],
       "byClassMembers": {
-        "향사수": [
+        "심연추방자": [
           {
-            "nickname": "웃어요",
-            "guild": "그대",
-            "class": "향사수",
-            "grade": 17,
-            "level": 82,
+            "nickname": "최악",
+            "guild": "최강",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "아기공룡둘리",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 10,
+            "level": 72,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "희동",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 9,
+            "level": 70,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "꿀벌",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "나빙",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "말벌",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "장수말벌",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "호박벌",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "고파",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 64,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "꽃소금",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 64,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "다잉",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 64,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "육아",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 64,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "핑크퐁",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 64,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "파당",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 62,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "전남",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 60,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "단백질",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 59,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "연어롤",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 59,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "점심",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 59,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "파닥",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 59,
+            "server": "마커스 04"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "레이디루미",
+            "guild": "최강",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 69,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "천도복숭아",
+            "guild": "최강",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 64,
             "server": "마커스 04"
           }
         ]
       },
       "byGradeMembers": {
-        "17": [
+        "1": [
           {
-            "nickname": "웃어요",
-            "guild": "그대",
-            "class": "향사수",
-            "grade": 17,
-            "level": 82,
+            "nickname": "꿀벌",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "나빙",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "말벌",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "장수말벌",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "최악",
+            "guild": "최강",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "호박벌",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "고파",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 64,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "꽃소금",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 64,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "다잉",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 64,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "육아",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 64,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "천도복숭아",
+            "guild": "최강",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 64,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "핑크퐁",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 64,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "파당",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 62,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "전남",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 60,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "단백질",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 59,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "연어롤",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 59,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "점심",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 59,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "파닥",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 59,
+            "server": "마커스 04"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "아기공룡둘리",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 10,
+            "level": 72,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "레이디루미",
+            "guild": "최강",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 69,
+            "server": "마커스 04"
+          }
+        ],
+        "9": [
+          {
+            "nickname": "희동",
+            "guild": "최강",
+            "class": "환영검사",
+            "grade": 9,
+            "level": 70,
+            "server": "마커스 04"
+          }
+        ]
+      }
+    },
+    "토끼냥": {
+      "members": 1,
+      "byClass": {
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "15": 1
+      },
+      "membersList": [
+        {
+          "nickname": "이하늬",
+          "guild": "토끼냥",
+          "class": "심연추방자",
+          "grade": 15,
+          "level": 64,
+          "server": "마커스 04"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "이하늬",
+            "guild": "토끼냥",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 64,
+            "server": "마커스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "15": [
+          {
+            "nickname": "이하늬",
+            "guild": "토끼냥",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 64,
             "server": "마커스 04"
           }
         ]
       }
     },
     "우탄아당낙아": {
-      "members": 5,
+      "members": 9,
       "byClass": {
+        "태양감시자": 3,
         "향사수": 3,
-        "태양감시자": 1,
-        "집행관": 1
+        "집행관": 2,
+        "심연추방자": 1
       },
       "byGrade": {
         "17": 1,
         "16": 1,
         "14": 2,
-        "10": 1
+        "10": 3,
+        "1": 2
       },
       "membersList": [
         {
@@ -756,9 +3790,51 @@
           "grade": 10,
           "level": 71,
           "server": "마커스 04"
+        },
+        {
+          "nickname": "당낙삼",
+          "guild": "우탄아당낙아",
+          "class": "집행관",
+          "grade": 10,
+          "level": 62,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "당낙륙",
+          "guild": "우탄아당낙아",
+          "class": "심연추방자",
+          "grade": 10,
+          "level": 60,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "용병막내",
+          "guild": "우탄아당낙아",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "용병진",
+          "guild": "우탄아당낙아",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
         }
       ],
       "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "당낙륙",
+            "guild": "우탄아당낙아",
+            "class": "심연추방자",
+            "grade": 10,
+            "level": 60,
+            "server": "마커스 04"
+          }
+        ],
         "태양감시자": [
           {
             "nickname": "당낙이",
@@ -767,15 +3843,21 @@
             "grade": 17,
             "level": 82,
             "server": "마커스 04"
-          }
-        ],
-        "집행관": [
+          },
           {
-            "nickname": "우탄이",
+            "nickname": "용병막내",
             "guild": "우탄아당낙아",
-            "class": "집행관",
-            "grade": 16,
-            "level": 81,
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "용병진",
+            "guild": "우탄아당낙아",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 65,
             "server": "마커스 04"
           }
         ],
@@ -804,9 +3886,53 @@
             "level": 71,
             "server": "마커스 04"
           }
+        ],
+        "집행관": [
+          {
+            "nickname": "우탄이",
+            "guild": "우탄아당낙아",
+            "class": "집행관",
+            "grade": 16,
+            "level": 81,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "당낙삼",
+            "guild": "우탄아당낙아",
+            "class": "집행관",
+            "grade": 10,
+            "level": 62,
+            "server": "마커스 04"
+          }
         ]
       },
       "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "거울이",
+            "guild": "우탄아당낙아",
+            "class": "향사수",
+            "grade": 10,
+            "level": 71,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "당낙삼",
+            "guild": "우탄아당낙아",
+            "class": "집행관",
+            "grade": 10,
+            "level": 62,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "당낙륙",
+            "guild": "우탄아당낙아",
+            "class": "심연추방자",
+            "grade": 10,
+            "level": 60,
+            "server": "마커스 04"
+          }
+        ],
         "17": [
           {
             "nickname": "당낙이",
@@ -817,13 +3943,21 @@
             "server": "마커스 04"
           }
         ],
-        "16": [
+        "1": [
           {
-            "nickname": "우탄이",
+            "nickname": "용병막내",
             "guild": "우탄아당낙아",
-            "class": "집행관",
-            "grade": 16,
-            "level": 81,
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "용병진",
+            "guild": "우탄아당낙아",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 65,
             "server": "마커스 04"
           }
         ],
@@ -845,27 +3979,74 @@
             "server": "마커스 04"
           }
         ],
-        "10": [
+        "16": [
           {
-            "nickname": "거울이",
+            "nickname": "우탄이",
             "guild": "우탄아당낙아",
-            "class": "향사수",
-            "grade": 10,
-            "level": 71,
+            "class": "집행관",
+            "grade": 16,
+            "level": 81,
+            "server": "마커스 04"
+          }
+        ]
+      }
+    },
+    "눈떠보니": {
+      "members": 1,
+      "byClass": {
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "눈떠보니형부",
+          "guild": "눈떠보니",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 50,
+          "server": "마커스 04"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "눈떠보니형부",
+            "guild": "눈떠보니",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 50,
+            "server": "마커스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "눈떠보니형부",
+            "guild": "눈떠보니",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 50,
             "server": "마커스 04"
           }
         ]
       }
     },
     "blue": {
-      "members": 2,
+      "members": 12,
       "byClass": {
-        "주문각인사": 1,
-        "태양감시자": 1
+        "태양감시자": 6,
+        "주문각인사": 3,
+        "환영검사": 2,
+        "향사수": 1
       },
       "byGrade": {
         "16": 1,
-        "14": 1
+        "14": 1,
+        "7": 1,
+        "1": 9
       },
       "membersList": [
         {
@@ -883,19 +4064,89 @@
           "grade": 14,
           "level": 78,
           "server": "마커스 04"
+        },
+        {
+          "nickname": "아프리카",
+          "guild": "blue",
+          "class": "향사수",
+          "grade": 7,
+          "level": 70,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "bfgf",
+          "guild": "blue",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "ffaa",
+          "guild": "blue",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "gfdhz",
+          "guild": "blue",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "lffd",
+          "guild": "blue",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "mg",
+          "guild": "blue",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "oogfc",
+          "guild": "blue",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "vcxn",
+          "guild": "blue",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "gz",
+          "guild": "blue",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 64,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "yuy",
+          "guild": "blue",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 64,
+          "server": "마커스 04"
         }
       ],
       "byClassMembers": {
-        "주문각인사": [
-          {
-            "nickname": "HUG",
-            "guild": "blue",
-            "class": "주문각인사",
-            "grade": 16,
-            "level": 81,
-            "server": "마커스 04"
-          }
-        ],
         "태양감시자": [
           {
             "nickname": "우디대디",
@@ -904,11 +4155,77 @@
             "grade": 14,
             "level": 78,
             "server": "마커스 04"
+          },
+          {
+            "nickname": "ffaa",
+            "guild": "blue",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "lffd",
+            "guild": "blue",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "mg",
+            "guild": "blue",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "oogfc",
+            "guild": "blue",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "yuy",
+            "guild": "blue",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 64,
+            "server": "마커스 04"
           }
-        ]
-      },
-      "byGradeMembers": {
-        "16": [
+        ],
+        "환영검사": [
+          {
+            "nickname": "vcxn",
+            "guild": "blue",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "gz",
+            "guild": "blue",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 64,
+            "server": "마커스 04"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "아프리카",
+            "guild": "blue",
+            "class": "향사수",
+            "grade": 7,
+            "level": 70,
+            "server": "마커스 04"
+          }
+        ],
+        "주문각인사": [
           {
             "nickname": "HUG",
             "guild": "blue",
@@ -916,8 +4233,26 @@
             "grade": 16,
             "level": 81,
             "server": "마커스 04"
+          },
+          {
+            "nickname": "bfgf",
+            "guild": "blue",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "gfdhz",
+            "guild": "blue",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
           }
-        ],
+        ]
+      },
+      "byGradeMembers": {
         "14": [
           {
             "nickname": "우디대디",
@@ -927,317 +4262,98 @@
             "level": 78,
             "server": "마커스 04"
           }
-        ]
-      }
-    },
-    "중립": {
-      "members": 5,
-      "byClass": {
-        "태양감시자": 3,
-        "주문각인사": 1,
-        "집행관": 1
-      },
-      "byGrade": {
-        "18": 1,
-        "15": 1,
-        "13": 1,
-        "11": 1,
-        "2": 1
-      },
-      "membersList": [
-        {
-          "nickname": "샤론",
-          "guild": "중립",
-          "class": "태양감시자",
-          "grade": 18,
-          "level": 80,
-          "server": "마커스 04"
-        },
-        {
-          "nickname": "리오",
-          "guild": "중립",
-          "class": "주문각인사",
-          "grade": 15,
-          "level": 78,
-          "server": "마커스 04"
-        },
-        {
-          "nickname": "사후",
-          "guild": "중립",
-          "class": "태양감시자",
-          "grade": 13,
-          "level": 79,
-          "server": "마커스 04"
-        },
-        {
-          "nickname": "건조",
-          "guild": "중립",
-          "class": "태양감시자",
-          "grade": 11,
-          "level": 71,
-          "server": "마커스 04"
-        },
-        {
-          "nickname": "덱스",
-          "guild": "중립",
-          "class": "집행관",
-          "grade": 2,
-          "level": 73,
-          "server": "마커스 04"
-        }
-      ],
-      "byClassMembers": {
-        "태양감시자": [
+        ],
+        "1": [
           {
-            "nickname": "샤론",
-            "guild": "중립",
-            "class": "태양감시자",
-            "grade": 18,
-            "level": 80,
+            "nickname": "bfgf",
+            "guild": "blue",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
             "server": "마커스 04"
           },
           {
-            "nickname": "사후",
-            "guild": "중립",
+            "nickname": "ffaa",
+            "guild": "blue",
             "class": "태양감시자",
-            "grade": 13,
-            "level": 79,
+            "grade": 1,
+            "level": 65,
             "server": "마커스 04"
           },
           {
-            "nickname": "건조",
-            "guild": "중립",
-            "class": "태양감시자",
-            "grade": 11,
-            "level": 71,
-            "server": "마커스 04"
-          }
-        ],
-        "주문각인사": [
-          {
-            "nickname": "리오",
-            "guild": "중립",
+            "nickname": "gfdhz",
+            "guild": "blue",
             "class": "주문각인사",
-            "grade": 15,
-            "level": 78,
-            "server": "마커스 04"
-          }
-        ],
-        "집행관": [
-          {
-            "nickname": "덱스",
-            "guild": "중립",
-            "class": "집행관",
-            "grade": 2,
-            "level": 73,
-            "server": "마커스 04"
-          }
-        ]
-      },
-      "byGradeMembers": {
-        "18": [
-          {
-            "nickname": "샤론",
-            "guild": "중립",
-            "class": "태양감시자",
-            "grade": 18,
-            "level": 80,
-            "server": "마커스 04"
-          }
-        ],
-        "13": [
-          {
-            "nickname": "사후",
-            "guild": "중립",
-            "class": "태양감시자",
-            "grade": 13,
-            "level": 79,
-            "server": "마커스 04"
-          }
-        ],
-        "15": [
-          {
-            "nickname": "리오",
-            "guild": "중립",
-            "class": "주문각인사",
-            "grade": 15,
-            "level": 78,
-            "server": "마커스 04"
-          }
-        ],
-        "2": [
-          {
-            "nickname": "덱스",
-            "guild": "중립",
-            "class": "집행관",
-            "grade": 2,
-            "level": 73,
-            "server": "마커스 04"
-          }
-        ],
-        "11": [
-          {
-            "nickname": "건조",
-            "guild": "중립",
-            "class": "태양감시자",
-            "grade": 11,
-            "level": 71,
-            "server": "마커스 04"
-          }
-        ]
-      }
-    },
-    "뿡뿡": {
-      "members": 2,
-      "byClass": {
-        "주문각인사": 2
-      },
-      "byGrade": {
-        "16": 1,
-        "15": 1
-      },
-      "membersList": [
-        {
-          "nickname": "방구뿡",
-          "guild": "뿡뿡",
-          "class": "주문각인사",
-          "grade": 16,
-          "level": 79,
-          "server": "마커스 04"
-        },
-        {
-          "nickname": "똥내뿡뿡",
-          "guild": "뿡뿡",
-          "class": "주문각인사",
-          "grade": 15,
-          "level": 80,
-          "server": "마커스 04"
-        }
-      ],
-      "byClassMembers": {
-        "주문각인사": [
-          {
-            "nickname": "방구뿡",
-            "guild": "뿡뿡",
-            "class": "주문각인사",
-            "grade": 16,
-            "level": 79,
+            "grade": 1,
+            "level": 65,
             "server": "마커스 04"
           },
           {
-            "nickname": "똥내뿡뿡",
-            "guild": "뿡뿡",
-            "class": "주문각인사",
-            "grade": 15,
-            "level": 80,
+            "nickname": "lffd",
+            "guild": "blue",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "mg",
+            "guild": "blue",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "oogfc",
+            "guild": "blue",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "vcxn",
+            "guild": "blue",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "gz",
+            "guild": "blue",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 64,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "yuy",
+            "guild": "blue",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 64,
             "server": "마커스 04"
           }
-        ]
-      },
-      "byGradeMembers": {
-        "15": [
+        ],
+        "7": [
           {
-            "nickname": "똥내뿡뿡",
-            "guild": "뿡뿡",
-            "class": "주문각인사",
-            "grade": 15,
-            "level": 80,
+            "nickname": "아프리카",
+            "guild": "blue",
+            "class": "향사수",
+            "grade": 7,
+            "level": 70,
             "server": "마커스 04"
           }
         ],
         "16": [
           {
-            "nickname": "방구뿡",
-            "guild": "뿡뿡",
+            "nickname": "HUG",
+            "guild": "blue",
             "class": "주문각인사",
             "grade": 16,
-            "level": 79,
-            "server": "마커스 04"
-          }
-        ]
-      }
-    },
-    "결사부대": {
-      "members": 1,
-      "byClass": {
-        "주문각인사": 1
-      },
-      "byGrade": {
-        "16": 1
-      },
-      "membersList": [
-        {
-          "nickname": "베히모스",
-          "guild": "결사부대",
-          "class": "주문각인사",
-          "grade": 16,
-          "level": 79,
-          "server": "마커스 04"
-        }
-      ],
-      "byClassMembers": {
-        "주문각인사": [
-          {
-            "nickname": "베히모스",
-            "guild": "결사부대",
-            "class": "주문각인사",
-            "grade": 16,
-            "level": 79,
-            "server": "마커스 04"
-          }
-        ]
-      },
-      "byGradeMembers": {
-        "16": [
-          {
-            "nickname": "베히모스",
-            "guild": "결사부대",
-            "class": "주문각인사",
-            "grade": 16,
-            "level": 79,
-            "server": "마커스 04"
-          }
-        ]
-      }
-    },
-    "아이스크림": {
-      "members": 1,
-      "byClass": {
-        "주문각인사": 1
-      },
-      "byGrade": {
-        "16": 1
-      },
-      "membersList": [
-        {
-          "nickname": "호빵",
-          "guild": "아이스크림",
-          "class": "주문각인사",
-          "grade": 16,
-          "level": 78,
-          "server": "마커스 04"
-        }
-      ],
-      "byClassMembers": {
-        "주문각인사": [
-          {
-            "nickname": "호빵",
-            "guild": "아이스크림",
-            "class": "주문각인사",
-            "grade": 16,
-            "level": 78,
-            "server": "마커스 04"
-          }
-        ]
-      },
-      "byGradeMembers": {
-        "16": [
-          {
-            "nickname": "호빵",
-            "guild": "아이스크림",
-            "class": "주문각인사",
-            "grade": 16,
-            "level": 78,
+            "level": 81,
             "server": "마커스 04"
           }
         ]
@@ -1286,144 +4402,1152 @@
         ]
       }
     },
-    "최강": {
+    "하이": {
       "members": 1,
       "byClass": {
-        "환영검사": 1
+        "태양감시자": 1
       },
       "byGrade": {
         "10": 1
       },
       "membersList": [
         {
-          "nickname": "아기공룡둘리",
-          "guild": "최강",
-          "class": "환영검사",
+          "nickname": "고양이",
+          "guild": "하이",
+          "class": "태양감시자",
           "grade": 10,
-          "level": 72,
+          "level": 68,
+          "server": "마커스 04"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "고양이",
+            "guild": "하이",
+            "class": "태양감시자",
+            "grade": 10,
+            "level": 68,
+            "server": "마커스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "고양이",
+            "guild": "하이",
+            "class": "태양감시자",
+            "grade": 10,
+            "level": 68,
+            "server": "마커스 04"
+          }
+        ]
+      }
+    },
+    "몬스터": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "9": 1
+      },
+      "membersList": [
+        {
+          "nickname": "슬라임",
+          "guild": "몬스터",
+          "class": "태양감시자",
+          "grade": 9,
+          "level": 67,
+          "server": "마커스 04"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "슬라임",
+            "guild": "몬스터",
+            "class": "태양감시자",
+            "grade": 9,
+            "level": 67,
+            "server": "마커스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "9": [
+          {
+            "nickname": "슬라임",
+            "guild": "몬스터",
+            "class": "태양감시자",
+            "grade": 9,
+            "level": 67,
+            "server": "마커스 04"
+          }
+        ]
+      }
+    },
+    "결사부대": {
+      "members": 6,
+      "byClass": {
+        "주문각인사": 5,
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "16": 1,
+        "10": 4,
+        "2": 1
+      },
+      "membersList": [
+        {
+          "nickname": "베히모스",
+          "guild": "결사부대",
+          "class": "주문각인사",
+          "grade": 16,
+          "level": 79,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "라무",
+          "guild": "결사부대",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 64,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "라발",
+          "guild": "결사부대",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 63,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "땅꼬마",
+          "guild": "결사부대",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 62,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "마터챠",
+          "guild": "결사부대",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 62,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "난나니",
+          "guild": "결사부대",
+          "class": "태양감시자",
+          "grade": 2,
+          "level": 65,
+          "server": "마커스 04"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "난나니",
+            "guild": "결사부대",
+            "class": "태양감시자",
+            "grade": 2,
+            "level": 65,
+            "server": "마커스 04"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "베히모스",
+            "guild": "결사부대",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 79,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "라무",
+            "guild": "결사부대",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 64,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "라발",
+            "guild": "결사부대",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 63,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "땅꼬마",
+            "guild": "결사부대",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 62,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "마터챠",
+            "guild": "결사부대",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 62,
+            "server": "마커스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "2": [
+          {
+            "nickname": "난나니",
+            "guild": "결사부대",
+            "class": "태양감시자",
+            "grade": 2,
+            "level": 65,
+            "server": "마커스 04"
+          }
+        ],
+        "16": [
+          {
+            "nickname": "베히모스",
+            "guild": "결사부대",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 79,
+            "server": "마커스 04"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "라무",
+            "guild": "결사부대",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 64,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "라발",
+            "guild": "결사부대",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 63,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "땅꼬마",
+            "guild": "결사부대",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 62,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "마터챠",
+            "guild": "결사부대",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 62,
+            "server": "마커스 04"
+          }
+        ]
+      }
+    },
+    "오동동": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "9": 1
+      },
+      "membersList": [
+        {
+          "nickname": "동동사장",
+          "guild": "오동동",
+          "class": "환영검사",
+          "grade": 9,
+          "level": 70,
           "server": "마커스 04"
         }
       ],
       "byClassMembers": {
         "환영검사": [
           {
-            "nickname": "아기공룡둘리",
-            "guild": "최강",
+            "nickname": "동동사장",
+            "guild": "오동동",
             "class": "환영검사",
-            "grade": 10,
-            "level": 72,
+            "grade": 9,
+            "level": 70,
             "server": "마커스 04"
           }
         ]
       },
       "byGradeMembers": {
-        "10": [
+        "9": [
           {
-            "nickname": "아기공룡둘리",
-            "guild": "최강",
+            "nickname": "동동사장",
+            "guild": "오동동",
             "class": "환영검사",
-            "grade": 10,
-            "level": 72,
+            "grade": 9,
+            "level": 70,
             "server": "마커스 04"
           }
         ]
       }
     },
-    "안전가옥": {
-      "members": 3,
+    "친오빠": {
+      "members": 12,
       "byClass": {
-        "태양감시자": 2,
-        "향사수": 1
+        "향사수": 6,
+        "주문각인사": 3,
+        "환영검사": 2,
+        "집행관": 1
       },
       "byGrade": {
-        "12": 1,
-        "11": 1,
-        "10": 1
+        "1": 12
       },
       "membersList": [
         {
-          "nickname": "덱스터",
-          "guild": "안전가옥",
+          "nickname": "난혼자도잘살아",
+          "guild": "친오빠",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 66,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "Abernathy",
+          "guild": "친오빠",
           "class": "향사수",
-          "grade": 12,
-          "level": 72,
+          "grade": 1,
+          "level": 65,
           "server": "마커스 04"
         },
         {
-          "nickname": "역전",
-          "guild": "안전가옥",
-          "class": "태양감시자",
-          "grade": 11,
-          "level": 71,
+          "nickname": "Abernethy",
+          "guild": "친오빠",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
           "server": "마커스 04"
         },
         {
-          "nickname": "워니",
-          "guild": "안전가옥",
-          "class": "태양감시자",
-          "grade": 10,
-          "level": 71,
+          "nickname": "April",
+          "guild": "친오빠",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "숨기려는진실",
+          "guild": "친오빠",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "승우",
+          "guild": "친오빠",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "있다",
+          "guild": "친오빠",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "주영의",
+          "guild": "친오빠",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "폭발하는꿈",
+          "guild": "친오빠",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "독립적인키스",
+          "guild": "친오빠",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 64,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "충격적인변화",
+          "guild": "친오빠",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 62,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "성민의",
+          "guild": "친오빠",
+          "class": "집행관",
+          "grade": 1,
+          "level": 61,
+          "server": "마커스 04"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "난혼자도잘살아",
+            "guild": "친오빠",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 66,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "독립적인키스",
+            "guild": "친오빠",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 64,
+            "server": "마커스 04"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "Abernathy",
+            "guild": "친오빠",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "Abernethy",
+            "guild": "친오빠",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "April",
+            "guild": "친오빠",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "숨기려는진실",
+            "guild": "친오빠",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "주영의",
+            "guild": "친오빠",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "폭발하는꿈",
+            "guild": "친오빠",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "승우",
+            "guild": "친오빠",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "있다",
+            "guild": "친오빠",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "충격적인변화",
+            "guild": "친오빠",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 62,
+            "server": "마커스 04"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "성민의",
+            "guild": "친오빠",
+            "class": "집행관",
+            "grade": 1,
+            "level": 61,
+            "server": "마커스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "난혼자도잘살아",
+            "guild": "친오빠",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 66,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "Abernathy",
+            "guild": "친오빠",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "Abernethy",
+            "guild": "친오빠",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "April",
+            "guild": "친오빠",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "숨기려는진실",
+            "guild": "친오빠",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "승우",
+            "guild": "친오빠",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "있다",
+            "guild": "친오빠",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "주영의",
+            "guild": "친오빠",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "폭발하는꿈",
+            "guild": "친오빠",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "독립적인키스",
+            "guild": "친오빠",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 64,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "충격적인변화",
+            "guild": "친오빠",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 62,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "성민의",
+            "guild": "친오빠",
+            "class": "집행관",
+            "grade": 1,
+            "level": 61,
+            "server": "마커스 04"
+          }
+        ]
+      }
+    },
+    "32321312": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "7": 1
+      },
+      "membersList": [
+        {
+          "nickname": "지배",
+          "guild": "32321312",
+          "class": "환영검사",
+          "grade": 7,
+          "level": 62,
+          "server": "마커스 04"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "지배",
+            "guild": "32321312",
+            "class": "환영검사",
+            "grade": 7,
+            "level": 62,
+            "server": "마커스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "7": [
+          {
+            "nickname": "지배",
+            "guild": "32321312",
+            "class": "환영검사",
+            "grade": 7,
+            "level": 62,
+            "server": "마커스 04"
+          }
+        ]
+      }
+    },
+    "LHD": {
+      "members": 2,
+      "byClass": {
+        "환영검사": 2
+      },
+      "byGrade": {
+        "4": 2
+      },
+      "membersList": [
+        {
+          "nickname": "근거리",
+          "guild": "LHD",
+          "class": "환영검사",
+          "grade": 4,
+          "level": 62,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "무법",
+          "guild": "LHD",
+          "class": "환영검사",
+          "grade": 4,
+          "level": 59,
+          "server": "마커스 04"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "근거리",
+            "guild": "LHD",
+            "class": "환영검사",
+            "grade": 4,
+            "level": 62,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "무법",
+            "guild": "LHD",
+            "class": "환영검사",
+            "grade": 4,
+            "level": 59,
+            "server": "마커스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "4": [
+          {
+            "nickname": "근거리",
+            "guild": "LHD",
+            "class": "환영검사",
+            "grade": 4,
+            "level": 62,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "무법",
+            "guild": "LHD",
+            "class": "환영검사",
+            "grade": 4,
+            "level": 59,
+            "server": "마커스 04"
+          }
+        ]
+      }
+    },
+    "무과금": {
+      "members": 2,
+      "byClass": {
+        "환영검사": 2
+      },
+      "byGrade": {
+        "4": 2
+      },
+      "membersList": [
+        {
+          "nickname": "마커님",
+          "guild": "무과금",
+          "class": "환영검사",
+          "grade": 4,
+          "level": 59,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "마커씨",
+          "guild": "무과금",
+          "class": "환영검사",
+          "grade": 4,
+          "level": 59,
+          "server": "마커스 04"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "마커님",
+            "guild": "무과금",
+            "class": "환영검사",
+            "grade": 4,
+            "level": 59,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "마커씨",
+            "guild": "무과금",
+            "class": "환영검사",
+            "grade": 4,
+            "level": 59,
+            "server": "마커스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "4": [
+          {
+            "nickname": "마커님",
+            "guild": "무과금",
+            "class": "환영검사",
+            "grade": 4,
+            "level": 59,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "마커씨",
+            "guild": "무과금",
+            "class": "환영검사",
+            "grade": 4,
+            "level": 59,
+            "server": "마커스 04"
+          }
+        ]
+      }
+    },
+    "그대": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "17": 1
+      },
+      "membersList": [
+        {
+          "nickname": "웃어요",
+          "guild": "그대",
+          "class": "향사수",
+          "grade": 17,
+          "level": 82,
           "server": "마커스 04"
         }
       ],
       "byClassMembers": {
         "향사수": [
           {
-            "nickname": "덱스터",
-            "guild": "안전가옥",
+            "nickname": "웃어요",
+            "guild": "그대",
             "class": "향사수",
-            "grade": 12,
-            "level": 72,
-            "server": "마커스 04"
-          }
-        ],
-        "태양감시자": [
-          {
-            "nickname": "역전",
-            "guild": "안전가옥",
-            "class": "태양감시자",
-            "grade": 11,
-            "level": 71,
-            "server": "마커스 04"
-          },
-          {
-            "nickname": "워니",
-            "guild": "안전가옥",
-            "class": "태양감시자",
-            "grade": 10,
-            "level": 71,
+            "grade": 17,
+            "level": 82,
             "server": "마커스 04"
           }
         ]
       },
       "byGradeMembers": {
-        "12": [
+        "17": [
           {
-            "nickname": "덱스터",
-            "guild": "안전가옥",
+            "nickname": "웃어요",
+            "guild": "그대",
             "class": "향사수",
-            "grade": 12,
-            "level": 72,
+            "grade": 17,
+            "level": 82,
+            "server": "마커스 04"
+          }
+        ]
+      }
+    },
+    "오고고곡": {
+      "members": 2,
+      "byClass": {
+        "향사수": 2
+      },
+      "byGrade": {
+        "8": 1,
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "헤즐넛",
+          "guild": "오고고곡",
+          "class": "향사수",
+          "grade": 8,
+          "level": 65,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "clfz",
+          "guild": "오고고곡",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "마커스 04"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "헤즐넛",
+            "guild": "오고고곡",
+            "class": "향사수",
+            "grade": 8,
+            "level": 65,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "clfz",
+            "guild": "오고고곡",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "마커스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "clfz",
+            "guild": "오고고곡",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
             "server": "마커스 04"
           }
         ],
-        "10": [
+        "8": [
           {
-            "nickname": "워니",
-            "guild": "안전가옥",
-            "class": "태양감시자",
-            "grade": 10,
-            "level": 71,
+            "nickname": "헤즐넛",
+            "guild": "오고고곡",
+            "class": "향사수",
+            "grade": 8,
+            "level": 65,
             "server": "마커스 04"
           }
-        ],
-        "11": [
+        ]
+      }
+    },
+    "아이스크림": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "16": 1
+      },
+      "membersList": [
+        {
+          "nickname": "호빵",
+          "guild": "아이스크림",
+          "class": "주문각인사",
+          "grade": 16,
+          "level": 78,
+          "server": "마커스 04"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
           {
-            "nickname": "역전",
-            "guild": "안전가옥",
-            "class": "태양감시자",
-            "grade": 11,
-            "level": 71,
+            "nickname": "호빵",
+            "guild": "아이스크림",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 78,
+            "server": "마커스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "16": [
+          {
+            "nickname": "호빵",
+            "guild": "아이스크림",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 78,
+            "server": "마커스 04"
+          }
+        ]
+      }
+    },
+    "연": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "9": 1
+      },
+      "membersList": [
+        {
+          "nickname": "아라",
+          "guild": "연",
+          "class": "주문각인사",
+          "grade": 9,
+          "level": 67,
+          "server": "마커스 04"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "아라",
+            "guild": "연",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 67,
+            "server": "마커스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "9": [
+          {
+            "nickname": "아라",
+            "guild": "연",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 67,
+            "server": "마커스 04"
+          }
+        ]
+      }
+    },
+    "유키": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "8": 1
+      },
+      "membersList": [
+        {
+          "nickname": "유키",
+          "guild": "유키",
+          "class": "주문각인사",
+          "grade": 8,
+          "level": 67,
+          "server": "마커스 04"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "유키",
+            "guild": "유키",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 67,
+            "server": "마커스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "8": [
+          {
+            "nickname": "유키",
+            "guild": "유키",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 67,
+            "server": "마커스 04"
+          }
+        ]
+      }
+    },
+    "접속": {
+      "members": 4,
+      "byClass": {
+        "주문각인사": 4
+      },
+      "byGrade": {
+        "7": 4
+      },
+      "membersList": [
+        {
+          "nickname": "리스",
+          "guild": "접속",
+          "class": "주문각인사",
+          "grade": 7,
+          "level": 62,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "카스",
+          "guild": "접속",
+          "class": "주문각인사",
+          "grade": 7,
+          "level": 62,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "팔공",
+          "guild": "접속",
+          "class": "주문각인사",
+          "grade": 7,
+          "level": 62,
+          "server": "마커스 04"
+        },
+        {
+          "nickname": "프라",
+          "guild": "접속",
+          "class": "주문각인사",
+          "grade": 7,
+          "level": 62,
+          "server": "마커스 04"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "리스",
+            "guild": "접속",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 62,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "카스",
+            "guild": "접속",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 62,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "팔공",
+            "guild": "접속",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 62,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "프라",
+            "guild": "접속",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 62,
+            "server": "마커스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "7": [
+          {
+            "nickname": "리스",
+            "guild": "접속",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 62,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "카스",
+            "guild": "접속",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 62,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "팔공",
+            "guild": "접속",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 62,
+            "server": "마커스 04"
+          },
+          {
+            "nickname": "프라",
+            "guild": "접속",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 62,
             "server": "마커스 04"
           }
         ]
@@ -1467,6 +5591,178 @@
             "class": "집행관",
             "grade": 8,
             "level": 71,
+            "server": "마커스 04"
+          }
+        ]
+      }
+    },
+    "DNF": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "2": 1
+      },
+      "membersList": [
+        {
+          "nickname": "fgvvds",
+          "guild": "DNF",
+          "class": "집행관",
+          "grade": 2,
+          "level": 58,
+          "server": "마커스 04"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "fgvvds",
+            "guild": "DNF",
+            "class": "집행관",
+            "grade": 2,
+            "level": 58,
+            "server": "마커스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "2": [
+          {
+            "nickname": "fgvvds",
+            "guild": "DNF",
+            "class": "집행관",
+            "grade": 2,
+            "level": 58,
+            "server": "마커스 04"
+          }
+        ]
+      }
+    },
+    "agga": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "2": 1
+      },
+      "membersList": [
+        {
+          "nickname": "만이다오랜만이다",
+          "guild": "agga",
+          "class": "집행관",
+          "grade": 2,
+          "level": 53,
+          "server": "마커스 04"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "만이다오랜만이다",
+            "guild": "agga",
+            "class": "집행관",
+            "grade": 2,
+            "level": 53,
+            "server": "마커스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "2": [
+          {
+            "nickname": "만이다오랜만이다",
+            "guild": "agga",
+            "class": "집행관",
+            "grade": 2,
+            "level": 53,
+            "server": "마커스 04"
+          }
+        ]
+      }
+    },
+    "를를를를를를를를": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "를를를를를를를를",
+          "guild": "를를를를를를를를",
+          "class": "집행관",
+          "grade": 1,
+          "level": 52,
+          "server": "마커스 04"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "를를를를를를를를",
+            "guild": "를를를를를를를를",
+            "class": "집행관",
+            "grade": 1,
+            "level": 52,
+            "server": "마커스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "를를를를를를를를",
+            "guild": "를를를를를를를를",
+            "class": "집행관",
+            "grade": 1,
+            "level": 52,
+            "server": "마커스 04"
+          }
+        ]
+      }
+    },
+    "세인": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "4": 1
+      },
+      "membersList": [
+        {
+          "nickname": "사팔팔오",
+          "guild": "세인",
+          "class": "집행관",
+          "grade": 4,
+          "level": 52,
+          "server": "마커스 04"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "사팔팔오",
+            "guild": "세인",
+            "class": "집행관",
+            "grade": 4,
+            "level": 52,
+            "server": "마커스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "4": [
+          {
+            "nickname": "사팔팔오",
+            "guild": "세인",
+            "class": "집행관",
+            "grade": 4,
+            "level": 52,
             "server": "마커스 04"
           }
         ]
