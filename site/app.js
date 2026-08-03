@@ -222,6 +222,14 @@ function bindSearchUI(){
   if (btnClear) {
     btnClear.addEventListener("click", () => {
       if (input) input.value = "";
+      const serverFilter = document.getElementById("serverFilter");
+      const minMembers = document.getElementById("minMembers");
+      const sortMode = document.getElementById("sortMode");
+      if (serverFilter) serverFilter.value = "";
+      if (minMembers) minMembers.value = "0";
+      if (sortMode) sortMode.value = "rank";
+      SORT_MODE = "rank";
+      localStorage.setItem("prasia-sort", "rank");
       CURRENT_PAGE = 1;
       applySearch();
     });
@@ -505,6 +513,18 @@ function applySearch(){
     }
   };
   FILTERED_ROWS.sort(sorters[SORT_MODE] || sorters.rank);
+
+  const summary = document.getElementById("filterSummary");
+  if (summary) {
+    const active = [];
+    if (q) active.push(`검색 “${normalizeText(input?.value)}”`);
+    if (selectedServer) active.push(selectedServer);
+    if (minMembers) active.push(`${minMembers}명 이상`);
+    summary.textContent = active.length
+      ? `${active.join(" · ")} · ${FILTERED_ROWS.length}개`
+      : `전체 ${FILTERED_ROWS.length}개 결사`;
+    summary.classList.toggle("has-filter", active.length > 0);
+  }
 
   renderCurrentPage();
 }
