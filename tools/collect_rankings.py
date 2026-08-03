@@ -5,7 +5,7 @@ from collections import Counter, defaultdict
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-import requests
+from playwright.sync_api import sync_playwright
 
 API = "https://wp-api.nexon.com/v1/GameData/gcranking"
 OUT = Path("site/snapshots")
@@ -26,16 +26,23 @@ CLASS_NAMES = {
     "IncenseArcher":"향사수","RuneScribe":"주문각인사","Enforcer":"집행관",
 }
 
-def fetch_server(session, world_no, realm_no):
+def fetch_server(page, world_no, realm_no):
     group = f"LIVE_W{world_no:02d}"
     world = f"{group}_R{realm_no}"
-    response = session.post(
-        API,
-        json={"world_id": world, "world_group_id": group},
-        timeout=10,
+    result = page.evaluate(
+        """async ({api, payload}) => {
+          const response = await fetch(api, {
+            method: "POST",
+            headers: {"Content-Type": "application/json"},
+            body: JSON.stringify(payload)
+          });
+          return {status: response.status, text: await response.text()};
+        }""",
+        {"api": API, "payload": {"world_id": world, "world_group_id": group}},
     )
-    response.raise_for_status()
-    payload = response.json()
+    if result["status"] != 200:
+        raise RuntimeError(f"HTTP {result['status']}")
+    payload = json.loads(result["text"])
     if payload.get("code") != "0000":
         return []
     return payload.get("result", {}).get("gc", []) or []
@@ -71,14 +78,12 @@ def build():
     stem = f"ranking_{date_key}"
 
     all_members = []
-    session = requests.Session()
-    session.headers.update({
-        "User-Agent": "prasia-ranking-auto/1.0",
-        "Accept": "application/json",
-        "Content-Type": "application/json",
-        "Origin": "https://wp.nexon.com",
-        "Referer": "https://wp.nexon.com/",
-    })
+    playwright = sync_playwright().start()
+    browser = playwright.chromium.launch(headless=True)
+    page = browser.new_page(locale="ko-KR")
+    page.goto("https://wp.nexon.com/records/ranking?world=2-1", wait_until="domcontentloaded", timeout=120000)
+    page.wait_for_timeout(2500)
+
 
     failures = []
     active_servers = 0
@@ -86,7 +91,7 @@ def build():
         empty_streak = 0
         for realm_no in range(1, 6):
             try:
-                raw_rows = fetch_server(session, world_no, realm_no)
+                raw_rows = fetch_server(page, world_no, realm_no)
             except Exception as exc:
                 failures.append(f"W{world_no:02d}_R{realm_no}: {exc}")
                 empty_streak += 1
@@ -103,6 +108,9 @@ def build():
             server = f"{world_name} {realm_no:02d}"
             all_members.extend(member_row(row, server) for row in raw_rows)
             time.sleep(0.15)
+
+    browser.close()
+    playwright.stop()
 
     unique = {}
     for row in all_members:
