@@ -849,6 +849,19 @@ body.compact-table #rank tr{contain-intrinsic-size:auto 38px}
   .view-actions button{width:100%}
 }
 
+
+/* ====== Hero action hub ====== */
+.hero-actions{position:relative;z-index:3;display:flex;flex-wrap:wrap;gap:10px;margin-top:24px;max-width:760px}
+.hero-actions .support-cta,.hero-actions .youtube-cta{min-width:0;width:auto;margin-top:0;flex:1 1 230px}
+.calculator-cta{display:flex;align-items:center;gap:12px;flex:1 1 230px;min-width:0;padding:13px 15px;border:1px solid rgba(105,202,213,.48);border-radius:15px;text-decoration:none;color:#eefcff;background:linear-gradient(135deg,rgba(25,69,78,.95),rgba(14,38,52,.96));box-shadow:0 12px 32px rgba(24,125,142,.18),inset 0 1px 0 rgba(255,255,255,.12);transition:transform .2s ease,box-shadow .2s ease,filter .2s ease}
+.calculator-cta:hover{transform:translateY(-3px);filter:brightness(1.1);box-shadow:0 18px 42px rgba(28,145,164,.28)}
+.calculator-icon{display:grid;place-items:center;width:39px;height:39px;flex:none;border-radius:11px;background:rgba(110,213,225,.13);color:#91e1e9;font-size:24px}
+.calculator-copy{display:flex;flex-direction:column;gap:3px;line-height:1.2}.calculator-copy strong{font-size:15px;font-weight:950}.calculator-copy small{font-size:10px;color:rgba(225,249,252,.65)}.calculator-arrow{margin-left:auto;color:#91e1e9;font-size:20px;font-weight:900}
+.control-primary{grid-template-columns:180px minmax(360px,1fr)!important}
+@media(max-width:1050px){.control-primary{grid-template-columns:160px 1fr!important}}
+@media(max-width:760px){.hero-actions{display:grid;grid-template-columns:1fr 1fr}.hero-actions .support-cta{grid-column:1/-1}.hero-actions .support-cta,.hero-actions .youtube-cta,.calculator-cta{width:100%;box-sizing:border-box}}
+@media(max-width:520px){.hero-actions{grid-template-columns:1fr}.hero-actions .support-cta{grid-column:auto}}
+
 </style>
 </head>
 
@@ -859,16 +872,23 @@ body.compact-table #rank tr{contain-intrinsic-size:auto 38px}
     <div class="eyebrow"><span class="live-dot"></span> NEXON DATA · AUTO UPDATE</div>
     <h1>강모찌의 프라시아<br><span>자동 결사 랭킹</span></h1>
     <p class="hero-description"><span>전 서버·전 직업 랭킹을 매일 자동 집계합니다.</span><span>결사를 선택하면 구성원과 직업·등급 분포를 확인할 수 있습니다.</span></p>
-    <a class="support-cta" href="https://creators.nexon.com/kr/s/pramochi%238535" target="_blank" rel="noopener noreferrer">
-      <span class="support-icon">★</span>
-      <span class="support-copy"><strong>강모찌 후원 등록</strong><small>프라시아 전기 공식 크리에이터 후원하기</small></span>
-      <span class="support-arrow">→</span>
-    </a>
-    <a class="youtube-cta" href="https://www.youtube.com/@pramochi" target="_blank" rel="noopener noreferrer">
-      <span class="youtube-icon"><span class="play-mark"></span></span>
-      <span class="youtube-copy"><strong>강모찌 유튜브</strong><small>게임 영상·공략 보러가기</small></span>
-      <span class="youtube-arrow">→</span>
-    </a>
+    <div class="hero-actions">
+      <a class="support-cta" href="https://creators.nexon.com/kr/s/pramochi%238535" target="_blank" rel="noopener noreferrer">
+        <span class="support-icon">★</span>
+        <span class="support-copy"><strong>강모찌 후원 등록</strong><small>공식 크리에이터 후원하기</small></span>
+        <span class="support-arrow">→</span>
+      </a>
+      <a class="calculator-cta" href="https://prasia583.github.io/prasia-craft-calculator/" target="_blank" rel="noopener noreferrer">
+        <span class="calculator-icon">◇</span>
+        <span class="calculator-copy"><strong>가더·브로치 계산기</strong><small>제작 재료 바로 계산</small></span>
+        <span class="calculator-arrow">↗</span>
+      </a>
+      <a class="youtube-cta" href="https://www.youtube.com/@pramochi" target="_blank" rel="noopener noreferrer">
+        <span class="youtube-icon"><span class="play-mark"></span></span>
+        <span class="youtube-copy"><strong>강모찌 유튜브</strong><small>게임 영상·공략 보러가기</small></span>
+        <span class="youtube-arrow">→</span>
+      </a>
+    </div>
   </div>
   <div class="hero-side">
     <div class="update-label">마지막 데이터 갱신</div>
@@ -906,11 +926,6 @@ body.compact-table #rank tr{contain-intrinsic-size:auto 38px}
       </form>
     </div>
 
-    <a class="tool-link featured-tool" href="https://prasia583.github.io/prasia-craft-calculator/" target="_blank" rel="noopener noreferrer">
-      <span class="tool-link-icon">◇</span>
-      <span><strong>가더·브로치 계산기</strong><small>제작 재료 바로 계산</small></span>
-      <span class="tool-link-arrow">↗</span>
-    </a>
   </div>
 
   <div class="control-secondary">
