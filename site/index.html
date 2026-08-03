@@ -1073,6 +1073,138 @@ body.compact-table #rank tr{contain-intrinsic-size:auto 38px}
   }
 }
 
+
+/* ====== Visual class distribution ====== */
+.class-share-card{
+  margin:14px 0 18px;
+  padding:16px;
+  border:1px solid rgba(217,181,109,.24);
+  border-radius:16px;
+  background:linear-gradient(145deg,rgba(18,27,42,.96),rgba(10,17,28,.96));
+  box-shadow:0 14px 34px rgba(0,0,0,.18);
+}
+.class-share-heading{
+  display:flex;
+  align-items:flex-end;
+  justify-content:space-between;
+  gap:16px;
+  margin-bottom:13px;
+}
+.class-share-heading>div{
+  display:flex;
+  flex-direction:column;
+  gap:4px;
+}
+.class-share-kicker{
+  color:#d9b56d;
+  font-size:10px;
+  font-weight:900;
+  letter-spacing:.14em;
+}
+.class-share-heading strong{
+  font-size:19px;
+  line-height:1.1;
+}
+.class-share-total{
+  color:#aab7ca;
+  font-size:12px;
+  font-weight:800;
+}
+.class-share-bar{
+  display:flex;
+  width:100%;
+  height:14px;
+  overflow:hidden;
+  border-radius:999px;
+  background:#080e18;
+  box-shadow:inset 0 0 0 1px rgba(255,255,255,.05);
+}
+.class-share-segment{
+  display:block;
+  min-width:2px;
+  height:100%;
+  border-right:1px solid rgba(6,10,16,.45);
+}
+.class-share-segment:last-child{border-right:0}
+.class-share-grid{
+  display:grid;
+  grid-template-columns:repeat(4,minmax(0,1fr));
+  gap:8px;
+  margin-top:13px;
+}
+.class-share-item{
+  display:grid;
+  grid-template-columns:26px minmax(72px,1fr) auto 52px;
+  align-items:center;
+  gap:9px;
+  min-width:0;
+  padding:10px 11px;
+  border:1px solid rgba(129,151,184,.18);
+  border-radius:12px;
+  background:rgba(8,14,24,.72);
+}
+.class-share-rank{
+  display:grid;
+  place-items:center;
+  width:26px;
+  height:26px;
+  border-radius:8px;
+  color:var(--class-color);
+  background:color-mix(in srgb,var(--class-color) 14%,transparent);
+  font-size:11px;
+  font-weight:950;
+}
+.class-share-main{min-width:0}
+.class-share-name{
+  overflow:hidden;
+  color:var(--class-color);
+  font-size:13px;
+  font-weight:900;
+  line-height:1.2;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+}
+.class-share-track{
+  display:block;
+  height:3px;
+  margin-top:7px;
+  overflow:hidden;
+  border-radius:999px;
+  background:rgba(255,255,255,.07);
+}
+.class-share-track span{
+  display:block;
+  height:100%;
+  border-radius:inherit;
+  background:var(--class-color);
+}
+.class-share-count{
+  color:#f4f6fa;
+  font-size:14px;
+  font-weight:900;
+  white-space:nowrap;
+}
+.class-share-count small{
+  margin-left:2px;
+  color:#8190a6;
+  font-size:10px;
+}
+.class-share-percent{
+  color:#c4cfdd;
+  font-size:12px;
+  font-weight:850;
+  text-align:right;
+  white-space:nowrap;
+}
+@media(max-width:1050px){
+  .class-share-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media(max-width:640px){
+  .class-share-card{padding:12px}
+  .class-share-grid{grid-template-columns:minmax(0,1fr)}
+  .class-share-item{grid-template-columns:26px minmax(70px,1fr) auto 48px}
+}
+
 </style>
 </head>
 
@@ -1212,7 +1344,7 @@ body.compact-table #rank tr{contain-intrinsic-size:auto 38px}
 
 <button id="scrollTop" class="scroll-top" type="button" aria-label="맨 위로">↑</button>
 
-<script src="./app.js?v=5"></script>
+<script src="./app.js?v=6"></script>
 
 <!-- 결사 상세 모달 -->
 <div id="guildModal">
