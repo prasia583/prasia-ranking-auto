@@ -48,8 +48,49 @@ def fetch_server(page, auth_headers, world_no, realm_no, class_slug):
         raise RuntimeError(f"HTTP {result['status']}")
     payload = json.loads(result["text"])
     if payload.get("code") != "0000":
-        return []
+        raise RuntimeError(f"API {payload.get('code')}: {payload.get('message', 'UNKNOWN')}")
     return payload.get("result", {}).get("gc", []) or []
+
+def validate_ranking_rows(rows):
+    if len(rows) > 100:
+        raise RuntimeError(f"100위를 초과한 응답: {len(rows)}명")
+    names = [str(row.get("gc_name") or "").strip() for row in rows]
+    if any(not name for name in names):
+        raise RuntimeError("닉네임이 비어 있는 랭킹 데이터")
+    if len(names) != len(set(names)):
+        raise RuntimeError("동일 응답 내 닉네임 중복")
+    ranks = [row.get("ranking") for row in rows if row.get("ranking") is not None]
+    if len(ranks) != len(set(ranks)):
+        raise RuntimeError("동일 응답 내 순위 중복")
+
+def fetch_server_complete(page, auth_headers, world_no, realm_no, class_slug):
+    last_error = None
+    for attempt in range(1, 4):
+        try:
+            rows = fetch_server(page, auth_headers, world_no, realm_no, class_slug)
+            validate_ranking_rows(rows)
+            if rows or attempt == 3:
+                return rows, attempt
+        except Exception as exc:
+            last_error = exc
+        page.wait_for_timeout(700 * attempt)
+    raise RuntimeError(f"3회 재시도 실패: {last_error or '빈 응답 반복'}")
+
+def discover_worlds(page):
+    try:
+        options = page.locator("select").nth(0).evaluate(
+            """el => [...el.options].map(o => ({value:o.value, text:o.textContent.trim()}))"""
+        )
+        discovered = {}
+        for item in options:
+            value = str(item.get("value") or "")
+            if value.startswith("W") and value[1:].isdigit():
+                discovered[int(value[1:])] = str(item.get("text") or "").strip()
+        if discovered:
+            return discovered
+    except Exception:
+        pass
+    return dict(WORLD_NAMES)
 
 def member_row(raw, server):
     grade_raw = (raw.get("string_map") or {}).get("grade", 0)
@@ -105,16 +146,28 @@ def build():
         raise RuntimeError("넥슨 임시 인증 헤더를 가져오지 못했습니다")
 
 
+    worlds = discover_worlds(page)
     failures = []
     active_servers = 0
-    for world_no, world_name in WORLD_NAMES.items():
+    request_total = 0
+    request_success = 0
+    empty_responses = 0
+    retry_count = 0
+
+    for world_no, world_name in worlds.items():
         for realm_no in range(1, 6):
             server_rows = []
             for class_slug in CLASS_SLUGS:
+                request_total += 1
                 try:
-                    server_rows.extend(
-                        fetch_server(page, auth_headers, world_no, realm_no, class_slug)
+                    rows, attempts = fetch_server_complete(
+                        page, auth_headers, world_no, realm_no, class_slug
                     )
+                    request_success += 1
+                    retry_count += attempts - 1
+                    if not rows:
+                        empty_responses += 1
+                    server_rows.extend(rows)
                 except Exception as exc:
                     failures.append(
                         f"W{world_no:02d}_R{realm_no}_{class_slug}: {exc}"
@@ -133,6 +186,18 @@ def build():
     for row in all_members:
         unique[(row["server"], row["nickname"])] = row
     all_members = list(unique.values())
+
+    if failures:
+        raise RuntimeError(
+            f"완전 수집 조건 미달로 기존 스냅샷을 보존합니다: "
+            f"{len(failures)}개 요청 실패 / {request_total}개 요청; {failures[:5]}"
+        )
+
+    if request_success != request_total:
+        raise RuntimeError(
+            f"요청 수 불일치로 기존 스냅샷을 보존합니다: "
+            f"{request_success}/{request_total}"
+        )
 
     if active_servers < 1 or len(all_members) < 100:
         raise RuntimeError(
@@ -228,6 +293,7 @@ def build():
         "sheet": "Nexon API",
         "collectedAt": today.isoformat(timespec="seconds"),
         "characters": len(all_members), "servers": active_servers,
+        "complete": True, "requests": request_total,
     }
     index = [x for x in index if x.get("label") != label]
     index.insert(0, item)
@@ -237,6 +303,14 @@ def build():
         "ok": True, "collectedAt": today.isoformat(timespec="seconds"),
         "servers": active_servers, "characters": len(all_members),
         "guilds": len(ranking), "failures": failures,
+        "complete": True,
+        "worlds": len(worlds),
+        "requests": {
+            "total": request_total,
+            "success": request_success,
+            "empty": empty_responses,
+            "retried": retry_count,
+        },
     })
     print(json.dumps(item, ensure_ascii=False))
 
