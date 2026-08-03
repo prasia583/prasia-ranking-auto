@@ -979,12 +979,28 @@ function showOverallModal(title, sub, levelHtml, gradeHtml){
   if (l) l.innerHTML = levelHtml;
   if (g) g.innerHTML = gradeHtml;
 
-  if (modal) modal.style.display = "block";
+  document.body.classList.add("overall-modal-open");
+  document.body.style.overflow = "hidden";
+
+  if (modal) {
+    modal.scrollTop = 0;
+    modal.style.display = "block";
+    const grid = modal.querySelector(".modal-grid");
+    if (grid) grid.scrollTop = 0;
+  }
 }
 
 function hideOverallModal(){
   const modal = document.getElementById("overallModal");
   if (modal) modal.style.display = "none";
+  document.body.classList.remove("overall-modal-open");
+
+  const guildModal = document.getElementById("guildModal");
+  const memberModal = document.getElementById("memberListModal");
+  const keepLocked =
+    guildModal?.style.display === "block" ||
+    memberModal?.style.display === "block";
+  document.body.style.overflow = keepLocked ? "hidden" : "";
 }
 function searchOverallMembers(){
   const input = document.getElementById("omSearch");
@@ -1071,8 +1087,13 @@ function hideMemberListModal(){
   const modal = document.getElementById("memberListModal");
   if (modal) modal.style.display = "none";
   document.body.classList.remove("member-list-open");
+
   const guildModal = document.getElementById("guildModal");
-  document.body.style.overflow = guildModal?.style.display === "block" ? "hidden" : "";
+  const overallModal = document.getElementById("overallModal");
+  const keepLocked =
+    guildModal?.style.display === "block" ||
+    overallModal?.style.display === "block";
+  document.body.style.overflow = keepLocked ? "hidden" : "";
 }
 function buildClassRatioHtml(rows){
   const list = Array.isArray(rows) ? rows : [];
