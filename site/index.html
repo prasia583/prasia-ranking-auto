@@ -1048,6 +1048,31 @@ body.compact-table #rank tr{contain-intrinsic-size:auto 38px}
   }
 }
 
+
+/* ====== Compact ranking controls ====== */
+@media(min-width:901px){
+  .ranking-panel .command-center{
+    width:min(1120px,100%);
+    margin-left:auto;
+    margin-right:auto;
+  }
+  .ranking-panel .control-primary{
+    grid-template-columns:170px minmax(320px,1fr) 250px;
+    gap:12px;
+    padding:16px 18px;
+  }
+  .ranking-panel .control-secondary{
+    gap:10px;
+    padding:12px 18px 15px;
+  }
+  .ranking-panel .control-secondary .control-field{
+    flex:0 1 165px;
+  }
+  .ranking-panel .view-actions{
+    gap:8px;
+  }
+}
+
 </style>
 </head>
 
