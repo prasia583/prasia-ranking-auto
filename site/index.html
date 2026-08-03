@@ -1,0 +1,649 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>강모찌의 프라시아 자동 결사 랭킹</title>
+
+<style>
+/* ====== Layout ====== */
+body{
+  font-family: Arial, system-ui, -apple-system, "Noto Sans KR", sans-serif;
+  background:#0b0f17;
+  color:#fff;
+  padding:20px;
+  max-width:1180px;
+  margin:0 auto;
+}
+
+h1{
+  margin:0 0 8px 0;
+  font-size:32px;
+  font-weight:800;
+}
+
+#status{
+  margin:0 0 12px 0;
+  font-size:12px;
+  opacity:.8;
+}
+
+/* ====== Controls ====== */
+.controls{
+  display:flex;
+  gap:10px;
+  align-items:center;
+  flex-wrap:wrap;
+  margin-bottom:10px;
+}
+
+.controls label{
+  font-size:13px;
+  opacity:.9;
+}
+
+select,
+input,
+button{
+  padding:6px 8px;
+  border-radius:6px;
+  border:1px solid #2a3550;
+  background:#0f1626;
+  color:#fff;
+  outline:none;
+}
+
+input::placeholder{
+  color:#8fa3c7;
+}
+
+button{
+  cursor:pointer;
+  font-weight:700;
+}
+
+button:hover{
+  background:#15203a;
+}
+
+.searchForm{
+  display:flex;
+  gap:8px;
+  align-items:center;
+}
+
+/* ====== Pager ====== */
+.pager{
+  display:flex;
+  gap:8px;
+  align-items:center;
+  justify-content:flex-end;
+  margin:10px 0;
+  flex-wrap:wrap;
+}
+
+.pager .info{
+  font-size:12px;
+  opacity:.85;
+  margin-right:auto;
+}
+
+.pager button{
+  padding:6px 10px;
+  border-radius:8px;
+  border:1px solid #2a3550;
+  background:#0f1626;
+  color:#fff;
+  cursor:pointer;
+  font-weight:800;
+}
+
+.pager button:hover{
+  background:#15203a;
+}
+
+.pager button:disabled{
+  opacity:.4;
+  cursor:not-allowed;
+}
+
+.pager .page{
+  min-width:46px;
+  text-align:center;
+  font-variant-numeric:tabular-nums;
+}
+
+.pager .size{
+  display:flex;
+  gap:6px;
+  align-items:center;
+}
+
+.pager .size label{
+  font-size:12px;
+  opacity:.85;
+}
+
+.pager .nums{
+  display:flex;
+  gap:6px;
+  align-items:center;
+  flex-wrap:wrap;
+  justify-content:center;
+  flex:1 1 auto;
+}
+
+.pager .nums button{
+  padding:6px 10px;
+  min-width:38px;
+}
+
+.pager .nums button.active{
+  background:#1b2a4a;
+  border-color:#3a5485;
+}
+
+/* ====== Table ====== */
+table{
+  border-collapse:collapse;
+  width:100%;
+  table-layout:fixed;
+  font-size:14px;
+  background:#0b1220;
+  border:1px solid #23324a;
+}
+
+thead th{
+  background:#111a2a;
+  position:sticky;
+  top:0;
+  z-index:1;
+  font-weight:900;
+  letter-spacing:.2px;
+}
+
+th, td{
+  border:1px solid #23324a;
+  padding:7px 10px;
+  line-height:1.2;
+}
+
+tbody tr:nth-child(even){
+  background:rgba(255,255,255,0.015);
+}
+
+tbody tr:hover{
+  background:rgba(74,163,255,0.08);
+}
+
+/* ====== Column widths ====== */
+th:nth-child(1), td:nth-child(1){ width:8%;  text-align:center; }
+th:nth-child(2), td:nth-child(2){ width:8%;  text-align:center; }
+th:nth-child(3), td:nth-child(3){ width:22%; text-align:center; }
+th:nth-child(4), td:nth-child(4){ width:9%;  text-align:center; }
+th:nth-child(5), td:nth-child(5){ width:17%; text-align:center; }
+th:nth-child(6), td:nth-child(6){ width:18%; text-align:right;  }
+th:nth-child(7), td:nth-child(7){ width:18%; text-align:right;  }
+
+td:nth-child(3),
+td:nth-child(5){
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+}
+
+td:nth-child(1),
+td:nth-child(2),
+td:nth-child(4),
+td:nth-child(6),
+td:nth-child(7){
+  font-variant-numeric:tabular-nums;
+  white-space:nowrap;
+  font-weight:700;
+}
+
+th:nth-child(3), td:nth-child(3){
+  width:22%;
+  text-align:center;
+  font-weight:800;
+}
+
+td:nth-child(5){
+  color:#d7e3ff;
+}
+
+td:nth-child(6),
+td:nth-child(7){
+  padding-right:12px;
+}
+
+/* ====== Delta ====== */
+.delta-up{
+  color:#ff4d4d;
+  font-weight:800;
+}
+
+.delta-down{
+  color:#4aa3ff;
+  font-weight:800;
+}
+
+.delta-flat{
+  color:#c7c7c7;
+  font-weight:700;
+}
+
+.delta-cell{
+  white-space:nowrap;
+}
+
+/* ====== Modal Common ====== */
+#guildModal,
+#overallModal,
+#memberListModal{
+  display:none;
+  position:fixed;
+  inset:0;
+  background:rgba(0,0,0,.55);
+  overflow-y:auto;
+  padding:12px;
+  box-sizing:border-box;
+}
+
+#guildModal{ z-index:9999; }
+#overallModal{ z-index:9999; }
+#memberListModal{ z-index:10000; }
+
+#guildModal .modal-card,
+#overallModal .modal-card,
+#memberListModal .modal-card{
+  background:#121a27;
+  border:1px solid #23324a;
+  border-radius:14px;
+  padding:14px;
+  box-sizing:border-box;
+  overflow-y:auto;
+  overflow-x:hidden;
+  max-height:calc(100vh - 40px);
+  margin:20px auto;
+}
+
+#guildModal .modal-card{
+  max-width:1100px;
+  width:min(1100px, calc(100vw - 24px));
+}
+
+#overallModal .modal-card{
+  max-width:1100px;
+  width:min(1100px, calc(100vw - 24px));
+}
+
+#memberListModal .modal-card{
+  max-width:1200px;
+  width:min(1200px, calc(100vw - 24px));
+}
+
+#guildModal .modal-head,
+#overallModal .modal-head,
+#memberListModal .modal-head{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:10px;
+  position:sticky;
+  top:0;
+  z-index:5;
+  background:#121a27;
+  padding-bottom:10px;
+}
+
+#gmTitle{
+  font-size:28px;
+  font-weight:900;
+}
+
+#gmSub{
+  font-size:18px;
+  opacity:.9;
+  margin-top:2px;
+}
+
+#omTitle{
+  font-size:24px;
+  font-weight:900;
+}
+
+#omSub{
+  font-size:14px;
+  opacity:.8;
+  margin-top:2px;
+}
+
+#mlTitle{
+  font-size:24px;
+  font-weight:900;
+}
+
+#mlSub{
+  font-size:14px;
+  opacity:.85;
+  margin-top:2px;
+}
+
+#guildModal .modal-grid,
+#overallModal .modal-grid{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:12px;
+  margin-top:12px;
+  align-items:start;
+}
+
+#guildModal .panel,
+#overallModal .panel{
+  background:#0f1626;
+  border:1px solid #23324a;
+  border-radius:12px;
+  padding:10px;
+}
+
+#guildModal .panel-title{
+  font-weight:900;
+  margin-bottom:8px;
+  font-size:18px;
+}
+
+#overallModal .panel-title{
+  font-weight:900;
+  margin-bottom:8px;
+}
+
+#guildModal button,
+#overallModal button,
+#memberListModal button{
+  padding:8px 10px;
+  border-radius:10px;
+}
+
+#guildModal table{
+  width:100% !important;
+  border-collapse:collapse !important;
+  table-layout:fixed;
+  font-size:18px !important;
+}
+
+#guildModal th,
+#guildModal td{
+  padding:14px 16px !important;
+  font-size:18px !important;
+  text-align:center !important;
+}
+
+#guildModal thead th{
+  font-size:18px !important;
+  font-weight:900 !important;
+}
+
+#overallModal table,
+#guildModal table{
+  width:100%;
+}
+
+#memberListModal #mlTableWrap{
+  margin-top:12px;
+  overflow-x:auto;
+}
+
+#memberListModal table{
+  width:100%;
+  min-width:900px;
+  border-collapse:collapse;
+  table-layout:fixed;
+  font-size:15px;
+}
+
+#memberListModal th,
+#memberListModal td{
+  padding:10px;
+  text-align:center;
+  border-top:1px solid #23324a;
+}
+
+#memberListModal thead th{
+  border-top:none;
+}
+
+/* ====== Responsive ====== */
+@media (max-width: 720px){
+  body{
+    padding:12px;
+    max-width:100%;
+  }
+
+  h1{
+    font-size:24px;
+  }
+
+  th, td{
+    padding:6px 6px;
+    font-size:12px;
+  }
+
+  .searchForm{
+    width:100%;
+  }
+
+  #search{
+    flex:1;
+    min-width:160px;
+  }
+
+  th:nth-child(1), td:nth-child(1){ width:11%; }
+  th:nth-child(2), td:nth-child(2){ width:9%; }
+  th:nth-child(3), td:nth-child(3){ width:26%; }
+  th:nth-child(4), td:nth-child(4){ width:10%; }
+  th:nth-child(5), td:nth-child(5){ width:16%; }
+  th:nth-child(6), td:nth-child(6){ width:14%; }
+  th:nth-child(7), td:nth-child(7){ width:14%; }
+
+  #guildModal .modal-card,
+  #overallModal .modal-card,
+  #memberListModal .modal-card{
+    margin:10px auto;
+    max-width:none;
+    width:calc(100vw - 20px);
+    max-height:calc(100vh - 20px);
+  }
+
+  #guildModal .modal-grid,
+  #overallModal .modal-grid{
+    grid-template-columns:1fr;
+  }
+
+  #gmTitle{
+    font-size:22px;
+  }
+
+  #gmSub{
+    font-size:14px;
+  }
+
+  #guildModal table{
+    font-size:14px !important;
+  }
+
+  #guildModal th,
+  #guildModal td{
+    padding:10px 10px !important;
+    font-size:14px !important;
+  }
+
+  #memberListModal table{
+    min-width:720px;
+  }
+}
+</style>
+</head>
+
+<body>
+
+<h1>강모찌의 프라시아 결사 랭킹</h1>
+<div id="status"></div>
+
+<div class="controls">
+  <label>날짜</label>
+  <select id="date"></select>
+
+  <label>검색</label>
+  <form class="searchForm" id="searchForm" onsubmit="return false;">
+    <input id="search" placeholder="결사 / 서버 검색" autocomplete="off">
+    <button type="button" id="btnSearch">검색</button>
+    <button type="button" id="btnClear">초기화</button>
+  </form>
+
+  <button type="button" id="btnOverallStats">전체 통계</button>
+  <button
+  type="button"
+  onclick="window.open('https://creators.nexon.com/kr/s/pramochi%238535','_blank')"
+>
+  강모찌후원등록
+</button>
+
+<button
+  type="button"
+  onclick="window.open('https://pratlabf583-ui.github.io/skill-simulator/','_blank')"
+>
+  전승시뮬레이터
+</button>
+</div>
+
+<div class="pager" id="pager">
+  <div class="info" id="pagerInfo"></div>
+
+  <div class="size">
+    <label for="pageSize">페이지당</label>
+    <select id="pageSize">
+      <option value="50">50</option>
+      <option value="100" selected>100</option>
+      <option value="200">200</option>
+    </select>
+  </div>
+
+  <button id="btnFirst" type="button">처음</button>
+  <button id="btnPrev" type="button">이전</button>
+
+  <div class="nums" id="pagerNums"></div>
+
+  <div class="page" id="pagerPage"></div>
+
+  <button id="btnNext" type="button">다음</button>
+  <button id="btnLast" type="button">마지막</button>
+</div>
+
+<table>
+  <thead>
+    <tr>
+      <th>변동</th>
+      <th>순위</th>
+      <th>결사</th>
+      <th>인원</th>
+      <th>서버</th>
+      <th>총점</th>
+      <th>기존대비</th>
+    </tr>
+  </thead>
+  <tbody id="rank"></tbody>
+</table>
+
+<script src="./app.js?v=1"></script>
+
+<!-- 결사 상세 모달 -->
+<div id="guildModal">
+  <div class="modal-card">
+    <div class="modal-head">
+      <div>
+        <div id="gmTitle"></div>
+        <div id="gmSub"></div>
+      </div>
+      <button type="button" id="gmClose">닫기</button>
+    </div>
+
+    <div class="modal-grid">
+      <div class="panel">
+        <div class="panel-title">직업 분포</div>
+        <div id="gmClass"></div>
+      </div>
+
+      <div class="panel">
+        <div class="panel-title">토벌등급 분포</div>
+        <div id="gmGrade"></div>
+      </div>
+
+      <div class="panel">
+        <div class="panel-title">레벨 분포</div>
+        <div id="gmLevel"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 전체 통계 모달 -->
+<div id="overallModal">
+  <div class="modal-card">
+    <div class="modal-head">
+  <div>
+    <div id="omTitle">전체 통계</div>
+    <div id="omSub"></div>
+  </div>
+
+  <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap; justify-content:flex-end;">
+    <input
+      id="omSearch"
+      type="text"
+      placeholder="캐릭터 검색"
+      autocomplete="off"
+      style="min-width:220px;"
+    >
+    <button type="button" id="omSearchBtn">검색</button>
+    <button type="button" id="omSearchClear">초기화</button>
+    <button type="button" id="omClose">닫기</button>
+  </div>
+</div>
+
+    <div class="modal-grid">
+      <div class="panel">
+        <div class="panel-title">레벨별 통계</div>
+        <div id="omLevel"></div>
+      </div>
+
+      <div class="panel">
+        <div class="panel-title">토벌등급별 통계</div>
+        <div id="omGrade"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 레벨/등급별 캐릭터 목록 모달 -->
+<div id="memberListModal">
+  <div class="modal-card">
+    <div class="modal-head">
+      <div>
+        <div id="mlTitle"></div>
+        <div id="mlSub"></div>
+      </div>
+      <button type="button" id="mlClose">닫기</button>
+    </div>
+
+    <div id="mlTableWrap"></div>
+
+    <div style="display:flex; gap:8px; align-items:center; justify-content:flex-end; margin-top:12px;">
+      <button type="button" id="mlPrev">이전</button>
+      <div id="mlPageInfo" style="min-width:80px; text-align:center;"></div>
+      <button type="button" id="mlNext">다음</button>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
