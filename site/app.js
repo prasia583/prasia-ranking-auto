@@ -687,7 +687,11 @@ const lvlHtml = renderKeyValueTable(levelMap, "레벨", "인원", "guild-level")
 
 showModal(
   guildKey,
-  `${serverNorm} / ${dateKey} / 총원 ${Number(g.members || 0).toLocaleString("ko-KR")}명`,
+  {
+    server: serverNorm,
+    date: dateKey,
+    members: Number(g.members || 0)
+  },
   clsHtml,
   grdHtml,
   lvlHtml
@@ -747,8 +751,30 @@ function showModal(title, sub, clsHtml, grdHtml, lvlHtml = ""){
   const g = document.getElementById("gmGrade");
   const l = document.getElementById("gmLevel");
 
-  if (t) t.textContent = title;
-  if (s) s.textContent = sub;
+  if (t) {
+    t.innerHTML = `<span class="guild-kicker">GUILD PROFILE</span><span class="guild-name">${escapeHtml(title)}</span>`;
+  }
+  if (s) {
+    if (sub && typeof sub === "object") {
+      const cleanDate = normalizeText(sub.date).replace(/_/g, ".");
+      s.innerHTML = `
+        <div class="guild-meta-item">
+          <span class="meta-label">서버</span>
+          <strong>${escapeHtml(sub.server || "-")}</strong>
+        </div>
+        <div class="guild-meta-item">
+          <span class="meta-label">기준일</span>
+          <strong>${escapeHtml(cleanDate || "-")}</strong>
+        </div>
+        <div class="guild-member-total">
+          <span>집계 총원</span>
+          <strong>${Number(sub.members || 0).toLocaleString("ko-KR")}<em>명</em></strong>
+        </div>
+      `;
+    } else {
+      s.textContent = sub || "";
+    }
+  }
   if (c) c.innerHTML = clsHtml;
   if (g) g.innerHTML = grdHtml;
   if (l) l.innerHTML = lvlHtml;
