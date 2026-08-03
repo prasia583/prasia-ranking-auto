@@ -25,6 +25,9 @@ def main():
                 "status": response.status,
                 "content_type": content_type,
             }
+            if "/GameData/gcranking" in url:
+                item["method"] = response.request.method
+                item["post_data"] = response.request.post_data
             try:
                 body = response.text()
                 if len(body) <= 500000:
