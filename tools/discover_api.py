@@ -28,6 +28,7 @@ def main():
             if "/GameData/gcranking" in url:
                 item["method"] = response.request.method
                 item["post_data"] = response.request.post_data
+                item["request_header_names"] = sorted(response.request.headers.keys())
             try:
                 body = response.text()
                 if len(body) <= 500000:
