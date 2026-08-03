@@ -5,6 +5,7 @@ let CURRENT_GUILD_MEMBER_ROWS = [];
 
 let PAGE_SIZE = 100;
 let CURRENT_PAGE = 1;
+let SORT_MODE = "rank";
 
 let CURRENT_OVERALL_STATS = {
   label: "",
@@ -228,8 +229,24 @@ function bindSearchUI(){
 
   const serverFilter = document.getElementById("serverFilter");
   const minMembers = document.getElementById("minMembers");
+  const sortMode = document.getElementById("sortMode");
   if (serverFilter) serverFilter.addEventListener("change", () => { CURRENT_PAGE = 1; applySearch(); });
   if (minMembers) minMembers.addEventListener("change", () => { CURRENT_PAGE = 1; applySearch(); });
+  if (sortMode) {
+    SORT_MODE = sortMode.value || "rank";
+    sortMode.addEventListener("change", () => {
+      SORT_MODE = sortMode.value || "rank";
+      localStorage.setItem("prasia-sort", SORT_MODE);
+      CURRENT_PAGE = 1;
+      applySearch();
+    });
+  }
+
+  let searchTimer = 0;
+  if (input) input.addEventListener("input", () => {
+    clearTimeout(searchTimer);
+    searchTimer = setTimeout(() => { CURRENT_PAGE = 1; applySearch(); }, 180);
+  });
 
   if (form) {
     form.addEventListener("submit", (e) => {
@@ -256,9 +273,12 @@ function bindPagerUI(){
   const pagerNums = document.getElementById("pagerNums");
 
   if (pageSize) {
+    const savedSize = toNum(localStorage.getItem("prasia-page-size"));
+    if ([50,100,200].includes(savedSize)) pageSize.value = String(savedSize);
     PAGE_SIZE = toNum(pageSize.value) || 100;
     pageSize.addEventListener("change", () => {
       PAGE_SIZE = toNum(pageSize.value) || 100;
+      localStorage.setItem("prasia-page-size", String(PAGE_SIZE));
       CURRENT_PAGE = 1;
       renderCurrentPage();
     });
@@ -474,6 +494,17 @@ function applySearch(){
     const matchesMembers = toNum(x.members) >= minMembers;
     return matchesText && matchesServer && matchesMembers;
   });
+
+  const sorters = {
+    rank: (a,b) => toNum(a.curRank) - toNum(b.curRank),
+    score: (a,b) => toNum(b.total) - toNum(a.total) || toNum(a.curRank) - toNum(b.curRank),
+    members: (a,b) => toNum(b.members) - toNum(a.members) || toNum(a.curRank) - toNum(b.curRank),
+    rise: (a,b) => {
+      const rise = (row) => row.moveClass === "delta-up" ? toNum(String(row.moveText).replace(/[^0-9.-]/g,"")) : 0;
+      return rise(b) - rise(a) || toNum(a.curRank) - toNum(b.curRank);
+    }
+  };
+  FILTERED_ROWS.sort(sorters[SORT_MODE] || sorters.rank);
 
   renderCurrentPage();
 }
@@ -1368,5 +1399,63 @@ function bindScrollTop(){
   button.addEventListener("click", () => window.scrollTo({top:0, behavior:"smooth"}));
 }
 document.addEventListener("DOMContentLoaded", bindScrollTop);
+
+
+function csvCell(value){
+  return '"' + String(value ?? "").replace(/"/g, '""') + '"';
+}
+function exportFilteredRows(){
+  if (!FILTERED_ROWS.length) {
+    alert("저장할 검색 결과가 없습니다.");
+    return;
+  }
+  const header = ["순위","변동","결사","인원","서버","총점","기존대비"];
+  const lines = [header.map(csvCell).join(",")].concat(FILTERED_ROWS.map(x => [
+    x.curRank,x.moveText,x.guild,x.members,x.server,x.total,x.scoreText
+  ].map(csvCell).join(",")));
+  const blob = new Blob(["\ufeff" + lines.join("\r\n")], {type:"text/csv;charset=utf-8"});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  const date = getDateKeyFromFile(document.getElementById("date")?.value) || "ranking";
+  a.href = url;
+  a.download = "prasia_guild_ranking_" + date + ".csv";
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+  setTimeout(() => URL.revokeObjectURL(url), 1000);
+}
+function bindUtilityUI(){
+  const exportBtn = document.getElementById("btnExport");
+  const densityBtn = document.getElementById("btnDensity");
+  const sortMode = document.getElementById("sortMode");
+  if (exportBtn) exportBtn.addEventListener("click", exportFilteredRows);
+
+  const compact = localStorage.getItem("prasia-density") === "compact";
+  document.body.classList.toggle("compact-table", compact);
+  if (densityBtn) {
+    densityBtn.setAttribute("aria-pressed", String(compact));
+    densityBtn.textContent = compact ? "▤ 넓게 보기" : "▤ 촘촘히";
+    densityBtn.addEventListener("click", () => {
+      const enabled = document.body.classList.toggle("compact-table");
+      densityBtn.setAttribute("aria-pressed", String(enabled));
+      densityBtn.textContent = enabled ? "▤ 넓게 보기" : "▤ 촘촘히";
+      localStorage.setItem("prasia-density", enabled ? "compact" : "normal");
+    });
+  }
+
+  const savedSort = localStorage.getItem("prasia-sort");
+  if (sortMode && ["rank","score","members","rise"].includes(savedSort)) {
+    sortMode.value = savedSort;
+    SORT_MODE = savedSort;
+  }
+
+  document.addEventListener("keydown", (e) => {
+    if (e.key !== "Escape") return;
+    if (document.getElementById("memberListModal")?.style.display === "block") hideMemberListModal();
+    else if (document.getElementById("guildModal")?.style.display === "block") hideModal();
+    else if (document.getElementById("overallModal")?.style.display === "block") hideOverallModal();
+  });
+}
+document.addEventListener("DOMContentLoaded", bindUtilityUI);
 
 loadSnapshots();
