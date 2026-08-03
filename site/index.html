@@ -754,6 +754,35 @@ body:before{content:"";position:fixed;inset:0;pointer-events:none;z-index:-1;opa
 .youtube-arrow{margin-left:auto;font-size:22px;font-weight:900}
 @media(max-width:640px){.youtube-cta{width:100%;min-width:0;padding:12px 14px}}
 
+
+/* ====== Smooth member list scrolling ====== */
+body.member-list-open #guildModal,
+body.member-list-open #overallModal{display:none!important}
+#memberListModal{
+  overflow:hidden!important;background:rgba(3,6,11,.94)!important;
+  backdrop-filter:none!important;-webkit-backdrop-filter:none!important;
+  contain:layout paint style;
+}
+#memberListModal .modal-card{
+  display:flex;flex-direction:column;height:calc(100vh - 40px);max-height:calc(100vh - 40px);
+  overflow:hidden!important;transform:translateZ(0);backface-visibility:hidden;
+  box-shadow:0 20px 60px rgba(0,0,0,.42)!important;
+}
+#memberListModal .modal-head{flex:0 0 auto;position:relative!important;top:auto!important;padding-bottom:14px;border-bottom:1px solid #23324a}
+#memberListModal #mlTableWrap{
+  flex:1 1 auto;min-height:0;overflow:auto!important;margin-top:0!important;
+  overscroll-behavior:contain;scrollbar-gutter:stable;
+  contain:layout paint style;
+  -webkit-overflow-scrolling:touch;
+}
+#memberListModal #mlTableWrap table{transform:translateZ(0)}
+#memberListModal #mlTableWrap tbody tr{transition:none!important;contain:layout style paint}
+#memberListModal #mlTableWrap td,#memberListModal #mlTableWrap th{background-clip:padding-box}
+#memberListModal .modal-card>div:last-child{flex:0 0 auto;padding-top:10px;margin-top:0!important;border-top:1px solid #23324a;background:#121a27}
+@media(max-width:640px){
+  #memberListModal .modal-card{height:calc(100vh - 16px);max-height:calc(100vh - 16px)}
+}
+
 </style>
 </head>
 
