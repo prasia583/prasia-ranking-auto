@@ -1291,12 +1291,12 @@ let html = `
       <table style="width:100%; border-collapse:collapse; font-size:15px; table-layout:fixed;">
         <thead>
           <tr>
-            <th style="padding:10px; text-align:center; width:260px;">닉네임</th>
-            <th style="padding:10px; text-align:center;">결사</th>
-            <th style="padding:10px; text-align:center;">서버</th>
-            <th style="padding:10px; text-align:center;">직업</th>
-            <th style="padding:10px; text-align:center;">레벨</th>
-            <th style="padding:10px; text-align:center;">토벌등급</th>
+            <th style="padding:10px; text-align:center; width:18%;">서버</th>
+            <th style="padding:10px; text-align:center; width:18%;">결사</th>
+            <th style="padding:10px; text-align:center; width:24%;">닉네임</th>
+            <th style="padding:10px; text-align:center; width:18%;">직업</th>
+            <th style="padding:10px; text-align:center; width:10%;">레벨</th>
+            <th style="padding:10px; text-align:center; width:12%;">토벌등급</th>
           </tr>
         </thead>
         <tbody>
@@ -1305,6 +1305,8 @@ let html = `
     for (const row of pageRows){
       html += `
         <tr>
+          <td style="padding:10px; border-top:1px solid #23324a; text-align:center;">${escapeHtml(row.server || "")}</td>
+          <td style="padding:10px; border-top:1px solid #23324a; text-align:center;">${escapeHtml(row.guild || "")}</td>
           <td
             title="${escapeHtml(row.nickname || "")}"
             style="
@@ -1317,8 +1319,6 @@ let html = `
               max-width:0;
             "
           >${escapeHtml(row.nickname || "")}</td>
-          <td style="padding:10px; border-top:1px solid #23324a; text-align:center;">${escapeHtml(row.guild || "")}</td>
-          <td style="padding:10px; border-top:1px solid #23324a; text-align:center;">${escapeHtml(row.server || "")}</td>
           <td style="padding:10px; border-top:1px solid #23324a; text-align:center;">${escapeHtml(row.class || "")}</td>
           <td style="padding:10px; border-top:1px solid #23324a; text-align:center;">${escapeHtml(String(row.level || ""))}</td>
           <td style="padding:10px; border-top:1px solid #23324a; text-align:center;">${escapeHtml(String(row.grade || ""))}</td>
