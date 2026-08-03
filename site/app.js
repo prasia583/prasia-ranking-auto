@@ -1401,35 +1401,9 @@ function bindScrollTop(){
 document.addEventListener("DOMContentLoaded", bindScrollTop);
 
 
-function csvCell(value){
-  return '"' + String(value ?? "").replace(/"/g, '""') + '"';
-}
-function exportFilteredRows(){
-  if (!FILTERED_ROWS.length) {
-    alert("저장할 검색 결과가 없습니다.");
-    return;
-  }
-  const header = ["순위","변동","결사","인원","서버","총점","기존대비"];
-  const lines = [header.map(csvCell).join(",")].concat(FILTERED_ROWS.map(x => [
-    x.curRank,x.moveText,x.guild,x.members,x.server,x.total,x.scoreText
-  ].map(csvCell).join(",")));
-  const blob = new Blob(["\ufeff" + lines.join("\r\n")], {type:"text/csv;charset=utf-8"});
-  const url = URL.createObjectURL(blob);
-  const a = document.createElement("a");
-  const date = getDateKeyFromFile(document.getElementById("date")?.value) || "ranking";
-  a.href = url;
-  a.download = "prasia_guild_ranking_" + date + ".csv";
-  document.body.appendChild(a);
-  a.click();
-  a.remove();
-  setTimeout(() => URL.revokeObjectURL(url), 1000);
-}
 function bindUtilityUI(){
-  const exportBtn = document.getElementById("btnExport");
   const densityBtn = document.getElementById("btnDensity");
   const sortMode = document.getElementById("sortMode");
-  if (exportBtn) exportBtn.addEventListener("click", exportFilteredRows);
-
   const compact = localStorage.getItem("prasia-density") === "compact";
   document.body.classList.toggle("compact-table", compact);
   if (densityBtn) {
