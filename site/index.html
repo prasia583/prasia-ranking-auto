@@ -873,6 +873,86 @@ body.compact-table #rank tr{contain-intrinsic-size:auto 38px}
 @media(min-width:761px){.hero-actions{max-width:1040px}.hero-actions>a{flex-basis:245px}}
 @media(max-width:1100px) and (min-width:761px){.hero-actions strong{font-size:14px!important}.hero-actions small{font-size:9px!important}}
 
+
+/* ====== Overall statistics modal layout fix ====== */
+#overallModal{
+  overflow:hidden;
+  backdrop-filter:blur(10px);
+  background:rgba(2,4,8,.84);
+}
+#overallModal .modal-card{
+  display:flex;
+  flex-direction:column;
+  overflow:hidden;
+}
+#overallModal .modal-head{
+  flex:0 0 auto;
+}
+#overallModal .modal-grid{
+  grid-template-columns:minmax(0,1fr) minmax(0,1fr);
+  min-height:0;
+  overflow:hidden;
+}
+#overallModal .panel{
+  min-width:0;
+  overflow:hidden;
+}
+#overallModal #omLevel,
+#overallModal #omGrade{
+  max-height:calc(100vh - 190px);
+  overflow:auto;
+  scrollbar-gutter:stable;
+}
+#overallModal table{
+  width:100%!important;
+  min-width:0!important;
+  table-layout:fixed!important;
+}
+#overallModal th,
+#overallModal td{
+  width:auto!important;
+  min-width:0!important;
+  padding:10px!important;
+  text-align:center!important;
+}
+#overallModal th:nth-child(1),
+#overallModal td:nth-child(1){width:34%!important}
+#overallModal th:nth-child(2),
+#overallModal td:nth-child(2),
+#overallModal th:nth-child(3),
+#overallModal td:nth-child(3){width:33%!important}
+@media(max-width:720px){
+  #overallModal{padding:8px}
+  #overallModal .modal-card{
+    width:calc(100vw - 16px);
+    max-height:calc(100vh - 16px);
+    margin:0 auto;
+  }
+  #overallModal .modal-head{
+    position:relative;
+    align-items:flex-start;
+    flex-direction:column;
+  }
+  #overallModal .modal-head>div:last-child{
+    width:100%;
+    justify-content:flex-start!important;
+  }
+  #overallModal #omSearch{
+    flex:1 1 100%;
+    min-width:0!important;
+    width:100%;
+  }
+  #overallModal .modal-grid{
+    grid-template-columns:minmax(0,1fr);
+    overflow:auto;
+  }
+  #overallModal #omLevel,
+  #overallModal #omGrade{
+    max-height:none;
+    overflow:visible;
+  }
+}
+
 </style>
 </head>
 
