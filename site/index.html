@@ -568,8 +568,31 @@ tbody tr.rank-3{background:linear-gradient(90deg,rgba(205,126,74,.09),transparen
 
 <body>
 
-<h1>강모찌의 프라시아 결사 랭킹</h1>
-<div id="status"></div>
+<header class="hero">
+  <div class="hero-copy">
+    <div class="eyebrow"><span class="live-dot"></span> NEXON DATA · AUTO UPDATE</div>
+    <h1>강모찌의 프라시아<br><span>자동 결사 랭킹</span></h1>
+    <p>전 서버·전 직업 랭킹을 매일 자동 집계합니다. 결사를 눌러 구성원과 직업·등급 분포를 확인하세요.</p>
+  </div>
+  <div class="hero-side">
+    <div class="update-label">마지막 데이터 갱신</div>
+    <div id="lastUpdated" class="update-value">불러오는 중</div>
+    <div id="status" class="status-pill">데이터 연결 중</div>
+  </div>
+</header>
+
+<section class="summary-grid" aria-label="랭킹 요약">
+  <article class="summary-card"><span>집계 결사</span><strong id="summaryGuilds">-</strong><small>검색 가능한 전체 결사</small></article>
+  <article class="summary-card"><span>집계 캐릭터</span><strong id="summaryCharacters">-</strong><small>직업별 랭킹 중복 제거</small></article>
+  <article class="summary-card"><span>활성 서버</span><strong id="summaryServers">-</strong><small>현재 데이터가 있는 서버</small></article>
+  <article class="summary-card accent"><span>현재 1위</span><strong id="summaryTopGuild">-</strong><small id="summaryTopServer">-</small></article>
+</section>
+
+<section class="ranking-panel">
+  <div class="panel-heading">
+    <div><span class="section-kicker">RANKING BOARD</span><h2>결사 통합 순위</h2></div>
+    <div class="legend"><span class="up">▲ 상승</span><span class="down">▼ 하락</span><span>NEW 신규</span></div>
+  </div>
 
 <div class="controls">
   <label>날짜</label>
