@@ -737,6 +737,23 @@ body:before{content:"";position:fixed;inset:0;pointer-events:none;z-index:-1;opa
 .tool-link-arrow{margin-left:2px;color:#bf9b54}
 @media(max-width:640px){.tool-link{width:100%;justify-content:flex-start}.tool-link-arrow{margin-left:auto}}
 
+
+.youtube-cta{
+  position:relative;z-index:3;display:flex;align-items:center;gap:13px;width:max-content;
+  min-width:340px;margin-top:10px;padding:12px 16px;border:1px solid rgba(255,104,104,.48);
+  border-radius:15px;text-decoration:none;color:#fff;
+  background:linear-gradient(135deg,rgba(214,27,42,.94),rgba(133,12,24,.94));
+  box-shadow:0 12px 32px rgba(177,17,31,.24),inset 0 1px 0 rgba(255,255,255,.16);
+  transition:transform .2s ease,box-shadow .2s ease,filter .2s ease;
+}
+.youtube-cta:hover{transform:translateY(-3px);filter:brightness(1.1);box-shadow:0 18px 42px rgba(195,20,35,.36),inset 0 1px 0 rgba(255,255,255,.2)}
+.youtube-icon{display:grid;place-items:center;width:39px;height:31px;flex:none;border-radius:9px;background:#fff}
+.play-mark{width:0;height:0;margin-left:3px;border-top:7px solid transparent;border-bottom:7px solid transparent;border-left:11px solid #d61b2a}
+.youtube-copy{display:flex;flex-direction:column;gap:3px;line-height:1.2}
+.youtube-copy strong{font-size:16px;font-weight:950}.youtube-copy small{font-size:10px;color:rgba(255,255,255,.72)}
+.youtube-arrow{margin-left:auto;font-size:22px;font-weight:900}
+@media(max-width:640px){.youtube-cta{width:100%;min-width:0;padding:12px 14px}}
+
 </style>
 </head>
 
@@ -751,6 +768,11 @@ body:before{content:"";position:fixed;inset:0;pointer-events:none;z-index:-1;opa
       <span class="support-icon">★</span>
       <span class="support-copy"><strong>강모찌 후원 등록</strong><small>프라시아 전기 공식 크리에이터 후원하기</small></span>
       <span class="support-arrow">→</span>
+    </a>
+    <a class="youtube-cta" href="https://www.youtube.com/@pramochi" target="_blank" rel="noopener noreferrer">
+      <span class="youtube-icon"><span class="play-mark"></span></span>
+      <span class="youtube-copy"><strong>강모찌 유튜브</strong><small>게임 영상·공략 보러가기</small></span>
+      <span class="youtube-arrow">→</span>
     </a>
   </div>
   <div class="hero-side">
