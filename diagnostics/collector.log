@@ -1,6 +1,6 @@
 Traceback (most recent call last):
-  File "/home/runner/work/prasia-ranking-auto/prasia-ranking-auto/tools/collect_rankings.py", line 219, in <module>
+  File "/home/runner/work/prasia-ranking-auto/prasia-ranking-auto/tools/collect_rankings.py", line 227, in <module>
     build()
-  File "/home/runner/work/prasia-ranking-auto/prasia-ranking-auto/tools/collect_rankings.py", line 113, in build
+  File "/home/runner/work/prasia-ranking-auto/prasia-ranking-auto/tools/collect_rankings.py", line 121, in build
     raise RuntimeError(
 RuntimeError: 수집 데이터가 비정상적으로 적어 기존 스냅샷을 보존합니다: 0개 서버, 0명
