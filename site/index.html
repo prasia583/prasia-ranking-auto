@@ -563,6 +563,54 @@ tbody tr.rank-3{background:linear-gradient(90deg,rgba(205,126,74,.09),transparen
   .pager .nums{order:5;width:100%}.scroll-top{right:14px;bottom:14px}
 }
 
+
+/* ====== Prasia Artwork Theme ====== */
+:root{--cyan:#d9b56d;--blue:#8298ad;--gold:#d9b56d;--green:#85c8aa}
+body{
+  background:
+    linear-gradient(180deg,rgba(4,6,10,.2),#07090e 520px),
+    radial-gradient(circle at 50% -100px,rgba(191,148,77,.18),transparent 560px),
+    #07090e;
+}
+.hero{
+  min-height:430px;align-items:flex-end;padding:46px 48px;
+  background-image:
+    linear-gradient(90deg,rgba(3,5,9,.94) 0%,rgba(4,7,12,.72) 35%,rgba(4,7,12,.22) 69%,rgba(3,5,9,.74) 100%),
+    linear-gradient(0deg,rgba(4,6,10,.92) 0%,transparent 55%),
+    url("./assets/prasia-hero.webp");
+  background-size:cover;background-position:center 40%;border-color:rgba(217,181,109,.32);
+  box-shadow:0 28px 90px rgba(0,0,0,.6),inset 0 0 0 1px rgba(255,255,255,.03);
+}
+.hero:before{
+  content:"";position:absolute;inset:0;pointer-events:none;
+  background:linear-gradient(135deg,rgba(217,181,109,.08),transparent 30% 70%,rgba(96,171,184,.06));
+}
+.hero:after{width:440px;height:440px;right:-110px;top:-180px;background:radial-gradient(circle,rgba(225,182,94,.15),transparent 67%)}
+.hero-copy{position:relative;z-index:2;max-width:720px}
+.eyebrow,.section-kicker{color:#e6c982;text-shadow:0 2px 18px rgba(0,0,0,.8)}
+.hero h1{font-family:"Noto Serif KR","Nanum Myeongjo",serif;font-size:52px;text-shadow:0 4px 30px rgba(0,0,0,.9)}
+.hero h1 span{color:#ebcd87;background:linear-gradient(180deg,#fff1c8,#b88738);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+.hero p{color:#d5d8dd;text-shadow:0 2px 14px #000}
+.hero-side{background:rgba(8,12,18,.66);backdrop-filter:blur(12px);border:1px solid rgba(217,181,109,.25);border-radius:16px;padding:20px;box-shadow:0 16px 40px rgba(0,0,0,.32)}
+.status-pill{background:rgba(217,181,109,.12);color:#efd18b;border:1px solid rgba(217,181,109,.24)}
+.summary-card{background:linear-gradient(155deg,rgba(25,29,37,.96),rgba(10,14,21,.96));border-color:rgba(190,159,100,.18)}
+.summary-card:before{content:"";display:block;width:32px;height:2px;background:linear-gradient(90deg,#d9b56d,transparent);margin-bottom:12px}
+.summary-card.accent{border-color:rgba(217,181,109,.38);background:linear-gradient(145deg,rgba(91,64,31,.58),rgba(13,18,26,.97))}
+.summary-card.accent strong{color:#f0cf84}
+.ranking-panel{border-color:rgba(217,181,109,.2);background:linear-gradient(180deg,rgba(16,20,28,.97),rgba(8,12,18,.97))}
+.rank-1 .rank-badge{background:linear-gradient(145deg,#f6dda0,#b68232)}
+.scroll-top{background:linear-gradient(145deg,#f2d38e,#b98538)}
+@media(max-width:640px){
+  .hero{
+    min-height:520px;padding:24px;background-image:
+      linear-gradient(0deg,rgba(4,6,10,.96) 0%,rgba(4,6,10,.7) 48%,rgba(4,6,10,.18) 78%,rgba(4,6,10,.2) 100%),
+      url("./assets/prasia-hero-mobile.webp");
+    background-position:center 25%;
+  }
+  .hero-copy{padding-top:250px}.hero h1{font-size:34px}.hero p{font-size:13px}
+  .hero-side{background:rgba(6,9,14,.78)}
+}
+
 </style>
 </head>
 
