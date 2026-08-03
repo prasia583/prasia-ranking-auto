@@ -25,8 +25,12 @@ CLASS_NAMES = {
     "SolarSentinel":"태양감시자","MirageBlade":"환영검사",
     "IncenseArcher":"향사수","RuneScribe":"주문각인사","Enforcer":"집행관",
 }
+CLASS_SLUGS = [
+    "wildwarrior", "abyssrevenant", "solarsentinel", "mirageblade",
+    "incensearcher", "runescribe", "enforcer",
+]
 
-def fetch_server(page, auth_headers, world_no, realm_no):
+def fetch_server(page, auth_headers, world_no, realm_no, class_slug):
     group = f"LIVE_W{world_no:02d}"
     world = f"{group}_R{realm_no}"
     result = page.evaluate(
@@ -38,7 +42,7 @@ def fetch_server(page, auth_headers, world_no, realm_no):
           });
           return {status: response.status, text: await response.text()};
         }""",
-        {"api": API, "payload": {"world_id": world, "world_group_id": group}, "authHeaders": auth_headers},
+        {"api": API, "payload": {"world_id": world, "world_group_id": group, "class": class_slug}, "authHeaders": auth_headers},
     )
     if result["status"] != 200:
         raise RuntimeError(f"HTTP {result['status']}")
@@ -61,6 +65,9 @@ def member_row(raw, server):
         "level": int(raw.get("gc_level") or 0),
         "server": server,
     }
+
+def exponential_score(value, baseline):
+    return 0 if value < baseline else 2 ** (value - baseline)
 
 def sorted_members(rows):
     return sorted(rows, key=lambda x: (-x["grade"], -x["level"], x["nickname"]))
@@ -101,26 +108,23 @@ def build():
     failures = []
     active_servers = 0
     for world_no, world_name in WORLD_NAMES.items():
-        empty_streak = 0
         for realm_no in range(1, 6):
-            try:
-                raw_rows = fetch_server(page, auth_headers, world_no, realm_no)
-            except Exception as exc:
-                failures.append(f"W{world_no:02d}_R{realm_no}: {exc}")
-                empty_streak += 1
-                if realm_no >= 5 and empty_streak >= 3:
-                    break
+            server_rows = []
+            for class_slug in CLASS_SLUGS:
+                try:
+                    server_rows.extend(
+                        fetch_server(page, auth_headers, world_no, realm_no, class_slug)
+                    )
+                except Exception as exc:
+                    failures.append(
+                        f"W{world_no:02d}_R{realm_no}_{class_slug}: {exc}"
+                    )
+                time.sleep(0.05)
+            if not server_rows:
                 continue
-            if not raw_rows:
-                empty_streak += 1
-                if realm_no >= 5 and empty_streak >= 3:
-                    break
-                continue
-            empty_streak = 0
             active_servers += 1
             server = f"{world_name} {realm_no:02d}"
-            all_members.extend(member_row(row, server) for row in raw_rows)
-            time.sleep(0.15)
+            all_members.extend(member_row(row, server) for row in server_rows)
 
     browser.close()
     playwright.stop()
@@ -144,8 +148,8 @@ def build():
 
     ranking = []
     for (guild, server), members in guild_members.items():
-        level_score = sum(x["level"] for x in members)
-        hunt_score = sum(x["grade"] for x in members)
+        level_score = sum(exponential_score(x["level"], 80) for x in members)
+        hunt_score = sum(exponential_score(x["grade"], 15) for x in members)
         ranking.append({
             "rank": 0,
             "guild": guild,
