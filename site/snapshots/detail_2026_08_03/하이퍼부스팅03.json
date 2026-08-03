@@ -1,0 +1,2026 @@
+{
+  "server": "하이퍼부스팅 03",
+  "guilds": {
+    "악마성": {
+      "members": 2,
+      "byClass": {
+        "심연추방자": 1,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "15": 1,
+        "13": 1
+      },
+      "membersList": [
+        {
+          "nickname": "마녀",
+          "guild": "악마성",
+          "class": "심연추방자",
+          "grade": 15,
+          "level": 76,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "문샤넬",
+          "guild": "악마성",
+          "class": "환영검사",
+          "grade": 13,
+          "level": 72,
+          "server": "하이퍼부스팅 03"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "마녀",
+            "guild": "악마성",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 76,
+            "server": "하이퍼부스팅 03"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "문샤넬",
+            "guild": "악마성",
+            "class": "환영검사",
+            "grade": 13,
+            "level": 72,
+            "server": "하이퍼부스팅 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "15": [
+          {
+            "nickname": "마녀",
+            "guild": "악마성",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 76,
+            "server": "하이퍼부스팅 03"
+          }
+        ],
+        "13": [
+          {
+            "nickname": "문샤넬",
+            "guild": "악마성",
+            "class": "환영검사",
+            "grade": 13,
+            "level": 72,
+            "server": "하이퍼부스팅 03"
+          }
+        ]
+      }
+    },
+    "즐겜": {
+      "members": 31,
+      "byClass": {
+        "심연추방자": 12,
+        "환영검사": 8,
+        "주문각인사": 6,
+        "집행관": 2,
+        "향사수": 2,
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "14": 7,
+        "13": 6,
+        "12": 3,
+        "11": 4,
+        "10": 7,
+        "9": 2,
+        "8": 1,
+        "4": 1
+      },
+      "membersList": [
+        {
+          "nickname": "아핡",
+          "guild": "즐겜",
+          "class": "주문각인사",
+          "grade": 14,
+          "level": 75,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "홍시",
+          "guild": "즐겜",
+          "class": "환영검사",
+          "grade": 14,
+          "level": 75,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "이그리트",
+          "guild": "즐겜",
+          "class": "집행관",
+          "grade": 14,
+          "level": 74,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "도널드트럼프",
+          "guild": "즐겜",
+          "class": "환영검사",
+          "grade": 14,
+          "level": 73,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "주문각인사",
+          "guild": "즐겜",
+          "class": "주문각인사",
+          "grade": 14,
+          "level": 73,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "선화",
+          "guild": "즐겜",
+          "class": "심연추방자",
+          "grade": 14,
+          "level": 72,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "츄츄",
+          "guild": "즐겜",
+          "class": "심연추방자",
+          "grade": 14,
+          "level": 72,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "깐도리",
+          "guild": "즐겜",
+          "class": "심연추방자",
+          "grade": 13,
+          "level": 73,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "노을",
+          "guild": "즐겜",
+          "class": "환영검사",
+          "grade": 13,
+          "level": 72,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "대행수",
+          "guild": "즐겜",
+          "class": "환영검사",
+          "grade": 13,
+          "level": 72,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "마루낑낑",
+          "guild": "즐겜",
+          "class": "태양감시자",
+          "grade": 13,
+          "level": 72,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "심이사",
+          "guild": "즐겜",
+          "class": "주문각인사",
+          "grade": 13,
+          "level": 72,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "포카칩",
+          "guild": "즐겜",
+          "class": "집행관",
+          "grade": 13,
+          "level": 72,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "미후",
+          "guild": "즐겜",
+          "class": "심연추방자",
+          "grade": 12,
+          "level": 72,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "건방진서방",
+          "guild": "즐겜",
+          "class": "주문각인사",
+          "grade": 12,
+          "level": 71,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "차노스",
+          "guild": "즐겜",
+          "class": "환영검사",
+          "grade": 12,
+          "level": 70,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "술이야",
+          "guild": "즐겜",
+          "class": "심연추방자",
+          "grade": 11,
+          "level": 70,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "우우",
+          "guild": "즐겜",
+          "class": "심연추방자",
+          "grade": 11,
+          "level": 69,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "차범근",
+          "guild": "즐겜",
+          "class": "심연추방자",
+          "grade": 11,
+          "level": 69,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "아핡핡",
+          "guild": "즐겜",
+          "class": "주문각인사",
+          "grade": 11,
+          "level": 68,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "Belle",
+          "guild": "즐겜",
+          "class": "심연추방자",
+          "grade": 10,
+          "level": 70,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "추방",
+          "guild": "즐겜",
+          "class": "심연추방자",
+          "grade": 10,
+          "level": 70,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "설린",
+          "guild": "즐겜",
+          "class": "향사수",
+          "grade": 10,
+          "level": 68,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "집행관",
+          "guild": "즐겜",
+          "class": "환영검사",
+          "grade": 10,
+          "level": 68,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "치즈",
+          "guild": "즐겜",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 68,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "해성",
+          "guild": "즐겜",
+          "class": "심연추방자",
+          "grade": 10,
+          "level": 67,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "샤루리",
+          "guild": "즐겜",
+          "class": "심연추방자",
+          "grade": 10,
+          "level": 66,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "화살한방찍",
+          "guild": "즐겜",
+          "class": "향사수",
+          "grade": 9,
+          "level": 70,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "퇴근하고싶다",
+          "guild": "즐겜",
+          "class": "심연추방자",
+          "grade": 9,
+          "level": 67,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "스윙칩",
+          "guild": "즐겜",
+          "class": "환영검사",
+          "grade": 8,
+          "level": 66,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "홍량주",
+          "guild": "즐겜",
+          "class": "환영검사",
+          "grade": 4,
+          "level": 67,
+          "server": "하이퍼부스팅 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "홍시",
+            "guild": "즐겜",
+            "class": "환영검사",
+            "grade": 14,
+            "level": 75,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "도널드트럼프",
+            "guild": "즐겜",
+            "class": "환영검사",
+            "grade": 14,
+            "level": 73,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "노을",
+            "guild": "즐겜",
+            "class": "환영검사",
+            "grade": 13,
+            "level": 72,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "대행수",
+            "guild": "즐겜",
+            "class": "환영검사",
+            "grade": 13,
+            "level": 72,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "차노스",
+            "guild": "즐겜",
+            "class": "환영검사",
+            "grade": 12,
+            "level": 70,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "집행관",
+            "guild": "즐겜",
+            "class": "환영검사",
+            "grade": 10,
+            "level": 68,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "스윙칩",
+            "guild": "즐겜",
+            "class": "환영검사",
+            "grade": 8,
+            "level": 66,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "홍량주",
+            "guild": "즐겜",
+            "class": "환영검사",
+            "grade": 4,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "아핡",
+            "guild": "즐겜",
+            "class": "주문각인사",
+            "grade": 14,
+            "level": 75,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "주문각인사",
+            "guild": "즐겜",
+            "class": "주문각인사",
+            "grade": 14,
+            "level": 73,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "심이사",
+            "guild": "즐겜",
+            "class": "주문각인사",
+            "grade": 13,
+            "level": 72,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "건방진서방",
+            "guild": "즐겜",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 71,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "아핡핡",
+            "guild": "즐겜",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 68,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "치즈",
+            "guild": "즐겜",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 68,
+            "server": "하이퍼부스팅 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "이그리트",
+            "guild": "즐겜",
+            "class": "집행관",
+            "grade": 14,
+            "level": 74,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "포카칩",
+            "guild": "즐겜",
+            "class": "집행관",
+            "grade": 13,
+            "level": 72,
+            "server": "하이퍼부스팅 03"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "선화",
+            "guild": "즐겜",
+            "class": "심연추방자",
+            "grade": 14,
+            "level": 72,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "츄츄",
+            "guild": "즐겜",
+            "class": "심연추방자",
+            "grade": 14,
+            "level": 72,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "깐도리",
+            "guild": "즐겜",
+            "class": "심연추방자",
+            "grade": 13,
+            "level": 73,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "미후",
+            "guild": "즐겜",
+            "class": "심연추방자",
+            "grade": 12,
+            "level": 72,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "술이야",
+            "guild": "즐겜",
+            "class": "심연추방자",
+            "grade": 11,
+            "level": 70,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "우우",
+            "guild": "즐겜",
+            "class": "심연추방자",
+            "grade": 11,
+            "level": 69,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "차범근",
+            "guild": "즐겜",
+            "class": "심연추방자",
+            "grade": 11,
+            "level": 69,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "Belle",
+            "guild": "즐겜",
+            "class": "심연추방자",
+            "grade": 10,
+            "level": 70,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "추방",
+            "guild": "즐겜",
+            "class": "심연추방자",
+            "grade": 10,
+            "level": 70,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "해성",
+            "guild": "즐겜",
+            "class": "심연추방자",
+            "grade": 10,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "샤루리",
+            "guild": "즐겜",
+            "class": "심연추방자",
+            "grade": 10,
+            "level": 66,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "퇴근하고싶다",
+            "guild": "즐겜",
+            "class": "심연추방자",
+            "grade": 9,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "마루낑낑",
+            "guild": "즐겜",
+            "class": "태양감시자",
+            "grade": 13,
+            "level": 72,
+            "server": "하이퍼부스팅 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "설린",
+            "guild": "즐겜",
+            "class": "향사수",
+            "grade": 10,
+            "level": 68,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "화살한방찍",
+            "guild": "즐겜",
+            "class": "향사수",
+            "grade": 9,
+            "level": 70,
+            "server": "하이퍼부스팅 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "14": [
+          {
+            "nickname": "아핡",
+            "guild": "즐겜",
+            "class": "주문각인사",
+            "grade": 14,
+            "level": 75,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "홍시",
+            "guild": "즐겜",
+            "class": "환영검사",
+            "grade": 14,
+            "level": 75,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "이그리트",
+            "guild": "즐겜",
+            "class": "집행관",
+            "grade": 14,
+            "level": 74,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "도널드트럼프",
+            "guild": "즐겜",
+            "class": "환영검사",
+            "grade": 14,
+            "level": 73,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "주문각인사",
+            "guild": "즐겜",
+            "class": "주문각인사",
+            "grade": 14,
+            "level": 73,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "선화",
+            "guild": "즐겜",
+            "class": "심연추방자",
+            "grade": 14,
+            "level": 72,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "츄츄",
+            "guild": "즐겜",
+            "class": "심연추방자",
+            "grade": 14,
+            "level": 72,
+            "server": "하이퍼부스팅 03"
+          }
+        ],
+        "13": [
+          {
+            "nickname": "깐도리",
+            "guild": "즐겜",
+            "class": "심연추방자",
+            "grade": 13,
+            "level": 73,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "노을",
+            "guild": "즐겜",
+            "class": "환영검사",
+            "grade": 13,
+            "level": 72,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "대행수",
+            "guild": "즐겜",
+            "class": "환영검사",
+            "grade": 13,
+            "level": 72,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "마루낑낑",
+            "guild": "즐겜",
+            "class": "태양감시자",
+            "grade": 13,
+            "level": 72,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "심이사",
+            "guild": "즐겜",
+            "class": "주문각인사",
+            "grade": 13,
+            "level": 72,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "포카칩",
+            "guild": "즐겜",
+            "class": "집행관",
+            "grade": 13,
+            "level": 72,
+            "server": "하이퍼부스팅 03"
+          }
+        ],
+        "12": [
+          {
+            "nickname": "미후",
+            "guild": "즐겜",
+            "class": "심연추방자",
+            "grade": 12,
+            "level": 72,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "건방진서방",
+            "guild": "즐겜",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 71,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "차노스",
+            "guild": "즐겜",
+            "class": "환영검사",
+            "grade": 12,
+            "level": 70,
+            "server": "하이퍼부스팅 03"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "Belle",
+            "guild": "즐겜",
+            "class": "심연추방자",
+            "grade": 10,
+            "level": 70,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "추방",
+            "guild": "즐겜",
+            "class": "심연추방자",
+            "grade": 10,
+            "level": 70,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "설린",
+            "guild": "즐겜",
+            "class": "향사수",
+            "grade": 10,
+            "level": 68,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "집행관",
+            "guild": "즐겜",
+            "class": "환영검사",
+            "grade": 10,
+            "level": 68,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "치즈",
+            "guild": "즐겜",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 68,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "해성",
+            "guild": "즐겜",
+            "class": "심연추방자",
+            "grade": 10,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "샤루리",
+            "guild": "즐겜",
+            "class": "심연추방자",
+            "grade": 10,
+            "level": 66,
+            "server": "하이퍼부스팅 03"
+          }
+        ],
+        "9": [
+          {
+            "nickname": "화살한방찍",
+            "guild": "즐겜",
+            "class": "향사수",
+            "grade": 9,
+            "level": 70,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "퇴근하고싶다",
+            "guild": "즐겜",
+            "class": "심연추방자",
+            "grade": 9,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          }
+        ],
+        "11": [
+          {
+            "nickname": "술이야",
+            "guild": "즐겜",
+            "class": "심연추방자",
+            "grade": 11,
+            "level": 70,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "우우",
+            "guild": "즐겜",
+            "class": "심연추방자",
+            "grade": 11,
+            "level": 69,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "차범근",
+            "guild": "즐겜",
+            "class": "심연추방자",
+            "grade": 11,
+            "level": 69,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "아핡핡",
+            "guild": "즐겜",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 68,
+            "server": "하이퍼부스팅 03"
+          }
+        ],
+        "4": [
+          {
+            "nickname": "홍량주",
+            "guild": "즐겜",
+            "class": "환영검사",
+            "grade": 4,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "스윙칩",
+            "guild": "즐겜",
+            "class": "환영검사",
+            "grade": 8,
+            "level": 66,
+            "server": "하이퍼부스팅 03"
+          }
+        ]
+      }
+    },
+    "초록": {
+      "members": 4,
+      "byClass": {
+        "심연추방자": 2,
+        "환영검사": 1,
+        "집행관": 1
+      },
+      "byGrade": {
+        "13": 1,
+        "10": 1,
+        "9": 1,
+        "8": 1
+      },
+      "membersList": [
+        {
+          "nickname": "아유",
+          "guild": "초록",
+          "class": "환영검사",
+          "grade": 13,
+          "level": 72,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "형와따",
+          "guild": "초록",
+          "class": "심연추방자",
+          "grade": 10,
+          "level": 70,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "므요",
+          "guild": "초록",
+          "class": "집행관",
+          "grade": 9,
+          "level": 67,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "한타",
+          "guild": "초록",
+          "class": "심연추방자",
+          "grade": 8,
+          "level": 66,
+          "server": "하이퍼부스팅 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "아유",
+            "guild": "초록",
+            "class": "환영검사",
+            "grade": 13,
+            "level": 72,
+            "server": "하이퍼부스팅 03"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "형와따",
+            "guild": "초록",
+            "class": "심연추방자",
+            "grade": 10,
+            "level": 70,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "한타",
+            "guild": "초록",
+            "class": "심연추방자",
+            "grade": 8,
+            "level": 66,
+            "server": "하이퍼부스팅 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "므요",
+            "guild": "초록",
+            "class": "집행관",
+            "grade": 9,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "13": [
+          {
+            "nickname": "아유",
+            "guild": "초록",
+            "class": "환영검사",
+            "grade": 13,
+            "level": 72,
+            "server": "하이퍼부스팅 03"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "형와따",
+            "guild": "초록",
+            "class": "심연추방자",
+            "grade": 10,
+            "level": 70,
+            "server": "하이퍼부스팅 03"
+          }
+        ],
+        "9": [
+          {
+            "nickname": "므요",
+            "guild": "초록",
+            "class": "집행관",
+            "grade": 9,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "한타",
+            "guild": "초록",
+            "class": "심연추방자",
+            "grade": 8,
+            "level": 66,
+            "server": "하이퍼부스팅 03"
+          }
+        ]
+      }
+    },
+    "광명": {
+      "members": 2,
+      "byClass": {
+        "향사수": 1,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "12": 1,
+        "10": 1
+      },
+      "membersList": [
+        {
+          "nickname": "방패왕",
+          "guild": "광명",
+          "class": "향사수",
+          "grade": 12,
+          "level": 72,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "맥아더",
+          "guild": "광명",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 69,
+          "server": "하이퍼부스팅 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "방패왕",
+            "guild": "광명",
+            "class": "향사수",
+            "grade": 12,
+            "level": 72,
+            "server": "하이퍼부스팅 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "맥아더",
+            "guild": "광명",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 69,
+            "server": "하이퍼부스팅 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "12": [
+          {
+            "nickname": "방패왕",
+            "guild": "광명",
+            "class": "향사수",
+            "grade": 12,
+            "level": 72,
+            "server": "하이퍼부스팅 03"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "맥아더",
+            "guild": "광명",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 69,
+            "server": "하이퍼부스팅 03"
+          }
+        ]
+      }
+    },
+    "DL": {
+      "members": 6,
+      "byClass": {
+        "환영검사": 5,
+        "향사수": 1
+      },
+      "byGrade": {
+        "12": 1,
+        "11": 1,
+        "10": 3,
+        "9": 1
+      },
+      "membersList": [
+        {
+          "nickname": "DAsa",
+          "guild": "DL",
+          "class": "환영검사",
+          "grade": 12,
+          "level": 71,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "소마",
+          "guild": "DL",
+          "class": "향사수",
+          "grade": 11,
+          "level": 70,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "BOnc",
+          "guild": "DL",
+          "class": "환영검사",
+          "grade": 10,
+          "level": 70,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "DAmei",
+          "guild": "DL",
+          "class": "환영검사",
+          "grade": 10,
+          "level": 67,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "HEIm",
+          "guild": "DL",
+          "class": "환영검사",
+          "grade": 10,
+          "level": 67,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "MMki",
+          "guild": "DL",
+          "class": "환영검사",
+          "grade": 9,
+          "level": 66,
+          "server": "하이퍼부스팅 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "DAsa",
+            "guild": "DL",
+            "class": "환영검사",
+            "grade": 12,
+            "level": 71,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "BOnc",
+            "guild": "DL",
+            "class": "환영검사",
+            "grade": 10,
+            "level": 70,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "DAmei",
+            "guild": "DL",
+            "class": "환영검사",
+            "grade": 10,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "HEIm",
+            "guild": "DL",
+            "class": "환영검사",
+            "grade": 10,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "MMki",
+            "guild": "DL",
+            "class": "환영검사",
+            "grade": 9,
+            "level": 66,
+            "server": "하이퍼부스팅 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "소마",
+            "guild": "DL",
+            "class": "향사수",
+            "grade": 11,
+            "level": 70,
+            "server": "하이퍼부스팅 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "12": [
+          {
+            "nickname": "DAsa",
+            "guild": "DL",
+            "class": "환영검사",
+            "grade": 12,
+            "level": 71,
+            "server": "하이퍼부스팅 03"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "BOnc",
+            "guild": "DL",
+            "class": "환영검사",
+            "grade": 10,
+            "level": 70,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "DAmei",
+            "guild": "DL",
+            "class": "환영검사",
+            "grade": 10,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "HEIm",
+            "guild": "DL",
+            "class": "환영검사",
+            "grade": 10,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          }
+        ],
+        "11": [
+          {
+            "nickname": "소마",
+            "guild": "DL",
+            "class": "향사수",
+            "grade": 11,
+            "level": 70,
+            "server": "하이퍼부스팅 03"
+          }
+        ],
+        "9": [
+          {
+            "nickname": "MMki",
+            "guild": "DL",
+            "class": "환영검사",
+            "grade": 9,
+            "level": 66,
+            "server": "하이퍼부스팅 03"
+          }
+        ]
+      }
+    },
+    "리벨리온": {
+      "members": 3,
+      "byClass": {
+        "집행관": 1,
+        "환영검사": 1,
+        "향사수": 1
+      },
+      "byGrade": {
+        "12": 1,
+        "11": 1,
+        "10": 1
+      },
+      "membersList": [
+        {
+          "nickname": "쫑걸뱅이",
+          "guild": "리벨리온",
+          "class": "집행관",
+          "grade": 12,
+          "level": 70,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "세리안느",
+          "guild": "리벨리온",
+          "class": "환영검사",
+          "grade": 11,
+          "level": 69,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "쫑걸순이",
+          "guild": "리벨리온",
+          "class": "향사수",
+          "grade": 10,
+          "level": 67,
+          "server": "하이퍼부스팅 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "쫑걸뱅이",
+            "guild": "리벨리온",
+            "class": "집행관",
+            "grade": 12,
+            "level": 70,
+            "server": "하이퍼부스팅 03"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "세리안느",
+            "guild": "리벨리온",
+            "class": "환영검사",
+            "grade": 11,
+            "level": 69,
+            "server": "하이퍼부스팅 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "쫑걸순이",
+            "guild": "리벨리온",
+            "class": "향사수",
+            "grade": 10,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "12": [
+          {
+            "nickname": "쫑걸뱅이",
+            "guild": "리벨리온",
+            "class": "집행관",
+            "grade": 12,
+            "level": 70,
+            "server": "하이퍼부스팅 03"
+          }
+        ],
+        "11": [
+          {
+            "nickname": "세리안느",
+            "guild": "리벨리온",
+            "class": "환영검사",
+            "grade": 11,
+            "level": 69,
+            "server": "하이퍼부스팅 03"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "쫑걸순이",
+            "guild": "리벨리온",
+            "class": "향사수",
+            "grade": 10,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          }
+        ]
+      }
+    },
+    "망령": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "11": 1
+      },
+      "membersList": [
+        {
+          "nickname": "연희동국화빵",
+          "guild": "망령",
+          "class": "주문각인사",
+          "grade": 11,
+          "level": 69,
+          "server": "하이퍼부스팅 03"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "연희동국화빵",
+            "guild": "망령",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 69,
+            "server": "하이퍼부스팅 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "11": [
+          {
+            "nickname": "연희동국화빵",
+            "guild": "망령",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 69,
+            "server": "하이퍼부스팅 03"
+          }
+        ]
+      }
+    },
+    "해적": {
+      "members": 2,
+      "byClass": {
+        "심연추방자": 2
+      },
+      "byGrade": {
+        "11": 2
+      },
+      "membersList": [
+        {
+          "nickname": "라희",
+          "guild": "해적",
+          "class": "심연추방자",
+          "grade": 11,
+          "level": 69,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "자객",
+          "guild": "해적",
+          "class": "심연추방자",
+          "grade": 11,
+          "level": 69,
+          "server": "하이퍼부스팅 03"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "라희",
+            "guild": "해적",
+            "class": "심연추방자",
+            "grade": 11,
+            "level": 69,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "자객",
+            "guild": "해적",
+            "class": "심연추방자",
+            "grade": 11,
+            "level": 69,
+            "server": "하이퍼부스팅 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "11": [
+          {
+            "nickname": "라희",
+            "guild": "해적",
+            "class": "심연추방자",
+            "grade": 11,
+            "level": 69,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "자객",
+            "guild": "해적",
+            "class": "심연추방자",
+            "grade": 11,
+            "level": 69,
+            "server": "하이퍼부스팅 03"
+          }
+        ]
+      }
+    },
+    "은하": {
+      "members": 2,
+      "byClass": {
+        "심연추방자": 1,
+        "향사수": 1
+      },
+      "byGrade": {
+        "11": 1,
+        "9": 1
+      },
+      "membersList": [
+        {
+          "nickname": "가츠",
+          "guild": "은하",
+          "class": "심연추방자",
+          "grade": 11,
+          "level": 69,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "콜라",
+          "guild": "은하",
+          "class": "향사수",
+          "grade": 9,
+          "level": 67,
+          "server": "하이퍼부스팅 03"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "가츠",
+            "guild": "은하",
+            "class": "심연추방자",
+            "grade": 11,
+            "level": 69,
+            "server": "하이퍼부스팅 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "콜라",
+            "guild": "은하",
+            "class": "향사수",
+            "grade": 9,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "11": [
+          {
+            "nickname": "가츠",
+            "guild": "은하",
+            "class": "심연추방자",
+            "grade": 11,
+            "level": 69,
+            "server": "하이퍼부스팅 03"
+          }
+        ],
+        "9": [
+          {
+            "nickname": "콜라",
+            "guild": "은하",
+            "class": "향사수",
+            "grade": 9,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          }
+        ]
+      }
+    },
+    "고성": {
+      "members": 5,
+      "byClass": {
+        "심연추방자": 3,
+        "환영검사": 2
+      },
+      "byGrade": {
+        "10": 3,
+        "8": 2
+      },
+      "membersList": [
+        {
+          "nickname": "굿리치",
+          "guild": "고성",
+          "class": "심연추방자",
+          "grade": 10,
+          "level": 69,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "세종",
+          "guild": "고성",
+          "class": "환영검사",
+          "grade": 10,
+          "level": 67,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "이도",
+          "guild": "고성",
+          "class": "환영검사",
+          "grade": 10,
+          "level": 67,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "여포",
+          "guild": "고성",
+          "class": "심연추방자",
+          "grade": 8,
+          "level": 67,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "초선",
+          "guild": "고성",
+          "class": "심연추방자",
+          "grade": 8,
+          "level": 67,
+          "server": "하이퍼부스팅 03"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "굿리치",
+            "guild": "고성",
+            "class": "심연추방자",
+            "grade": 10,
+            "level": 69,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "여포",
+            "guild": "고성",
+            "class": "심연추방자",
+            "grade": 8,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "초선",
+            "guild": "고성",
+            "class": "심연추방자",
+            "grade": 8,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "세종",
+            "guild": "고성",
+            "class": "환영검사",
+            "grade": 10,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "이도",
+            "guild": "고성",
+            "class": "환영검사",
+            "grade": 10,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "굿리치",
+            "guild": "고성",
+            "class": "심연추방자",
+            "grade": 10,
+            "level": 69,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "세종",
+            "guild": "고성",
+            "class": "환영검사",
+            "grade": 10,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "이도",
+            "guild": "고성",
+            "class": "환영검사",
+            "grade": 10,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "여포",
+            "guild": "고성",
+            "class": "심연추방자",
+            "grade": 8,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "초선",
+            "guild": "고성",
+            "class": "심연추방자",
+            "grade": 8,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          }
+        ]
+      }
+    },
+    "소망": {
+      "members": 4,
+      "byClass": {
+        "향사수": 4
+      },
+      "byGrade": {
+        "4": 4
+      },
+      "membersList": [
+        {
+          "nickname": "금미",
+          "guild": "소망",
+          "class": "향사수",
+          "grade": 4,
+          "level": 67,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "순대는소금",
+          "guild": "소망",
+          "class": "향사수",
+          "grade": 4,
+          "level": 67,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "신아영",
+          "guild": "소망",
+          "class": "향사수",
+          "grade": 4,
+          "level": 67,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "은빛",
+          "guild": "소망",
+          "class": "향사수",
+          "grade": 4,
+          "level": 67,
+          "server": "하이퍼부스팅 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "금미",
+            "guild": "소망",
+            "class": "향사수",
+            "grade": 4,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "순대는소금",
+            "guild": "소망",
+            "class": "향사수",
+            "grade": 4,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "신아영",
+            "guild": "소망",
+            "class": "향사수",
+            "grade": 4,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "은빛",
+            "guild": "소망",
+            "class": "향사수",
+            "grade": 4,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "4": [
+          {
+            "nickname": "금미",
+            "guild": "소망",
+            "class": "향사수",
+            "grade": 4,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "순대는소금",
+            "guild": "소망",
+            "class": "향사수",
+            "grade": 4,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "신아영",
+            "guild": "소망",
+            "class": "향사수",
+            "grade": 4,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "은빛",
+            "guild": "소망",
+            "class": "향사수",
+            "grade": 4,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          }
+        ]
+      }
+    },
+    "불멸의흑야수": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "9": 1
+      },
+      "membersList": [
+        {
+          "nickname": "백장미",
+          "guild": "불멸의흑야수",
+          "class": "태양감시자",
+          "grade": 9,
+          "level": 67,
+          "server": "하이퍼부스팅 03"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "백장미",
+            "guild": "불멸의흑야수",
+            "class": "태양감시자",
+            "grade": 9,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "9": [
+          {
+            "nickname": "백장미",
+            "guild": "불멸의흑야수",
+            "class": "태양감시자",
+            "grade": 9,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          }
+        ]
+      }
+    },
+    "결사": {
+      "members": 5,
+      "byClass": {
+        "주문각인사": 5
+      },
+      "byGrade": {
+        "10": 5
+      },
+      "membersList": [
+        {
+          "nickname": "금명",
+          "guild": "결사",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 67,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "띠로리",
+          "guild": "결사",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 66,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "방울이",
+          "guild": "결사",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 66,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "영희",
+          "guild": "결사",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 66,
+          "server": "하이퍼부스팅 03"
+        },
+        {
+          "nickname": "참새",
+          "guild": "결사",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 66,
+          "server": "하이퍼부스팅 03"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "금명",
+            "guild": "결사",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "띠로리",
+            "guild": "결사",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 66,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "방울이",
+            "guild": "결사",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 66,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "영희",
+            "guild": "결사",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 66,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "참새",
+            "guild": "결사",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 66,
+            "server": "하이퍼부스팅 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "금명",
+            "guild": "결사",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 67,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "띠로리",
+            "guild": "결사",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 66,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "방울이",
+            "guild": "결사",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 66,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "영희",
+            "guild": "결사",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 66,
+            "server": "하이퍼부스팅 03"
+          },
+          {
+            "nickname": "참새",
+            "guild": "결사",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 66,
+            "server": "하이퍼부스팅 03"
+          }
+        ]
+      }
+    },
+    "NASA": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "10": 1
+      },
+      "membersList": [
+        {
+          "nickname": "노리",
+          "guild": "NASA",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 66,
+          "server": "하이퍼부스팅 03"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "노리",
+            "guild": "NASA",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 66,
+            "server": "하이퍼부스팅 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "노리",
+            "guild": "NASA",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 66,
+            "server": "하이퍼부스팅 03"
+          }
+        ]
+      }
+    }
+  }
+}

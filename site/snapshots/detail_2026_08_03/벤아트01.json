@@ -1,0 +1,2833 @@
+{
+  "server": "벤아트 01",
+  "guilds": {
+    "양떼": {
+      "members": 43,
+      "byClass": {
+        "집행관": 14,
+        "향사수": 11,
+        "주문각인사": 9,
+        "환영검사": 6,
+        "심연추방자": 2,
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "24": 4,
+        "23": 5,
+        "22": 1,
+        "21": 10,
+        "20": 3,
+        "19": 7,
+        "18": 4,
+        "17": 8,
+        "16": 1
+      },
+      "membersList": [
+        {
+          "nickname": "새벽양",
+          "guild": "양떼",
+          "class": "환영검사",
+          "grade": 24,
+          "level": 89,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "카이도",
+          "guild": "양떼",
+          "class": "집행관",
+          "grade": 24,
+          "level": 89,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "홍디",
+          "guild": "양떼",
+          "class": "집행관",
+          "grade": 24,
+          "level": 89,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "밀양",
+          "guild": "양떼",
+          "class": "태양감시자",
+          "grade": 24,
+          "level": 88,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "초파",
+          "guild": "양떼",
+          "class": "주문각인사",
+          "grade": 23,
+          "level": 88,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "카미사마",
+          "guild": "양떼",
+          "class": "환영검사",
+          "grade": 23,
+          "level": 88,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "마요양",
+          "guild": "양떼",
+          "class": "집행관",
+          "grade": 23,
+          "level": 87,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "집행양",
+          "guild": "양떼",
+          "class": "집행관",
+          "grade": 23,
+          "level": 87,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "소소리",
+          "guild": "양떼",
+          "class": "심연추방자",
+          "grade": 23,
+          "level": 86,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "흑염소",
+          "guild": "양떼",
+          "class": "향사수",
+          "grade": 22,
+          "level": 87,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "늑대양",
+          "guild": "양떼",
+          "class": "집행관",
+          "grade": 21,
+          "level": 87,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "모래양",
+          "guild": "양떼",
+          "class": "환영검사",
+          "grade": 21,
+          "level": 87,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "블랙팬서",
+          "guild": "양떼",
+          "class": "환영검사",
+          "grade": 21,
+          "level": 86,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "한양",
+          "guild": "양떼",
+          "class": "향사수",
+          "grade": 21,
+          "level": 86,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "검왕",
+          "guild": "양떼",
+          "class": "환영검사",
+          "grade": 21,
+          "level": 85,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "우드",
+          "guild": "양떼",
+          "class": "집행관",
+          "grade": 21,
+          "level": 85,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "쾌걸양",
+          "guild": "양떼",
+          "class": "향사수",
+          "grade": 21,
+          "level": 85,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "하늘은푸르다",
+          "guild": "양떼",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 85,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "또랭이야",
+          "guild": "양떼",
+          "class": "집행관",
+          "grade": 21,
+          "level": 84,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "막둥이양",
+          "guild": "양떼",
+          "class": "환영검사",
+          "grade": 21,
+          "level": 84,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "Daisy",
+          "guild": "양떼",
+          "class": "향사수",
+          "grade": 20,
+          "level": 85,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "쥬댕양",
+          "guild": "양떼",
+          "class": "집행관",
+          "grade": 20,
+          "level": 84,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "쩔콩양",
+          "guild": "양떼",
+          "class": "집행관",
+          "grade": 20,
+          "level": 81,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "대장양",
+          "guild": "양떼",
+          "class": "집행관",
+          "grade": 19,
+          "level": 84,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "백양",
+          "guild": "양떼",
+          "class": "집행관",
+          "grade": 19,
+          "level": 84,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "아이유양",
+          "guild": "양떼",
+          "class": "향사수",
+          "grade": 19,
+          "level": 84,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "강태양",
+          "guild": "양떼",
+          "class": "집행관",
+          "grade": 19,
+          "level": 83,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "양주골",
+          "guild": "양떼",
+          "class": "주문각인사",
+          "grade": 19,
+          "level": 83,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "사조성",
+          "guild": "양떼",
+          "class": "향사수",
+          "grade": 19,
+          "level": 82,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "티나양",
+          "guild": "양떼",
+          "class": "주문각인사",
+          "grade": 19,
+          "level": 80,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "연산군",
+          "guild": "양떼",
+          "class": "집행관",
+          "grade": 18,
+          "level": 83,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "바람양",
+          "guild": "양떼",
+          "class": "향사수",
+          "grade": 18,
+          "level": 82,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "별이양",
+          "guild": "양떼",
+          "class": "향사수",
+          "grade": 18,
+          "level": 82,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "초전양",
+          "guild": "양떼",
+          "class": "향사수",
+          "grade": 18,
+          "level": 82,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "아니오",
+          "guild": "양떼",
+          "class": "주문각인사",
+          "grade": 17,
+          "level": 83,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "망고양",
+          "guild": "양떼",
+          "class": "향사수",
+          "grade": 17,
+          "level": 82,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "비어헌터",
+          "guild": "양떼",
+          "class": "향사수",
+          "grade": 17,
+          "level": 81,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "수양대군",
+          "guild": "양떼",
+          "class": "주문각인사",
+          "grade": 17,
+          "level": 81,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "동서양",
+          "guild": "양떼",
+          "class": "심연추방자",
+          "grade": 17,
+          "level": 80,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "셀리온",
+          "guild": "양떼",
+          "class": "주문각인사",
+          "grade": 17,
+          "level": 80,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "특별분양",
+          "guild": "양떼",
+          "class": "주문각인사",
+          "grade": 17,
+          "level": 80,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "유예나양",
+          "guild": "양떼",
+          "class": "주문각인사",
+          "grade": 17,
+          "level": 79,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "욜란다",
+          "guild": "양떼",
+          "class": "집행관",
+          "grade": 16,
+          "level": 80,
+          "server": "벤아트 01"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "카이도",
+            "guild": "양떼",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "홍디",
+            "guild": "양떼",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "마요양",
+            "guild": "양떼",
+            "class": "집행관",
+            "grade": 23,
+            "level": 87,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "집행양",
+            "guild": "양떼",
+            "class": "집행관",
+            "grade": 23,
+            "level": 87,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "늑대양",
+            "guild": "양떼",
+            "class": "집행관",
+            "grade": 21,
+            "level": 87,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "우드",
+            "guild": "양떼",
+            "class": "집행관",
+            "grade": 21,
+            "level": 85,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "또랭이야",
+            "guild": "양떼",
+            "class": "집행관",
+            "grade": 21,
+            "level": 84,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "쥬댕양",
+            "guild": "양떼",
+            "class": "집행관",
+            "grade": 20,
+            "level": 84,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "쩔콩양",
+            "guild": "양떼",
+            "class": "집행관",
+            "grade": 20,
+            "level": 81,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "대장양",
+            "guild": "양떼",
+            "class": "집행관",
+            "grade": 19,
+            "level": 84,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "백양",
+            "guild": "양떼",
+            "class": "집행관",
+            "grade": 19,
+            "level": 84,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "강태양",
+            "guild": "양떼",
+            "class": "집행관",
+            "grade": 19,
+            "level": 83,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "연산군",
+            "guild": "양떼",
+            "class": "집행관",
+            "grade": 18,
+            "level": 83,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "욜란다",
+            "guild": "양떼",
+            "class": "집행관",
+            "grade": 16,
+            "level": 80,
+            "server": "벤아트 01"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "새벽양",
+            "guild": "양떼",
+            "class": "환영검사",
+            "grade": 24,
+            "level": 89,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "카미사마",
+            "guild": "양떼",
+            "class": "환영검사",
+            "grade": 23,
+            "level": 88,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "모래양",
+            "guild": "양떼",
+            "class": "환영검사",
+            "grade": 21,
+            "level": 87,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "블랙팬서",
+            "guild": "양떼",
+            "class": "환영검사",
+            "grade": 21,
+            "level": 86,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "검왕",
+            "guild": "양떼",
+            "class": "환영검사",
+            "grade": 21,
+            "level": 85,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "막둥이양",
+            "guild": "양떼",
+            "class": "환영검사",
+            "grade": 21,
+            "level": 84,
+            "server": "벤아트 01"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "밀양",
+            "guild": "양떼",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 88,
+            "server": "벤아트 01"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "초파",
+            "guild": "양떼",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 88,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "하늘은푸르다",
+            "guild": "양떼",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "양주골",
+            "guild": "양떼",
+            "class": "주문각인사",
+            "grade": 19,
+            "level": 83,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "티나양",
+            "guild": "양떼",
+            "class": "주문각인사",
+            "grade": 19,
+            "level": 80,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "아니오",
+            "guild": "양떼",
+            "class": "주문각인사",
+            "grade": 17,
+            "level": 83,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "수양대군",
+            "guild": "양떼",
+            "class": "주문각인사",
+            "grade": 17,
+            "level": 81,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "셀리온",
+            "guild": "양떼",
+            "class": "주문각인사",
+            "grade": 17,
+            "level": 80,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "특별분양",
+            "guild": "양떼",
+            "class": "주문각인사",
+            "grade": 17,
+            "level": 80,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "유예나양",
+            "guild": "양떼",
+            "class": "주문각인사",
+            "grade": 17,
+            "level": 79,
+            "server": "벤아트 01"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "흑염소",
+            "guild": "양떼",
+            "class": "향사수",
+            "grade": 22,
+            "level": 87,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "한양",
+            "guild": "양떼",
+            "class": "향사수",
+            "grade": 21,
+            "level": 86,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "쾌걸양",
+            "guild": "양떼",
+            "class": "향사수",
+            "grade": 21,
+            "level": 85,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "Daisy",
+            "guild": "양떼",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "아이유양",
+            "guild": "양떼",
+            "class": "향사수",
+            "grade": 19,
+            "level": 84,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "사조성",
+            "guild": "양떼",
+            "class": "향사수",
+            "grade": 19,
+            "level": 82,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "바람양",
+            "guild": "양떼",
+            "class": "향사수",
+            "grade": 18,
+            "level": 82,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "별이양",
+            "guild": "양떼",
+            "class": "향사수",
+            "grade": 18,
+            "level": 82,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "초전양",
+            "guild": "양떼",
+            "class": "향사수",
+            "grade": 18,
+            "level": 82,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "망고양",
+            "guild": "양떼",
+            "class": "향사수",
+            "grade": 17,
+            "level": 82,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "비어헌터",
+            "guild": "양떼",
+            "class": "향사수",
+            "grade": 17,
+            "level": 81,
+            "server": "벤아트 01"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "소소리",
+            "guild": "양떼",
+            "class": "심연추방자",
+            "grade": 23,
+            "level": 86,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "동서양",
+            "guild": "양떼",
+            "class": "심연추방자",
+            "grade": 17,
+            "level": 80,
+            "server": "벤아트 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "24": [
+          {
+            "nickname": "새벽양",
+            "guild": "양떼",
+            "class": "환영검사",
+            "grade": 24,
+            "level": 89,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "카이도",
+            "guild": "양떼",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "홍디",
+            "guild": "양떼",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "밀양",
+            "guild": "양떼",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 88,
+            "server": "벤아트 01"
+          }
+        ],
+        "23": [
+          {
+            "nickname": "초파",
+            "guild": "양떼",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 88,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "카미사마",
+            "guild": "양떼",
+            "class": "환영검사",
+            "grade": 23,
+            "level": 88,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "마요양",
+            "guild": "양떼",
+            "class": "집행관",
+            "grade": 23,
+            "level": 87,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "집행양",
+            "guild": "양떼",
+            "class": "집행관",
+            "grade": 23,
+            "level": 87,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "소소리",
+            "guild": "양떼",
+            "class": "심연추방자",
+            "grade": 23,
+            "level": 86,
+            "server": "벤아트 01"
+          }
+        ],
+        "22": [
+          {
+            "nickname": "흑염소",
+            "guild": "양떼",
+            "class": "향사수",
+            "grade": 22,
+            "level": 87,
+            "server": "벤아트 01"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "늑대양",
+            "guild": "양떼",
+            "class": "집행관",
+            "grade": 21,
+            "level": 87,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "모래양",
+            "guild": "양떼",
+            "class": "환영검사",
+            "grade": 21,
+            "level": 87,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "블랙팬서",
+            "guild": "양떼",
+            "class": "환영검사",
+            "grade": 21,
+            "level": 86,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "한양",
+            "guild": "양떼",
+            "class": "향사수",
+            "grade": 21,
+            "level": 86,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "검왕",
+            "guild": "양떼",
+            "class": "환영검사",
+            "grade": 21,
+            "level": 85,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "우드",
+            "guild": "양떼",
+            "class": "집행관",
+            "grade": 21,
+            "level": 85,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "쾌걸양",
+            "guild": "양떼",
+            "class": "향사수",
+            "grade": 21,
+            "level": 85,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "하늘은푸르다",
+            "guild": "양떼",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "또랭이야",
+            "guild": "양떼",
+            "class": "집행관",
+            "grade": 21,
+            "level": 84,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "막둥이양",
+            "guild": "양떼",
+            "class": "환영검사",
+            "grade": 21,
+            "level": 84,
+            "server": "벤아트 01"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "Daisy",
+            "guild": "양떼",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "쥬댕양",
+            "guild": "양떼",
+            "class": "집행관",
+            "grade": 20,
+            "level": 84,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "쩔콩양",
+            "guild": "양떼",
+            "class": "집행관",
+            "grade": 20,
+            "level": 81,
+            "server": "벤아트 01"
+          }
+        ],
+        "19": [
+          {
+            "nickname": "대장양",
+            "guild": "양떼",
+            "class": "집행관",
+            "grade": 19,
+            "level": 84,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "백양",
+            "guild": "양떼",
+            "class": "집행관",
+            "grade": 19,
+            "level": 84,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "아이유양",
+            "guild": "양떼",
+            "class": "향사수",
+            "grade": 19,
+            "level": 84,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "강태양",
+            "guild": "양떼",
+            "class": "집행관",
+            "grade": 19,
+            "level": 83,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "양주골",
+            "guild": "양떼",
+            "class": "주문각인사",
+            "grade": 19,
+            "level": 83,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "사조성",
+            "guild": "양떼",
+            "class": "향사수",
+            "grade": 19,
+            "level": 82,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "티나양",
+            "guild": "양떼",
+            "class": "주문각인사",
+            "grade": 19,
+            "level": 80,
+            "server": "벤아트 01"
+          }
+        ],
+        "18": [
+          {
+            "nickname": "연산군",
+            "guild": "양떼",
+            "class": "집행관",
+            "grade": 18,
+            "level": 83,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "바람양",
+            "guild": "양떼",
+            "class": "향사수",
+            "grade": 18,
+            "level": 82,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "별이양",
+            "guild": "양떼",
+            "class": "향사수",
+            "grade": 18,
+            "level": 82,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "초전양",
+            "guild": "양떼",
+            "class": "향사수",
+            "grade": 18,
+            "level": 82,
+            "server": "벤아트 01"
+          }
+        ],
+        "17": [
+          {
+            "nickname": "아니오",
+            "guild": "양떼",
+            "class": "주문각인사",
+            "grade": 17,
+            "level": 83,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "망고양",
+            "guild": "양떼",
+            "class": "향사수",
+            "grade": 17,
+            "level": 82,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "비어헌터",
+            "guild": "양떼",
+            "class": "향사수",
+            "grade": 17,
+            "level": 81,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "수양대군",
+            "guild": "양떼",
+            "class": "주문각인사",
+            "grade": 17,
+            "level": 81,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "동서양",
+            "guild": "양떼",
+            "class": "심연추방자",
+            "grade": 17,
+            "level": 80,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "셀리온",
+            "guild": "양떼",
+            "class": "주문각인사",
+            "grade": 17,
+            "level": 80,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "특별분양",
+            "guild": "양떼",
+            "class": "주문각인사",
+            "grade": 17,
+            "level": 80,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "유예나양",
+            "guild": "양떼",
+            "class": "주문각인사",
+            "grade": 17,
+            "level": 79,
+            "server": "벤아트 01"
+          }
+        ],
+        "16": [
+          {
+            "nickname": "욜란다",
+            "guild": "양떼",
+            "class": "집행관",
+            "grade": 16,
+            "level": 80,
+            "server": "벤아트 01"
+          }
+        ]
+      }
+    },
+    "똥": {
+      "members": 5,
+      "byClass": {
+        "집행관": 2,
+        "주문각인사": 2,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "21": 1,
+        "18": 1,
+        "15": 2,
+        "13": 1
+      },
+      "membersList": [
+        {
+          "nickname": "후덕이",
+          "guild": "똥",
+          "class": "집행관",
+          "grade": 21,
+          "level": 86,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "바카스",
+          "guild": "똥",
+          "class": "주문각인사",
+          "grade": 18,
+          "level": 84,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "신짜오",
+          "guild": "똥",
+          "class": "주문각인사",
+          "grade": 15,
+          "level": 80,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "화살촉",
+          "guild": "똥",
+          "class": "환영검사",
+          "grade": 15,
+          "level": 79,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "집행관짝",
+          "guild": "똥",
+          "class": "집행관",
+          "grade": 13,
+          "level": 78,
+          "server": "벤아트 01"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "후덕이",
+            "guild": "똥",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "집행관짝",
+            "guild": "똥",
+            "class": "집행관",
+            "grade": 13,
+            "level": 78,
+            "server": "벤아트 01"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "바카스",
+            "guild": "똥",
+            "class": "주문각인사",
+            "grade": 18,
+            "level": 84,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "신짜오",
+            "guild": "똥",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 80,
+            "server": "벤아트 01"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "화살촉",
+            "guild": "똥",
+            "class": "환영검사",
+            "grade": 15,
+            "level": 79,
+            "server": "벤아트 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "후덕이",
+            "guild": "똥",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "벤아트 01"
+          }
+        ],
+        "18": [
+          {
+            "nickname": "바카스",
+            "guild": "똥",
+            "class": "주문각인사",
+            "grade": 18,
+            "level": 84,
+            "server": "벤아트 01"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "신짜오",
+            "guild": "똥",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 80,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "화살촉",
+            "guild": "똥",
+            "class": "환영검사",
+            "grade": 15,
+            "level": 79,
+            "server": "벤아트 01"
+          }
+        ],
+        "13": [
+          {
+            "nickname": "집행관짝",
+            "guild": "똥",
+            "class": "집행관",
+            "grade": 13,
+            "level": 78,
+            "server": "벤아트 01"
+          }
+        ]
+      }
+    },
+    "셧다운": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "21": 1
+      },
+      "membersList": [
+        {
+          "nickname": "아스파라거스",
+          "guild": "셧다운",
+          "class": "향사수",
+          "grade": 21,
+          "level": 85,
+          "server": "벤아트 01"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "아스파라거스",
+            "guild": "셧다운",
+            "class": "향사수",
+            "grade": 21,
+            "level": 85,
+            "server": "벤아트 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "아스파라거스",
+            "guild": "셧다운",
+            "class": "향사수",
+            "grade": 21,
+            "level": 85,
+            "server": "벤아트 01"
+          }
+        ]
+      }
+    },
+    "별의조각": {
+      "members": 8,
+      "byClass": {
+        "환영검사": 3,
+        "향사수": 2,
+        "집행관": 2,
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "19": 2,
+        "18": 1,
+        "17": 1,
+        "16": 3,
+        "15": 1
+      },
+      "membersList": [
+        {
+          "nickname": "별수호자",
+          "guild": "별의조각",
+          "class": "태양감시자",
+          "grade": 19,
+          "level": 84,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "별빛달빛",
+          "guild": "별의조각",
+          "class": "환영검사",
+          "grade": 19,
+          "level": 83,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "별사수",
+          "guild": "별의조각",
+          "class": "향사수",
+          "grade": 18,
+          "level": 84,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "별행",
+          "guild": "별의조각",
+          "class": "집행관",
+          "grade": 17,
+          "level": 82,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "별검사",
+          "guild": "별의조각",
+          "class": "환영검사",
+          "grade": 16,
+          "level": 80,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "별조각",
+          "guild": "별의조각",
+          "class": "환영검사",
+          "grade": 16,
+          "level": 80,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "초우니",
+          "guild": "별의조각",
+          "class": "향사수",
+          "grade": 16,
+          "level": 80,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "초우니방패",
+          "guild": "별의조각",
+          "class": "집행관",
+          "grade": 15,
+          "level": 79,
+          "server": "벤아트 01"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "별수호자",
+            "guild": "별의조각",
+            "class": "태양감시자",
+            "grade": 19,
+            "level": 84,
+            "server": "벤아트 01"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "별사수",
+            "guild": "별의조각",
+            "class": "향사수",
+            "grade": 18,
+            "level": 84,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "초우니",
+            "guild": "별의조각",
+            "class": "향사수",
+            "grade": 16,
+            "level": 80,
+            "server": "벤아트 01"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "별빛달빛",
+            "guild": "별의조각",
+            "class": "환영검사",
+            "grade": 19,
+            "level": 83,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "별검사",
+            "guild": "별의조각",
+            "class": "환영검사",
+            "grade": 16,
+            "level": 80,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "별조각",
+            "guild": "별의조각",
+            "class": "환영검사",
+            "grade": 16,
+            "level": 80,
+            "server": "벤아트 01"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "별행",
+            "guild": "별의조각",
+            "class": "집행관",
+            "grade": 17,
+            "level": 82,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "초우니방패",
+            "guild": "별의조각",
+            "class": "집행관",
+            "grade": 15,
+            "level": 79,
+            "server": "벤아트 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "19": [
+          {
+            "nickname": "별수호자",
+            "guild": "별의조각",
+            "class": "태양감시자",
+            "grade": 19,
+            "level": 84,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "별빛달빛",
+            "guild": "별의조각",
+            "class": "환영검사",
+            "grade": 19,
+            "level": 83,
+            "server": "벤아트 01"
+          }
+        ],
+        "18": [
+          {
+            "nickname": "별사수",
+            "guild": "별의조각",
+            "class": "향사수",
+            "grade": 18,
+            "level": 84,
+            "server": "벤아트 01"
+          }
+        ],
+        "17": [
+          {
+            "nickname": "별행",
+            "guild": "별의조각",
+            "class": "집행관",
+            "grade": 17,
+            "level": 82,
+            "server": "벤아트 01"
+          }
+        ],
+        "16": [
+          {
+            "nickname": "별검사",
+            "guild": "별의조각",
+            "class": "환영검사",
+            "grade": 16,
+            "level": 80,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "별조각",
+            "guild": "별의조각",
+            "class": "환영검사",
+            "grade": 16,
+            "level": 80,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "초우니",
+            "guild": "별의조각",
+            "class": "향사수",
+            "grade": 16,
+            "level": 80,
+            "server": "벤아트 01"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "초우니방패",
+            "guild": "별의조각",
+            "class": "집행관",
+            "grade": 15,
+            "level": 79,
+            "server": "벤아트 01"
+          }
+        ]
+      }
+    },
+    "드라곤": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "18": 1
+      },
+      "membersList": [
+        {
+          "nickname": "드라곤",
+          "guild": "드라곤",
+          "class": "향사수",
+          "grade": 18,
+          "level": 84,
+          "server": "벤아트 01"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "드라곤",
+            "guild": "드라곤",
+            "class": "향사수",
+            "grade": 18,
+            "level": 84,
+            "server": "벤아트 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "18": [
+          {
+            "nickname": "드라곤",
+            "guild": "드라곤",
+            "class": "향사수",
+            "grade": 18,
+            "level": 84,
+            "server": "벤아트 01"
+          }
+        ]
+      }
+    },
+    "그늘": {
+      "members": 3,
+      "byClass": {
+        "향사수": 1,
+        "환영검사": 1,
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "18": 1,
+        "17": 2
+      },
+      "membersList": [
+        {
+          "nickname": "드레우스",
+          "guild": "그늘",
+          "class": "환영검사",
+          "grade": 18,
+          "level": 83,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "나비대장",
+          "guild": "그늘",
+          "class": "향사수",
+          "grade": 17,
+          "level": 83,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "익살",
+          "guild": "그늘",
+          "class": "태양감시자",
+          "grade": 17,
+          "level": 82,
+          "server": "벤아트 01"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "나비대장",
+            "guild": "그늘",
+            "class": "향사수",
+            "grade": 17,
+            "level": 83,
+            "server": "벤아트 01"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "드레우스",
+            "guild": "그늘",
+            "class": "환영검사",
+            "grade": 18,
+            "level": 83,
+            "server": "벤아트 01"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "익살",
+            "guild": "그늘",
+            "class": "태양감시자",
+            "grade": 17,
+            "level": 82,
+            "server": "벤아트 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "17": [
+          {
+            "nickname": "나비대장",
+            "guild": "그늘",
+            "class": "향사수",
+            "grade": 17,
+            "level": 83,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "익살",
+            "guild": "그늘",
+            "class": "태양감시자",
+            "grade": 17,
+            "level": 82,
+            "server": "벤아트 01"
+          }
+        ],
+        "18": [
+          {
+            "nickname": "드레우스",
+            "guild": "그늘",
+            "class": "환영검사",
+            "grade": 18,
+            "level": 83,
+            "server": "벤아트 01"
+          }
+        ]
+      }
+    },
+    "햄스터": {
+      "members": 2,
+      "byClass": {
+        "집행관": 1,
+        "향사수": 1
+      },
+      "byGrade": {
+        "17": 2
+      },
+      "membersList": [
+        {
+          "nickname": "딩가딩",
+          "guild": "햄스터",
+          "class": "집행관",
+          "grade": 17,
+          "level": 83,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "쿨쿨이",
+          "guild": "햄스터",
+          "class": "향사수",
+          "grade": 17,
+          "level": 81,
+          "server": "벤아트 01"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "딩가딩",
+            "guild": "햄스터",
+            "class": "집행관",
+            "grade": 17,
+            "level": 83,
+            "server": "벤아트 01"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "쿨쿨이",
+            "guild": "햄스터",
+            "class": "향사수",
+            "grade": 17,
+            "level": 81,
+            "server": "벤아트 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "17": [
+          {
+            "nickname": "딩가딩",
+            "guild": "햄스터",
+            "class": "집행관",
+            "grade": 17,
+            "level": 83,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "쿨쿨이",
+            "guild": "햄스터",
+            "class": "향사수",
+            "grade": 17,
+            "level": 81,
+            "server": "벤아트 01"
+          }
+        ]
+      }
+    },
+    "겨울": {
+      "members": 6,
+      "byClass": {
+        "집행관": 2,
+        "태양감시자": 2,
+        "향사수": 2
+      },
+      "byGrade": {
+        "18": 2,
+        "16": 3,
+        "15": 1
+      },
+      "membersList": [
+        {
+          "nickname": "빠바",
+          "guild": "겨울",
+          "class": "집행관",
+          "grade": 18,
+          "level": 82,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "매니저",
+          "guild": "겨울",
+          "class": "태양감시자",
+          "grade": 18,
+          "level": 81,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "냐옹이",
+          "guild": "겨울",
+          "class": "향사수",
+          "grade": 16,
+          "level": 80,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "잠오는곰",
+          "guild": "겨울",
+          "class": "집행관",
+          "grade": 16,
+          "level": 80,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "JOO",
+          "guild": "겨울",
+          "class": "향사수",
+          "grade": 16,
+          "level": 79,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "덤프",
+          "guild": "겨울",
+          "class": "태양감시자",
+          "grade": 15,
+          "level": 79,
+          "server": "벤아트 01"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "빠바",
+            "guild": "겨울",
+            "class": "집행관",
+            "grade": 18,
+            "level": 82,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "잠오는곰",
+            "guild": "겨울",
+            "class": "집행관",
+            "grade": 16,
+            "level": 80,
+            "server": "벤아트 01"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "매니저",
+            "guild": "겨울",
+            "class": "태양감시자",
+            "grade": 18,
+            "level": 81,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "덤프",
+            "guild": "겨울",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 79,
+            "server": "벤아트 01"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "냐옹이",
+            "guild": "겨울",
+            "class": "향사수",
+            "grade": 16,
+            "level": 80,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "JOO",
+            "guild": "겨울",
+            "class": "향사수",
+            "grade": 16,
+            "level": 79,
+            "server": "벤아트 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "18": [
+          {
+            "nickname": "빠바",
+            "guild": "겨울",
+            "class": "집행관",
+            "grade": 18,
+            "level": 82,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "매니저",
+            "guild": "겨울",
+            "class": "태양감시자",
+            "grade": 18,
+            "level": 81,
+            "server": "벤아트 01"
+          }
+        ],
+        "16": [
+          {
+            "nickname": "냐옹이",
+            "guild": "겨울",
+            "class": "향사수",
+            "grade": 16,
+            "level": 80,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "잠오는곰",
+            "guild": "겨울",
+            "class": "집행관",
+            "grade": 16,
+            "level": 80,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "JOO",
+            "guild": "겨울",
+            "class": "향사수",
+            "grade": 16,
+            "level": 79,
+            "server": "벤아트 01"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "덤프",
+            "guild": "겨울",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 79,
+            "server": "벤아트 01"
+          }
+        ]
+      }
+    },
+    "강력한": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "17": 1
+      },
+      "membersList": [
+        {
+          "nickname": "목장관리인",
+          "guild": "강력한",
+          "class": "환영검사",
+          "grade": 17,
+          "level": 82,
+          "server": "벤아트 01"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "목장관리인",
+            "guild": "강력한",
+            "class": "환영검사",
+            "grade": 17,
+            "level": 82,
+            "server": "벤아트 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "17": [
+          {
+            "nickname": "목장관리인",
+            "guild": "강력한",
+            "class": "환영검사",
+            "grade": 17,
+            "level": 82,
+            "server": "벤아트 01"
+          }
+        ]
+      }
+    },
+    "나나나": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "18": 1
+      },
+      "membersList": [
+        {
+          "nickname": "용용용용",
+          "guild": "나나나",
+          "class": "태양감시자",
+          "grade": 18,
+          "level": 82,
+          "server": "벤아트 01"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "용용용용",
+            "guild": "나나나",
+            "class": "태양감시자",
+            "grade": 18,
+            "level": 82,
+            "server": "벤아트 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "18": [
+          {
+            "nickname": "용용용용",
+            "guild": "나나나",
+            "class": "태양감시자",
+            "grade": 18,
+            "level": 82,
+            "server": "벤아트 01"
+          }
+        ]
+      }
+    },
+    "꿈": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "17": 1
+      },
+      "membersList": [
+        {
+          "nickname": "꿈왕",
+          "guild": "꿈",
+          "class": "환영검사",
+          "grade": 17,
+          "level": 82,
+          "server": "벤아트 01"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "꿈왕",
+            "guild": "꿈",
+            "class": "환영검사",
+            "grade": 17,
+            "level": 82,
+            "server": "벤아트 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "17": [
+          {
+            "nickname": "꿈왕",
+            "guild": "꿈",
+            "class": "환영검사",
+            "grade": 17,
+            "level": 82,
+            "server": "벤아트 01"
+          }
+        ]
+      }
+    },
+    "로망": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "17": 1
+      },
+      "membersList": [
+        {
+          "nickname": "로망",
+          "guild": "로망",
+          "class": "태양감시자",
+          "grade": 17,
+          "level": 82,
+          "server": "벤아트 01"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "로망",
+            "guild": "로망",
+            "class": "태양감시자",
+            "grade": 17,
+            "level": 82,
+            "server": "벤아트 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "17": [
+          {
+            "nickname": "로망",
+            "guild": "로망",
+            "class": "태양감시자",
+            "grade": 17,
+            "level": 82,
+            "server": "벤아트 01"
+          }
+        ]
+      }
+    },
+    "전차포": {
+      "members": 3,
+      "byClass": {
+        "심연추방자": 1,
+        "주문각인사": 1,
+        "집행관": 1
+      },
+      "byGrade": {
+        "17": 1,
+        "16": 1,
+        "15": 1
+      },
+      "membersList": [
+        {
+          "nickname": "귀여운라이언",
+          "guild": "전차포",
+          "class": "심연추방자",
+          "grade": 17,
+          "level": 81,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "삼포",
+          "guild": "전차포",
+          "class": "주문각인사",
+          "grade": 16,
+          "level": 80,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "귀여운춘식이",
+          "guild": "전차포",
+          "class": "집행관",
+          "grade": 15,
+          "level": 79,
+          "server": "벤아트 01"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "귀여운라이언",
+            "guild": "전차포",
+            "class": "심연추방자",
+            "grade": 17,
+            "level": 81,
+            "server": "벤아트 01"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "삼포",
+            "guild": "전차포",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 80,
+            "server": "벤아트 01"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "귀여운춘식이",
+            "guild": "전차포",
+            "class": "집행관",
+            "grade": 15,
+            "level": 79,
+            "server": "벤아트 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "17": [
+          {
+            "nickname": "귀여운라이언",
+            "guild": "전차포",
+            "class": "심연추방자",
+            "grade": 17,
+            "level": 81,
+            "server": "벤아트 01"
+          }
+        ],
+        "16": [
+          {
+            "nickname": "삼포",
+            "guild": "전차포",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 80,
+            "server": "벤아트 01"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "귀여운춘식이",
+            "guild": "전차포",
+            "class": "집행관",
+            "grade": 15,
+            "level": 79,
+            "server": "벤아트 01"
+          }
+        ]
+      }
+    },
+    "Shopper": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "17": 1
+      },
+      "membersList": [
+        {
+          "nickname": "PRADA",
+          "guild": "Shopper",
+          "class": "환영검사",
+          "grade": 17,
+          "level": 81,
+          "server": "벤아트 01"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "PRADA",
+            "guild": "Shopper",
+            "class": "환영검사",
+            "grade": 17,
+            "level": 81,
+            "server": "벤아트 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "17": [
+          {
+            "nickname": "PRADA",
+            "guild": "Shopper",
+            "class": "환영검사",
+            "grade": 17,
+            "level": 81,
+            "server": "벤아트 01"
+          }
+        ]
+      }
+    },
+    "목장": {
+      "members": 2,
+      "byClass": {
+        "집행관": 1,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "17": 1,
+        "16": 1
+      },
+      "membersList": [
+        {
+          "nickname": "계필사문",
+          "guild": "목장",
+          "class": "집행관",
+          "grade": 17,
+          "level": 81,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "우디르",
+          "guild": "목장",
+          "class": "환영검사",
+          "grade": 16,
+          "level": 78,
+          "server": "벤아트 01"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "계필사문",
+            "guild": "목장",
+            "class": "집행관",
+            "grade": 17,
+            "level": 81,
+            "server": "벤아트 01"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "우디르",
+            "guild": "목장",
+            "class": "환영검사",
+            "grade": 16,
+            "level": 78,
+            "server": "벤아트 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "17": [
+          {
+            "nickname": "계필사문",
+            "guild": "목장",
+            "class": "집행관",
+            "grade": 17,
+            "level": 81,
+            "server": "벤아트 01"
+          }
+        ],
+        "16": [
+          {
+            "nickname": "우디르",
+            "guild": "목장",
+            "class": "환영검사",
+            "grade": 16,
+            "level": 78,
+            "server": "벤아트 01"
+          }
+        ]
+      }
+    },
+    "한국야쿠르트": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "16": 1
+      },
+      "membersList": [
+        {
+          "nickname": "응큼한건달",
+          "guild": "한국야쿠르트",
+          "class": "향사수",
+          "grade": 16,
+          "level": 81,
+          "server": "벤아트 01"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "응큼한건달",
+            "guild": "한국야쿠르트",
+            "class": "향사수",
+            "grade": 16,
+            "level": 81,
+            "server": "벤아트 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "16": [
+          {
+            "nickname": "응큼한건달",
+            "guild": "한국야쿠르트",
+            "class": "향사수",
+            "grade": 16,
+            "level": 81,
+            "server": "벤아트 01"
+          }
+        ]
+      }
+    },
+    "담배맛농약": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "17": 1
+      },
+      "membersList": [
+        {
+          "nickname": "맞고보니화이자",
+          "guild": "담배맛농약",
+          "class": "주문각인사",
+          "grade": 17,
+          "level": 81,
+          "server": "벤아트 01"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "맞고보니화이자",
+            "guild": "담배맛농약",
+            "class": "주문각인사",
+            "grade": 17,
+            "level": 81,
+            "server": "벤아트 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "17": [
+          {
+            "nickname": "맞고보니화이자",
+            "guild": "담배맛농약",
+            "class": "주문각인사",
+            "grade": 17,
+            "level": 81,
+            "server": "벤아트 01"
+          }
+        ]
+      }
+    },
+    "DP3": {
+      "members": 2,
+      "byClass": {
+        "주문각인사": 1,
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "16": 2
+      },
+      "membersList": [
+        {
+          "nickname": "후이바오",
+          "guild": "DP3",
+          "class": "주문각인사",
+          "grade": 16,
+          "level": 80,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "해능",
+          "guild": "DP3",
+          "class": "태양감시자",
+          "grade": 16,
+          "level": 79,
+          "server": "벤아트 01"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "후이바오",
+            "guild": "DP3",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 80,
+            "server": "벤아트 01"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "해능",
+            "guild": "DP3",
+            "class": "태양감시자",
+            "grade": 16,
+            "level": 79,
+            "server": "벤아트 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "16": [
+          {
+            "nickname": "후이바오",
+            "guild": "DP3",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 80,
+            "server": "벤아트 01"
+          },
+          {
+            "nickname": "해능",
+            "guild": "DP3",
+            "class": "태양감시자",
+            "grade": 16,
+            "level": 79,
+            "server": "벤아트 01"
+          }
+        ]
+      }
+    },
+    "동물의숲": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "16": 1
+      },
+      "membersList": [
+        {
+          "nickname": "도동",
+          "guild": "동물의숲",
+          "class": "태양감시자",
+          "grade": 16,
+          "level": 80,
+          "server": "벤아트 01"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "도동",
+            "guild": "동물의숲",
+            "class": "태양감시자",
+            "grade": 16,
+            "level": 80,
+            "server": "벤아트 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "16": [
+          {
+            "nickname": "도동",
+            "guild": "동물의숲",
+            "class": "태양감시자",
+            "grade": 16,
+            "level": 80,
+            "server": "벤아트 01"
+          }
+        ]
+      }
+    },
+    "노점상": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "16": 1
+      },
+      "membersList": [
+        {
+          "nickname": "땃쥐",
+          "guild": "노점상",
+          "class": "향사수",
+          "grade": 16,
+          "level": 80,
+          "server": "벤아트 01"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "땃쥐",
+            "guild": "노점상",
+            "class": "향사수",
+            "grade": 16,
+            "level": 80,
+            "server": "벤아트 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "16": [
+          {
+            "nickname": "땃쥐",
+            "guild": "노점상",
+            "class": "향사수",
+            "grade": 16,
+            "level": 80,
+            "server": "벤아트 01"
+          }
+        ]
+      }
+    },
+    "호호": {
+      "members": 2,
+      "byClass": {
+        "환영검사": 1,
+        "향사수": 1
+      },
+      "byGrade": {
+        "16": 1,
+        "15": 1
+      },
+      "membersList": [
+        {
+          "nickname": "해인",
+          "guild": "호호",
+          "class": "환영검사",
+          "grade": 16,
+          "level": 80,
+          "server": "벤아트 01"
+        },
+        {
+          "nickname": "호호후후",
+          "guild": "호호",
+          "class": "향사수",
+          "grade": 15,
+          "level": 79,
+          "server": "벤아트 01"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "해인",
+            "guild": "호호",
+            "class": "환영검사",
+            "grade": 16,
+            "level": 80,
+            "server": "벤아트 01"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "호호후후",
+            "guild": "호호",
+            "class": "향사수",
+            "grade": 15,
+            "level": 79,
+            "server": "벤아트 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "16": [
+          {
+            "nickname": "해인",
+            "guild": "호호",
+            "class": "환영검사",
+            "grade": 16,
+            "level": 80,
+            "server": "벤아트 01"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "호호후후",
+            "guild": "호호",
+            "class": "향사수",
+            "grade": 15,
+            "level": 79,
+            "server": "벤아트 01"
+          }
+        ]
+      }
+    },
+    "쉼표": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "14": 1
+      },
+      "membersList": [
+        {
+          "nickname": "릉지",
+          "guild": "쉼표",
+          "class": "집행관",
+          "grade": 14,
+          "level": 80,
+          "server": "벤아트 01"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "릉지",
+            "guild": "쉼표",
+            "class": "집행관",
+            "grade": 14,
+            "level": 80,
+            "server": "벤아트 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "14": [
+          {
+            "nickname": "릉지",
+            "guild": "쉼표",
+            "class": "집행관",
+            "grade": 14,
+            "level": 80,
+            "server": "벤아트 01"
+          }
+        ]
+      }
+    },
+    "골드로저": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "15": 1
+      },
+      "membersList": [
+        {
+          "nickname": "막기",
+          "guild": "골드로저",
+          "class": "집행관",
+          "grade": 15,
+          "level": 79,
+          "server": "벤아트 01"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "막기",
+            "guild": "골드로저",
+            "class": "집행관",
+            "grade": 15,
+            "level": 79,
+            "server": "벤아트 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "15": [
+          {
+            "nickname": "막기",
+            "guild": "골드로저",
+            "class": "집행관",
+            "grade": 15,
+            "level": 79,
+            "server": "벤아트 01"
+          }
+        ]
+      }
+    },
+    "늑대앙": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "15": 1
+      },
+      "membersList": [
+        {
+          "nickname": "늑대당",
+          "guild": "늑대앙",
+          "class": "집행관",
+          "grade": 15,
+          "level": 79,
+          "server": "벤아트 01"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "늑대당",
+            "guild": "늑대앙",
+            "class": "집행관",
+            "grade": 15,
+            "level": 79,
+            "server": "벤아트 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "15": [
+          {
+            "nickname": "늑대당",
+            "guild": "늑대앙",
+            "class": "집행관",
+            "grade": 15,
+            "level": 79,
+            "server": "벤아트 01"
+          }
+        ]
+      }
+    },
+    "고냥이수호대": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "15": 1
+      },
+      "membersList": [
+        {
+          "nickname": "야채빵",
+          "guild": "고냥이수호대",
+          "class": "집행관",
+          "grade": 15,
+          "level": 79,
+          "server": "벤아트 01"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "야채빵",
+            "guild": "고냥이수호대",
+            "class": "집행관",
+            "grade": 15,
+            "level": 79,
+            "server": "벤아트 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "15": [
+          {
+            "nickname": "야채빵",
+            "guild": "고냥이수호대",
+            "class": "집행관",
+            "grade": 15,
+            "level": 79,
+            "server": "벤아트 01"
+          }
+        ]
+      }
+    },
+    "콜라": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "16": 1
+      },
+      "membersList": [
+        {
+          "nickname": "백원",
+          "guild": "콜라",
+          "class": "집행관",
+          "grade": 16,
+          "level": 78,
+          "server": "벤아트 01"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "백원",
+            "guild": "콜라",
+            "class": "집행관",
+            "grade": 16,
+            "level": 78,
+            "server": "벤아트 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "16": [
+          {
+            "nickname": "백원",
+            "guild": "콜라",
+            "class": "집행관",
+            "grade": 16,
+            "level": 78,
+            "server": "벤아트 01"
+          }
+        ]
+      }
+    }
+  }
+}

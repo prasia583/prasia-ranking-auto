@@ -1,0 +1,1341 @@
+{
+  "server": "로메네스 04",
+  "guilds": {
+    "제네시스": {
+      "members": 4,
+      "byClass": {
+        "주문각인사": 2,
+        "향사수": 1,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "11": 1,
+        "10": 2,
+        "9": 1
+      },
+      "membersList": [
+        {
+          "nickname": "무말랭이",
+          "guild": "제네시스",
+          "class": "주문각인사",
+          "grade": 11,
+          "level": 70,
+          "server": "로메네스 04"
+        },
+        {
+          "nickname": "신난하루",
+          "guild": "제네시스",
+          "class": "향사수",
+          "grade": 10,
+          "level": 67,
+          "server": "로메네스 04"
+        },
+        {
+          "nickname": "붐야",
+          "guild": "제네시스",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 64,
+          "server": "로메네스 04"
+        },
+        {
+          "nickname": "반짝",
+          "guild": "제네시스",
+          "class": "환영검사",
+          "grade": 9,
+          "level": 65,
+          "server": "로메네스 04"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "무말랭이",
+            "guild": "제네시스",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 70,
+            "server": "로메네스 04"
+          },
+          {
+            "nickname": "붐야",
+            "guild": "제네시스",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 64,
+            "server": "로메네스 04"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "신난하루",
+            "guild": "제네시스",
+            "class": "향사수",
+            "grade": 10,
+            "level": 67,
+            "server": "로메네스 04"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "반짝",
+            "guild": "제네시스",
+            "class": "환영검사",
+            "grade": 9,
+            "level": 65,
+            "server": "로메네스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "11": [
+          {
+            "nickname": "무말랭이",
+            "guild": "제네시스",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 70,
+            "server": "로메네스 04"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "신난하루",
+            "guild": "제네시스",
+            "class": "향사수",
+            "grade": 10,
+            "level": 67,
+            "server": "로메네스 04"
+          },
+          {
+            "nickname": "붐야",
+            "guild": "제네시스",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 64,
+            "server": "로메네스 04"
+          }
+        ],
+        "9": [
+          {
+            "nickname": "반짝",
+            "guild": "제네시스",
+            "class": "환영검사",
+            "grade": 9,
+            "level": 65,
+            "server": "로메네스 04"
+          }
+        ]
+      }
+    },
+    "GAIA": {
+      "members": 7,
+      "byClass": {
+        "주문각인사": 4,
+        "향사수": 2,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "10": 2,
+        "9": 1,
+        "8": 3,
+        "7": 1
+      },
+      "membersList": [
+        {
+          "nickname": "빠르",
+          "guild": "GAIA",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 69,
+          "server": "로메네스 04"
+        },
+        {
+          "nickname": "유기견",
+          "guild": "GAIA",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 67,
+          "server": "로메네스 04"
+        },
+        {
+          "nickname": "물방개",
+          "guild": "GAIA",
+          "class": "환영검사",
+          "grade": 9,
+          "level": 65,
+          "server": "로메네스 04"
+        },
+        {
+          "nickname": "가이아",
+          "guild": "GAIA",
+          "class": "주문각인사",
+          "grade": 8,
+          "level": 66,
+          "server": "로메네스 04"
+        },
+        {
+          "nickname": "먼디",
+          "guild": "GAIA",
+          "class": "향사수",
+          "grade": 8,
+          "level": 66,
+          "server": "로메네스 04"
+        },
+        {
+          "nickname": "블랙잭",
+          "guild": "GAIA",
+          "class": "주문각인사",
+          "grade": 8,
+          "level": 64,
+          "server": "로메네스 04"
+        },
+        {
+          "nickname": "마석",
+          "guild": "GAIA",
+          "class": "향사수",
+          "grade": 7,
+          "level": 64,
+          "server": "로메네스 04"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "빠르",
+            "guild": "GAIA",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 69,
+            "server": "로메네스 04"
+          },
+          {
+            "nickname": "유기견",
+            "guild": "GAIA",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 67,
+            "server": "로메네스 04"
+          },
+          {
+            "nickname": "가이아",
+            "guild": "GAIA",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 66,
+            "server": "로메네스 04"
+          },
+          {
+            "nickname": "블랙잭",
+            "guild": "GAIA",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 64,
+            "server": "로메네스 04"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "먼디",
+            "guild": "GAIA",
+            "class": "향사수",
+            "grade": 8,
+            "level": 66,
+            "server": "로메네스 04"
+          },
+          {
+            "nickname": "마석",
+            "guild": "GAIA",
+            "class": "향사수",
+            "grade": 7,
+            "level": 64,
+            "server": "로메네스 04"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "물방개",
+            "guild": "GAIA",
+            "class": "환영검사",
+            "grade": 9,
+            "level": 65,
+            "server": "로메네스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "빠르",
+            "guild": "GAIA",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 69,
+            "server": "로메네스 04"
+          },
+          {
+            "nickname": "유기견",
+            "guild": "GAIA",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 67,
+            "server": "로메네스 04"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "가이아",
+            "guild": "GAIA",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 66,
+            "server": "로메네스 04"
+          },
+          {
+            "nickname": "먼디",
+            "guild": "GAIA",
+            "class": "향사수",
+            "grade": 8,
+            "level": 66,
+            "server": "로메네스 04"
+          },
+          {
+            "nickname": "블랙잭",
+            "guild": "GAIA",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 64,
+            "server": "로메네스 04"
+          }
+        ],
+        "9": [
+          {
+            "nickname": "물방개",
+            "guild": "GAIA",
+            "class": "환영검사",
+            "grade": 9,
+            "level": 65,
+            "server": "로메네스 04"
+          }
+        ],
+        "7": [
+          {
+            "nickname": "마석",
+            "guild": "GAIA",
+            "class": "향사수",
+            "grade": 7,
+            "level": 64,
+            "server": "로메네스 04"
+          }
+        ]
+      }
+    },
+    "주술회전": {
+      "members": 4,
+      "byClass": {
+        "향사수": 3,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "10": 1,
+        "8": 1,
+        "7": 2
+      },
+      "membersList": [
+        {
+          "nickname": "동호",
+          "guild": "주술회전",
+          "class": "향사수",
+          "grade": 10,
+          "level": 69,
+          "server": "로메네스 04"
+        },
+        {
+          "nickname": "오슬로길",
+          "guild": "주술회전",
+          "class": "향사수",
+          "grade": 8,
+          "level": 64,
+          "server": "로메네스 04"
+        },
+        {
+          "nickname": "명궁",
+          "guild": "주술회전",
+          "class": "향사수",
+          "grade": 7,
+          "level": 64,
+          "server": "로메네스 04"
+        },
+        {
+          "nickname": "미갱",
+          "guild": "주술회전",
+          "class": "환영검사",
+          "grade": 7,
+          "level": 62,
+          "server": "로메네스 04"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "동호",
+            "guild": "주술회전",
+            "class": "향사수",
+            "grade": 10,
+            "level": 69,
+            "server": "로메네스 04"
+          },
+          {
+            "nickname": "오슬로길",
+            "guild": "주술회전",
+            "class": "향사수",
+            "grade": 8,
+            "level": 64,
+            "server": "로메네스 04"
+          },
+          {
+            "nickname": "명궁",
+            "guild": "주술회전",
+            "class": "향사수",
+            "grade": 7,
+            "level": 64,
+            "server": "로메네스 04"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "미갱",
+            "guild": "주술회전",
+            "class": "환영검사",
+            "grade": 7,
+            "level": 62,
+            "server": "로메네스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "동호",
+            "guild": "주술회전",
+            "class": "향사수",
+            "grade": 10,
+            "level": 69,
+            "server": "로메네스 04"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "오슬로길",
+            "guild": "주술회전",
+            "class": "향사수",
+            "grade": 8,
+            "level": 64,
+            "server": "로메네스 04"
+          }
+        ],
+        "7": [
+          {
+            "nickname": "명궁",
+            "guild": "주술회전",
+            "class": "향사수",
+            "grade": 7,
+            "level": 64,
+            "server": "로메네스 04"
+          },
+          {
+            "nickname": "미갱",
+            "guild": "주술회전",
+            "class": "환영검사",
+            "grade": 7,
+            "level": 62,
+            "server": "로메네스 04"
+          }
+        ]
+      }
+    },
+    "풀잎": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "9": 1
+      },
+      "membersList": [
+        {
+          "nickname": "께임도리",
+          "guild": "풀잎",
+          "class": "향사수",
+          "grade": 9,
+          "level": 67,
+          "server": "로메네스 04"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "께임도리",
+            "guild": "풀잎",
+            "class": "향사수",
+            "grade": 9,
+            "level": 67,
+            "server": "로메네스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "9": [
+          {
+            "nickname": "께임도리",
+            "guild": "풀잎",
+            "class": "향사수",
+            "grade": 9,
+            "level": 67,
+            "server": "로메네스 04"
+          }
+        ]
+      }
+    },
+    "유토피아": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "9": 1
+      },
+      "membersList": [
+        {
+          "nickname": "휘뚜루마뚜루",
+          "guild": "유토피아",
+          "class": "주문각인사",
+          "grade": 9,
+          "level": 67,
+          "server": "로메네스 04"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "휘뚜루마뚜루",
+            "guild": "유토피아",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 67,
+            "server": "로메네스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "9": [
+          {
+            "nickname": "휘뚜루마뚜루",
+            "guild": "유토피아",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 67,
+            "server": "로메네스 04"
+          }
+        ]
+      }
+    },
+    "FOREVER": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "9": 1
+      },
+      "membersList": [
+        {
+          "nickname": "설화령",
+          "guild": "FOREVER",
+          "class": "향사수",
+          "grade": 9,
+          "level": 67,
+          "server": "로메네스 04"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "설화령",
+            "guild": "FOREVER",
+            "class": "향사수",
+            "grade": 9,
+            "level": 67,
+            "server": "로메네스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "9": [
+          {
+            "nickname": "설화령",
+            "guild": "FOREVER",
+            "class": "향사수",
+            "grade": 9,
+            "level": 67,
+            "server": "로메네스 04"
+          }
+        ]
+      }
+    },
+    "빙그레": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "8": 1
+      },
+      "membersList": [
+        {
+          "nickname": "천상유화",
+          "guild": "빙그레",
+          "class": "향사수",
+          "grade": 8,
+          "level": 66,
+          "server": "로메네스 04"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "천상유화",
+            "guild": "빙그레",
+            "class": "향사수",
+            "grade": 8,
+            "level": 66,
+            "server": "로메네스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "8": [
+          {
+            "nickname": "천상유화",
+            "guild": "빙그레",
+            "class": "향사수",
+            "grade": 8,
+            "level": 66,
+            "server": "로메네스 04"
+          }
+        ]
+      }
+    },
+    "스타필드": {
+      "members": 5,
+      "byClass": {
+        "집행관": 2,
+        "향사수": 2,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "9": 3,
+        "8": 1,
+        "7": 1
+      },
+      "membersList": [
+        {
+          "nickname": "아크스",
+          "guild": "스타필드",
+          "class": "집행관",
+          "grade": 9,
+          "level": 66,
+          "server": "로메네스 04"
+        },
+        {
+          "nickname": "yummy",
+          "guild": "스타필드",
+          "class": "향사수",
+          "grade": 9,
+          "level": 65,
+          "server": "로메네스 04"
+        },
+        {
+          "nickname": "귀족",
+          "guild": "스타필드",
+          "class": "향사수",
+          "grade": 9,
+          "level": 65,
+          "server": "로메네스 04"
+        },
+        {
+          "nickname": "노래",
+          "guild": "스타필드",
+          "class": "환영검사",
+          "grade": 8,
+          "level": 62,
+          "server": "로메네스 04"
+        },
+        {
+          "nickname": "쿠마",
+          "guild": "스타필드",
+          "class": "집행관",
+          "grade": 7,
+          "level": 64,
+          "server": "로메네스 04"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "아크스",
+            "guild": "스타필드",
+            "class": "집행관",
+            "grade": 9,
+            "level": 66,
+            "server": "로메네스 04"
+          },
+          {
+            "nickname": "쿠마",
+            "guild": "스타필드",
+            "class": "집행관",
+            "grade": 7,
+            "level": 64,
+            "server": "로메네스 04"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "yummy",
+            "guild": "스타필드",
+            "class": "향사수",
+            "grade": 9,
+            "level": 65,
+            "server": "로메네스 04"
+          },
+          {
+            "nickname": "귀족",
+            "guild": "스타필드",
+            "class": "향사수",
+            "grade": 9,
+            "level": 65,
+            "server": "로메네스 04"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "노래",
+            "guild": "스타필드",
+            "class": "환영검사",
+            "grade": 8,
+            "level": 62,
+            "server": "로메네스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "9": [
+          {
+            "nickname": "아크스",
+            "guild": "스타필드",
+            "class": "집행관",
+            "grade": 9,
+            "level": 66,
+            "server": "로메네스 04"
+          },
+          {
+            "nickname": "yummy",
+            "guild": "스타필드",
+            "class": "향사수",
+            "grade": 9,
+            "level": 65,
+            "server": "로메네스 04"
+          },
+          {
+            "nickname": "귀족",
+            "guild": "스타필드",
+            "class": "향사수",
+            "grade": 9,
+            "level": 65,
+            "server": "로메네스 04"
+          }
+        ],
+        "7": [
+          {
+            "nickname": "쿠마",
+            "guild": "스타필드",
+            "class": "집행관",
+            "grade": 7,
+            "level": 64,
+            "server": "로메네스 04"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "노래",
+            "guild": "스타필드",
+            "class": "환영검사",
+            "grade": 8,
+            "level": 62,
+            "server": "로메네스 04"
+          }
+        ]
+      }
+    },
+    "천위": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "9": 1
+      },
+      "membersList": [
+        {
+          "nickname": "라키시스",
+          "guild": "천위",
+          "class": "주문각인사",
+          "grade": 9,
+          "level": 65,
+          "server": "로메네스 04"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "라키시스",
+            "guild": "천위",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 65,
+            "server": "로메네스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "9": [
+          {
+            "nickname": "라키시스",
+            "guild": "천위",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 65,
+            "server": "로메네스 04"
+          }
+        ]
+      }
+    },
+    "소소소": {
+      "members": 3,
+      "byClass": {
+        "주문각인사": 1,
+        "환영검사": 1,
+        "집행관": 1
+      },
+      "byGrade": {
+        "10": 1,
+        "7": 1,
+        "5": 1
+      },
+      "membersList": [
+        {
+          "nickname": "덕현",
+          "guild": "소소소",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 65,
+          "server": "로메네스 04"
+        },
+        {
+          "nickname": "혈랑",
+          "guild": "소소소",
+          "class": "환영검사",
+          "grade": 7,
+          "level": 62,
+          "server": "로메네스 04"
+        },
+        {
+          "nickname": "먹물방망이",
+          "guild": "소소소",
+          "class": "집행관",
+          "grade": 5,
+          "level": 62,
+          "server": "로메네스 04"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "덕현",
+            "guild": "소소소",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 65,
+            "server": "로메네스 04"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "혈랑",
+            "guild": "소소소",
+            "class": "환영검사",
+            "grade": 7,
+            "level": 62,
+            "server": "로메네스 04"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "먹물방망이",
+            "guild": "소소소",
+            "class": "집행관",
+            "grade": 5,
+            "level": 62,
+            "server": "로메네스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "덕현",
+            "guild": "소소소",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 65,
+            "server": "로메네스 04"
+          }
+        ],
+        "7": [
+          {
+            "nickname": "혈랑",
+            "guild": "소소소",
+            "class": "환영검사",
+            "grade": 7,
+            "level": 62,
+            "server": "로메네스 04"
+          }
+        ],
+        "5": [
+          {
+            "nickname": "먹물방망이",
+            "guild": "소소소",
+            "class": "집행관",
+            "grade": 5,
+            "level": 62,
+            "server": "로메네스 04"
+          }
+        ]
+      }
+    },
+    "유랑자": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "9": 1
+      },
+      "membersList": [
+        {
+          "nickname": "카자마진",
+          "guild": "유랑자",
+          "class": "주문각인사",
+          "grade": 9,
+          "level": 65,
+          "server": "로메네스 04"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "카자마진",
+            "guild": "유랑자",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 65,
+            "server": "로메네스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "9": [
+          {
+            "nickname": "카자마진",
+            "guild": "유랑자",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 65,
+            "server": "로메네스 04"
+          }
+        ]
+      }
+    },
+    "젤다의전설": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "7": 1
+      },
+      "membersList": [
+        {
+          "nickname": "젤다",
+          "guild": "젤다의전설",
+          "class": "주문각인사",
+          "grade": 7,
+          "level": 64,
+          "server": "로메네스 04"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "젤다",
+            "guild": "젤다의전설",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 64,
+            "server": "로메네스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "7": [
+          {
+            "nickname": "젤다",
+            "guild": "젤다의전설",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 64,
+            "server": "로메네스 04"
+          }
+        ]
+      }
+    },
+    "백룡": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "8": 1
+      },
+      "membersList": [
+        {
+          "nickname": "선방",
+          "guild": "백룡",
+          "class": "환영검사",
+          "grade": 8,
+          "level": 64,
+          "server": "로메네스 04"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "선방",
+            "guild": "백룡",
+            "class": "환영검사",
+            "grade": 8,
+            "level": 64,
+            "server": "로메네스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "8": [
+          {
+            "nickname": "선방",
+            "guild": "백룡",
+            "class": "환영검사",
+            "grade": 8,
+            "level": 64,
+            "server": "로메네스 04"
+          }
+        ]
+      }
+    },
+    "초코": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "9": 1
+      },
+      "membersList": [
+        {
+          "nickname": "쇽쇽쇽",
+          "guild": "초코",
+          "class": "향사수",
+          "grade": 9,
+          "level": 63,
+          "server": "로메네스 04"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "쇽쇽쇽",
+            "guild": "초코",
+            "class": "향사수",
+            "grade": 9,
+            "level": 63,
+            "server": "로메네스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "9": [
+          {
+            "nickname": "쇽쇽쇽",
+            "guild": "초코",
+            "class": "향사수",
+            "grade": 9,
+            "level": 63,
+            "server": "로메네스 04"
+          }
+        ]
+      }
+    },
+    "흑호랑이": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "7": 1
+      },
+      "membersList": [
+        {
+          "nickname": "흑호",
+          "guild": "흑호랑이",
+          "class": "향사수",
+          "grade": 7,
+          "level": 63,
+          "server": "로메네스 04"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "흑호",
+            "guild": "흑호랑이",
+            "class": "향사수",
+            "grade": 7,
+            "level": 63,
+            "server": "로메네스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "7": [
+          {
+            "nickname": "흑호",
+            "guild": "흑호랑이",
+            "class": "향사수",
+            "grade": 7,
+            "level": 63,
+            "server": "로메네스 04"
+          }
+        ]
+      }
+    },
+    "공격": {
+      "members": 2,
+      "byClass": {
+        "주문각인사": 1,
+        "향사수": 1
+      },
+      "byGrade": {
+        "7": 2
+      },
+      "membersList": [
+        {
+          "nickname": "고결",
+          "guild": "공격",
+          "class": "주문각인사",
+          "grade": 7,
+          "level": 63,
+          "server": "로메네스 04"
+        },
+        {
+          "nickname": "모야모야",
+          "guild": "공격",
+          "class": "향사수",
+          "grade": 7,
+          "level": 62,
+          "server": "로메네스 04"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "고결",
+            "guild": "공격",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 63,
+            "server": "로메네스 04"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "모야모야",
+            "guild": "공격",
+            "class": "향사수",
+            "grade": 7,
+            "level": 62,
+            "server": "로메네스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "7": [
+          {
+            "nickname": "고결",
+            "guild": "공격",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 63,
+            "server": "로메네스 04"
+          },
+          {
+            "nickname": "모야모야",
+            "guild": "공격",
+            "class": "향사수",
+            "grade": 7,
+            "level": 62,
+            "server": "로메네스 04"
+          }
+        ]
+      }
+    },
+    "뉴비": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "6": 1
+      },
+      "membersList": [
+        {
+          "nickname": "아이언맨",
+          "guild": "뉴비",
+          "class": "환영검사",
+          "grade": 6,
+          "level": 62,
+          "server": "로메네스 04"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "아이언맨",
+            "guild": "뉴비",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 62,
+            "server": "로메네스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "6": [
+          {
+            "nickname": "아이언맨",
+            "guild": "뉴비",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 62,
+            "server": "로메네스 04"
+          }
+        ]
+      }
+    },
+    "피테르": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "8": 1
+      },
+      "membersList": [
+        {
+          "nickname": "좀비",
+          "guild": "피테르",
+          "class": "환영검사",
+          "grade": 8,
+          "level": 62,
+          "server": "로메네스 04"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "좀비",
+            "guild": "피테르",
+            "class": "환영검사",
+            "grade": 8,
+            "level": 62,
+            "server": "로메네스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "8": [
+          {
+            "nickname": "좀비",
+            "guild": "피테르",
+            "class": "환영검사",
+            "grade": 8,
+            "level": 62,
+            "server": "로메네스 04"
+          }
+        ]
+      }
+    },
+    "꼭질": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "5": 1
+      },
+      "membersList": [
+        {
+          "nickname": "유도무기",
+          "guild": "꼭질",
+          "class": "향사수",
+          "grade": 5,
+          "level": 62,
+          "server": "로메네스 04"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "유도무기",
+            "guild": "꼭질",
+            "class": "향사수",
+            "grade": 5,
+            "level": 62,
+            "server": "로메네스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "5": [
+          {
+            "nickname": "유도무기",
+            "guild": "꼭질",
+            "class": "향사수",
+            "grade": 5,
+            "level": 62,
+            "server": "로메네스 04"
+          }
+        ]
+      }
+    }
+  }
+}

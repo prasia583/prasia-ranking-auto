@@ -1,6 +1,1 @@
-Traceback (most recent call last):
-  File "/home/runner/work/prasia-ranking-auto/prasia-ranking-auto/tools/collect_rankings.py", line 227, in <module>
-    build()
-  File "/home/runner/work/prasia-ranking-auto/prasia-ranking-auto/tools/collect_rankings.py", line 121, in build
-    raise RuntimeError(
-RuntimeError: 수집 데이터가 비정상적으로 적어 기존 스냅샷을 보존합니다: 0개 서버, 0명; 오류: ['W01_R1: HTTP 401', 'W01_R2: HTTP 401', 'W01_R3: HTTP 401', 'W01_R4: HTTP 401', 'W01_R5: HTTP 401']
+{"label": "2026-08-03", "file": "ranking_2026_08_03.json", "statsFile": "stats_ranking_2026_08_03.json", "statsMembersFile": "stats_members_ranking_2026_08_03.json", "rows": 2035, "sheet": "Nexon API", "collectedAt": "2026-08-03T16:03:31+09:00", "characters": 12500, "servers": 125}

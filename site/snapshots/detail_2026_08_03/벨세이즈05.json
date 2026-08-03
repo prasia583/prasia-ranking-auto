@@ -1,0 +1,1642 @@
+{
+  "server": "벨세이즈 05",
+  "guilds": {
+    "자유": {
+      "members": 18,
+      "byClass": {
+        "향사수": 9,
+        "주문각인사": 5,
+        "환영검사": 2,
+        "집행관": 2
+      },
+      "byGrade": {
+        "10": 1,
+        "9": 4,
+        "8": 3,
+        "7": 2,
+        "6": 2,
+        "5": 1,
+        "4": 1,
+        "3": 1,
+        "1": 3
+      },
+      "membersList": [
+        {
+          "nickname": "고센",
+          "guild": "자유",
+          "class": "향사수",
+          "grade": 10,
+          "level": 68,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "무이",
+          "guild": "자유",
+          "class": "주문각인사",
+          "grade": 9,
+          "level": 66,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "내가디바다",
+          "guild": "자유",
+          "class": "향사수",
+          "grade": 9,
+          "level": 64,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "OEC",
+          "guild": "자유",
+          "class": "주문각인사",
+          "grade": 9,
+          "level": 63,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "칸스",
+          "guild": "자유",
+          "class": "환영검사",
+          "grade": 9,
+          "level": 60,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "고수",
+          "guild": "자유",
+          "class": "환영검사",
+          "grade": 8,
+          "level": 66,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "행마",
+          "guild": "자유",
+          "class": "향사수",
+          "grade": 8,
+          "level": 63,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "아키몬드",
+          "guild": "자유",
+          "class": "향사수",
+          "grade": 8,
+          "level": 62,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "사랑의짝때기",
+          "guild": "자유",
+          "class": "주문각인사",
+          "grade": 7,
+          "level": 64,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "걸뱅이",
+          "guild": "자유",
+          "class": "집행관",
+          "grade": 7,
+          "level": 61,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "아아",
+          "guild": "자유",
+          "class": "집행관",
+          "grade": 6,
+          "level": 63,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "사이노드",
+          "guild": "자유",
+          "class": "향사수",
+          "grade": 6,
+          "level": 60,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "알루",
+          "guild": "자유",
+          "class": "향사수",
+          "grade": 5,
+          "level": 61,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "용왕",
+          "guild": "자유",
+          "class": "주문각인사",
+          "grade": 4,
+          "level": 58,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "야옹녀",
+          "guild": "자유",
+          "class": "주문각인사",
+          "grade": 3,
+          "level": 57,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "러그그",
+          "guild": "자유",
+          "class": "향사수",
+          "grade": 1,
+          "level": 57,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "슨슨",
+          "guild": "자유",
+          "class": "향사수",
+          "grade": 1,
+          "level": 57,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "프프라라",
+          "guild": "자유",
+          "class": "향사수",
+          "grade": 1,
+          "level": 57,
+          "server": "벨세이즈 05"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "고센",
+            "guild": "자유",
+            "class": "향사수",
+            "grade": 10,
+            "level": 68,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "내가디바다",
+            "guild": "자유",
+            "class": "향사수",
+            "grade": 9,
+            "level": 64,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "행마",
+            "guild": "자유",
+            "class": "향사수",
+            "grade": 8,
+            "level": 63,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "아키몬드",
+            "guild": "자유",
+            "class": "향사수",
+            "grade": 8,
+            "level": 62,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "사이노드",
+            "guild": "자유",
+            "class": "향사수",
+            "grade": 6,
+            "level": 60,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "알루",
+            "guild": "자유",
+            "class": "향사수",
+            "grade": 5,
+            "level": 61,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "러그그",
+            "guild": "자유",
+            "class": "향사수",
+            "grade": 1,
+            "level": 57,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "슨슨",
+            "guild": "자유",
+            "class": "향사수",
+            "grade": 1,
+            "level": 57,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "프프라라",
+            "guild": "자유",
+            "class": "향사수",
+            "grade": 1,
+            "level": 57,
+            "server": "벨세이즈 05"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "무이",
+            "guild": "자유",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 66,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "OEC",
+            "guild": "자유",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 63,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "사랑의짝때기",
+            "guild": "자유",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 64,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "용왕",
+            "guild": "자유",
+            "class": "주문각인사",
+            "grade": 4,
+            "level": 58,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "야옹녀",
+            "guild": "자유",
+            "class": "주문각인사",
+            "grade": 3,
+            "level": 57,
+            "server": "벨세이즈 05"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "칸스",
+            "guild": "자유",
+            "class": "환영검사",
+            "grade": 9,
+            "level": 60,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "고수",
+            "guild": "자유",
+            "class": "환영검사",
+            "grade": 8,
+            "level": 66,
+            "server": "벨세이즈 05"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "걸뱅이",
+            "guild": "자유",
+            "class": "집행관",
+            "grade": 7,
+            "level": 61,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "아아",
+            "guild": "자유",
+            "class": "집행관",
+            "grade": 6,
+            "level": 63,
+            "server": "벨세이즈 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "고센",
+            "guild": "자유",
+            "class": "향사수",
+            "grade": 10,
+            "level": 68,
+            "server": "벨세이즈 05"
+          }
+        ],
+        "9": [
+          {
+            "nickname": "무이",
+            "guild": "자유",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 66,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "내가디바다",
+            "guild": "자유",
+            "class": "향사수",
+            "grade": 9,
+            "level": 64,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "OEC",
+            "guild": "자유",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 63,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "칸스",
+            "guild": "자유",
+            "class": "환영검사",
+            "grade": 9,
+            "level": 60,
+            "server": "벨세이즈 05"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "고수",
+            "guild": "자유",
+            "class": "환영검사",
+            "grade": 8,
+            "level": 66,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "행마",
+            "guild": "자유",
+            "class": "향사수",
+            "grade": 8,
+            "level": 63,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "아키몬드",
+            "guild": "자유",
+            "class": "향사수",
+            "grade": 8,
+            "level": 62,
+            "server": "벨세이즈 05"
+          }
+        ],
+        "7": [
+          {
+            "nickname": "사랑의짝때기",
+            "guild": "자유",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 64,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "걸뱅이",
+            "guild": "자유",
+            "class": "집행관",
+            "grade": 7,
+            "level": 61,
+            "server": "벨세이즈 05"
+          }
+        ],
+        "6": [
+          {
+            "nickname": "아아",
+            "guild": "자유",
+            "class": "집행관",
+            "grade": 6,
+            "level": 63,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "사이노드",
+            "guild": "자유",
+            "class": "향사수",
+            "grade": 6,
+            "level": 60,
+            "server": "벨세이즈 05"
+          }
+        ],
+        "5": [
+          {
+            "nickname": "알루",
+            "guild": "자유",
+            "class": "향사수",
+            "grade": 5,
+            "level": 61,
+            "server": "벨세이즈 05"
+          }
+        ],
+        "4": [
+          {
+            "nickname": "용왕",
+            "guild": "자유",
+            "class": "주문각인사",
+            "grade": 4,
+            "level": 58,
+            "server": "벨세이즈 05"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "러그그",
+            "guild": "자유",
+            "class": "향사수",
+            "grade": 1,
+            "level": 57,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "슨슨",
+            "guild": "자유",
+            "class": "향사수",
+            "grade": 1,
+            "level": 57,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "프프라라",
+            "guild": "자유",
+            "class": "향사수",
+            "grade": 1,
+            "level": 57,
+            "server": "벨세이즈 05"
+          }
+        ],
+        "3": [
+          {
+            "nickname": "야옹녀",
+            "guild": "자유",
+            "class": "주문각인사",
+            "grade": 3,
+            "level": 57,
+            "server": "벨세이즈 05"
+          }
+        ]
+      }
+    },
+    "비밀": {
+      "members": 5,
+      "byClass": {
+        "향사수": 3,
+        "환영검사": 1,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "10": 1,
+        "8": 1,
+        "7": 2,
+        "3": 1
+      },
+      "membersList": [
+        {
+          "nickname": "지나간시간",
+          "guild": "비밀",
+          "class": "환영검사",
+          "grade": 10,
+          "level": 68,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "농구있네축구싶냐",
+          "guild": "비밀",
+          "class": "향사수",
+          "grade": 8,
+          "level": 65,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "AI",
+          "guild": "비밀",
+          "class": "향사수",
+          "grade": 7,
+          "level": 63,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "너무행",
+          "guild": "비밀",
+          "class": "주문각인사",
+          "grade": 7,
+          "level": 63,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "소식좌",
+          "guild": "비밀",
+          "class": "향사수",
+          "grade": 3,
+          "level": 62,
+          "server": "벨세이즈 05"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "지나간시간",
+            "guild": "비밀",
+            "class": "환영검사",
+            "grade": 10,
+            "level": 68,
+            "server": "벨세이즈 05"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "농구있네축구싶냐",
+            "guild": "비밀",
+            "class": "향사수",
+            "grade": 8,
+            "level": 65,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "AI",
+            "guild": "비밀",
+            "class": "향사수",
+            "grade": 7,
+            "level": 63,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "소식좌",
+            "guild": "비밀",
+            "class": "향사수",
+            "grade": 3,
+            "level": 62,
+            "server": "벨세이즈 05"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "너무행",
+            "guild": "비밀",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 63,
+            "server": "벨세이즈 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "지나간시간",
+            "guild": "비밀",
+            "class": "환영검사",
+            "grade": 10,
+            "level": 68,
+            "server": "벨세이즈 05"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "농구있네축구싶냐",
+            "guild": "비밀",
+            "class": "향사수",
+            "grade": 8,
+            "level": 65,
+            "server": "벨세이즈 05"
+          }
+        ],
+        "7": [
+          {
+            "nickname": "AI",
+            "guild": "비밀",
+            "class": "향사수",
+            "grade": 7,
+            "level": 63,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "너무행",
+            "guild": "비밀",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 63,
+            "server": "벨세이즈 05"
+          }
+        ],
+        "3": [
+          {
+            "nickname": "소식좌",
+            "guild": "비밀",
+            "class": "향사수",
+            "grade": 3,
+            "level": 62,
+            "server": "벨세이즈 05"
+          }
+        ]
+      }
+    },
+    "UnHoly": {
+      "members": 4,
+      "byClass": {
+        "향사수": 2,
+        "환영검사": 1,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "9": 2,
+        "8": 1,
+        "6": 1
+      },
+      "membersList": [
+        {
+          "nickname": "하루핑",
+          "guild": "UnHoly",
+          "class": "향사수",
+          "grade": 9,
+          "level": 65,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "참치먹자",
+          "guild": "UnHoly",
+          "class": "환영검사",
+          "grade": 9,
+          "level": 63,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "야아압푹",
+          "guild": "UnHoly",
+          "class": "향사수",
+          "grade": 8,
+          "level": 62,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "센시아",
+          "guild": "UnHoly",
+          "class": "주문각인사",
+          "grade": 6,
+          "level": 60,
+          "server": "벨세이즈 05"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "하루핑",
+            "guild": "UnHoly",
+            "class": "향사수",
+            "grade": 9,
+            "level": 65,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "야아압푹",
+            "guild": "UnHoly",
+            "class": "향사수",
+            "grade": 8,
+            "level": 62,
+            "server": "벨세이즈 05"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "참치먹자",
+            "guild": "UnHoly",
+            "class": "환영검사",
+            "grade": 9,
+            "level": 63,
+            "server": "벨세이즈 05"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "센시아",
+            "guild": "UnHoly",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 60,
+            "server": "벨세이즈 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "9": [
+          {
+            "nickname": "하루핑",
+            "guild": "UnHoly",
+            "class": "향사수",
+            "grade": 9,
+            "level": 65,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "참치먹자",
+            "guild": "UnHoly",
+            "class": "환영검사",
+            "grade": 9,
+            "level": 63,
+            "server": "벨세이즈 05"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "야아압푹",
+            "guild": "UnHoly",
+            "class": "향사수",
+            "grade": 8,
+            "level": 62,
+            "server": "벨세이즈 05"
+          }
+        ],
+        "6": [
+          {
+            "nickname": "센시아",
+            "guild": "UnHoly",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 60,
+            "server": "벨세이즈 05"
+          }
+        ]
+      }
+    },
+    "혼": {
+      "members": 2,
+      "byClass": {
+        "집행관": 1,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "8": 1,
+        "5": 1
+      },
+      "membersList": [
+        {
+          "nickname": "독사",
+          "guild": "혼",
+          "class": "집행관",
+          "grade": 8,
+          "level": 61,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "신이사",
+          "guild": "혼",
+          "class": "환영검사",
+          "grade": 5,
+          "level": 58,
+          "server": "벨세이즈 05"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "독사",
+            "guild": "혼",
+            "class": "집행관",
+            "grade": 8,
+            "level": 61,
+            "server": "벨세이즈 05"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "신이사",
+            "guild": "혼",
+            "class": "환영검사",
+            "grade": 5,
+            "level": 58,
+            "server": "벨세이즈 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "8": [
+          {
+            "nickname": "독사",
+            "guild": "혼",
+            "class": "집행관",
+            "grade": 8,
+            "level": 61,
+            "server": "벨세이즈 05"
+          }
+        ],
+        "5": [
+          {
+            "nickname": "신이사",
+            "guild": "혼",
+            "class": "환영검사",
+            "grade": 5,
+            "level": 58,
+            "server": "벨세이즈 05"
+          }
+        ]
+      }
+    },
+    "품": {
+      "members": 2,
+      "byClass": {
+        "주문각인사": 1,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "5": 2
+      },
+      "membersList": [
+        {
+          "nickname": "라시아",
+          "guild": "품",
+          "class": "주문각인사",
+          "grade": 5,
+          "level": 60,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "타이루스",
+          "guild": "품",
+          "class": "환영검사",
+          "grade": 5,
+          "level": 60,
+          "server": "벨세이즈 05"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "라시아",
+            "guild": "품",
+            "class": "주문각인사",
+            "grade": 5,
+            "level": 60,
+            "server": "벨세이즈 05"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "타이루스",
+            "guild": "품",
+            "class": "환영검사",
+            "grade": 5,
+            "level": 60,
+            "server": "벨세이즈 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "5": [
+          {
+            "nickname": "라시아",
+            "guild": "품",
+            "class": "주문각인사",
+            "grade": 5,
+            "level": 60,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "타이루스",
+            "guild": "품",
+            "class": "환영검사",
+            "grade": 5,
+            "level": 60,
+            "server": "벨세이즈 05"
+          }
+        ]
+      }
+    },
+    "필로네": {
+      "members": 3,
+      "byClass": {
+        "주문각인사": 2,
+        "향사수": 1
+      },
+      "byGrade": {
+        "7": 1,
+        "6": 2
+      },
+      "membersList": [
+        {
+          "nickname": "루시아",
+          "guild": "필로네",
+          "class": "향사수",
+          "grade": 7,
+          "level": 60,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "란디아",
+          "guild": "필로네",
+          "class": "주문각인사",
+          "grade": 6,
+          "level": 60,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "디에네",
+          "guild": "필로네",
+          "class": "주문각인사",
+          "grade": 6,
+          "level": 56,
+          "server": "벨세이즈 05"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "루시아",
+            "guild": "필로네",
+            "class": "향사수",
+            "grade": 7,
+            "level": 60,
+            "server": "벨세이즈 05"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "란디아",
+            "guild": "필로네",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 60,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "디에네",
+            "guild": "필로네",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 56,
+            "server": "벨세이즈 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "7": [
+          {
+            "nickname": "루시아",
+            "guild": "필로네",
+            "class": "향사수",
+            "grade": 7,
+            "level": 60,
+            "server": "벨세이즈 05"
+          }
+        ],
+        "6": [
+          {
+            "nickname": "란디아",
+            "guild": "필로네",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 60,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "디에네",
+            "guild": "필로네",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 56,
+            "server": "벨세이즈 05"
+          }
+        ]
+      }
+    },
+    "브랜드": {
+      "members": 3,
+      "byClass": {
+        "향사수": 2,
+        "집행관": 1
+      },
+      "byGrade": {
+        "6": 2,
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "TToTT",
+          "guild": "브랜드",
+          "class": "향사수",
+          "grade": 6,
+          "level": 60,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "느와르",
+          "guild": "브랜드",
+          "class": "향사수",
+          "grade": 6,
+          "level": 59,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "건달",
+          "guild": "브랜드",
+          "class": "집행관",
+          "grade": 1,
+          "level": 57,
+          "server": "벨세이즈 05"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "TToTT",
+            "guild": "브랜드",
+            "class": "향사수",
+            "grade": 6,
+            "level": 60,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "느와르",
+            "guild": "브랜드",
+            "class": "향사수",
+            "grade": 6,
+            "level": 59,
+            "server": "벨세이즈 05"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "건달",
+            "guild": "브랜드",
+            "class": "집행관",
+            "grade": 1,
+            "level": 57,
+            "server": "벨세이즈 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "6": [
+          {
+            "nickname": "TToTT",
+            "guild": "브랜드",
+            "class": "향사수",
+            "grade": 6,
+            "level": 60,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "느와르",
+            "guild": "브랜드",
+            "class": "향사수",
+            "grade": 6,
+            "level": 59,
+            "server": "벨세이즈 05"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "건달",
+            "guild": "브랜드",
+            "class": "집행관",
+            "grade": 1,
+            "level": 57,
+            "server": "벨세이즈 05"
+          }
+        ]
+      }
+    },
+    "파벌": {
+      "members": 5,
+      "byClass": {
+        "향사수": 4,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "7": 1,
+        "6": 1,
+        "5": 3
+      },
+      "membersList": [
+        {
+          "nickname": "개인랭킹",
+          "guild": "파벌",
+          "class": "향사수",
+          "grade": 7,
+          "level": 60,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "힐주까",
+          "guild": "파벌",
+          "class": "주문각인사",
+          "grade": 6,
+          "level": 57,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "결사장",
+          "guild": "파벌",
+          "class": "향사수",
+          "grade": 5,
+          "level": 57,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "신규캐릭터",
+          "guild": "파벌",
+          "class": "향사수",
+          "grade": 5,
+          "level": 57,
+          "server": "벨세이즈 05"
+        },
+        {
+          "nickname": "달인",
+          "guild": "파벌",
+          "class": "향사수",
+          "grade": 5,
+          "level": 56,
+          "server": "벨세이즈 05"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "개인랭킹",
+            "guild": "파벌",
+            "class": "향사수",
+            "grade": 7,
+            "level": 60,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "결사장",
+            "guild": "파벌",
+            "class": "향사수",
+            "grade": 5,
+            "level": 57,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "신규캐릭터",
+            "guild": "파벌",
+            "class": "향사수",
+            "grade": 5,
+            "level": 57,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "달인",
+            "guild": "파벌",
+            "class": "향사수",
+            "grade": 5,
+            "level": 56,
+            "server": "벨세이즈 05"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "힐주까",
+            "guild": "파벌",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 57,
+            "server": "벨세이즈 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "7": [
+          {
+            "nickname": "개인랭킹",
+            "guild": "파벌",
+            "class": "향사수",
+            "grade": 7,
+            "level": 60,
+            "server": "벨세이즈 05"
+          }
+        ],
+        "5": [
+          {
+            "nickname": "결사장",
+            "guild": "파벌",
+            "class": "향사수",
+            "grade": 5,
+            "level": 57,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "신규캐릭터",
+            "guild": "파벌",
+            "class": "향사수",
+            "grade": 5,
+            "level": 57,
+            "server": "벨세이즈 05"
+          },
+          {
+            "nickname": "달인",
+            "guild": "파벌",
+            "class": "향사수",
+            "grade": 5,
+            "level": 56,
+            "server": "벨세이즈 05"
+          }
+        ],
+        "6": [
+          {
+            "nickname": "힐주까",
+            "guild": "파벌",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 57,
+            "server": "벨세이즈 05"
+          }
+        ]
+      }
+    },
+    "아라문": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "3": 1
+      },
+      "membersList": [
+        {
+          "nickname": "설리",
+          "guild": "아라문",
+          "class": "주문각인사",
+          "grade": 3,
+          "level": 60,
+          "server": "벨세이즈 05"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "설리",
+            "guild": "아라문",
+            "class": "주문각인사",
+            "grade": 3,
+            "level": 60,
+            "server": "벨세이즈 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "3": [
+          {
+            "nickname": "설리",
+            "guild": "아라문",
+            "class": "주문각인사",
+            "grade": 3,
+            "level": 60,
+            "server": "벨세이즈 05"
+          }
+        ]
+      }
+    },
+    "노을빛": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "4": 1
+      },
+      "membersList": [
+        {
+          "nickname": "빛고을여백",
+          "guild": "노을빛",
+          "class": "환영검사",
+          "grade": 4,
+          "level": 59,
+          "server": "벨세이즈 05"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "빛고을여백",
+            "guild": "노을빛",
+            "class": "환영검사",
+            "grade": 4,
+            "level": 59,
+            "server": "벨세이즈 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "4": [
+          {
+            "nickname": "빛고을여백",
+            "guild": "노을빛",
+            "class": "환영검사",
+            "grade": 4,
+            "level": 59,
+            "server": "벨세이즈 05"
+          }
+        ]
+      }
+    },
+    "일결": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "6": 1
+      },
+      "membersList": [
+        {
+          "nickname": "아멘다",
+          "guild": "일결",
+          "class": "향사수",
+          "grade": 6,
+          "level": 59,
+          "server": "벨세이즈 05"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "아멘다",
+            "guild": "일결",
+            "class": "향사수",
+            "grade": 6,
+            "level": 59,
+            "server": "벨세이즈 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "6": [
+          {
+            "nickname": "아멘다",
+            "guild": "일결",
+            "class": "향사수",
+            "grade": 6,
+            "level": 59,
+            "server": "벨세이즈 05"
+          }
+        ]
+      }
+    },
+    "건들면": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "6": 1
+      },
+      "membersList": [
+        {
+          "nickname": "건들면아잉",
+          "guild": "건들면",
+          "class": "주문각인사",
+          "grade": 6,
+          "level": 59,
+          "server": "벨세이즈 05"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "건들면아잉",
+            "guild": "건들면",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 59,
+            "server": "벨세이즈 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "6": [
+          {
+            "nickname": "건들면아잉",
+            "guild": "건들면",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 59,
+            "server": "벨세이즈 05"
+          }
+        ]
+      }
+    },
+    "웹센": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "6": 1
+      },
+      "membersList": [
+        {
+          "nickname": "모모씨",
+          "guild": "웹센",
+          "class": "환영검사",
+          "grade": 6,
+          "level": 58,
+          "server": "벨세이즈 05"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "모모씨",
+            "guild": "웹센",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 58,
+            "server": "벨세이즈 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "6": [
+          {
+            "nickname": "모모씨",
+            "guild": "웹센",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 58,
+            "server": "벨세이즈 05"
+          }
+        ]
+      }
+    },
+    "TIANYANG22": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "4": 1
+      },
+      "membersList": [
+        {
+          "nickname": "덕순",
+          "guild": "TIANYANG22",
+          "class": "주문각인사",
+          "grade": 4,
+          "level": 58,
+          "server": "벨세이즈 05"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "덕순",
+            "guild": "TIANYANG22",
+            "class": "주문각인사",
+            "grade": 4,
+            "level": 58,
+            "server": "벨세이즈 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "4": [
+          {
+            "nickname": "덕순",
+            "guild": "TIANYANG22",
+            "class": "주문각인사",
+            "grade": 4,
+            "level": 58,
+            "server": "벨세이즈 05"
+          }
+        ]
+      }
+    },
+    "니얼굴오징어": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "6": 1
+      },
+      "membersList": [
+        {
+          "nickname": "갑오징어",
+          "guild": "니얼굴오징어",
+          "class": "향사수",
+          "grade": 6,
+          "level": 58,
+          "server": "벨세이즈 05"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "갑오징어",
+            "guild": "니얼굴오징어",
+            "class": "향사수",
+            "grade": 6,
+            "level": 58,
+            "server": "벨세이즈 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "6": [
+          {
+            "nickname": "갑오징어",
+            "guild": "니얼굴오징어",
+            "class": "향사수",
+            "grade": 6,
+            "level": 58,
+            "server": "벨세이즈 05"
+          }
+        ]
+      }
+    },
+    "검은사막": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "3": 1
+      },
+      "membersList": [
+        {
+          "nickname": "화랑",
+          "guild": "검은사막",
+          "class": "환영검사",
+          "grade": 3,
+          "level": 57,
+          "server": "벨세이즈 05"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "화랑",
+            "guild": "검은사막",
+            "class": "환영검사",
+            "grade": 3,
+            "level": 57,
+            "server": "벨세이즈 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "3": [
+          {
+            "nickname": "화랑",
+            "guild": "검은사막",
+            "class": "환영검사",
+            "grade": 3,
+            "level": 57,
+            "server": "벨세이즈 05"
+          }
+        ]
+      }
+    },
+    "땁": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "7": 1
+      },
+      "membersList": [
+        {
+          "nickname": "데스걸",
+          "guild": "땁",
+          "class": "주문각인사",
+          "grade": 7,
+          "level": 57,
+          "server": "벨세이즈 05"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "데스걸",
+            "guild": "땁",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 57,
+            "server": "벨세이즈 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "7": [
+          {
+            "nickname": "데스걸",
+            "guild": "땁",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 57,
+            "server": "벨세이즈 05"
+          }
+        ]
+      }
+    }
+  }
+}

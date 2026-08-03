@@ -1,0 +1,1573 @@
+{
+  "server": "로메네스 01",
+  "guilds": {
+    "영혼": {
+      "members": 2,
+      "byClass": {
+        "환영검사": 1,
+        "향사수": 1
+      },
+      "byGrade": {
+        "11": 1,
+        "7": 1
+      },
+      "membersList": [
+        {
+          "nickname": "롤렉스",
+          "guild": "영혼",
+          "class": "환영검사",
+          "grade": 11,
+          "level": 70,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "네치",
+          "guild": "영혼",
+          "class": "향사수",
+          "grade": 7,
+          "level": 64,
+          "server": "로메네스 01"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "롤렉스",
+            "guild": "영혼",
+            "class": "환영검사",
+            "grade": 11,
+            "level": 70,
+            "server": "로메네스 01"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "네치",
+            "guild": "영혼",
+            "class": "향사수",
+            "grade": 7,
+            "level": 64,
+            "server": "로메네스 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "11": [
+          {
+            "nickname": "롤렉스",
+            "guild": "영혼",
+            "class": "환영검사",
+            "grade": 11,
+            "level": 70,
+            "server": "로메네스 01"
+          }
+        ],
+        "7": [
+          {
+            "nickname": "네치",
+            "guild": "영혼",
+            "class": "향사수",
+            "grade": 7,
+            "level": 64,
+            "server": "로메네스 01"
+          }
+        ]
+      }
+    },
+    "GENESIS": {
+      "members": 18,
+      "byClass": {
+        "주문각인사": 8,
+        "향사수": 6,
+        "집행관": 4
+      },
+      "byGrade": {
+        "11": 1,
+        "10": 6,
+        "9": 6,
+        "8": 3,
+        "6": 1,
+        "4": 1
+      },
+      "membersList": [
+        {
+          "nickname": "꽃필무렵",
+          "guild": "GENESIS",
+          "class": "주문각인사",
+          "grade": 11,
+          "level": 69,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "귀요미공주",
+          "guild": "GENESIS",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 70,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "폭룡",
+          "guild": "GENESIS",
+          "class": "집행관",
+          "grade": 10,
+          "level": 69,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "냠냐미",
+          "guild": "GENESIS",
+          "class": "향사수",
+          "grade": 10,
+          "level": 66,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "휴게소",
+          "guild": "GENESIS",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 66,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "슈크림",
+          "guild": "GENESIS",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 65,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "윙리윙리",
+          "guild": "GENESIS",
+          "class": "집행관",
+          "grade": 10,
+          "level": 65,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "돈까스",
+          "guild": "GENESIS",
+          "class": "집행관",
+          "grade": 9,
+          "level": 67,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "썬팅",
+          "guild": "GENESIS",
+          "class": "향사수",
+          "grade": 9,
+          "level": 66,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "젤리맛라면",
+          "guild": "GENESIS",
+          "class": "향사수",
+          "grade": 9,
+          "level": 65,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "토링",
+          "guild": "GENESIS",
+          "class": "주문각인사",
+          "grade": 9,
+          "level": 65,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "하울의움직이는섬",
+          "guild": "GENESIS",
+          "class": "주문각인사",
+          "grade": 9,
+          "level": 65,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "앙마썽혜",
+          "guild": "GENESIS",
+          "class": "주문각인사",
+          "grade": 9,
+          "level": 64,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "릴렉스",
+          "guild": "GENESIS",
+          "class": "집행관",
+          "grade": 8,
+          "level": 65,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "정구지",
+          "guild": "GENESIS",
+          "class": "향사수",
+          "grade": 8,
+          "level": 65,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "구미곰",
+          "guild": "GENESIS",
+          "class": "향사수",
+          "grade": 8,
+          "level": 63,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "마늘쫑",
+          "guild": "GENESIS",
+          "class": "주문각인사",
+          "grade": 6,
+          "level": 64,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "담주",
+          "guild": "GENESIS",
+          "class": "향사수",
+          "grade": 4,
+          "level": 63,
+          "server": "로메네스 01"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "꽃필무렵",
+            "guild": "GENESIS",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 69,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "귀요미공주",
+            "guild": "GENESIS",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 70,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "휴게소",
+            "guild": "GENESIS",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 66,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "슈크림",
+            "guild": "GENESIS",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 65,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "토링",
+            "guild": "GENESIS",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 65,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "하울의움직이는섬",
+            "guild": "GENESIS",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 65,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "앙마썽혜",
+            "guild": "GENESIS",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 64,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "마늘쫑",
+            "guild": "GENESIS",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 64,
+            "server": "로메네스 01"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "폭룡",
+            "guild": "GENESIS",
+            "class": "집행관",
+            "grade": 10,
+            "level": 69,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "윙리윙리",
+            "guild": "GENESIS",
+            "class": "집행관",
+            "grade": 10,
+            "level": 65,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "돈까스",
+            "guild": "GENESIS",
+            "class": "집행관",
+            "grade": 9,
+            "level": 67,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "릴렉스",
+            "guild": "GENESIS",
+            "class": "집행관",
+            "grade": 8,
+            "level": 65,
+            "server": "로메네스 01"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "냠냐미",
+            "guild": "GENESIS",
+            "class": "향사수",
+            "grade": 10,
+            "level": 66,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "썬팅",
+            "guild": "GENESIS",
+            "class": "향사수",
+            "grade": 9,
+            "level": 66,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "젤리맛라면",
+            "guild": "GENESIS",
+            "class": "향사수",
+            "grade": 9,
+            "level": 65,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "정구지",
+            "guild": "GENESIS",
+            "class": "향사수",
+            "grade": 8,
+            "level": 65,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "구미곰",
+            "guild": "GENESIS",
+            "class": "향사수",
+            "grade": 8,
+            "level": 63,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "담주",
+            "guild": "GENESIS",
+            "class": "향사수",
+            "grade": 4,
+            "level": 63,
+            "server": "로메네스 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "귀요미공주",
+            "guild": "GENESIS",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 70,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "폭룡",
+            "guild": "GENESIS",
+            "class": "집행관",
+            "grade": 10,
+            "level": 69,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "냠냐미",
+            "guild": "GENESIS",
+            "class": "향사수",
+            "grade": 10,
+            "level": 66,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "휴게소",
+            "guild": "GENESIS",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 66,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "슈크림",
+            "guild": "GENESIS",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 65,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "윙리윙리",
+            "guild": "GENESIS",
+            "class": "집행관",
+            "grade": 10,
+            "level": 65,
+            "server": "로메네스 01"
+          }
+        ],
+        "11": [
+          {
+            "nickname": "꽃필무렵",
+            "guild": "GENESIS",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 69,
+            "server": "로메네스 01"
+          }
+        ],
+        "9": [
+          {
+            "nickname": "돈까스",
+            "guild": "GENESIS",
+            "class": "집행관",
+            "grade": 9,
+            "level": 67,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "썬팅",
+            "guild": "GENESIS",
+            "class": "향사수",
+            "grade": 9,
+            "level": 66,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "젤리맛라면",
+            "guild": "GENESIS",
+            "class": "향사수",
+            "grade": 9,
+            "level": 65,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "토링",
+            "guild": "GENESIS",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 65,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "하울의움직이는섬",
+            "guild": "GENESIS",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 65,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "앙마썽혜",
+            "guild": "GENESIS",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 64,
+            "server": "로메네스 01"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "릴렉스",
+            "guild": "GENESIS",
+            "class": "집행관",
+            "grade": 8,
+            "level": 65,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "정구지",
+            "guild": "GENESIS",
+            "class": "향사수",
+            "grade": 8,
+            "level": 65,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "구미곰",
+            "guild": "GENESIS",
+            "class": "향사수",
+            "grade": 8,
+            "level": 63,
+            "server": "로메네스 01"
+          }
+        ],
+        "6": [
+          {
+            "nickname": "마늘쫑",
+            "guild": "GENESIS",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 64,
+            "server": "로메네스 01"
+          }
+        ],
+        "4": [
+          {
+            "nickname": "담주",
+            "guild": "GENESIS",
+            "class": "향사수",
+            "grade": 4,
+            "level": 63,
+            "server": "로메네스 01"
+          }
+        ]
+      }
+    },
+    "악동": {
+      "members": 6,
+      "byClass": {
+        "향사수": 4,
+        "주문각인사": 2
+      },
+      "byGrade": {
+        "12": 1,
+        "7": 2,
+        "5": 2,
+        "4": 1
+      },
+      "membersList": [
+        {
+          "nickname": "엘레강스",
+          "guild": "악동",
+          "class": "향사수",
+          "grade": 12,
+          "level": 69,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "블루베리",
+          "guild": "악동",
+          "class": "주문각인사",
+          "grade": 7,
+          "level": 66,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "요크셔",
+          "guild": "악동",
+          "class": "향사수",
+          "grade": 7,
+          "level": 64,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "은총",
+          "guild": "악동",
+          "class": "향사수",
+          "grade": 5,
+          "level": 64,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "신녀",
+          "guild": "악동",
+          "class": "주문각인사",
+          "grade": 5,
+          "level": 63,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "솔궁",
+          "guild": "악동",
+          "class": "향사수",
+          "grade": 4,
+          "level": 64,
+          "server": "로메네스 01"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "엘레강스",
+            "guild": "악동",
+            "class": "향사수",
+            "grade": 12,
+            "level": 69,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "요크셔",
+            "guild": "악동",
+            "class": "향사수",
+            "grade": 7,
+            "level": 64,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "은총",
+            "guild": "악동",
+            "class": "향사수",
+            "grade": 5,
+            "level": 64,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "솔궁",
+            "guild": "악동",
+            "class": "향사수",
+            "grade": 4,
+            "level": 64,
+            "server": "로메네스 01"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "블루베리",
+            "guild": "악동",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 66,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "신녀",
+            "guild": "악동",
+            "class": "주문각인사",
+            "grade": 5,
+            "level": 63,
+            "server": "로메네스 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "12": [
+          {
+            "nickname": "엘레강스",
+            "guild": "악동",
+            "class": "향사수",
+            "grade": 12,
+            "level": 69,
+            "server": "로메네스 01"
+          }
+        ],
+        "7": [
+          {
+            "nickname": "블루베리",
+            "guild": "악동",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 66,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "요크셔",
+            "guild": "악동",
+            "class": "향사수",
+            "grade": 7,
+            "level": 64,
+            "server": "로메네스 01"
+          }
+        ],
+        "4": [
+          {
+            "nickname": "솔궁",
+            "guild": "악동",
+            "class": "향사수",
+            "grade": 4,
+            "level": 64,
+            "server": "로메네스 01"
+          }
+        ],
+        "5": [
+          {
+            "nickname": "은총",
+            "guild": "악동",
+            "class": "향사수",
+            "grade": 5,
+            "level": 64,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "신녀",
+            "guild": "악동",
+            "class": "주문각인사",
+            "grade": 5,
+            "level": 63,
+            "server": "로메네스 01"
+          }
+        ]
+      }
+    },
+    "신세계": {
+      "members": 8,
+      "byClass": {
+        "향사수": 3,
+        "집행관": 2,
+        "주문각인사": 2,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "11": 1,
+        "10": 3,
+        "8": 3,
+        "7": 1
+      },
+      "membersList": [
+        {
+          "nickname": "쉬핏",
+          "guild": "신세계",
+          "class": "집행관",
+          "grade": 11,
+          "level": 69,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "가락",
+          "guild": "신세계",
+          "class": "향사수",
+          "grade": 10,
+          "level": 68,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "코피",
+          "guild": "신세계",
+          "class": "향사수",
+          "grade": 10,
+          "level": 68,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "푸른별",
+          "guild": "신세계",
+          "class": "향사수",
+          "grade": 10,
+          "level": 64,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "르메섭대표",
+          "guild": "신세계",
+          "class": "집행관",
+          "grade": 8,
+          "level": 64,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "쵸쿄숑이",
+          "guild": "신세계",
+          "class": "주문각인사",
+          "grade": 8,
+          "level": 64,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "지지",
+          "guild": "신세계",
+          "class": "주문각인사",
+          "grade": 8,
+          "level": 63,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "마라",
+          "guild": "신세계",
+          "class": "환영검사",
+          "grade": 7,
+          "level": 63,
+          "server": "로메네스 01"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "쉬핏",
+            "guild": "신세계",
+            "class": "집행관",
+            "grade": 11,
+            "level": 69,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "르메섭대표",
+            "guild": "신세계",
+            "class": "집행관",
+            "grade": 8,
+            "level": 64,
+            "server": "로메네스 01"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "가락",
+            "guild": "신세계",
+            "class": "향사수",
+            "grade": 10,
+            "level": 68,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "코피",
+            "guild": "신세계",
+            "class": "향사수",
+            "grade": 10,
+            "level": 68,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "푸른별",
+            "guild": "신세계",
+            "class": "향사수",
+            "grade": 10,
+            "level": 64,
+            "server": "로메네스 01"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "쵸쿄숑이",
+            "guild": "신세계",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 64,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "지지",
+            "guild": "신세계",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 63,
+            "server": "로메네스 01"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "마라",
+            "guild": "신세계",
+            "class": "환영검사",
+            "grade": 7,
+            "level": 63,
+            "server": "로메네스 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "11": [
+          {
+            "nickname": "쉬핏",
+            "guild": "신세계",
+            "class": "집행관",
+            "grade": 11,
+            "level": 69,
+            "server": "로메네스 01"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "가락",
+            "guild": "신세계",
+            "class": "향사수",
+            "grade": 10,
+            "level": 68,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "코피",
+            "guild": "신세계",
+            "class": "향사수",
+            "grade": 10,
+            "level": 68,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "푸른별",
+            "guild": "신세계",
+            "class": "향사수",
+            "grade": 10,
+            "level": 64,
+            "server": "로메네스 01"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "르메섭대표",
+            "guild": "신세계",
+            "class": "집행관",
+            "grade": 8,
+            "level": 64,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "쵸쿄숑이",
+            "guild": "신세계",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 64,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "지지",
+            "guild": "신세계",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 63,
+            "server": "로메네스 01"
+          }
+        ],
+        "7": [
+          {
+            "nickname": "마라",
+            "guild": "신세계",
+            "class": "환영검사",
+            "grade": 7,
+            "level": 63,
+            "server": "로메네스 01"
+          }
+        ]
+      }
+    },
+    "헬게이트": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "9": 1
+      },
+      "membersList": [
+        {
+          "nickname": "크으",
+          "guild": "헬게이트",
+          "class": "주문각인사",
+          "grade": 9,
+          "level": 69,
+          "server": "로메네스 01"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "크으",
+            "guild": "헬게이트",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 69,
+            "server": "로메네스 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "9": [
+          {
+            "nickname": "크으",
+            "guild": "헬게이트",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 69,
+            "server": "로메네스 01"
+          }
+        ]
+      }
+    },
+    "균형": {
+      "members": 5,
+      "byClass": {
+        "주문각인사": 2,
+        "향사수": 2,
+        "집행관": 1
+      },
+      "byGrade": {
+        "10": 1,
+        "8": 2,
+        "6": 2
+      },
+      "membersList": [
+        {
+          "nickname": "백풍",
+          "guild": "균형",
+          "class": "집행관",
+          "grade": 10,
+          "level": 69,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "천법",
+          "guild": "균형",
+          "class": "주문각인사",
+          "grade": 8,
+          "level": 67,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "요르",
+          "guild": "균형",
+          "class": "주문각인사",
+          "grade": 8,
+          "level": 66,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "천멸",
+          "guild": "균형",
+          "class": "향사수",
+          "grade": 6,
+          "level": 64,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "멸살",
+          "guild": "균형",
+          "class": "향사수",
+          "grade": 6,
+          "level": 63,
+          "server": "로메네스 01"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "백풍",
+            "guild": "균형",
+            "class": "집행관",
+            "grade": 10,
+            "level": 69,
+            "server": "로메네스 01"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "천법",
+            "guild": "균형",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 67,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "요르",
+            "guild": "균형",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 66,
+            "server": "로메네스 01"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "천멸",
+            "guild": "균형",
+            "class": "향사수",
+            "grade": 6,
+            "level": 64,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "멸살",
+            "guild": "균형",
+            "class": "향사수",
+            "grade": 6,
+            "level": 63,
+            "server": "로메네스 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "백풍",
+            "guild": "균형",
+            "class": "집행관",
+            "grade": 10,
+            "level": 69,
+            "server": "로메네스 01"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "천법",
+            "guild": "균형",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 67,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "요르",
+            "guild": "균형",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 66,
+            "server": "로메네스 01"
+          }
+        ],
+        "6": [
+          {
+            "nickname": "천멸",
+            "guild": "균형",
+            "class": "향사수",
+            "grade": 6,
+            "level": 64,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "멸살",
+            "guild": "균형",
+            "class": "향사수",
+            "grade": 6,
+            "level": 63,
+            "server": "로메네스 01"
+          }
+        ]
+      }
+    },
+    "EPL": {
+      "members": 3,
+      "byClass": {
+        "향사수": 3
+      },
+      "byGrade": {
+        "10": 2,
+        "8": 1
+      },
+      "membersList": [
+        {
+          "nickname": "사스",
+          "guild": "EPL",
+          "class": "향사수",
+          "grade": 10,
+          "level": 67,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "켈베로스",
+          "guild": "EPL",
+          "class": "향사수",
+          "grade": 10,
+          "level": 66,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "빵디",
+          "guild": "EPL",
+          "class": "향사수",
+          "grade": 8,
+          "level": 66,
+          "server": "로메네스 01"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "사스",
+            "guild": "EPL",
+            "class": "향사수",
+            "grade": 10,
+            "level": 67,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "켈베로스",
+            "guild": "EPL",
+            "class": "향사수",
+            "grade": 10,
+            "level": 66,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "빵디",
+            "guild": "EPL",
+            "class": "향사수",
+            "grade": 8,
+            "level": 66,
+            "server": "로메네스 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "사스",
+            "guild": "EPL",
+            "class": "향사수",
+            "grade": 10,
+            "level": 67,
+            "server": "로메네스 01"
+          },
+          {
+            "nickname": "켈베로스",
+            "guild": "EPL",
+            "class": "향사수",
+            "grade": 10,
+            "level": 66,
+            "server": "로메네스 01"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "빵디",
+            "guild": "EPL",
+            "class": "향사수",
+            "grade": 8,
+            "level": 66,
+            "server": "로메네스 01"
+          }
+        ]
+      }
+    },
+    "청춘": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "7": 1
+      },
+      "membersList": [
+        {
+          "nickname": "화려한산이",
+          "guild": "청춘",
+          "class": "향사수",
+          "grade": 7,
+          "level": 65,
+          "server": "로메네스 01"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "화려한산이",
+            "guild": "청춘",
+            "class": "향사수",
+            "grade": 7,
+            "level": 65,
+            "server": "로메네스 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "7": [
+          {
+            "nickname": "화려한산이",
+            "guild": "청춘",
+            "class": "향사수",
+            "grade": 7,
+            "level": 65,
+            "server": "로메네스 01"
+          }
+        ]
+      }
+    },
+    "I": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "9": 1
+      },
+      "membersList": [
+        {
+          "nickname": "채송화",
+          "guild": "I",
+          "class": "주문각인사",
+          "grade": 9,
+          "level": 65,
+          "server": "로메네스 01"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "채송화",
+            "guild": "I",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 65,
+            "server": "로메네스 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "9": [
+          {
+            "nickname": "채송화",
+            "guild": "I",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 65,
+            "server": "로메네스 01"
+          }
+        ]
+      }
+    },
+    "레인은비": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "7": 1
+      },
+      "membersList": [
+        {
+          "nickname": "민결아부지",
+          "guild": "레인은비",
+          "class": "주문각인사",
+          "grade": 7,
+          "level": 64,
+          "server": "로메네스 01"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "민결아부지",
+            "guild": "레인은비",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 64,
+            "server": "로메네스 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "7": [
+          {
+            "nickname": "민결아부지",
+            "guild": "레인은비",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 64,
+            "server": "로메네스 01"
+          }
+        ]
+      }
+    },
+    "Legend": {
+      "members": 2,
+      "byClass": {
+        "향사수": 1,
+        "집행관": 1
+      },
+      "byGrade": {
+        "8": 1,
+        "7": 1
+      },
+      "membersList": [
+        {
+          "nickname": "엔믹스",
+          "guild": "Legend",
+          "class": "향사수",
+          "grade": 8,
+          "level": 64,
+          "server": "로메네스 01"
+        },
+        {
+          "nickname": "여자친구",
+          "guild": "Legend",
+          "class": "집행관",
+          "grade": 7,
+          "level": 63,
+          "server": "로메네스 01"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "엔믹스",
+            "guild": "Legend",
+            "class": "향사수",
+            "grade": 8,
+            "level": 64,
+            "server": "로메네스 01"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "여자친구",
+            "guild": "Legend",
+            "class": "집행관",
+            "grade": 7,
+            "level": 63,
+            "server": "로메네스 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "8": [
+          {
+            "nickname": "엔믹스",
+            "guild": "Legend",
+            "class": "향사수",
+            "grade": 8,
+            "level": 64,
+            "server": "로메네스 01"
+          }
+        ],
+        "7": [
+          {
+            "nickname": "여자친구",
+            "guild": "Legend",
+            "class": "집행관",
+            "grade": 7,
+            "level": 63,
+            "server": "로메네스 01"
+          }
+        ]
+      }
+    },
+    "쉼터": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "7": 1
+      },
+      "membersList": [
+        {
+          "nickname": "총각김치",
+          "guild": "쉼터",
+          "class": "집행관",
+          "grade": 7,
+          "level": 64,
+          "server": "로메네스 01"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "총각김치",
+            "guild": "쉼터",
+            "class": "집행관",
+            "grade": 7,
+            "level": 64,
+            "server": "로메네스 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "7": [
+          {
+            "nickname": "총각김치",
+            "guild": "쉼터",
+            "class": "집행관",
+            "grade": 7,
+            "level": 64,
+            "server": "로메네스 01"
+          }
+        ]
+      }
+    },
+    "bnm": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "8": 1
+      },
+      "membersList": [
+        {
+          "nickname": "흥덕공주",
+          "guild": "bnm",
+          "class": "향사수",
+          "grade": 8,
+          "level": 63,
+          "server": "로메네스 01"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "흥덕공주",
+            "guild": "bnm",
+            "class": "향사수",
+            "grade": 8,
+            "level": 63,
+            "server": "로메네스 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "8": [
+          {
+            "nickname": "흥덕공주",
+            "guild": "bnm",
+            "class": "향사수",
+            "grade": 8,
+            "level": 63,
+            "server": "로메네스 01"
+          }
+        ]
+      }
+    },
+    "무작": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "8": 1
+      },
+      "membersList": [
+        {
+          "nickname": "란돌",
+          "guild": "무작",
+          "class": "향사수",
+          "grade": 8,
+          "level": 63,
+          "server": "로메네스 01"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "란돌",
+            "guild": "무작",
+            "class": "향사수",
+            "grade": 8,
+            "level": 63,
+            "server": "로메네스 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "8": [
+          {
+            "nickname": "란돌",
+            "guild": "무작",
+            "class": "향사수",
+            "grade": 8,
+            "level": 63,
+            "server": "로메네스 01"
+          }
+        ]
+      }
+    }
+  }
+}

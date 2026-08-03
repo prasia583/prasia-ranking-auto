@@ -1,0 +1,2400 @@
+{
+  "server": "아우리엘 04",
+  "guilds": {
+    "쌀먹단": {
+      "members": 9,
+      "byClass": {
+        "태양감시자": 4,
+        "주문각인사": 3,
+        "심연추방자": 1,
+        "집행관": 1
+      },
+      "byGrade": {
+        "21": 1,
+        "19": 1,
+        "18": 1,
+        "16": 1,
+        "15": 4,
+        "4": 1
+      },
+      "membersList": [
+        {
+          "nickname": "MinWoon",
+          "guild": "쌀먹단",
+          "class": "심연추방자",
+          "grade": 21,
+          "level": 85,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "검투사",
+          "guild": "쌀먹단",
+          "class": "주문각인사",
+          "grade": 19,
+          "level": 84,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "달빛냥냥",
+          "guild": "쌀먹단",
+          "class": "태양감시자",
+          "grade": 18,
+          "level": 79,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "집행냥",
+          "guild": "쌀먹단",
+          "class": "집행관",
+          "grade": 16,
+          "level": 78,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "칼리스타",
+          "guild": "쌀먹단",
+          "class": "태양감시자",
+          "grade": 15,
+          "level": 79,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "달달냥냥",
+          "guild": "쌀먹단",
+          "class": "태양감시자",
+          "grade": 15,
+          "level": 76,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "감시냥",
+          "guild": "쌀먹단",
+          "class": "태양감시자",
+          "grade": 15,
+          "level": 75,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "주각냥",
+          "guild": "쌀먹단",
+          "class": "주문각인사",
+          "grade": 15,
+          "level": 75,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "민증",
+          "guild": "쌀먹단",
+          "class": "주문각인사",
+          "grade": 4,
+          "level": 76,
+          "server": "아우리엘 04"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "MinWoon",
+            "guild": "쌀먹단",
+            "class": "심연추방자",
+            "grade": 21,
+            "level": 85,
+            "server": "아우리엘 04"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "검투사",
+            "guild": "쌀먹단",
+            "class": "주문각인사",
+            "grade": 19,
+            "level": 84,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "주각냥",
+            "guild": "쌀먹단",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 75,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "민증",
+            "guild": "쌀먹단",
+            "class": "주문각인사",
+            "grade": 4,
+            "level": 76,
+            "server": "아우리엘 04"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "달빛냥냥",
+            "guild": "쌀먹단",
+            "class": "태양감시자",
+            "grade": 18,
+            "level": 79,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "칼리스타",
+            "guild": "쌀먹단",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 79,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "달달냥냥",
+            "guild": "쌀먹단",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 76,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "감시냥",
+            "guild": "쌀먹단",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 75,
+            "server": "아우리엘 04"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "집행냥",
+            "guild": "쌀먹단",
+            "class": "집행관",
+            "grade": 16,
+            "level": 78,
+            "server": "아우리엘 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "MinWoon",
+            "guild": "쌀먹단",
+            "class": "심연추방자",
+            "grade": 21,
+            "level": 85,
+            "server": "아우리엘 04"
+          }
+        ],
+        "19": [
+          {
+            "nickname": "검투사",
+            "guild": "쌀먹단",
+            "class": "주문각인사",
+            "grade": 19,
+            "level": 84,
+            "server": "아우리엘 04"
+          }
+        ],
+        "18": [
+          {
+            "nickname": "달빛냥냥",
+            "guild": "쌀먹단",
+            "class": "태양감시자",
+            "grade": 18,
+            "level": 79,
+            "server": "아우리엘 04"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "칼리스타",
+            "guild": "쌀먹단",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 79,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "달달냥냥",
+            "guild": "쌀먹단",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 76,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "감시냥",
+            "guild": "쌀먹단",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 75,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "주각냥",
+            "guild": "쌀먹단",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 75,
+            "server": "아우리엘 04"
+          }
+        ],
+        "16": [
+          {
+            "nickname": "집행냥",
+            "guild": "쌀먹단",
+            "class": "집행관",
+            "grade": 16,
+            "level": 78,
+            "server": "아우리엘 04"
+          }
+        ],
+        "4": [
+          {
+            "nickname": "민증",
+            "guild": "쌀먹단",
+            "class": "주문각인사",
+            "grade": 4,
+            "level": 76,
+            "server": "아우리엘 04"
+          }
+        ]
+      }
+    },
+    "사랑": {
+      "members": 17,
+      "byClass": {
+        "향사수": 4,
+        "집행관": 4,
+        "주문각인사": 4,
+        "환영검사": 2,
+        "심연추방자": 2,
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "21": 1,
+        "19": 1,
+        "18": 2,
+        "16": 3,
+        "15": 4,
+        "14": 2,
+        "13": 1,
+        "12": 3
+      },
+      "membersList": [
+        {
+          "nickname": "천우",
+          "guild": "사랑",
+          "class": "향사수",
+          "grade": 21,
+          "level": 85,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "밴댕이",
+          "guild": "사랑",
+          "class": "집행관",
+          "grade": 19,
+          "level": 84,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "겐조",
+          "guild": "사랑",
+          "class": "환영검사",
+          "grade": 18,
+          "level": 83,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "허리케인",
+          "guild": "사랑",
+          "class": "주문각인사",
+          "grade": 18,
+          "level": 82,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "천대기",
+          "guild": "사랑",
+          "class": "주문각인사",
+          "grade": 16,
+          "level": 81,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "sodam",
+          "guild": "사랑",
+          "class": "집행관",
+          "grade": 16,
+          "level": 80,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "국선변호사낭만",
+          "guild": "사랑",
+          "class": "집행관",
+          "grade": 16,
+          "level": 79,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "위풍당당",
+          "guild": "사랑",
+          "class": "태양감시자",
+          "grade": 15,
+          "level": 80,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "쭈굴모드",
+          "guild": "사랑",
+          "class": "심연추방자",
+          "grade": 15,
+          "level": 80,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "쭈굴뚱",
+          "guild": "사랑",
+          "class": "심연추방자",
+          "grade": 15,
+          "level": 79,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "도그프리덤",
+          "guild": "사랑",
+          "class": "환영검사",
+          "grade": 15,
+          "level": 78,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "스핑",
+          "guild": "사랑",
+          "class": "주문각인사",
+          "grade": 14,
+          "level": 77,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "향남이",
+          "guild": "사랑",
+          "class": "향사수",
+          "grade": 14,
+          "level": 74,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "다비치",
+          "guild": "사랑",
+          "class": "향사수",
+          "grade": 13,
+          "level": 74,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "팬더",
+          "guild": "사랑",
+          "class": "향사수",
+          "grade": 12,
+          "level": 76,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "사랑쭈",
+          "guild": "사랑",
+          "class": "주문각인사",
+          "grade": 12,
+          "level": 75,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "만취야",
+          "guild": "사랑",
+          "class": "집행관",
+          "grade": 12,
+          "level": 74,
+          "server": "아우리엘 04"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "천우",
+            "guild": "사랑",
+            "class": "향사수",
+            "grade": 21,
+            "level": 85,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "향남이",
+            "guild": "사랑",
+            "class": "향사수",
+            "grade": 14,
+            "level": 74,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "다비치",
+            "guild": "사랑",
+            "class": "향사수",
+            "grade": 13,
+            "level": 74,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "팬더",
+            "guild": "사랑",
+            "class": "향사수",
+            "grade": 12,
+            "level": 76,
+            "server": "아우리엘 04"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "밴댕이",
+            "guild": "사랑",
+            "class": "집행관",
+            "grade": 19,
+            "level": 84,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "sodam",
+            "guild": "사랑",
+            "class": "집행관",
+            "grade": 16,
+            "level": 80,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "국선변호사낭만",
+            "guild": "사랑",
+            "class": "집행관",
+            "grade": 16,
+            "level": 79,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "만취야",
+            "guild": "사랑",
+            "class": "집행관",
+            "grade": 12,
+            "level": 74,
+            "server": "아우리엘 04"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "겐조",
+            "guild": "사랑",
+            "class": "환영검사",
+            "grade": 18,
+            "level": 83,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "도그프리덤",
+            "guild": "사랑",
+            "class": "환영검사",
+            "grade": 15,
+            "level": 78,
+            "server": "아우리엘 04"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "허리케인",
+            "guild": "사랑",
+            "class": "주문각인사",
+            "grade": 18,
+            "level": 82,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "천대기",
+            "guild": "사랑",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 81,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "스핑",
+            "guild": "사랑",
+            "class": "주문각인사",
+            "grade": 14,
+            "level": 77,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "사랑쭈",
+            "guild": "사랑",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 75,
+            "server": "아우리엘 04"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "위풍당당",
+            "guild": "사랑",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 80,
+            "server": "아우리엘 04"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "쭈굴모드",
+            "guild": "사랑",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 80,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "쭈굴뚱",
+            "guild": "사랑",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 79,
+            "server": "아우리엘 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "천우",
+            "guild": "사랑",
+            "class": "향사수",
+            "grade": 21,
+            "level": 85,
+            "server": "아우리엘 04"
+          }
+        ],
+        "19": [
+          {
+            "nickname": "밴댕이",
+            "guild": "사랑",
+            "class": "집행관",
+            "grade": 19,
+            "level": 84,
+            "server": "아우리엘 04"
+          }
+        ],
+        "18": [
+          {
+            "nickname": "겐조",
+            "guild": "사랑",
+            "class": "환영검사",
+            "grade": 18,
+            "level": 83,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "허리케인",
+            "guild": "사랑",
+            "class": "주문각인사",
+            "grade": 18,
+            "level": 82,
+            "server": "아우리엘 04"
+          }
+        ],
+        "16": [
+          {
+            "nickname": "천대기",
+            "guild": "사랑",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 81,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "sodam",
+            "guild": "사랑",
+            "class": "집행관",
+            "grade": 16,
+            "level": 80,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "국선변호사낭만",
+            "guild": "사랑",
+            "class": "집행관",
+            "grade": 16,
+            "level": 79,
+            "server": "아우리엘 04"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "위풍당당",
+            "guild": "사랑",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 80,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "쭈굴모드",
+            "guild": "사랑",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 80,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "쭈굴뚱",
+            "guild": "사랑",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 79,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "도그프리덤",
+            "guild": "사랑",
+            "class": "환영검사",
+            "grade": 15,
+            "level": 78,
+            "server": "아우리엘 04"
+          }
+        ],
+        "14": [
+          {
+            "nickname": "스핑",
+            "guild": "사랑",
+            "class": "주문각인사",
+            "grade": 14,
+            "level": 77,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "향남이",
+            "guild": "사랑",
+            "class": "향사수",
+            "grade": 14,
+            "level": 74,
+            "server": "아우리엘 04"
+          }
+        ],
+        "12": [
+          {
+            "nickname": "팬더",
+            "guild": "사랑",
+            "class": "향사수",
+            "grade": 12,
+            "level": 76,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "사랑쭈",
+            "guild": "사랑",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 75,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "만취야",
+            "guild": "사랑",
+            "class": "집행관",
+            "grade": 12,
+            "level": 74,
+            "server": "아우리엘 04"
+          }
+        ],
+        "13": [
+          {
+            "nickname": "다비치",
+            "guild": "사랑",
+            "class": "향사수",
+            "grade": 13,
+            "level": 74,
+            "server": "아우리엘 04"
+          }
+        ]
+      }
+    },
+    "금병영": {
+      "members": 5,
+      "byClass": {
+        "주문각인사": 2,
+        "집행관": 1,
+        "환영검사": 1,
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "19": 1,
+        "15": 1,
+        "13": 3
+      },
+      "membersList": [
+        {
+          "nickname": "안침착한침착맨",
+          "guild": "금병영",
+          "class": "집행관",
+          "grade": 19,
+          "level": 83,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "침착맨",
+          "guild": "금병영",
+          "class": "환영검사",
+          "grade": 15,
+          "level": 78,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "독깨팔",
+          "guild": "금병영",
+          "class": "주문각인사",
+          "grade": 13,
+          "level": 76,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "모든것의신",
+          "guild": "금병영",
+          "class": "주문각인사",
+          "grade": 13,
+          "level": 76,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "위험한자식이병건",
+          "guild": "금병영",
+          "class": "태양감시자",
+          "grade": 13,
+          "level": 73,
+          "server": "아우리엘 04"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "안침착한침착맨",
+            "guild": "금병영",
+            "class": "집행관",
+            "grade": 19,
+            "level": 83,
+            "server": "아우리엘 04"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "침착맨",
+            "guild": "금병영",
+            "class": "환영검사",
+            "grade": 15,
+            "level": 78,
+            "server": "아우리엘 04"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "독깨팔",
+            "guild": "금병영",
+            "class": "주문각인사",
+            "grade": 13,
+            "level": 76,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "모든것의신",
+            "guild": "금병영",
+            "class": "주문각인사",
+            "grade": 13,
+            "level": 76,
+            "server": "아우리엘 04"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "위험한자식이병건",
+            "guild": "금병영",
+            "class": "태양감시자",
+            "grade": 13,
+            "level": 73,
+            "server": "아우리엘 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "19": [
+          {
+            "nickname": "안침착한침착맨",
+            "guild": "금병영",
+            "class": "집행관",
+            "grade": 19,
+            "level": 83,
+            "server": "아우리엘 04"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "침착맨",
+            "guild": "금병영",
+            "class": "환영검사",
+            "grade": 15,
+            "level": 78,
+            "server": "아우리엘 04"
+          }
+        ],
+        "13": [
+          {
+            "nickname": "독깨팔",
+            "guild": "금병영",
+            "class": "주문각인사",
+            "grade": 13,
+            "level": 76,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "모든것의신",
+            "guild": "금병영",
+            "class": "주문각인사",
+            "grade": 13,
+            "level": 76,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "위험한자식이병건",
+            "guild": "금병영",
+            "class": "태양감시자",
+            "grade": 13,
+            "level": 73,
+            "server": "아우리엘 04"
+          }
+        ]
+      }
+    },
+    "약국": {
+      "members": 2,
+      "byClass": {
+        "향사수": 2
+      },
+      "byGrade": {
+        "18": 1,
+        "12": 1
+      },
+      "membersList": [
+        {
+          "nickname": "횟집",
+          "guild": "약국",
+          "class": "향사수",
+          "grade": 18,
+          "level": 81,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "눈샤람",
+          "guild": "약국",
+          "class": "향사수",
+          "grade": 12,
+          "level": 74,
+          "server": "아우리엘 04"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "횟집",
+            "guild": "약국",
+            "class": "향사수",
+            "grade": 18,
+            "level": 81,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "눈샤람",
+            "guild": "약국",
+            "class": "향사수",
+            "grade": 12,
+            "level": 74,
+            "server": "아우리엘 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "18": [
+          {
+            "nickname": "횟집",
+            "guild": "약국",
+            "class": "향사수",
+            "grade": 18,
+            "level": 81,
+            "server": "아우리엘 04"
+          }
+        ],
+        "12": [
+          {
+            "nickname": "눈샤람",
+            "guild": "약국",
+            "class": "향사수",
+            "grade": 12,
+            "level": 74,
+            "server": "아우리엘 04"
+          }
+        ]
+      }
+    },
+    "cpdd": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "16": 1
+      },
+      "membersList": [
+        {
+          "nickname": "non",
+          "guild": "cpdd",
+          "class": "태양감시자",
+          "grade": 16,
+          "level": 81,
+          "server": "아우리엘 04"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "non",
+            "guild": "cpdd",
+            "class": "태양감시자",
+            "grade": 16,
+            "level": 81,
+            "server": "아우리엘 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "16": [
+          {
+            "nickname": "non",
+            "guild": "cpdd",
+            "class": "태양감시자",
+            "grade": 16,
+            "level": 81,
+            "server": "아우리엘 04"
+          }
+        ]
+      }
+    },
+    "나혼자농사마스터": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "17": 1
+      },
+      "membersList": [
+        {
+          "nickname": "파머",
+          "guild": "나혼자농사마스터",
+          "class": "주문각인사",
+          "grade": 17,
+          "level": 81,
+          "server": "아우리엘 04"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "파머",
+            "guild": "나혼자농사마스터",
+            "class": "주문각인사",
+            "grade": 17,
+            "level": 81,
+            "server": "아우리엘 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "17": [
+          {
+            "nickname": "파머",
+            "guild": "나혼자농사마스터",
+            "class": "주문각인사",
+            "grade": 17,
+            "level": 81,
+            "server": "아우리엘 04"
+          }
+        ]
+      }
+    },
+    "한의원": {
+      "members": 2,
+      "byClass": {
+        "향사수": 1,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "17": 1,
+        "14": 1
+      },
+      "membersList": [
+        {
+          "nickname": "곰장수",
+          "guild": "한의원",
+          "class": "향사수",
+          "grade": 17,
+          "level": 81,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "테니스엘보",
+          "guild": "한의원",
+          "class": "주문각인사",
+          "grade": 14,
+          "level": 75,
+          "server": "아우리엘 04"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "곰장수",
+            "guild": "한의원",
+            "class": "향사수",
+            "grade": 17,
+            "level": 81,
+            "server": "아우리엘 04"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "테니스엘보",
+            "guild": "한의원",
+            "class": "주문각인사",
+            "grade": 14,
+            "level": 75,
+            "server": "아우리엘 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "17": [
+          {
+            "nickname": "곰장수",
+            "guild": "한의원",
+            "class": "향사수",
+            "grade": 17,
+            "level": 81,
+            "server": "아우리엘 04"
+          }
+        ],
+        "14": [
+          {
+            "nickname": "테니스엘보",
+            "guild": "한의원",
+            "class": "주문각인사",
+            "grade": 14,
+            "level": 75,
+            "server": "아우리엘 04"
+          }
+        ]
+      }
+    },
+    "꿀벌": {
+      "members": 3,
+      "byClass": {
+        "향사수": 1,
+        "집행관": 1,
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "17": 1,
+        "16": 1,
+        "11": 1
+      },
+      "membersList": [
+        {
+          "nickname": "효댕곰",
+          "guild": "꿀벌",
+          "class": "집행관",
+          "grade": 17,
+          "level": 80,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "배배",
+          "guild": "꿀벌",
+          "class": "향사수",
+          "grade": 16,
+          "level": 80,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "로열젤리",
+          "guild": "꿀벌",
+          "class": "심연추방자",
+          "grade": 11,
+          "level": 73,
+          "server": "아우리엘 04"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "배배",
+            "guild": "꿀벌",
+            "class": "향사수",
+            "grade": 16,
+            "level": 80,
+            "server": "아우리엘 04"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "효댕곰",
+            "guild": "꿀벌",
+            "class": "집행관",
+            "grade": 17,
+            "level": 80,
+            "server": "아우리엘 04"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "로열젤리",
+            "guild": "꿀벌",
+            "class": "심연추방자",
+            "grade": 11,
+            "level": 73,
+            "server": "아우리엘 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "16": [
+          {
+            "nickname": "배배",
+            "guild": "꿀벌",
+            "class": "향사수",
+            "grade": 16,
+            "level": 80,
+            "server": "아우리엘 04"
+          }
+        ],
+        "17": [
+          {
+            "nickname": "효댕곰",
+            "guild": "꿀벌",
+            "class": "집행관",
+            "grade": 17,
+            "level": 80,
+            "server": "아우리엘 04"
+          }
+        ],
+        "11": [
+          {
+            "nickname": "로열젤리",
+            "guild": "꿀벌",
+            "class": "심연추방자",
+            "grade": 11,
+            "level": 73,
+            "server": "아우리엘 04"
+          }
+        ]
+      }
+    },
+    "어항": {
+      "members": 8,
+      "byClass": {
+        "향사수": 5,
+        "태양감시자": 3
+      },
+      "byGrade": {
+        "17": 1,
+        "15": 4,
+        "14": 1,
+        "10": 2
+      },
+      "membersList": [
+        {
+          "nickname": "태감시자",
+          "guild": "어항",
+          "class": "태양감시자",
+          "grade": 17,
+          "level": 80,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "곰방와",
+          "guild": "어항",
+          "class": "태양감시자",
+          "grade": 15,
+          "level": 78,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "망치부인",
+          "guild": "어항",
+          "class": "향사수",
+          "grade": 15,
+          "level": 78,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "블랙요원",
+          "guild": "어항",
+          "class": "태양감시자",
+          "grade": 15,
+          "level": 77,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "이산",
+          "guild": "어항",
+          "class": "향사수",
+          "grade": 15,
+          "level": 77,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "육군탈모총장",
+          "guild": "어항",
+          "class": "향사수",
+          "grade": 14,
+          "level": 77,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "허리",
+          "guild": "어항",
+          "class": "향사수",
+          "grade": 10,
+          "level": 75,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "물괴기",
+          "guild": "어항",
+          "class": "향사수",
+          "grade": 10,
+          "level": 74,
+          "server": "아우리엘 04"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "태감시자",
+            "guild": "어항",
+            "class": "태양감시자",
+            "grade": 17,
+            "level": 80,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "곰방와",
+            "guild": "어항",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 78,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "블랙요원",
+            "guild": "어항",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 77,
+            "server": "아우리엘 04"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "망치부인",
+            "guild": "어항",
+            "class": "향사수",
+            "grade": 15,
+            "level": 78,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "이산",
+            "guild": "어항",
+            "class": "향사수",
+            "grade": 15,
+            "level": 77,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "육군탈모총장",
+            "guild": "어항",
+            "class": "향사수",
+            "grade": 14,
+            "level": 77,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "허리",
+            "guild": "어항",
+            "class": "향사수",
+            "grade": 10,
+            "level": 75,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "물괴기",
+            "guild": "어항",
+            "class": "향사수",
+            "grade": 10,
+            "level": 74,
+            "server": "아우리엘 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "17": [
+          {
+            "nickname": "태감시자",
+            "guild": "어항",
+            "class": "태양감시자",
+            "grade": 17,
+            "level": 80,
+            "server": "아우리엘 04"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "곰방와",
+            "guild": "어항",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 78,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "망치부인",
+            "guild": "어항",
+            "class": "향사수",
+            "grade": 15,
+            "level": 78,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "블랙요원",
+            "guild": "어항",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 77,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "이산",
+            "guild": "어항",
+            "class": "향사수",
+            "grade": 15,
+            "level": 77,
+            "server": "아우리엘 04"
+          }
+        ],
+        "14": [
+          {
+            "nickname": "육군탈모총장",
+            "guild": "어항",
+            "class": "향사수",
+            "grade": 14,
+            "level": 77,
+            "server": "아우리엘 04"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "허리",
+            "guild": "어항",
+            "class": "향사수",
+            "grade": 10,
+            "level": 75,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "물괴기",
+            "guild": "어항",
+            "class": "향사수",
+            "grade": 10,
+            "level": 74,
+            "server": "아우리엘 04"
+          }
+        ]
+      }
+    },
+    "산": {
+      "members": 3,
+      "byClass": {
+        "집행관": 1,
+        "주문각인사": 1,
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "16": 1,
+        "13": 1,
+        "12": 1
+      },
+      "membersList": [
+        {
+          "nickname": "태양쭌",
+          "guild": "산",
+          "class": "집행관",
+          "grade": 16,
+          "level": 79,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "캔콜라",
+          "guild": "산",
+          "class": "심연추방자",
+          "grade": 13,
+          "level": 73,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "제니퍼",
+          "guild": "산",
+          "class": "주문각인사",
+          "grade": 12,
+          "level": 75,
+          "server": "아우리엘 04"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "태양쭌",
+            "guild": "산",
+            "class": "집행관",
+            "grade": 16,
+            "level": 79,
+            "server": "아우리엘 04"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "제니퍼",
+            "guild": "산",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 75,
+            "server": "아우리엘 04"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "캔콜라",
+            "guild": "산",
+            "class": "심연추방자",
+            "grade": 13,
+            "level": 73,
+            "server": "아우리엘 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "16": [
+          {
+            "nickname": "태양쭌",
+            "guild": "산",
+            "class": "집행관",
+            "grade": 16,
+            "level": 79,
+            "server": "아우리엘 04"
+          }
+        ],
+        "12": [
+          {
+            "nickname": "제니퍼",
+            "guild": "산",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 75,
+            "server": "아우리엘 04"
+          }
+        ],
+        "13": [
+          {
+            "nickname": "캔콜라",
+            "guild": "산",
+            "class": "심연추방자",
+            "grade": 13,
+            "level": 73,
+            "server": "아우리엘 04"
+          }
+        ]
+      }
+    },
+    "우리가남이가": {
+      "members": 5,
+      "byClass": {
+        "환영검사": 2,
+        "주문각인사": 2,
+        "향사수": 1
+      },
+      "byGrade": {
+        "15": 3,
+        "14": 1,
+        "12": 1
+      },
+      "membersList": [
+        {
+          "nickname": "날제비",
+          "guild": "우리가남이가",
+          "class": "환영검사",
+          "grade": 15,
+          "level": 79,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "에쎄",
+          "guild": "우리가남이가",
+          "class": "주문각인사",
+          "grade": 15,
+          "level": 78,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "이건우",
+          "guild": "우리가남이가",
+          "class": "향사수",
+          "grade": 15,
+          "level": 78,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "나르헬리",
+          "guild": "우리가남이가",
+          "class": "환영검사",
+          "grade": 14,
+          "level": 77,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "구리닝구",
+          "guild": "우리가남이가",
+          "class": "주문각인사",
+          "grade": 12,
+          "level": 75,
+          "server": "아우리엘 04"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "날제비",
+            "guild": "우리가남이가",
+            "class": "환영검사",
+            "grade": 15,
+            "level": 79,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "나르헬리",
+            "guild": "우리가남이가",
+            "class": "환영검사",
+            "grade": 14,
+            "level": 77,
+            "server": "아우리엘 04"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "이건우",
+            "guild": "우리가남이가",
+            "class": "향사수",
+            "grade": 15,
+            "level": 78,
+            "server": "아우리엘 04"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "에쎄",
+            "guild": "우리가남이가",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 78,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "구리닝구",
+            "guild": "우리가남이가",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 75,
+            "server": "아우리엘 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "15": [
+          {
+            "nickname": "날제비",
+            "guild": "우리가남이가",
+            "class": "환영검사",
+            "grade": 15,
+            "level": 79,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "에쎄",
+            "guild": "우리가남이가",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 78,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "이건우",
+            "guild": "우리가남이가",
+            "class": "향사수",
+            "grade": 15,
+            "level": 78,
+            "server": "아우리엘 04"
+          }
+        ],
+        "14": [
+          {
+            "nickname": "나르헬리",
+            "guild": "우리가남이가",
+            "class": "환영검사",
+            "grade": 14,
+            "level": 77,
+            "server": "아우리엘 04"
+          }
+        ],
+        "12": [
+          {
+            "nickname": "구리닝구",
+            "guild": "우리가남이가",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 75,
+            "server": "아우리엘 04"
+          }
+        ]
+      }
+    },
+    "나는인기스타": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "15": 1
+      },
+      "membersList": [
+        {
+          "nickname": "고오급이라니까",
+          "guild": "나는인기스타",
+          "class": "태양감시자",
+          "grade": 15,
+          "level": 79,
+          "server": "아우리엘 04"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "고오급이라니까",
+            "guild": "나는인기스타",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 79,
+            "server": "아우리엘 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "15": [
+          {
+            "nickname": "고오급이라니까",
+            "guild": "나는인기스타",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 79,
+            "server": "아우리엘 04"
+          }
+        ]
+      }
+    },
+    "최강기아": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "14": 1
+      },
+      "membersList": [
+        {
+          "nickname": "김도영",
+          "guild": "최강기아",
+          "class": "향사수",
+          "grade": 14,
+          "level": 78,
+          "server": "아우리엘 04"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "김도영",
+            "guild": "최강기아",
+            "class": "향사수",
+            "grade": 14,
+            "level": 78,
+            "server": "아우리엘 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "14": [
+          {
+            "nickname": "김도영",
+            "guild": "최강기아",
+            "class": "향사수",
+            "grade": 14,
+            "level": 78,
+            "server": "아우리엘 04"
+          }
+        ]
+      }
+    },
+    "키세츠": {
+      "members": 2,
+      "byClass": {
+        "환영검사": 1,
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "16": 1,
+        "14": 1
+      },
+      "membersList": [
+        {
+          "nickname": "은게",
+          "guild": "키세츠",
+          "class": "환영검사",
+          "grade": 16,
+          "level": 78,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "태감핑",
+          "guild": "키세츠",
+          "class": "태양감시자",
+          "grade": 14,
+          "level": 76,
+          "server": "아우리엘 04"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "은게",
+            "guild": "키세츠",
+            "class": "환영검사",
+            "grade": 16,
+            "level": 78,
+            "server": "아우리엘 04"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "태감핑",
+            "guild": "키세츠",
+            "class": "태양감시자",
+            "grade": 14,
+            "level": 76,
+            "server": "아우리엘 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "16": [
+          {
+            "nickname": "은게",
+            "guild": "키세츠",
+            "class": "환영검사",
+            "grade": 16,
+            "level": 78,
+            "server": "아우리엘 04"
+          }
+        ],
+        "14": [
+          {
+            "nickname": "태감핑",
+            "guild": "키세츠",
+            "class": "태양감시자",
+            "grade": 14,
+            "level": 76,
+            "server": "아우리엘 04"
+          }
+        ]
+      }
+    },
+    "미소년전사": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "14": 1
+      },
+      "membersList": [
+        {
+          "nickname": "커피빈",
+          "guild": "미소년전사",
+          "class": "주문각인사",
+          "grade": 14,
+          "level": 77,
+          "server": "아우리엘 04"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "커피빈",
+            "guild": "미소년전사",
+            "class": "주문각인사",
+            "grade": 14,
+            "level": 77,
+            "server": "아우리엘 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "14": [
+          {
+            "nickname": "커피빈",
+            "guild": "미소년전사",
+            "class": "주문각인사",
+            "grade": 14,
+            "level": 77,
+            "server": "아우리엘 04"
+          }
+        ]
+      }
+    },
+    "프랜": {
+      "members": 1,
+      "byClass": {
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "14": 1
+      },
+      "membersList": [
+        {
+          "nickname": "영웅쭌이아빠",
+          "guild": "프랜",
+          "class": "심연추방자",
+          "grade": 14,
+          "level": 77,
+          "server": "아우리엘 04"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "영웅쭌이아빠",
+            "guild": "프랜",
+            "class": "심연추방자",
+            "grade": 14,
+            "level": 77,
+            "server": "아우리엘 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "14": [
+          {
+            "nickname": "영웅쭌이아빠",
+            "guild": "프랜",
+            "class": "심연추방자",
+            "grade": 14,
+            "level": 77,
+            "server": "아우리엘 04"
+          }
+        ]
+      }
+    },
+    "쌀": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "12": 1
+      },
+      "membersList": [
+        {
+          "nickname": "파나스",
+          "guild": "쌀",
+          "class": "태양감시자",
+          "grade": 12,
+          "level": 77,
+          "server": "아우리엘 04"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "파나스",
+            "guild": "쌀",
+            "class": "태양감시자",
+            "grade": 12,
+            "level": 77,
+            "server": "아우리엘 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "12": [
+          {
+            "nickname": "파나스",
+            "guild": "쌀",
+            "class": "태양감시자",
+            "grade": 12,
+            "level": 77,
+            "server": "아우리엘 04"
+          }
+        ]
+      }
+    },
+    "착한친구들": {
+      "members": 2,
+      "byClass": {
+        "집행관": 2
+      },
+      "byGrade": {
+        "15": 1,
+        "12": 1
+      },
+      "membersList": [
+        {
+          "nickname": "금붕어",
+          "guild": "착한친구들",
+          "class": "집행관",
+          "grade": 15,
+          "level": 77,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "산군",
+          "guild": "착한친구들",
+          "class": "집행관",
+          "grade": 12,
+          "level": 75,
+          "server": "아우리엘 04"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "금붕어",
+            "guild": "착한친구들",
+            "class": "집행관",
+            "grade": 15,
+            "level": 77,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "산군",
+            "guild": "착한친구들",
+            "class": "집행관",
+            "grade": 12,
+            "level": 75,
+            "server": "아우리엘 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "15": [
+          {
+            "nickname": "금붕어",
+            "guild": "착한친구들",
+            "class": "집행관",
+            "grade": 15,
+            "level": 77,
+            "server": "아우리엘 04"
+          }
+        ],
+        "12": [
+          {
+            "nickname": "산군",
+            "guild": "착한친구들",
+            "class": "집행관",
+            "grade": 12,
+            "level": 75,
+            "server": "아우리엘 04"
+          }
+        ]
+      }
+    },
+    "오피": {
+      "members": 2,
+      "byClass": {
+        "향사수": 1,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "15": 2
+      },
+      "membersList": [
+        {
+          "nickname": "사부작",
+          "guild": "오피",
+          "class": "향사수",
+          "grade": 15,
+          "level": 76,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "사라락",
+          "guild": "오피",
+          "class": "주문각인사",
+          "grade": 15,
+          "level": 75,
+          "server": "아우리엘 04"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "사부작",
+            "guild": "오피",
+            "class": "향사수",
+            "grade": 15,
+            "level": 76,
+            "server": "아우리엘 04"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "사라락",
+            "guild": "오피",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 75,
+            "server": "아우리엘 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "15": [
+          {
+            "nickname": "사부작",
+            "guild": "오피",
+            "class": "향사수",
+            "grade": 15,
+            "level": 76,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "사라락",
+            "guild": "오피",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 75,
+            "server": "아우리엘 04"
+          }
+        ]
+      }
+    },
+    "티케이": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "13": 1
+      },
+      "membersList": [
+        {
+          "nickname": "아르메",
+          "guild": "티케이",
+          "class": "태양감시자",
+          "grade": 13,
+          "level": 76,
+          "server": "아우리엘 04"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "아르메",
+            "guild": "티케이",
+            "class": "태양감시자",
+            "grade": 13,
+            "level": 76,
+            "server": "아우리엘 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "13": [
+          {
+            "nickname": "아르메",
+            "guild": "티케이",
+            "class": "태양감시자",
+            "grade": 13,
+            "level": 76,
+            "server": "아우리엘 04"
+          }
+        ]
+      }
+    },
+    "레드리본": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "14": 1
+      },
+      "membersList": [
+        {
+          "nickname": "똥반",
+          "guild": "레드리본",
+          "class": "주문각인사",
+          "grade": 14,
+          "level": 75,
+          "server": "아우리엘 04"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "똥반",
+            "guild": "레드리본",
+            "class": "주문각인사",
+            "grade": 14,
+            "level": 75,
+            "server": "아우리엘 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "14": [
+          {
+            "nickname": "똥반",
+            "guild": "레드리본",
+            "class": "주문각인사",
+            "grade": 14,
+            "level": 75,
+            "server": "아우리엘 04"
+          }
+        ]
+      }
+    },
+    "보란듯이": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "12": 1
+      },
+      "membersList": [
+        {
+          "nickname": "애라이자슥아",
+          "guild": "보란듯이",
+          "class": "주문각인사",
+          "grade": 12,
+          "level": 74,
+          "server": "아우리엘 04"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "애라이자슥아",
+            "guild": "보란듯이",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 74,
+            "server": "아우리엘 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "12": [
+          {
+            "nickname": "애라이자슥아",
+            "guild": "보란듯이",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 74,
+            "server": "아우리엘 04"
+          }
+        ]
+      }
+    },
+    "곤도르": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "9": 1
+      },
+      "membersList": [
+        {
+          "nickname": "연민",
+          "guild": "곤도르",
+          "class": "향사수",
+          "grade": 9,
+          "level": 74,
+          "server": "아우리엘 04"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "연민",
+            "guild": "곤도르",
+            "class": "향사수",
+            "grade": 9,
+            "level": 74,
+            "server": "아우리엘 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "9": [
+          {
+            "nickname": "연민",
+            "guild": "곤도르",
+            "class": "향사수",
+            "grade": 9,
+            "level": 74,
+            "server": "아우리엘 04"
+          }
+        ]
+      }
+    },
+    "프리큐라": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "12": 1
+      },
+      "membersList": [
+        {
+          "nickname": "세이펜",
+          "guild": "프리큐라",
+          "class": "주문각인사",
+          "grade": 12,
+          "level": 74,
+          "server": "아우리엘 04"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "세이펜",
+            "guild": "프리큐라",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 74,
+            "server": "아우리엘 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "12": [
+          {
+            "nickname": "세이펜",
+            "guild": "프리큐라",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 74,
+            "server": "아우리엘 04"
+          }
+        ]
+      }
+    },
+    "주황": {
+      "members": 2,
+      "byClass": {
+        "향사수": 2
+      },
+      "byGrade": {
+        "9": 2
+      },
+      "membersList": [
+        {
+          "nickname": "나남",
+          "guild": "주황",
+          "class": "향사수",
+          "grade": 9,
+          "level": 73,
+          "server": "아우리엘 04"
+        },
+        {
+          "nickname": "라람",
+          "guild": "주황",
+          "class": "향사수",
+          "grade": 9,
+          "level": 73,
+          "server": "아우리엘 04"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "나남",
+            "guild": "주황",
+            "class": "향사수",
+            "grade": 9,
+            "level": 73,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "라람",
+            "guild": "주황",
+            "class": "향사수",
+            "grade": 9,
+            "level": 73,
+            "server": "아우리엘 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "9": [
+          {
+            "nickname": "나남",
+            "guild": "주황",
+            "class": "향사수",
+            "grade": 9,
+            "level": 73,
+            "server": "아우리엘 04"
+          },
+          {
+            "nickname": "라람",
+            "guild": "주황",
+            "class": "향사수",
+            "grade": 9,
+            "level": 73,
+            "server": "아우리엘 04"
+          }
+        ]
+      }
+    }
+  }
+}

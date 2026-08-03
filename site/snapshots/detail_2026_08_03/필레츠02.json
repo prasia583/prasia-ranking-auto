@@ -1,0 +1,714 @@
+{
+  "server": "필레츠 02",
+  "guilds": {
+    "메함": {
+      "members": 2,
+      "byClass": {
+        "향사수": 2
+      },
+      "byGrade": {
+        "9": 1,
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "석촌서호",
+          "guild": "메함",
+          "class": "향사수",
+          "grade": 9,
+          "level": 66,
+          "server": "필레츠 02"
+        },
+        {
+          "nickname": "오슬로길",
+          "guild": "메함",
+          "class": "향사수",
+          "grade": 1,
+          "level": 61,
+          "server": "필레츠 02"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "석촌서호",
+            "guild": "메함",
+            "class": "향사수",
+            "grade": 9,
+            "level": 66,
+            "server": "필레츠 02"
+          },
+          {
+            "nickname": "오슬로길",
+            "guild": "메함",
+            "class": "향사수",
+            "grade": 1,
+            "level": 61,
+            "server": "필레츠 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "9": [
+          {
+            "nickname": "석촌서호",
+            "guild": "메함",
+            "class": "향사수",
+            "grade": 9,
+            "level": 66,
+            "server": "필레츠 02"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "오슬로길",
+            "guild": "메함",
+            "class": "향사수",
+            "grade": 1,
+            "level": 61,
+            "server": "필레츠 02"
+          }
+        ]
+      }
+    },
+    "GAIA": {
+      "members": 4,
+      "byClass": {
+        "주문각인사": 2,
+        "향사수": 1,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "9": 1,
+        "8": 1,
+        "6": 1,
+        "4": 1
+      },
+      "membersList": [
+        {
+          "nickname": "어라닌",
+          "guild": "GAIA",
+          "class": "주문각인사",
+          "grade": 9,
+          "level": 66,
+          "server": "필레츠 02"
+        },
+        {
+          "nickname": "가이아",
+          "guild": "GAIA",
+          "class": "주문각인사",
+          "grade": 8,
+          "level": 63,
+          "server": "필레츠 02"
+        },
+        {
+          "nickname": "물방개",
+          "guild": "GAIA",
+          "class": "환영검사",
+          "grade": 6,
+          "level": 59,
+          "server": "필레츠 02"
+        },
+        {
+          "nickname": "엘라스틴하세요",
+          "guild": "GAIA",
+          "class": "향사수",
+          "grade": 4,
+          "level": 62,
+          "server": "필레츠 02"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "어라닌",
+            "guild": "GAIA",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 66,
+            "server": "필레츠 02"
+          },
+          {
+            "nickname": "가이아",
+            "guild": "GAIA",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 63,
+            "server": "필레츠 02"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "엘라스틴하세요",
+            "guild": "GAIA",
+            "class": "향사수",
+            "grade": 4,
+            "level": 62,
+            "server": "필레츠 02"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "물방개",
+            "guild": "GAIA",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 59,
+            "server": "필레츠 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "9": [
+          {
+            "nickname": "어라닌",
+            "guild": "GAIA",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 66,
+            "server": "필레츠 02"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "가이아",
+            "guild": "GAIA",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 63,
+            "server": "필레츠 02"
+          }
+        ],
+        "4": [
+          {
+            "nickname": "엘라스틴하세요",
+            "guild": "GAIA",
+            "class": "향사수",
+            "grade": 4,
+            "level": 62,
+            "server": "필레츠 02"
+          }
+        ],
+        "6": [
+          {
+            "nickname": "물방개",
+            "guild": "GAIA",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 59,
+            "server": "필레츠 02"
+          }
+        ]
+      }
+    },
+    "글로리": {
+      "members": 4,
+      "byClass": {
+        "환영검사": 1,
+        "향사수": 1,
+        "집행관": 1,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "7": 1,
+        "1": 3
+      },
+      "membersList": [
+        {
+          "nickname": "미갱",
+          "guild": "글로리",
+          "class": "환영검사",
+          "grade": 7,
+          "level": 61,
+          "server": "필레츠 02"
+        },
+        {
+          "nickname": "옥수수아빠",
+          "guild": "글로리",
+          "class": "집행관",
+          "grade": 1,
+          "level": 59,
+          "server": "필레츠 02"
+        },
+        {
+          "nickname": "옥수수엄마",
+          "guild": "글로리",
+          "class": "향사수",
+          "grade": 1,
+          "level": 59,
+          "server": "필레츠 02"
+        },
+        {
+          "nickname": "옥수수",
+          "guild": "글로리",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 57,
+          "server": "필레츠 02"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "미갱",
+            "guild": "글로리",
+            "class": "환영검사",
+            "grade": 7,
+            "level": 61,
+            "server": "필레츠 02"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "옥수수엄마",
+            "guild": "글로리",
+            "class": "향사수",
+            "grade": 1,
+            "level": 59,
+            "server": "필레츠 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "옥수수아빠",
+            "guild": "글로리",
+            "class": "집행관",
+            "grade": 1,
+            "level": 59,
+            "server": "필레츠 02"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "옥수수",
+            "guild": "글로리",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 57,
+            "server": "필레츠 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "7": [
+          {
+            "nickname": "미갱",
+            "guild": "글로리",
+            "class": "환영검사",
+            "grade": 7,
+            "level": 61,
+            "server": "필레츠 02"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "옥수수아빠",
+            "guild": "글로리",
+            "class": "집행관",
+            "grade": 1,
+            "level": 59,
+            "server": "필레츠 02"
+          },
+          {
+            "nickname": "옥수수엄마",
+            "guild": "글로리",
+            "class": "향사수",
+            "grade": 1,
+            "level": 59,
+            "server": "필레츠 02"
+          },
+          {
+            "nickname": "옥수수",
+            "guild": "글로리",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 57,
+            "server": "필레츠 02"
+          }
+        ]
+      }
+    },
+    "신": {
+      "members": 2,
+      "byClass": {
+        "환영검사": 2
+      },
+      "byGrade": {
+        "8": 1,
+        "6": 1
+      },
+      "membersList": [
+        {
+          "nickname": "선방",
+          "guild": "신",
+          "class": "환영검사",
+          "grade": 8,
+          "level": 61,
+          "server": "필레츠 02"
+        },
+        {
+          "nickname": "백룡승천",
+          "guild": "신",
+          "class": "환영검사",
+          "grade": 6,
+          "level": 59,
+          "server": "필레츠 02"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "선방",
+            "guild": "신",
+            "class": "환영검사",
+            "grade": 8,
+            "level": 61,
+            "server": "필레츠 02"
+          },
+          {
+            "nickname": "백룡승천",
+            "guild": "신",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 59,
+            "server": "필레츠 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "8": [
+          {
+            "nickname": "선방",
+            "guild": "신",
+            "class": "환영검사",
+            "grade": 8,
+            "level": 61,
+            "server": "필레츠 02"
+          }
+        ],
+        "6": [
+          {
+            "nickname": "백룡승천",
+            "guild": "신",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 59,
+            "server": "필레츠 02"
+          }
+        ]
+      }
+    },
+    "흑호랑이": {
+      "members": 2,
+      "byClass": {
+        "향사수": 1,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "6": 1,
+        "3": 1
+      },
+      "membersList": [
+        {
+          "nickname": "백상아리",
+          "guild": "흑호랑이",
+          "class": "주문각인사",
+          "grade": 6,
+          "level": 60,
+          "server": "필레츠 02"
+        },
+        {
+          "nickname": "흑호",
+          "guild": "흑호랑이",
+          "class": "향사수",
+          "grade": 3,
+          "level": 60,
+          "server": "필레츠 02"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "흑호",
+            "guild": "흑호랑이",
+            "class": "향사수",
+            "grade": 3,
+            "level": 60,
+            "server": "필레츠 02"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "백상아리",
+            "guild": "흑호랑이",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 60,
+            "server": "필레츠 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "3": [
+          {
+            "nickname": "흑호",
+            "guild": "흑호랑이",
+            "class": "향사수",
+            "grade": 3,
+            "level": 60,
+            "server": "필레츠 02"
+          }
+        ],
+        "6": [
+          {
+            "nickname": "백상아리",
+            "guild": "흑호랑이",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 60,
+            "server": "필레츠 02"
+          }
+        ]
+      }
+    },
+    "띠용": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "6": 1
+      },
+      "membersList": [
+        {
+          "nickname": "보리차",
+          "guild": "띠용",
+          "class": "주문각인사",
+          "grade": 6,
+          "level": 59,
+          "server": "필레츠 02"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "보리차",
+            "guild": "띠용",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 59,
+            "server": "필레츠 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "6": [
+          {
+            "nickname": "보리차",
+            "guild": "띠용",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 59,
+            "server": "필레츠 02"
+          }
+        ]
+      }
+    },
+    "채플린": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "7": 1
+      },
+      "membersList": [
+        {
+          "nickname": "하말",
+          "guild": "채플린",
+          "class": "향사수",
+          "grade": 7,
+          "level": 59,
+          "server": "필레츠 02"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "하말",
+            "guild": "채플린",
+            "class": "향사수",
+            "grade": 7,
+            "level": 59,
+            "server": "필레츠 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "7": [
+          {
+            "nickname": "하말",
+            "guild": "채플린",
+            "class": "향사수",
+            "grade": 7,
+            "level": 59,
+            "server": "필레츠 02"
+          }
+        ]
+      }
+    },
+    "영웅": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "7": 1
+      },
+      "membersList": [
+        {
+          "nickname": "수호성",
+          "guild": "영웅",
+          "class": "집행관",
+          "grade": 7,
+          "level": 57,
+          "server": "필레츠 02"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "수호성",
+            "guild": "영웅",
+            "class": "집행관",
+            "grade": 7,
+            "level": 57,
+            "server": "필레츠 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "7": [
+          {
+            "nickname": "수호성",
+            "guild": "영웅",
+            "class": "집행관",
+            "grade": 7,
+            "level": 57,
+            "server": "필레츠 02"
+          }
+        ]
+      }
+    },
+    "즐기자": {
+      "members": 2,
+      "byClass": {
+        "향사수": 2
+      },
+      "byGrade": {
+        "1": 2
+      },
+      "membersList": [
+        {
+          "nickname": "낡은지갑다리미",
+          "guild": "즐기자",
+          "class": "향사수",
+          "grade": 1,
+          "level": 57,
+          "server": "필레츠 02"
+        },
+        {
+          "nickname": "안좋은안녕비누",
+          "guild": "즐기자",
+          "class": "향사수",
+          "grade": 1,
+          "level": 57,
+          "server": "필레츠 02"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "낡은지갑다리미",
+            "guild": "즐기자",
+            "class": "향사수",
+            "grade": 1,
+            "level": 57,
+            "server": "필레츠 02"
+          },
+          {
+            "nickname": "안좋은안녕비누",
+            "guild": "즐기자",
+            "class": "향사수",
+            "grade": 1,
+            "level": 57,
+            "server": "필레츠 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "낡은지갑다리미",
+            "guild": "즐기자",
+            "class": "향사수",
+            "grade": 1,
+            "level": 57,
+            "server": "필레츠 02"
+          },
+          {
+            "nickname": "안좋은안녕비누",
+            "guild": "즐기자",
+            "class": "향사수",
+            "grade": 1,
+            "level": 57,
+            "server": "필레츠 02"
+          }
+        ]
+      }
+    },
+    "교단": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "3": 1
+      },
+      "membersList": [
+        {
+          "nickname": "커피프림",
+          "guild": "교단",
+          "class": "향사수",
+          "grade": 3,
+          "level": 57,
+          "server": "필레츠 02"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "커피프림",
+            "guild": "교단",
+            "class": "향사수",
+            "grade": 3,
+            "level": 57,
+            "server": "필레츠 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "3": [
+          {
+            "nickname": "커피프림",
+            "guild": "교단",
+            "class": "향사수",
+            "grade": 3,
+            "level": 57,
+            "server": "필레츠 02"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,2059 @@
+{
+  "server": "카시미르 01",
+  "guilds": {
+    "보노보노와친구들": {
+      "members": 2,
+      "byClass": {
+        "환영검사": 1,
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "20": 1,
+        "15": 1
+      },
+      "membersList": [
+        {
+          "nickname": "보노보노",
+          "guild": "보노보노와친구들",
+          "class": "환영검사",
+          "grade": 20,
+          "level": 84,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "하늘이",
+          "guild": "보노보노와친구들",
+          "class": "태양감시자",
+          "grade": 15,
+          "level": 80,
+          "server": "카시미르 01"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "보노보노",
+            "guild": "보노보노와친구들",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 84,
+            "server": "카시미르 01"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "하늘이",
+            "guild": "보노보노와친구들",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 80,
+            "server": "카시미르 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "보노보노",
+            "guild": "보노보노와친구들",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 84,
+            "server": "카시미르 01"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "하늘이",
+            "guild": "보노보노와친구들",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 80,
+            "server": "카시미르 01"
+          }
+        ]
+      }
+    },
+    "신사": {
+      "members": 6,
+      "byClass": {
+        "주문각인사": 2,
+        "태양감시자": 1,
+        "환영검사": 1,
+        "심연추방자": 1,
+        "향사수": 1
+      },
+      "byGrade": {
+        "19": 1,
+        "12": 2,
+        "10": 2,
+        "8": 1
+      },
+      "membersList": [
+        {
+          "nickname": "우와왕",
+          "guild": "신사",
+          "class": "태양감시자",
+          "grade": 19,
+          "level": 84,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "스티브",
+          "guild": "신사",
+          "class": "환영검사",
+          "grade": 12,
+          "level": 73,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "홍의",
+          "guild": "신사",
+          "class": "심연추방자",
+          "grade": 12,
+          "level": 70,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "봄빛",
+          "guild": "신사",
+          "class": "향사수",
+          "grade": 10,
+          "level": 70,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "심사원",
+          "guild": "신사",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 69,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "줄리아",
+          "guild": "신사",
+          "class": "주문각인사",
+          "grade": 8,
+          "level": 69,
+          "server": "카시미르 01"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "우와왕",
+            "guild": "신사",
+            "class": "태양감시자",
+            "grade": 19,
+            "level": 84,
+            "server": "카시미르 01"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "스티브",
+            "guild": "신사",
+            "class": "환영검사",
+            "grade": 12,
+            "level": 73,
+            "server": "카시미르 01"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "홍의",
+            "guild": "신사",
+            "class": "심연추방자",
+            "grade": 12,
+            "level": 70,
+            "server": "카시미르 01"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "봄빛",
+            "guild": "신사",
+            "class": "향사수",
+            "grade": 10,
+            "level": 70,
+            "server": "카시미르 01"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "심사원",
+            "guild": "신사",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 69,
+            "server": "카시미르 01"
+          },
+          {
+            "nickname": "줄리아",
+            "guild": "신사",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 69,
+            "server": "카시미르 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "19": [
+          {
+            "nickname": "우와왕",
+            "guild": "신사",
+            "class": "태양감시자",
+            "grade": 19,
+            "level": 84,
+            "server": "카시미르 01"
+          }
+        ],
+        "12": [
+          {
+            "nickname": "스티브",
+            "guild": "신사",
+            "class": "환영검사",
+            "grade": 12,
+            "level": 73,
+            "server": "카시미르 01"
+          },
+          {
+            "nickname": "홍의",
+            "guild": "신사",
+            "class": "심연추방자",
+            "grade": 12,
+            "level": 70,
+            "server": "카시미르 01"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "봄빛",
+            "guild": "신사",
+            "class": "향사수",
+            "grade": 10,
+            "level": 70,
+            "server": "카시미르 01"
+          },
+          {
+            "nickname": "심사원",
+            "guild": "신사",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 69,
+            "server": "카시미르 01"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "줄리아",
+            "guild": "신사",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 69,
+            "server": "카시미르 01"
+          }
+        ]
+      }
+    },
+    "잡화25": {
+      "members": 8,
+      "byClass": {
+        "환영검사": 4,
+        "주문각인사": 1,
+        "향사수": 1,
+        "심연추방자": 1,
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "19": 1,
+        "18": 1,
+        "17": 1,
+        "15": 2,
+        "13": 1,
+        "12": 1,
+        "11": 1
+      },
+      "membersList": [
+        {
+          "nickname": "흑염룡",
+          "guild": "잡화25",
+          "class": "환영검사",
+          "grade": 19,
+          "level": 84,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "워즈",
+          "guild": "잡화25",
+          "class": "환영검사",
+          "grade": 18,
+          "level": 83,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "티발",
+          "guild": "잡화25",
+          "class": "환영검사",
+          "grade": 17,
+          "level": 80,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "약한영웅",
+          "guild": "잡화25",
+          "class": "주문각인사",
+          "grade": 15,
+          "level": 80,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "호황",
+          "guild": "잡화25",
+          "class": "환영검사",
+          "grade": 15,
+          "level": 78,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "제갈금자",
+          "guild": "잡화25",
+          "class": "향사수",
+          "grade": 13,
+          "level": 73,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "몸매",
+          "guild": "잡화25",
+          "class": "심연추방자",
+          "grade": 12,
+          "level": 71,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "민둥이",
+          "guild": "잡화25",
+          "class": "태양감시자",
+          "grade": 11,
+          "level": 68,
+          "server": "카시미르 01"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "흑염룡",
+            "guild": "잡화25",
+            "class": "환영검사",
+            "grade": 19,
+            "level": 84,
+            "server": "카시미르 01"
+          },
+          {
+            "nickname": "워즈",
+            "guild": "잡화25",
+            "class": "환영검사",
+            "grade": 18,
+            "level": 83,
+            "server": "카시미르 01"
+          },
+          {
+            "nickname": "티발",
+            "guild": "잡화25",
+            "class": "환영검사",
+            "grade": 17,
+            "level": 80,
+            "server": "카시미르 01"
+          },
+          {
+            "nickname": "호황",
+            "guild": "잡화25",
+            "class": "환영검사",
+            "grade": 15,
+            "level": 78,
+            "server": "카시미르 01"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "약한영웅",
+            "guild": "잡화25",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 80,
+            "server": "카시미르 01"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "제갈금자",
+            "guild": "잡화25",
+            "class": "향사수",
+            "grade": 13,
+            "level": 73,
+            "server": "카시미르 01"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "몸매",
+            "guild": "잡화25",
+            "class": "심연추방자",
+            "grade": 12,
+            "level": 71,
+            "server": "카시미르 01"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "민둥이",
+            "guild": "잡화25",
+            "class": "태양감시자",
+            "grade": 11,
+            "level": 68,
+            "server": "카시미르 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "19": [
+          {
+            "nickname": "흑염룡",
+            "guild": "잡화25",
+            "class": "환영검사",
+            "grade": 19,
+            "level": 84,
+            "server": "카시미르 01"
+          }
+        ],
+        "18": [
+          {
+            "nickname": "워즈",
+            "guild": "잡화25",
+            "class": "환영검사",
+            "grade": 18,
+            "level": 83,
+            "server": "카시미르 01"
+          }
+        ],
+        "17": [
+          {
+            "nickname": "티발",
+            "guild": "잡화25",
+            "class": "환영검사",
+            "grade": 17,
+            "level": 80,
+            "server": "카시미르 01"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "약한영웅",
+            "guild": "잡화25",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 80,
+            "server": "카시미르 01"
+          },
+          {
+            "nickname": "호황",
+            "guild": "잡화25",
+            "class": "환영검사",
+            "grade": 15,
+            "level": 78,
+            "server": "카시미르 01"
+          }
+        ],
+        "13": [
+          {
+            "nickname": "제갈금자",
+            "guild": "잡화25",
+            "class": "향사수",
+            "grade": 13,
+            "level": 73,
+            "server": "카시미르 01"
+          }
+        ],
+        "12": [
+          {
+            "nickname": "몸매",
+            "guild": "잡화25",
+            "class": "심연추방자",
+            "grade": 12,
+            "level": 71,
+            "server": "카시미르 01"
+          }
+        ],
+        "11": [
+          {
+            "nickname": "민둥이",
+            "guild": "잡화25",
+            "class": "태양감시자",
+            "grade": 11,
+            "level": 68,
+            "server": "카시미르 01"
+          }
+        ]
+      }
+    },
+    "바밤바": {
+      "members": 10,
+      "byClass": {
+        "환영검사": 4,
+        "태양감시자": 3,
+        "향사수": 2,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "18": 1,
+        "16": 1,
+        "15": 2,
+        "14": 1,
+        "13": 1,
+        "12": 2,
+        "11": 1,
+        "10": 1
+      },
+      "membersList": [
+        {
+          "nickname": "정탄",
+          "guild": "바밤바",
+          "class": "환영검사",
+          "grade": 18,
+          "level": 83,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "튜브",
+          "guild": "바밤바",
+          "class": "환영검사",
+          "grade": 16,
+          "level": 79,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "창고",
+          "guild": "바밤바",
+          "class": "향사수",
+          "grade": 15,
+          "level": 77,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "뽕숙이",
+          "guild": "바밤바",
+          "class": "주문각인사",
+          "grade": 15,
+          "level": 75,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "엘크루",
+          "guild": "바밤바",
+          "class": "태양감시자",
+          "grade": 14,
+          "level": 77,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "비빔면",
+          "guild": "바밤바",
+          "class": "환영검사",
+          "grade": 13,
+          "level": 77,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "왕뚜껑",
+          "guild": "바밤바",
+          "class": "태양감시자",
+          "grade": 12,
+          "level": 77,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "shhh",
+          "guild": "바밤바",
+          "class": "환영검사",
+          "grade": 12,
+          "level": 72,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "천하대장군",
+          "guild": "바밤바",
+          "class": "태양감시자",
+          "grade": 11,
+          "level": 71,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "강도",
+          "guild": "바밤바",
+          "class": "향사수",
+          "grade": 10,
+          "level": 73,
+          "server": "카시미르 01"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "정탄",
+            "guild": "바밤바",
+            "class": "환영검사",
+            "grade": 18,
+            "level": 83,
+            "server": "카시미르 01"
+          },
+          {
+            "nickname": "튜브",
+            "guild": "바밤바",
+            "class": "환영검사",
+            "grade": 16,
+            "level": 79,
+            "server": "카시미르 01"
+          },
+          {
+            "nickname": "비빔면",
+            "guild": "바밤바",
+            "class": "환영검사",
+            "grade": 13,
+            "level": 77,
+            "server": "카시미르 01"
+          },
+          {
+            "nickname": "shhh",
+            "guild": "바밤바",
+            "class": "환영검사",
+            "grade": 12,
+            "level": 72,
+            "server": "카시미르 01"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "엘크루",
+            "guild": "바밤바",
+            "class": "태양감시자",
+            "grade": 14,
+            "level": 77,
+            "server": "카시미르 01"
+          },
+          {
+            "nickname": "왕뚜껑",
+            "guild": "바밤바",
+            "class": "태양감시자",
+            "grade": 12,
+            "level": 77,
+            "server": "카시미르 01"
+          },
+          {
+            "nickname": "천하대장군",
+            "guild": "바밤바",
+            "class": "태양감시자",
+            "grade": 11,
+            "level": 71,
+            "server": "카시미르 01"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "창고",
+            "guild": "바밤바",
+            "class": "향사수",
+            "grade": 15,
+            "level": 77,
+            "server": "카시미르 01"
+          },
+          {
+            "nickname": "강도",
+            "guild": "바밤바",
+            "class": "향사수",
+            "grade": 10,
+            "level": 73,
+            "server": "카시미르 01"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "뽕숙이",
+            "guild": "바밤바",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 75,
+            "server": "카시미르 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "18": [
+          {
+            "nickname": "정탄",
+            "guild": "바밤바",
+            "class": "환영검사",
+            "grade": 18,
+            "level": 83,
+            "server": "카시미르 01"
+          }
+        ],
+        "16": [
+          {
+            "nickname": "튜브",
+            "guild": "바밤바",
+            "class": "환영검사",
+            "grade": 16,
+            "level": 79,
+            "server": "카시미르 01"
+          }
+        ],
+        "12": [
+          {
+            "nickname": "왕뚜껑",
+            "guild": "바밤바",
+            "class": "태양감시자",
+            "grade": 12,
+            "level": 77,
+            "server": "카시미르 01"
+          },
+          {
+            "nickname": "shhh",
+            "guild": "바밤바",
+            "class": "환영검사",
+            "grade": 12,
+            "level": 72,
+            "server": "카시미르 01"
+          }
+        ],
+        "13": [
+          {
+            "nickname": "비빔면",
+            "guild": "바밤바",
+            "class": "환영검사",
+            "grade": 13,
+            "level": 77,
+            "server": "카시미르 01"
+          }
+        ],
+        "14": [
+          {
+            "nickname": "엘크루",
+            "guild": "바밤바",
+            "class": "태양감시자",
+            "grade": 14,
+            "level": 77,
+            "server": "카시미르 01"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "창고",
+            "guild": "바밤바",
+            "class": "향사수",
+            "grade": 15,
+            "level": 77,
+            "server": "카시미르 01"
+          },
+          {
+            "nickname": "뽕숙이",
+            "guild": "바밤바",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 75,
+            "server": "카시미르 01"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "강도",
+            "guild": "바밤바",
+            "class": "향사수",
+            "grade": 10,
+            "level": 73,
+            "server": "카시미르 01"
+          }
+        ],
+        "11": [
+          {
+            "nickname": "천하대장군",
+            "guild": "바밤바",
+            "class": "태양감시자",
+            "grade": 11,
+            "level": 71,
+            "server": "카시미르 01"
+          }
+        ]
+      }
+    },
+    "오래된마을": {
+      "members": 6,
+      "byClass": {
+        "주문각인사": 2,
+        "태양감시자": 2,
+        "심연추방자": 1,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "18": 2,
+        "17": 1,
+        "16": 1,
+        "14": 1,
+        "10": 1
+      },
+      "membersList": [
+        {
+          "nickname": "의료법위반",
+          "guild": "오래된마을",
+          "class": "태양감시자",
+          "grade": 18,
+          "level": 82,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "주민이",
+          "guild": "오래된마을",
+          "class": "주문각인사",
+          "grade": 18,
+          "level": 82,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "요지",
+          "guild": "오래된마을",
+          "class": "태양감시자",
+          "grade": 17,
+          "level": 81,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "몽월",
+          "guild": "오래된마을",
+          "class": "주문각인사",
+          "grade": 16,
+          "level": 81,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "반짝응디",
+          "guild": "오래된마을",
+          "class": "심연추방자",
+          "grade": 14,
+          "level": 75,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "음율",
+          "guild": "오래된마을",
+          "class": "환영검사",
+          "grade": 10,
+          "level": 72,
+          "server": "카시미르 01"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "주민이",
+            "guild": "오래된마을",
+            "class": "주문각인사",
+            "grade": 18,
+            "level": 82,
+            "server": "카시미르 01"
+          },
+          {
+            "nickname": "몽월",
+            "guild": "오래된마을",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 81,
+            "server": "카시미르 01"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "의료법위반",
+            "guild": "오래된마을",
+            "class": "태양감시자",
+            "grade": 18,
+            "level": 82,
+            "server": "카시미르 01"
+          },
+          {
+            "nickname": "요지",
+            "guild": "오래된마을",
+            "class": "태양감시자",
+            "grade": 17,
+            "level": 81,
+            "server": "카시미르 01"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "반짝응디",
+            "guild": "오래된마을",
+            "class": "심연추방자",
+            "grade": 14,
+            "level": 75,
+            "server": "카시미르 01"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "음율",
+            "guild": "오래된마을",
+            "class": "환영검사",
+            "grade": 10,
+            "level": 72,
+            "server": "카시미르 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "18": [
+          {
+            "nickname": "의료법위반",
+            "guild": "오래된마을",
+            "class": "태양감시자",
+            "grade": 18,
+            "level": 82,
+            "server": "카시미르 01"
+          },
+          {
+            "nickname": "주민이",
+            "guild": "오래된마을",
+            "class": "주문각인사",
+            "grade": 18,
+            "level": 82,
+            "server": "카시미르 01"
+          }
+        ],
+        "16": [
+          {
+            "nickname": "몽월",
+            "guild": "오래된마을",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 81,
+            "server": "카시미르 01"
+          }
+        ],
+        "17": [
+          {
+            "nickname": "요지",
+            "guild": "오래된마을",
+            "class": "태양감시자",
+            "grade": 17,
+            "level": 81,
+            "server": "카시미르 01"
+          }
+        ],
+        "14": [
+          {
+            "nickname": "반짝응디",
+            "guild": "오래된마을",
+            "class": "심연추방자",
+            "grade": 14,
+            "level": 75,
+            "server": "카시미르 01"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "음율",
+            "guild": "오래된마을",
+            "class": "환영검사",
+            "grade": 10,
+            "level": 72,
+            "server": "카시미르 01"
+          }
+        ]
+      }
+    },
+    "인연": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "16": 1
+      },
+      "membersList": [
+        {
+          "nickname": "길채",
+          "guild": "인연",
+          "class": "태양감시자",
+          "grade": 16,
+          "level": 81,
+          "server": "카시미르 01"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "길채",
+            "guild": "인연",
+            "class": "태양감시자",
+            "grade": 16,
+            "level": 81,
+            "server": "카시미르 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "16": [
+          {
+            "nickname": "길채",
+            "guild": "인연",
+            "class": "태양감시자",
+            "grade": 16,
+            "level": 81,
+            "server": "카시미르 01"
+          }
+        ]
+      }
+    },
+    "편안한마음": {
+      "members": 2,
+      "byClass": {
+        "집행관": 1,
+        "향사수": 1
+      },
+      "byGrade": {
+        "16": 1,
+        "14": 1
+      },
+      "membersList": [
+        {
+          "nickname": "신선꿀호떡",
+          "guild": "편안한마음",
+          "class": "집행관",
+          "grade": 16,
+          "level": 80,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "서울우유모찌롤",
+          "guild": "편안한마음",
+          "class": "향사수",
+          "grade": 14,
+          "level": 77,
+          "server": "카시미르 01"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "신선꿀호떡",
+            "guild": "편안한마음",
+            "class": "집행관",
+            "grade": 16,
+            "level": 80,
+            "server": "카시미르 01"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "서울우유모찌롤",
+            "guild": "편안한마음",
+            "class": "향사수",
+            "grade": 14,
+            "level": 77,
+            "server": "카시미르 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "16": [
+          {
+            "nickname": "신선꿀호떡",
+            "guild": "편안한마음",
+            "class": "집행관",
+            "grade": 16,
+            "level": 80,
+            "server": "카시미르 01"
+          }
+        ],
+        "14": [
+          {
+            "nickname": "서울우유모찌롤",
+            "guild": "편안한마음",
+            "class": "향사수",
+            "grade": 14,
+            "level": 77,
+            "server": "카시미르 01"
+          }
+        ]
+      }
+    },
+    "DL": {
+      "members": 3,
+      "byClass": {
+        "환영검사": 2,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "16": 1,
+        "14": 1,
+        "12": 1
+      },
+      "membersList": [
+        {
+          "nickname": "나만의시간",
+          "guild": "DL",
+          "class": "주문각인사",
+          "grade": 16,
+          "level": 80,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "RUWW",
+          "guild": "DL",
+          "class": "환영검사",
+          "grade": 14,
+          "level": 73,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "버터플라이",
+          "guild": "DL",
+          "class": "환영검사",
+          "grade": 12,
+          "level": 70,
+          "server": "카시미르 01"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "나만의시간",
+            "guild": "DL",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 80,
+            "server": "카시미르 01"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "RUWW",
+            "guild": "DL",
+            "class": "환영검사",
+            "grade": 14,
+            "level": 73,
+            "server": "카시미르 01"
+          },
+          {
+            "nickname": "버터플라이",
+            "guild": "DL",
+            "class": "환영검사",
+            "grade": 12,
+            "level": 70,
+            "server": "카시미르 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "16": [
+          {
+            "nickname": "나만의시간",
+            "guild": "DL",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 80,
+            "server": "카시미르 01"
+          }
+        ],
+        "14": [
+          {
+            "nickname": "RUWW",
+            "guild": "DL",
+            "class": "환영검사",
+            "grade": 14,
+            "level": 73,
+            "server": "카시미르 01"
+          }
+        ],
+        "12": [
+          {
+            "nickname": "버터플라이",
+            "guild": "DL",
+            "class": "환영검사",
+            "grade": 12,
+            "level": 70,
+            "server": "카시미르 01"
+          }
+        ]
+      }
+    },
+    "핫도그": {
+      "members": 7,
+      "byClass": {
+        "주문각인사": 3,
+        "향사수": 2,
+        "집행관": 1,
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "16": 3,
+        "10": 1,
+        "7": 1,
+        "3": 2
+      },
+      "membersList": [
+        {
+          "nickname": "아에이오우",
+          "guild": "핫도그",
+          "class": "향사수",
+          "grade": 16,
+          "level": 80,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "아기별",
+          "guild": "핫도그",
+          "class": "주문각인사",
+          "grade": 16,
+          "level": 77,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "얼탱이",
+          "guild": "핫도그",
+          "class": "집행관",
+          "grade": 16,
+          "level": 77,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "별꽃",
+          "guild": "핫도그",
+          "class": "향사수",
+          "grade": 10,
+          "level": 71,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "쩌러써",
+          "guild": "핫도그",
+          "class": "주문각인사",
+          "grade": 7,
+          "level": 71,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "조세핀",
+          "guild": "핫도그",
+          "class": "태양감시자",
+          "grade": 3,
+          "level": 69,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "핑크퐁",
+          "guild": "핫도그",
+          "class": "주문각인사",
+          "grade": 3,
+          "level": 69,
+          "server": "카시미르 01"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "아에이오우",
+            "guild": "핫도그",
+            "class": "향사수",
+            "grade": 16,
+            "level": 80,
+            "server": "카시미르 01"
+          },
+          {
+            "nickname": "별꽃",
+            "guild": "핫도그",
+            "class": "향사수",
+            "grade": 10,
+            "level": 71,
+            "server": "카시미르 01"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "얼탱이",
+            "guild": "핫도그",
+            "class": "집행관",
+            "grade": 16,
+            "level": 77,
+            "server": "카시미르 01"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "아기별",
+            "guild": "핫도그",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 77,
+            "server": "카시미르 01"
+          },
+          {
+            "nickname": "쩌러써",
+            "guild": "핫도그",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 71,
+            "server": "카시미르 01"
+          },
+          {
+            "nickname": "핑크퐁",
+            "guild": "핫도그",
+            "class": "주문각인사",
+            "grade": 3,
+            "level": 69,
+            "server": "카시미르 01"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "조세핀",
+            "guild": "핫도그",
+            "class": "태양감시자",
+            "grade": 3,
+            "level": 69,
+            "server": "카시미르 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "16": [
+          {
+            "nickname": "아에이오우",
+            "guild": "핫도그",
+            "class": "향사수",
+            "grade": 16,
+            "level": 80,
+            "server": "카시미르 01"
+          },
+          {
+            "nickname": "아기별",
+            "guild": "핫도그",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 77,
+            "server": "카시미르 01"
+          },
+          {
+            "nickname": "얼탱이",
+            "guild": "핫도그",
+            "class": "집행관",
+            "grade": 16,
+            "level": 77,
+            "server": "카시미르 01"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "별꽃",
+            "guild": "핫도그",
+            "class": "향사수",
+            "grade": 10,
+            "level": 71,
+            "server": "카시미르 01"
+          }
+        ],
+        "7": [
+          {
+            "nickname": "쩌러써",
+            "guild": "핫도그",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 71,
+            "server": "카시미르 01"
+          }
+        ],
+        "3": [
+          {
+            "nickname": "조세핀",
+            "guild": "핫도그",
+            "class": "태양감시자",
+            "grade": 3,
+            "level": 69,
+            "server": "카시미르 01"
+          },
+          {
+            "nickname": "핑크퐁",
+            "guild": "핫도그",
+            "class": "주문각인사",
+            "grade": 3,
+            "level": 69,
+            "server": "카시미르 01"
+          }
+        ]
+      }
+    },
+    "니아": {
+      "members": 2,
+      "byClass": {
+        "태양감시자": 1,
+        "집행관": 1
+      },
+      "byGrade": {
+        "16": 1,
+        "12": 1
+      },
+      "membersList": [
+        {
+          "nickname": "코쟁",
+          "guild": "니아",
+          "class": "태양감시자",
+          "grade": 16,
+          "level": 79,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "촌놈",
+          "guild": "니아",
+          "class": "집행관",
+          "grade": 12,
+          "level": 74,
+          "server": "카시미르 01"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "코쟁",
+            "guild": "니아",
+            "class": "태양감시자",
+            "grade": 16,
+            "level": 79,
+            "server": "카시미르 01"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "촌놈",
+            "guild": "니아",
+            "class": "집행관",
+            "grade": 12,
+            "level": 74,
+            "server": "카시미르 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "16": [
+          {
+            "nickname": "코쟁",
+            "guild": "니아",
+            "class": "태양감시자",
+            "grade": 16,
+            "level": 79,
+            "server": "카시미르 01"
+          }
+        ],
+        "12": [
+          {
+            "nickname": "촌놈",
+            "guild": "니아",
+            "class": "집행관",
+            "grade": 12,
+            "level": 74,
+            "server": "카시미르 01"
+          }
+        ]
+      }
+    },
+    "여긴어디": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "15": 1
+      },
+      "membersList": [
+        {
+          "nickname": "나는누구",
+          "guild": "여긴어디",
+          "class": "향사수",
+          "grade": 15,
+          "level": 78,
+          "server": "카시미르 01"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "나는누구",
+            "guild": "여긴어디",
+            "class": "향사수",
+            "grade": 15,
+            "level": 78,
+            "server": "카시미르 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "15": [
+          {
+            "nickname": "나는누구",
+            "guild": "여긴어디",
+            "class": "향사수",
+            "grade": 15,
+            "level": 78,
+            "server": "카시미르 01"
+          }
+        ]
+      }
+    },
+    "마비노기모바일": {
+      "members": 2,
+      "byClass": {
+        "심연추방자": 1,
+        "향사수": 1
+      },
+      "byGrade": {
+        "15": 1,
+        "7": 1
+      },
+      "membersList": [
+        {
+          "nickname": "퍼거스",
+          "guild": "마비노기모바일",
+          "class": "심연추방자",
+          "grade": 15,
+          "level": 77,
+          "server": "카시미르 01"
+        },
+        {
+          "nickname": "히키코모리",
+          "guild": "마비노기모바일",
+          "class": "향사수",
+          "grade": 7,
+          "level": 70,
+          "server": "카시미르 01"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "퍼거스",
+            "guild": "마비노기모바일",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 77,
+            "server": "카시미르 01"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "히키코모리",
+            "guild": "마비노기모바일",
+            "class": "향사수",
+            "grade": 7,
+            "level": 70,
+            "server": "카시미르 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "15": [
+          {
+            "nickname": "퍼거스",
+            "guild": "마비노기모바일",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 77,
+            "server": "카시미르 01"
+          }
+        ],
+        "7": [
+          {
+            "nickname": "히키코모리",
+            "guild": "마비노기모바일",
+            "class": "향사수",
+            "grade": 7,
+            "level": 70,
+            "server": "카시미르 01"
+          }
+        ]
+      }
+    },
+    "Theblack": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "13": 1
+      },
+      "membersList": [
+        {
+          "nickname": "중독티비",
+          "guild": "Theblack",
+          "class": "향사수",
+          "grade": 13,
+          "level": 75,
+          "server": "카시미르 01"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "중독티비",
+            "guild": "Theblack",
+            "class": "향사수",
+            "grade": 13,
+            "level": 75,
+            "server": "카시미르 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "13": [
+          {
+            "nickname": "중독티비",
+            "guild": "Theblack",
+            "class": "향사수",
+            "grade": 13,
+            "level": 75,
+            "server": "카시미르 01"
+          }
+        ]
+      }
+    },
+    "kingdom": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "12": 1
+      },
+      "membersList": [
+        {
+          "nickname": "팜하니",
+          "guild": "kingdom",
+          "class": "태양감시자",
+          "grade": 12,
+          "level": 74,
+          "server": "카시미르 01"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "팜하니",
+            "guild": "kingdom",
+            "class": "태양감시자",
+            "grade": 12,
+            "level": 74,
+            "server": "카시미르 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "12": [
+          {
+            "nickname": "팜하니",
+            "guild": "kingdom",
+            "class": "태양감시자",
+            "grade": 12,
+            "level": 74,
+            "server": "카시미르 01"
+          }
+        ]
+      }
+    },
+    "WEST": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "11": 1
+      },
+      "membersList": [
+        {
+          "nickname": "WT",
+          "guild": "WEST",
+          "class": "환영검사",
+          "grade": 11,
+          "level": 74,
+          "server": "카시미르 01"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "WT",
+            "guild": "WEST",
+            "class": "환영검사",
+            "grade": 11,
+            "level": 74,
+            "server": "카시미르 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "11": [
+          {
+            "nickname": "WT",
+            "guild": "WEST",
+            "class": "환영검사",
+            "grade": 11,
+            "level": 74,
+            "server": "카시미르 01"
+          }
+        ]
+      }
+    },
+    "부캐": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "10": 1
+      },
+      "membersList": [
+        {
+          "nickname": "제이",
+          "guild": "부캐",
+          "class": "향사수",
+          "grade": 10,
+          "level": 71,
+          "server": "카시미르 01"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "제이",
+            "guild": "부캐",
+            "class": "향사수",
+            "grade": 10,
+            "level": 71,
+            "server": "카시미르 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "제이",
+            "guild": "부캐",
+            "class": "향사수",
+            "grade": 10,
+            "level": 71,
+            "server": "카시미르 01"
+          }
+        ]
+      }
+    },
+    "WWE": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "4": 1
+      },
+      "membersList": [
+        {
+          "nickname": "더락",
+          "guild": "WWE",
+          "class": "태양감시자",
+          "grade": 4,
+          "level": 71,
+          "server": "카시미르 01"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "더락",
+            "guild": "WWE",
+            "class": "태양감시자",
+            "grade": 4,
+            "level": 71,
+            "server": "카시미르 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "4": [
+          {
+            "nickname": "더락",
+            "guild": "WWE",
+            "class": "태양감시자",
+            "grade": 4,
+            "level": 71,
+            "server": "카시미르 01"
+          }
+        ]
+      }
+    },
+    "혼자": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "10": 1
+      },
+      "membersList": [
+        {
+          "nickname": "너어어어",
+          "guild": "혼자",
+          "class": "환영검사",
+          "grade": 10,
+          "level": 70,
+          "server": "카시미르 01"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "너어어어",
+            "guild": "혼자",
+            "class": "환영검사",
+            "grade": 10,
+            "level": 70,
+            "server": "카시미르 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "너어어어",
+            "guild": "혼자",
+            "class": "환영검사",
+            "grade": 10,
+            "level": 70,
+            "server": "카시미르 01"
+          }
+        ]
+      }
+    },
+    "무과금입니다": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "7": 1
+      },
+      "membersList": [
+        {
+          "nickname": "쓰리랑",
+          "guild": "무과금입니다",
+          "class": "향사수",
+          "grade": 7,
+          "level": 70,
+          "server": "카시미르 01"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "쓰리랑",
+            "guild": "무과금입니다",
+            "class": "향사수",
+            "grade": 7,
+            "level": 70,
+            "server": "카시미르 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "7": [
+          {
+            "nickname": "쓰리랑",
+            "guild": "무과금입니다",
+            "class": "향사수",
+            "grade": 7,
+            "level": 70,
+            "server": "카시미르 01"
+          }
+        ]
+      }
+    },
+    "수리특전대": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "10": 1
+      },
+      "membersList": [
+        {
+          "nickname": "꿈트리",
+          "guild": "수리특전대",
+          "class": "향사수",
+          "grade": 10,
+          "level": 69,
+          "server": "카시미르 01"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "꿈트리",
+            "guild": "수리특전대",
+            "class": "향사수",
+            "grade": 10,
+            "level": 69,
+            "server": "카시미르 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "꿈트리",
+            "guild": "수리특전대",
+            "class": "향사수",
+            "grade": 10,
+            "level": 69,
+            "server": "카시미르 01"
+          }
+        ]
+      }
+    },
+    "작업장쌀먹막피합니다": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "3": 1
+      },
+      "membersList": [
+        {
+          "nickname": "작업장쌀먹막피함",
+          "guild": "작업장쌀먹막피합니다",
+          "class": "향사수",
+          "grade": 3,
+          "level": 68,
+          "server": "카시미르 01"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "작업장쌀먹막피함",
+            "guild": "작업장쌀먹막피합니다",
+            "class": "향사수",
+            "grade": 3,
+            "level": 68,
+            "server": "카시미르 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "3": [
+          {
+            "nickname": "작업장쌀먹막피함",
+            "guild": "작업장쌀먹막피합니다",
+            "class": "향사수",
+            "grade": 3,
+            "level": 68,
+            "server": "카시미르 01"
+          }
+        ]
+      }
+    },
+    "자유시간": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "8": 1
+      },
+      "membersList": [
+        {
+          "nickname": "야옹야옹",
+          "guild": "자유시간",
+          "class": "집행관",
+          "grade": 8,
+          "level": 68,
+          "server": "카시미르 01"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "야옹야옹",
+            "guild": "자유시간",
+            "class": "집행관",
+            "grade": 8,
+            "level": 68,
+            "server": "카시미르 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "8": [
+          {
+            "nickname": "야옹야옹",
+            "guild": "자유시간",
+            "class": "집행관",
+            "grade": 8,
+            "level": 68,
+            "server": "카시미르 01"
+          }
+        ]
+      }
+    },
+    "지구": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "10": 1
+      },
+      "membersList": [
+        {
+          "nickname": "아샤",
+          "guild": "지구",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 68,
+          "server": "카시미르 01"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "아샤",
+            "guild": "지구",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 68,
+            "server": "카시미르 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "아샤",
+            "guild": "지구",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 68,
+            "server": "카시미르 01"
+          }
+        ]
+      }
+    }
+  }
+}

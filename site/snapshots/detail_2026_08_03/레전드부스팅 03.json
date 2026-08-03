@@ -1,0 +1,2144 @@
+{
+  "server": "레전드부스팅 03",
+  "guilds": {
+    "귀살대": {
+      "members": 2,
+      "byClass": {
+        "집행관": 2
+      },
+      "byGrade": {
+        "21": 1,
+        "13": 1
+      },
+      "membersList": [
+        {
+          "nickname": "태풍",
+          "guild": "귀살대",
+          "class": "집행관",
+          "grade": 21,
+          "level": 84,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "세인",
+          "guild": "귀살대",
+          "class": "집행관",
+          "grade": 13,
+          "level": 76,
+          "server": "레전드부스팅 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "태풍",
+            "guild": "귀살대",
+            "class": "집행관",
+            "grade": 21,
+            "level": 84,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "세인",
+            "guild": "귀살대",
+            "class": "집행관",
+            "grade": 13,
+            "level": 76,
+            "server": "레전드부스팅 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "태풍",
+            "guild": "귀살대",
+            "class": "집행관",
+            "grade": 21,
+            "level": 84,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "13": [
+          {
+            "nickname": "세인",
+            "guild": "귀살대",
+            "class": "집행관",
+            "grade": 13,
+            "level": 76,
+            "server": "레전드부스팅 03"
+          }
+        ]
+      }
+    },
+    "섬": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "강호동",
+          "guild": "섬",
+          "class": "집행관",
+          "grade": 20,
+          "level": 82,
+          "server": "레전드부스팅 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "강호동",
+            "guild": "섬",
+            "class": "집행관",
+            "grade": 20,
+            "level": 82,
+            "server": "레전드부스팅 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "강호동",
+            "guild": "섬",
+            "class": "집행관",
+            "grade": 20,
+            "level": 82,
+            "server": "레전드부스팅 03"
+          }
+        ]
+      }
+    },
+    "평화": {
+      "members": 18,
+      "byClass": {
+        "심연추방자": 8,
+        "집행관": 5,
+        "태양감시자": 2,
+        "환영검사": 2,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "18": 1,
+        "17": 1,
+        "15": 8,
+        "14": 1,
+        "13": 2,
+        "12": 3,
+        "10": 1,
+        "3": 1
+      },
+      "membersList": [
+        {
+          "nickname": "전사",
+          "guild": "평화",
+          "class": "집행관",
+          "grade": 18,
+          "level": 81,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "사자",
+          "guild": "평화",
+          "class": "집행관",
+          "grade": 17,
+          "level": 79,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "영봉아가자",
+          "guild": "평화",
+          "class": "집행관",
+          "grade": 15,
+          "level": 78,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "llll",
+          "guild": "평화",
+          "class": "태양감시자",
+          "grade": 15,
+          "level": 77,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "눈눈이이",
+          "guild": "평화",
+          "class": "심연추방자",
+          "grade": 15,
+          "level": 77,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "미소",
+          "guild": "평화",
+          "class": "심연추방자",
+          "grade": 15,
+          "level": 77,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "카피바라",
+          "guild": "평화",
+          "class": "집행관",
+          "grade": 15,
+          "level": 77,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "심연",
+          "guild": "평화",
+          "class": "심연추방자",
+          "grade": 15,
+          "level": 76,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "환영검사핑",
+          "guild": "평화",
+          "class": "환영검사",
+          "grade": 15,
+          "level": 76,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "주민",
+          "guild": "평화",
+          "class": "태양감시자",
+          "grade": 15,
+          "level": 75,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "카키",
+          "guild": "평화",
+          "class": "심연추방자",
+          "grade": 14,
+          "level": 76,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "누누",
+          "guild": "평화",
+          "class": "심연추방자",
+          "grade": 13,
+          "level": 73,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "구동무화과",
+          "guild": "평화",
+          "class": "심연추방자",
+          "grade": 13,
+          "level": 72,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "BABYMON",
+          "guild": "평화",
+          "class": "집행관",
+          "grade": 12,
+          "level": 73,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "둘이",
+          "guild": "평화",
+          "class": "심연추방자",
+          "grade": 12,
+          "level": 73,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "로브",
+          "guild": "평화",
+          "class": "주문각인사",
+          "grade": 12,
+          "level": 73,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "짹스",
+          "guild": "평화",
+          "class": "환영검사",
+          "grade": 10,
+          "level": 73,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "루프",
+          "guild": "평화",
+          "class": "심연추방자",
+          "grade": 3,
+          "level": 73,
+          "server": "레전드부스팅 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "전사",
+            "guild": "평화",
+            "class": "집행관",
+            "grade": 18,
+            "level": 81,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "사자",
+            "guild": "평화",
+            "class": "집행관",
+            "grade": 17,
+            "level": 79,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "영봉아가자",
+            "guild": "평화",
+            "class": "집행관",
+            "grade": 15,
+            "level": 78,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "카피바라",
+            "guild": "평화",
+            "class": "집행관",
+            "grade": 15,
+            "level": 77,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "BABYMON",
+            "guild": "평화",
+            "class": "집행관",
+            "grade": 12,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "llll",
+            "guild": "평화",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 77,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "주민",
+            "guild": "평화",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 75,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "눈눈이이",
+            "guild": "평화",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 77,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "미소",
+            "guild": "평화",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 77,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "심연",
+            "guild": "평화",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 76,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "카키",
+            "guild": "평화",
+            "class": "심연추방자",
+            "grade": 14,
+            "level": 76,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "누누",
+            "guild": "평화",
+            "class": "심연추방자",
+            "grade": 13,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "구동무화과",
+            "guild": "평화",
+            "class": "심연추방자",
+            "grade": 13,
+            "level": 72,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "둘이",
+            "guild": "평화",
+            "class": "심연추방자",
+            "grade": 12,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "루프",
+            "guild": "평화",
+            "class": "심연추방자",
+            "grade": 3,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "환영검사핑",
+            "guild": "평화",
+            "class": "환영검사",
+            "grade": 15,
+            "level": 76,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "짹스",
+            "guild": "평화",
+            "class": "환영검사",
+            "grade": 10,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "로브",
+            "guild": "평화",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "18": [
+          {
+            "nickname": "전사",
+            "guild": "평화",
+            "class": "집행관",
+            "grade": 18,
+            "level": 81,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "17": [
+          {
+            "nickname": "사자",
+            "guild": "평화",
+            "class": "집행관",
+            "grade": 17,
+            "level": 79,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "영봉아가자",
+            "guild": "평화",
+            "class": "집행관",
+            "grade": 15,
+            "level": 78,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "llll",
+            "guild": "평화",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 77,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "눈눈이이",
+            "guild": "평화",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 77,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "미소",
+            "guild": "평화",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 77,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "카피바라",
+            "guild": "평화",
+            "class": "집행관",
+            "grade": 15,
+            "level": 77,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "심연",
+            "guild": "평화",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 76,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "환영검사핑",
+            "guild": "평화",
+            "class": "환영검사",
+            "grade": 15,
+            "level": 76,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "주민",
+            "guild": "평화",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 75,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "14": [
+          {
+            "nickname": "카키",
+            "guild": "평화",
+            "class": "심연추방자",
+            "grade": 14,
+            "level": 76,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "13": [
+          {
+            "nickname": "누누",
+            "guild": "평화",
+            "class": "심연추방자",
+            "grade": 13,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "구동무화과",
+            "guild": "평화",
+            "class": "심연추방자",
+            "grade": 13,
+            "level": 72,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "12": [
+          {
+            "nickname": "BABYMON",
+            "guild": "평화",
+            "class": "집행관",
+            "grade": 12,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "둘이",
+            "guild": "평화",
+            "class": "심연추방자",
+            "grade": 12,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "로브",
+            "guild": "평화",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "짹스",
+            "guild": "평화",
+            "class": "환영검사",
+            "grade": 10,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "3": [
+          {
+            "nickname": "루프",
+            "guild": "평화",
+            "class": "심연추방자",
+            "grade": 3,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          }
+        ]
+      }
+    },
+    "온새미로": {
+      "members": 11,
+      "byClass": {
+        "주문각인사": 5,
+        "심연추방자": 4,
+        "집행관": 1,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "18": 1,
+        "16": 4,
+        "15": 3,
+        "13": 2,
+        "12": 1
+      },
+      "membersList": [
+        {
+          "nickname": "비상비상",
+          "guild": "온새미로",
+          "class": "심연추방자",
+          "grade": 18,
+          "level": 80,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "구름",
+          "guild": "온새미로",
+          "class": "주문각인사",
+          "grade": 16,
+          "level": 78,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "몽글",
+          "guild": "온새미로",
+          "class": "심연추방자",
+          "grade": 16,
+          "level": 78,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "애드미",
+          "guild": "온새미로",
+          "class": "집행관",
+          "grade": 16,
+          "level": 78,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "시비르",
+          "guild": "온새미로",
+          "class": "환영검사",
+          "grade": 16,
+          "level": 77,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "지솔",
+          "guild": "온새미로",
+          "class": "심연추방자",
+          "grade": 15,
+          "level": 77,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "삼푸",
+          "guild": "온새미로",
+          "class": "주문각인사",
+          "grade": 15,
+          "level": 76,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "현관을열면",
+          "guild": "온새미로",
+          "class": "주문각인사",
+          "grade": 15,
+          "level": 74,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "쿵짜자쿵짝",
+          "guild": "온새미로",
+          "class": "주문각인사",
+          "grade": 13,
+          "level": 74,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "나배",
+          "guild": "온새미로",
+          "class": "심연추방자",
+          "grade": 13,
+          "level": 73,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "비온다",
+          "guild": "온새미로",
+          "class": "주문각인사",
+          "grade": 12,
+          "level": 72,
+          "server": "레전드부스팅 03"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "비상비상",
+            "guild": "온새미로",
+            "class": "심연추방자",
+            "grade": 18,
+            "level": 80,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "몽글",
+            "guild": "온새미로",
+            "class": "심연추방자",
+            "grade": 16,
+            "level": 78,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "지솔",
+            "guild": "온새미로",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 77,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "나배",
+            "guild": "온새미로",
+            "class": "심연추방자",
+            "grade": 13,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "애드미",
+            "guild": "온새미로",
+            "class": "집행관",
+            "grade": 16,
+            "level": 78,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "구름",
+            "guild": "온새미로",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 78,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "삼푸",
+            "guild": "온새미로",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 76,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "현관을열면",
+            "guild": "온새미로",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 74,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "쿵짜자쿵짝",
+            "guild": "온새미로",
+            "class": "주문각인사",
+            "grade": 13,
+            "level": 74,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "비온다",
+            "guild": "온새미로",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 72,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "시비르",
+            "guild": "온새미로",
+            "class": "환영검사",
+            "grade": 16,
+            "level": 77,
+            "server": "레전드부스팅 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "18": [
+          {
+            "nickname": "비상비상",
+            "guild": "온새미로",
+            "class": "심연추방자",
+            "grade": 18,
+            "level": 80,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "16": [
+          {
+            "nickname": "구름",
+            "guild": "온새미로",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 78,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "몽글",
+            "guild": "온새미로",
+            "class": "심연추방자",
+            "grade": 16,
+            "level": 78,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "애드미",
+            "guild": "온새미로",
+            "class": "집행관",
+            "grade": 16,
+            "level": 78,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "시비르",
+            "guild": "온새미로",
+            "class": "환영검사",
+            "grade": 16,
+            "level": 77,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "지솔",
+            "guild": "온새미로",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 77,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "삼푸",
+            "guild": "온새미로",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 76,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "현관을열면",
+            "guild": "온새미로",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 74,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "13": [
+          {
+            "nickname": "쿵짜자쿵짝",
+            "guild": "온새미로",
+            "class": "주문각인사",
+            "grade": 13,
+            "level": 74,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "나배",
+            "guild": "온새미로",
+            "class": "심연추방자",
+            "grade": 13,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "12": [
+          {
+            "nickname": "비온다",
+            "guild": "온새미로",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 72,
+            "server": "레전드부스팅 03"
+          }
+        ]
+      }
+    },
+    "올림푸스": {
+      "members": 3,
+      "byClass": {
+        "태양감시자": 1,
+        "집행관": 1,
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "18": 1,
+        "15": 1,
+        "10": 1
+      },
+      "membersList": [
+        {
+          "nickname": "악동",
+          "guild": "올림푸스",
+          "class": "태양감시자",
+          "grade": 18,
+          "level": 80,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "제우스",
+          "guild": "올림푸스",
+          "class": "집행관",
+          "grade": 15,
+          "level": 78,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "몽실이",
+          "guild": "올림푸스",
+          "class": "심연추방자",
+          "grade": 10,
+          "level": 73,
+          "server": "레전드부스팅 03"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "악동",
+            "guild": "올림푸스",
+            "class": "태양감시자",
+            "grade": 18,
+            "level": 80,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "제우스",
+            "guild": "올림푸스",
+            "class": "집행관",
+            "grade": 15,
+            "level": 78,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "몽실이",
+            "guild": "올림푸스",
+            "class": "심연추방자",
+            "grade": 10,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "18": [
+          {
+            "nickname": "악동",
+            "guild": "올림푸스",
+            "class": "태양감시자",
+            "grade": 18,
+            "level": 80,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "제우스",
+            "guild": "올림푸스",
+            "class": "집행관",
+            "grade": 15,
+            "level": 78,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "몽실이",
+            "guild": "올림푸스",
+            "class": "심연추방자",
+            "grade": 10,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          }
+        ]
+      }
+    },
+    "미명한촉망": {
+      "members": 3,
+      "byClass": {
+        "집행관": 1,
+        "태양감시자": 1,
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "17": 1,
+        "16": 1,
+        "15": 1
+      },
+      "membersList": [
+        {
+          "nickname": "참돔",
+          "guild": "미명한촉망",
+          "class": "집행관",
+          "grade": 17,
+          "level": 79,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "돌돔",
+          "guild": "미명한촉망",
+          "class": "태양감시자",
+          "grade": 16,
+          "level": 78,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "공격",
+          "guild": "미명한촉망",
+          "class": "심연추방자",
+          "grade": 15,
+          "level": 77,
+          "server": "레전드부스팅 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "참돔",
+            "guild": "미명한촉망",
+            "class": "집행관",
+            "grade": 17,
+            "level": 79,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "돌돔",
+            "guild": "미명한촉망",
+            "class": "태양감시자",
+            "grade": 16,
+            "level": 78,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "공격",
+            "guild": "미명한촉망",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 77,
+            "server": "레전드부스팅 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "17": [
+          {
+            "nickname": "참돔",
+            "guild": "미명한촉망",
+            "class": "집행관",
+            "grade": 17,
+            "level": 79,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "16": [
+          {
+            "nickname": "돌돔",
+            "guild": "미명한촉망",
+            "class": "태양감시자",
+            "grade": 16,
+            "level": 78,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "공격",
+            "guild": "미명한촉망",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 77,
+            "server": "레전드부스팅 03"
+          }
+        ]
+      }
+    },
+    "즐겜": {
+      "members": 5,
+      "byClass": {
+        "심연추방자": 2,
+        "태양감시자": 1,
+        "주문각인사": 1,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "16": 1,
+        "14": 1,
+        "13": 2,
+        "12": 1
+      },
+      "membersList": [
+        {
+          "nickname": "신사",
+          "guild": "즐겜",
+          "class": "심연추방자",
+          "grade": 16,
+          "level": 79,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "불쏘시개",
+          "guild": "즐겜",
+          "class": "심연추방자",
+          "grade": 14,
+          "level": 74,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "화영",
+          "guild": "즐겜",
+          "class": "태양감시자",
+          "grade": 13,
+          "level": 74,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "하이",
+          "guild": "즐겜",
+          "class": "주문각인사",
+          "grade": 13,
+          "level": 73,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "드루와커먼",
+          "guild": "즐겜",
+          "class": "환영검사",
+          "grade": 12,
+          "level": 72,
+          "server": "레전드부스팅 03"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "신사",
+            "guild": "즐겜",
+            "class": "심연추방자",
+            "grade": 16,
+            "level": 79,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "불쏘시개",
+            "guild": "즐겜",
+            "class": "심연추방자",
+            "grade": 14,
+            "level": 74,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "화영",
+            "guild": "즐겜",
+            "class": "태양감시자",
+            "grade": 13,
+            "level": 74,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "하이",
+            "guild": "즐겜",
+            "class": "주문각인사",
+            "grade": 13,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "드루와커먼",
+            "guild": "즐겜",
+            "class": "환영검사",
+            "grade": 12,
+            "level": 72,
+            "server": "레전드부스팅 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "16": [
+          {
+            "nickname": "신사",
+            "guild": "즐겜",
+            "class": "심연추방자",
+            "grade": 16,
+            "level": 79,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "13": [
+          {
+            "nickname": "화영",
+            "guild": "즐겜",
+            "class": "태양감시자",
+            "grade": 13,
+            "level": 74,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "하이",
+            "guild": "즐겜",
+            "class": "주문각인사",
+            "grade": 13,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "14": [
+          {
+            "nickname": "불쏘시개",
+            "guild": "즐겜",
+            "class": "심연추방자",
+            "grade": 14,
+            "level": 74,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "12": [
+          {
+            "nickname": "드루와커먼",
+            "guild": "즐겜",
+            "class": "환영검사",
+            "grade": 12,
+            "level": 72,
+            "server": "레전드부스팅 03"
+          }
+        ]
+      }
+    },
+    "로맨틱": {
+      "members": 22,
+      "byClass": {
+        "심연추방자": 6,
+        "집행관": 6,
+        "태양감시자": 3,
+        "향사수": 3,
+        "주문각인사": 2,
+        "환영검사": 2
+      },
+      "byGrade": {
+        "15": 3,
+        "14": 2,
+        "13": 7,
+        "12": 2,
+        "11": 8
+      },
+      "membersList": [
+        {
+          "nickname": "추성훈",
+          "guild": "로맨틱",
+          "class": "심연추방자",
+          "grade": 15,
+          "level": 78,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "소풍",
+          "guild": "로맨틱",
+          "class": "집행관",
+          "grade": 15,
+          "level": 77,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "펭귄",
+          "guild": "로맨틱",
+          "class": "태양감시자",
+          "grade": 15,
+          "level": 77,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "망골",
+          "guild": "로맨틱",
+          "class": "집행관",
+          "grade": 14,
+          "level": 76,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "시월이",
+          "guild": "로맨틱",
+          "class": "향사수",
+          "grade": 14,
+          "level": 76,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "구슬",
+          "guild": "로맨틱",
+          "class": "집행관",
+          "grade": 13,
+          "level": 74,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "로하",
+          "guild": "로맨틱",
+          "class": "집행관",
+          "grade": 13,
+          "level": 74,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "시즈키",
+          "guild": "로맨틱",
+          "class": "심연추방자",
+          "grade": 13,
+          "level": 74,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "조이",
+          "guild": "로맨틱",
+          "class": "집행관",
+          "grade": 13,
+          "level": 74,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "가을낙엽",
+          "guild": "로맨틱",
+          "class": "심연추방자",
+          "grade": 13,
+          "level": 73,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "김삐약",
+          "guild": "로맨틱",
+          "class": "심연추방자",
+          "grade": 13,
+          "level": 73,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "춘식이",
+          "guild": "로맨틱",
+          "class": "심연추방자",
+          "grade": 13,
+          "level": 72,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "파천",
+          "guild": "로맨틱",
+          "class": "심연추방자",
+          "grade": 12,
+          "level": 73,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "뿌셔뿌셔",
+          "guild": "로맨틱",
+          "class": "집행관",
+          "grade": 12,
+          "level": 72,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "겨울비",
+          "guild": "로맨틱",
+          "class": "주문각인사",
+          "grade": 11,
+          "level": 74,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "겨울먼지",
+          "guild": "로맨틱",
+          "class": "태양감시자",
+          "grade": 11,
+          "level": 73,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "봄여울",
+          "guild": "로맨틱",
+          "class": "태양감시자",
+          "grade": 11,
+          "level": 73,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "여름고라니",
+          "guild": "로맨틱",
+          "class": "향사수",
+          "grade": 11,
+          "level": 73,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "하리보미",
+          "guild": "로맨틱",
+          "class": "주문각인사",
+          "grade": 11,
+          "level": 73,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "스타믹스",
+          "guild": "로맨틱",
+          "class": "향사수",
+          "grade": 11,
+          "level": 72,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "은상",
+          "guild": "로맨틱",
+          "class": "환영검사",
+          "grade": 11,
+          "level": 72,
+          "server": "레전드부스팅 03"
+        },
+        {
+          "nickname": "코코",
+          "guild": "로맨틱",
+          "class": "환영검사",
+          "grade": 11,
+          "level": 72,
+          "server": "레전드부스팅 03"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "추성훈",
+            "guild": "로맨틱",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 78,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "시즈키",
+            "guild": "로맨틱",
+            "class": "심연추방자",
+            "grade": 13,
+            "level": 74,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "가을낙엽",
+            "guild": "로맨틱",
+            "class": "심연추방자",
+            "grade": 13,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "김삐약",
+            "guild": "로맨틱",
+            "class": "심연추방자",
+            "grade": 13,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "춘식이",
+            "guild": "로맨틱",
+            "class": "심연추방자",
+            "grade": 13,
+            "level": 72,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "파천",
+            "guild": "로맨틱",
+            "class": "심연추방자",
+            "grade": 12,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "펭귄",
+            "guild": "로맨틱",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 77,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "겨울먼지",
+            "guild": "로맨틱",
+            "class": "태양감시자",
+            "grade": 11,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "봄여울",
+            "guild": "로맨틱",
+            "class": "태양감시자",
+            "grade": 11,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "소풍",
+            "guild": "로맨틱",
+            "class": "집행관",
+            "grade": 15,
+            "level": 77,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "망골",
+            "guild": "로맨틱",
+            "class": "집행관",
+            "grade": 14,
+            "level": 76,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "구슬",
+            "guild": "로맨틱",
+            "class": "집행관",
+            "grade": 13,
+            "level": 74,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "로하",
+            "guild": "로맨틱",
+            "class": "집행관",
+            "grade": 13,
+            "level": 74,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "조이",
+            "guild": "로맨틱",
+            "class": "집행관",
+            "grade": 13,
+            "level": 74,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "뿌셔뿌셔",
+            "guild": "로맨틱",
+            "class": "집행관",
+            "grade": 12,
+            "level": 72,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "시월이",
+            "guild": "로맨틱",
+            "class": "향사수",
+            "grade": 14,
+            "level": 76,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "여름고라니",
+            "guild": "로맨틱",
+            "class": "향사수",
+            "grade": 11,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "스타믹스",
+            "guild": "로맨틱",
+            "class": "향사수",
+            "grade": 11,
+            "level": 72,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "겨울비",
+            "guild": "로맨틱",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 74,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "하리보미",
+            "guild": "로맨틱",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "은상",
+            "guild": "로맨틱",
+            "class": "환영검사",
+            "grade": 11,
+            "level": 72,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "코코",
+            "guild": "로맨틱",
+            "class": "환영검사",
+            "grade": 11,
+            "level": 72,
+            "server": "레전드부스팅 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "15": [
+          {
+            "nickname": "추성훈",
+            "guild": "로맨틱",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 78,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "소풍",
+            "guild": "로맨틱",
+            "class": "집행관",
+            "grade": 15,
+            "level": 77,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "펭귄",
+            "guild": "로맨틱",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 77,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "14": [
+          {
+            "nickname": "망골",
+            "guild": "로맨틱",
+            "class": "집행관",
+            "grade": 14,
+            "level": 76,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "시월이",
+            "guild": "로맨틱",
+            "class": "향사수",
+            "grade": 14,
+            "level": 76,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "13": [
+          {
+            "nickname": "구슬",
+            "guild": "로맨틱",
+            "class": "집행관",
+            "grade": 13,
+            "level": 74,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "로하",
+            "guild": "로맨틱",
+            "class": "집행관",
+            "grade": 13,
+            "level": 74,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "시즈키",
+            "guild": "로맨틱",
+            "class": "심연추방자",
+            "grade": 13,
+            "level": 74,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "조이",
+            "guild": "로맨틱",
+            "class": "집행관",
+            "grade": 13,
+            "level": 74,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "가을낙엽",
+            "guild": "로맨틱",
+            "class": "심연추방자",
+            "grade": 13,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "김삐약",
+            "guild": "로맨틱",
+            "class": "심연추방자",
+            "grade": 13,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "춘식이",
+            "guild": "로맨틱",
+            "class": "심연추방자",
+            "grade": 13,
+            "level": 72,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "11": [
+          {
+            "nickname": "겨울비",
+            "guild": "로맨틱",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 74,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "겨울먼지",
+            "guild": "로맨틱",
+            "class": "태양감시자",
+            "grade": 11,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "봄여울",
+            "guild": "로맨틱",
+            "class": "태양감시자",
+            "grade": 11,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "여름고라니",
+            "guild": "로맨틱",
+            "class": "향사수",
+            "grade": 11,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "하리보미",
+            "guild": "로맨틱",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "스타믹스",
+            "guild": "로맨틱",
+            "class": "향사수",
+            "grade": 11,
+            "level": 72,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "은상",
+            "guild": "로맨틱",
+            "class": "환영검사",
+            "grade": 11,
+            "level": 72,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "코코",
+            "guild": "로맨틱",
+            "class": "환영검사",
+            "grade": 11,
+            "level": 72,
+            "server": "레전드부스팅 03"
+          }
+        ],
+        "12": [
+          {
+            "nickname": "파천",
+            "guild": "로맨틱",
+            "class": "심연추방자",
+            "grade": 12,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          },
+          {
+            "nickname": "뿌셔뿌셔",
+            "guild": "로맨틱",
+            "class": "집행관",
+            "grade": 12,
+            "level": 72,
+            "server": "레전드부스팅 03"
+          }
+        ]
+      }
+    },
+    "성스러운일행": {
+      "members": 1,
+      "byClass": {
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "14": 1
+      },
+      "membersList": [
+        {
+          "nickname": "해로로",
+          "guild": "성스러운일행",
+          "class": "심연추방자",
+          "grade": 14,
+          "level": 73,
+          "server": "레전드부스팅 03"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "해로로",
+            "guild": "성스러운일행",
+            "class": "심연추방자",
+            "grade": 14,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "14": [
+          {
+            "nickname": "해로로",
+            "guild": "성스러운일행",
+            "class": "심연추방자",
+            "grade": 14,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          }
+        ]
+      }
+    },
+    "흑연": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "13": 1
+      },
+      "membersList": [
+        {
+          "nickname": "제이비",
+          "guild": "흑연",
+          "class": "집행관",
+          "grade": 13,
+          "level": 73,
+          "server": "레전드부스팅 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "제이비",
+            "guild": "흑연",
+            "class": "집행관",
+            "grade": 13,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "13": [
+          {
+            "nickname": "제이비",
+            "guild": "흑연",
+            "class": "집행관",
+            "grade": 13,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          }
+        ]
+      }
+    },
+    "평화자유": {
+      "members": 1,
+      "byClass": {
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "13": 1
+      },
+      "membersList": [
+        {
+          "nickname": "시수기릿",
+          "guild": "평화자유",
+          "class": "심연추방자",
+          "grade": 13,
+          "level": 73,
+          "server": "레전드부스팅 03"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "시수기릿",
+            "guild": "평화자유",
+            "class": "심연추방자",
+            "grade": 13,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "13": [
+          {
+            "nickname": "시수기릿",
+            "guild": "평화자유",
+            "class": "심연추방자",
+            "grade": 13,
+            "level": 73,
+            "server": "레전드부스팅 03"
+          }
+        ]
+      }
+    },
+    "보름달": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "13": 1
+      },
+      "membersList": [
+        {
+          "nickname": "홀리",
+          "guild": "보름달",
+          "class": "태양감시자",
+          "grade": 13,
+          "level": 72,
+          "server": "레전드부스팅 03"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "홀리",
+            "guild": "보름달",
+            "class": "태양감시자",
+            "grade": 13,
+            "level": 72,
+            "server": "레전드부스팅 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "13": [
+          {
+            "nickname": "홀리",
+            "guild": "보름달",
+            "class": "태양감시자",
+            "grade": 13,
+            "level": 72,
+            "server": "레전드부스팅 03"
+          }
+        ]
+      }
+    },
+    "자동사냥": {
+      "members": 1,
+      "byClass": {
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "14": 1
+      },
+      "membersList": [
+        {
+          "nickname": "도결",
+          "guild": "자동사냥",
+          "class": "심연추방자",
+          "grade": 14,
+          "level": 72,
+          "server": "레전드부스팅 03"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "도결",
+            "guild": "자동사냥",
+            "class": "심연추방자",
+            "grade": 14,
+            "level": 72,
+            "server": "레전드부스팅 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "14": [
+          {
+            "nickname": "도결",
+            "guild": "자동사냥",
+            "class": "심연추방자",
+            "grade": 14,
+            "level": 72,
+            "server": "레전드부스팅 03"
+          }
+        ]
+      }
+    },
+    "폭풍": {
+      "members": 1,
+      "byClass": {
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "12": 1
+      },
+      "membersList": [
+        {
+          "nickname": "김용빈",
+          "guild": "폭풍",
+          "class": "심연추방자",
+          "grade": 12,
+          "level": 72,
+          "server": "레전드부스팅 03"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "김용빈",
+            "guild": "폭풍",
+            "class": "심연추방자",
+            "grade": 12,
+            "level": 72,
+            "server": "레전드부스팅 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "12": [
+          {
+            "nickname": "김용빈",
+            "guild": "폭풍",
+            "class": "심연추방자",
+            "grade": 12,
+            "level": 72,
+            "server": "레전드부스팅 03"
+          }
+        ]
+      }
+    },
+    "실력자": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "13": 1
+      },
+      "membersList": [
+        {
+          "nickname": "군주",
+          "guild": "실력자",
+          "class": "태양감시자",
+          "grade": 13,
+          "level": 72,
+          "server": "레전드부스팅 03"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "군주",
+            "guild": "실력자",
+            "class": "태양감시자",
+            "grade": 13,
+            "level": 72,
+            "server": "레전드부스팅 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "13": [
+          {
+            "nickname": "군주",
+            "guild": "실력자",
+            "class": "태양감시자",
+            "grade": 13,
+            "level": 72,
+            "server": "레전드부스팅 03"
+          }
+        ]
+      }
+    }
+  }
+}

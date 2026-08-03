@@ -1,0 +1,2266 @@
+{
+  "server": "올인원부스팅 02",
+  "guilds": {
+    "설": {
+      "members": 15,
+      "byClass": {
+        "집행관": 6,
+        "주문각인사": 3,
+        "태양감시자": 2,
+        "향사수": 2,
+        "환영검사": 1,
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "21": 2,
+        "20": 1,
+        "19": 3,
+        "18": 1,
+        "17": 2,
+        "16": 1,
+        "13": 1,
+        "9": 1,
+        "1": 3
+      },
+      "membersList": [
+        {
+          "nickname": "담배",
+          "guild": "설",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 84,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "뭘봐",
+          "guild": "설",
+          "class": "태양감시자",
+          "grade": 21,
+          "level": 83,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "지원",
+          "guild": "설",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 82,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "배딜팁유료",
+          "guild": "설",
+          "class": "태양감시자",
+          "grade": 19,
+          "level": 83,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "소설",
+          "guild": "설",
+          "class": "집행관",
+          "grade": 19,
+          "level": 82,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "여유",
+          "guild": "설",
+          "class": "향사수",
+          "grade": 19,
+          "level": 82,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "더리",
+          "guild": "설",
+          "class": "심연추방자",
+          "grade": 18,
+          "level": 76,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "Thor",
+          "guild": "설",
+          "class": "집행관",
+          "grade": 17,
+          "level": 80,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "프로서준",
+          "guild": "설",
+          "class": "환영검사",
+          "grade": 17,
+          "level": 79,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "천사",
+          "guild": "설",
+          "class": "집행관",
+          "grade": 16,
+          "level": 80,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "찢재명",
+          "guild": "설",
+          "class": "향사수",
+          "grade": 13,
+          "level": 76,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "토막",
+          "guild": "설",
+          "class": "집행관",
+          "grade": 9,
+          "level": 77,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "제이",
+          "guild": "설",
+          "class": "집행관",
+          "grade": 1,
+          "level": 78,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "우울",
+          "guild": "설",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 77,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "강화",
+          "guild": "설",
+          "class": "집행관",
+          "grade": 1,
+          "level": 76,
+          "server": "올인원부스팅 02"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "담배",
+            "guild": "설",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 84,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "지원",
+            "guild": "설",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 82,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "우울",
+            "guild": "설",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "뭘봐",
+            "guild": "설",
+            "class": "태양감시자",
+            "grade": 21,
+            "level": 83,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "배딜팁유료",
+            "guild": "설",
+            "class": "태양감시자",
+            "grade": 19,
+            "level": 83,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "여유",
+            "guild": "설",
+            "class": "향사수",
+            "grade": 19,
+            "level": 82,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "찢재명",
+            "guild": "설",
+            "class": "향사수",
+            "grade": 13,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "소설",
+            "guild": "설",
+            "class": "집행관",
+            "grade": 19,
+            "level": 82,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "Thor",
+            "guild": "설",
+            "class": "집행관",
+            "grade": 17,
+            "level": 80,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "천사",
+            "guild": "설",
+            "class": "집행관",
+            "grade": 16,
+            "level": 80,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "토막",
+            "guild": "설",
+            "class": "집행관",
+            "grade": 9,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "제이",
+            "guild": "설",
+            "class": "집행관",
+            "grade": 1,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "강화",
+            "guild": "설",
+            "class": "집행관",
+            "grade": 1,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "프로서준",
+            "guild": "설",
+            "class": "환영검사",
+            "grade": 17,
+            "level": 79,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "더리",
+            "guild": "설",
+            "class": "심연추방자",
+            "grade": 18,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "담배",
+            "guild": "설",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 84,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "뭘봐",
+            "guild": "설",
+            "class": "태양감시자",
+            "grade": 21,
+            "level": 83,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "19": [
+          {
+            "nickname": "배딜팁유료",
+            "guild": "설",
+            "class": "태양감시자",
+            "grade": 19,
+            "level": 83,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "소설",
+            "guild": "설",
+            "class": "집행관",
+            "grade": 19,
+            "level": 82,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "여유",
+            "guild": "설",
+            "class": "향사수",
+            "grade": 19,
+            "level": 82,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "지원",
+            "guild": "설",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 82,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "17": [
+          {
+            "nickname": "Thor",
+            "guild": "설",
+            "class": "집행관",
+            "grade": 17,
+            "level": 80,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "프로서준",
+            "guild": "설",
+            "class": "환영검사",
+            "grade": 17,
+            "level": 79,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "16": [
+          {
+            "nickname": "천사",
+            "guild": "설",
+            "class": "집행관",
+            "grade": 16,
+            "level": 80,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "제이",
+            "guild": "설",
+            "class": "집행관",
+            "grade": 1,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "우울",
+            "guild": "설",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "강화",
+            "guild": "설",
+            "class": "집행관",
+            "grade": 1,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "9": [
+          {
+            "nickname": "토막",
+            "guild": "설",
+            "class": "집행관",
+            "grade": 9,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "18": [
+          {
+            "nickname": "더리",
+            "guild": "설",
+            "class": "심연추방자",
+            "grade": 18,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "13": [
+          {
+            "nickname": "찢재명",
+            "guild": "설",
+            "class": "향사수",
+            "grade": 13,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      }
+    },
+    "디아블로4": {
+      "members": 2,
+      "byClass": {
+        "집행관": 2
+      },
+      "byGrade": {
+        "16": 1,
+        "15": 1
+      },
+      "membersList": [
+        {
+          "nickname": "나는이게임을해본적이",
+          "guild": "디아블로4",
+          "class": "집행관",
+          "grade": 16,
+          "level": 80,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "인쿠시",
+          "guild": "디아블로4",
+          "class": "집행관",
+          "grade": 15,
+          "level": 77,
+          "server": "올인원부스팅 02"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "나는이게임을해본적이",
+            "guild": "디아블로4",
+            "class": "집행관",
+            "grade": 16,
+            "level": 80,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "인쿠시",
+            "guild": "디아블로4",
+            "class": "집행관",
+            "grade": 15,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "16": [
+          {
+            "nickname": "나는이게임을해본적이",
+            "guild": "디아블로4",
+            "class": "집행관",
+            "grade": 16,
+            "level": 80,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "인쿠시",
+            "guild": "디아블로4",
+            "class": "집행관",
+            "grade": 15,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      }
+    },
+    "담배형의꼬봉": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "16": 1
+      },
+      "membersList": [
+        {
+          "nickname": "늙은이돼지두루치기",
+          "guild": "담배형의꼬봉",
+          "class": "집행관",
+          "grade": 16,
+          "level": 79,
+          "server": "올인원부스팅 02"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "늙은이돼지두루치기",
+            "guild": "담배형의꼬봉",
+            "class": "집행관",
+            "grade": 16,
+            "level": 79,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "16": [
+          {
+            "nickname": "늙은이돼지두루치기",
+            "guild": "담배형의꼬봉",
+            "class": "집행관",
+            "grade": 16,
+            "level": 79,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      }
+    },
+    "타요": {
+      "members": 4,
+      "byClass": {
+        "태양감시자": 4
+      },
+      "byGrade": {
+        "16": 2,
+        "15": 1,
+        "14": 1
+      },
+      "membersList": [
+        {
+          "nickname": "벽력일섬",
+          "guild": "타요",
+          "class": "태양감시자",
+          "grade": 16,
+          "level": 79,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "미즈",
+          "guild": "타요",
+          "class": "태양감시자",
+          "grade": 16,
+          "level": 78,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "질풍노도",
+          "guild": "타요",
+          "class": "태양감시자",
+          "grade": 15,
+          "level": 77,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "젠이츠",
+          "guild": "타요",
+          "class": "태양감시자",
+          "grade": 14,
+          "level": 77,
+          "server": "올인원부스팅 02"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "벽력일섬",
+            "guild": "타요",
+            "class": "태양감시자",
+            "grade": 16,
+            "level": 79,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "미즈",
+            "guild": "타요",
+            "class": "태양감시자",
+            "grade": 16,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "질풍노도",
+            "guild": "타요",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "젠이츠",
+            "guild": "타요",
+            "class": "태양감시자",
+            "grade": 14,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "16": [
+          {
+            "nickname": "벽력일섬",
+            "guild": "타요",
+            "class": "태양감시자",
+            "grade": 16,
+            "level": 79,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "미즈",
+            "guild": "타요",
+            "class": "태양감시자",
+            "grade": 16,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "질풍노도",
+            "guild": "타요",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "14": [
+          {
+            "nickname": "젠이츠",
+            "guild": "타요",
+            "class": "태양감시자",
+            "grade": 14,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      }
+    },
+    "수지": {
+      "members": 18,
+      "byClass": {
+        "향사수": 5,
+        "집행관": 4,
+        "주문각인사": 3,
+        "태양감시자": 3,
+        "심연추방자": 2,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "16": 1,
+        "15": 14,
+        "14": 2,
+        "12": 1
+      },
+      "membersList": [
+        {
+          "nickname": "단궁",
+          "guild": "수지",
+          "class": "향사수",
+          "grade": 16,
+          "level": 79,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "도사",
+          "guild": "수지",
+          "class": "향사수",
+          "grade": 15,
+          "level": 78,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "박보영",
+          "guild": "수지",
+          "class": "향사수",
+          "grade": 15,
+          "level": 78,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "원빈",
+          "guild": "수지",
+          "class": "태양감시자",
+          "grade": 15,
+          "level": 78,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "채연",
+          "guild": "수지",
+          "class": "심연추방자",
+          "grade": 15,
+          "level": 78,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "한효주",
+          "guild": "수지",
+          "class": "주문각인사",
+          "grade": 15,
+          "level": 78,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "현빈",
+          "guild": "수지",
+          "class": "환영검사",
+          "grade": 15,
+          "level": 78,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "레되",
+          "guild": "수지",
+          "class": "향사수",
+          "grade": 15,
+          "level": 77,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "먼트",
+          "guild": "수지",
+          "class": "주문각인사",
+          "grade": 15,
+          "level": 77,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "미나",
+          "guild": "수지",
+          "class": "집행관",
+          "grade": 15,
+          "level": 77,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "버프",
+          "guild": "수지",
+          "class": "집행관",
+          "grade": 15,
+          "level": 77,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "부키",
+          "guild": "수지",
+          "class": "향사수",
+          "grade": 15,
+          "level": 77,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "호이",
+          "guild": "수지",
+          "class": "집행관",
+          "grade": 15,
+          "level": 77,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "히노카미카구라",
+          "guild": "수지",
+          "class": "태양감시자",
+          "grade": 15,
+          "level": 77,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "밀크초코릿",
+          "guild": "수지",
+          "class": "주문각인사",
+          "grade": 15,
+          "level": 76,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "신패",
+          "guild": "수지",
+          "class": "태양감시자",
+          "grade": 14,
+          "level": 76,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "어이쿠해롱롱",
+          "guild": "수지",
+          "class": "집행관",
+          "grade": 14,
+          "level": 76,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "이건어떨까",
+          "guild": "수지",
+          "class": "심연추방자",
+          "grade": 12,
+          "level": 77,
+          "server": "올인원부스팅 02"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "단궁",
+            "guild": "수지",
+            "class": "향사수",
+            "grade": 16,
+            "level": 79,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "도사",
+            "guild": "수지",
+            "class": "향사수",
+            "grade": 15,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "박보영",
+            "guild": "수지",
+            "class": "향사수",
+            "grade": 15,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "레되",
+            "guild": "수지",
+            "class": "향사수",
+            "grade": 15,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "부키",
+            "guild": "수지",
+            "class": "향사수",
+            "grade": 15,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "채연",
+            "guild": "수지",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "이건어떨까",
+            "guild": "수지",
+            "class": "심연추방자",
+            "grade": 12,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "한효주",
+            "guild": "수지",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "먼트",
+            "guild": "수지",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "밀크초코릿",
+            "guild": "수지",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "원빈",
+            "guild": "수지",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "히노카미카구라",
+            "guild": "수지",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "신패",
+            "guild": "수지",
+            "class": "태양감시자",
+            "grade": 14,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "현빈",
+            "guild": "수지",
+            "class": "환영검사",
+            "grade": 15,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "미나",
+            "guild": "수지",
+            "class": "집행관",
+            "grade": 15,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "버프",
+            "guild": "수지",
+            "class": "집행관",
+            "grade": 15,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "호이",
+            "guild": "수지",
+            "class": "집행관",
+            "grade": 15,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "어이쿠해롱롱",
+            "guild": "수지",
+            "class": "집행관",
+            "grade": 14,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "16": [
+          {
+            "nickname": "단궁",
+            "guild": "수지",
+            "class": "향사수",
+            "grade": 16,
+            "level": 79,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "도사",
+            "guild": "수지",
+            "class": "향사수",
+            "grade": 15,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "박보영",
+            "guild": "수지",
+            "class": "향사수",
+            "grade": 15,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "원빈",
+            "guild": "수지",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "채연",
+            "guild": "수지",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "한효주",
+            "guild": "수지",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "현빈",
+            "guild": "수지",
+            "class": "환영검사",
+            "grade": 15,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "레되",
+            "guild": "수지",
+            "class": "향사수",
+            "grade": 15,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "먼트",
+            "guild": "수지",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "미나",
+            "guild": "수지",
+            "class": "집행관",
+            "grade": 15,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "버프",
+            "guild": "수지",
+            "class": "집행관",
+            "grade": 15,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "부키",
+            "guild": "수지",
+            "class": "향사수",
+            "grade": 15,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "호이",
+            "guild": "수지",
+            "class": "집행관",
+            "grade": 15,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "히노카미카구라",
+            "guild": "수지",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "밀크초코릿",
+            "guild": "수지",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "12": [
+          {
+            "nickname": "이건어떨까",
+            "guild": "수지",
+            "class": "심연추방자",
+            "grade": 12,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "14": [
+          {
+            "nickname": "신패",
+            "guild": "수지",
+            "class": "태양감시자",
+            "grade": 14,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "어이쿠해롱롱",
+            "guild": "수지",
+            "class": "집행관",
+            "grade": 14,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      }
+    },
+    "강철다운인과율": {
+      "members": 2,
+      "byClass": {
+        "태양감시자": 1,
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "13": 1,
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "jk",
+          "guild": "강철다운인과율",
+          "class": "심연추방자",
+          "grade": 13,
+          "level": 76,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "끼리코",
+          "guild": "강철다운인과율",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 79,
+          "server": "올인원부스팅 02"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "끼리코",
+            "guild": "강철다운인과율",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 79,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "jk",
+            "guild": "강철다운인과율",
+            "class": "심연추방자",
+            "grade": 13,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "끼리코",
+            "guild": "강철다운인과율",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 79,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "13": [
+          {
+            "nickname": "jk",
+            "guild": "강철다운인과율",
+            "class": "심연추방자",
+            "grade": 13,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      }
+    },
+    "쌀먹버프": {
+      "members": 3,
+      "byClass": {
+        "집행관": 1,
+        "주문각인사": 1,
+        "향사수": 1
+      },
+      "byGrade": {
+        "15": 2,
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "원샷",
+          "guild": "쌀먹버프",
+          "class": "집행관",
+          "grade": 15,
+          "level": 79,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "피스",
+          "guild": "쌀먹버프",
+          "class": "향사수",
+          "grade": 15,
+          "level": 77,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "지수",
+          "guild": "쌀먹버프",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 77,
+          "server": "올인원부스팅 02"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "원샷",
+            "guild": "쌀먹버프",
+            "class": "집행관",
+            "grade": 15,
+            "level": 79,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "지수",
+            "guild": "쌀먹버프",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "피스",
+            "guild": "쌀먹버프",
+            "class": "향사수",
+            "grade": 15,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "15": [
+          {
+            "nickname": "원샷",
+            "guild": "쌀먹버프",
+            "class": "집행관",
+            "grade": 15,
+            "level": 79,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "피스",
+            "guild": "쌀먹버프",
+            "class": "향사수",
+            "grade": 15,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "지수",
+            "guild": "쌀먹버프",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      }
+    },
+    "우리": {
+      "members": 4,
+      "byClass": {
+        "집행관": 2,
+        "심연추방자": 1,
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "15": 4
+      },
+      "membersList": [
+        {
+          "nickname": "아아",
+          "guild": "우리",
+          "class": "집행관",
+          "grade": 15,
+          "level": 78,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "이이",
+          "guild": "우리",
+          "class": "집행관",
+          "grade": 15,
+          "level": 78,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "AA",
+          "guild": "우리",
+          "class": "심연추방자",
+          "grade": 15,
+          "level": 77,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "다연",
+          "guild": "우리",
+          "class": "태양감시자",
+          "grade": 15,
+          "level": 76,
+          "server": "올인원부스팅 02"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "아아",
+            "guild": "우리",
+            "class": "집행관",
+            "grade": 15,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "이이",
+            "guild": "우리",
+            "class": "집행관",
+            "grade": 15,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "AA",
+            "guild": "우리",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "다연",
+            "guild": "우리",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "15": [
+          {
+            "nickname": "아아",
+            "guild": "우리",
+            "class": "집행관",
+            "grade": 15,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "이이",
+            "guild": "우리",
+            "class": "집행관",
+            "grade": 15,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "AA",
+            "guild": "우리",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "다연",
+            "guild": "우리",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      }
+    },
+    "패": {
+      "members": 18,
+      "byClass": {
+        "집행관": 10,
+        "향사수": 6,
+        "태양감시자": 2
+      },
+      "byGrade": {
+        "16": 5,
+        "15": 7,
+        "13": 1,
+        "12": 5
+      },
+      "membersList": [
+        {
+          "nickname": "매미",
+          "guild": "패",
+          "class": "집행관",
+          "grade": 16,
+          "level": 78,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "문어",
+          "guild": "패",
+          "class": "집행관",
+          "grade": 16,
+          "level": 78,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "임우리행",
+          "guild": "패",
+          "class": "집행관",
+          "grade": 16,
+          "level": 78,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "카테",
+          "guild": "패",
+          "class": "집행관",
+          "grade": 16,
+          "level": 78,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "코트",
+          "guild": "패",
+          "class": "집행관",
+          "grade": 16,
+          "level": 78,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "asgfaewg",
+          "guild": "패",
+          "class": "향사수",
+          "grade": 15,
+          "level": 78,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "fhdr",
+          "guild": "패",
+          "class": "향사수",
+          "grade": 15,
+          "level": 78,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "fyjdfhj",
+          "guild": "패",
+          "class": "향사수",
+          "grade": 15,
+          "level": 78,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "rhdfhs",
+          "guild": "패",
+          "class": "향사수",
+          "grade": 15,
+          "level": 78,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "rsgdfg",
+          "guild": "패",
+          "class": "향사수",
+          "grade": 15,
+          "level": 78,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "빨강대추",
+          "guild": "패",
+          "class": "태양감시자",
+          "grade": 15,
+          "level": 77,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "용자",
+          "guild": "패",
+          "class": "태양감시자",
+          "grade": 15,
+          "level": 77,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "Kondom",
+          "guild": "패",
+          "class": "향사수",
+          "grade": 13,
+          "level": 78,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "구해",
+          "guild": "패",
+          "class": "집행관",
+          "grade": 12,
+          "level": 76,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "동양",
+          "guild": "패",
+          "class": "집행관",
+          "grade": 12,
+          "level": 76,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "신군",
+          "guild": "패",
+          "class": "집행관",
+          "grade": 12,
+          "level": 76,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "천우신조",
+          "guild": "패",
+          "class": "집행관",
+          "grade": 12,
+          "level": 76,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "현실에",
+          "guild": "패",
+          "class": "집행관",
+          "grade": 12,
+          "level": 76,
+          "server": "올인원부스팅 02"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "asgfaewg",
+            "guild": "패",
+            "class": "향사수",
+            "grade": 15,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "fhdr",
+            "guild": "패",
+            "class": "향사수",
+            "grade": 15,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "fyjdfhj",
+            "guild": "패",
+            "class": "향사수",
+            "grade": 15,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "rhdfhs",
+            "guild": "패",
+            "class": "향사수",
+            "grade": 15,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "rsgdfg",
+            "guild": "패",
+            "class": "향사수",
+            "grade": 15,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "Kondom",
+            "guild": "패",
+            "class": "향사수",
+            "grade": 13,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "매미",
+            "guild": "패",
+            "class": "집행관",
+            "grade": 16,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "문어",
+            "guild": "패",
+            "class": "집행관",
+            "grade": 16,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "임우리행",
+            "guild": "패",
+            "class": "집행관",
+            "grade": 16,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "카테",
+            "guild": "패",
+            "class": "집행관",
+            "grade": 16,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "코트",
+            "guild": "패",
+            "class": "집행관",
+            "grade": 16,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "구해",
+            "guild": "패",
+            "class": "집행관",
+            "grade": 12,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "동양",
+            "guild": "패",
+            "class": "집행관",
+            "grade": 12,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "신군",
+            "guild": "패",
+            "class": "집행관",
+            "grade": 12,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "천우신조",
+            "guild": "패",
+            "class": "집행관",
+            "grade": 12,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "현실에",
+            "guild": "패",
+            "class": "집행관",
+            "grade": 12,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "빨강대추",
+            "guild": "패",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "용자",
+            "guild": "패",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "13": [
+          {
+            "nickname": "Kondom",
+            "guild": "패",
+            "class": "향사수",
+            "grade": 13,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "16": [
+          {
+            "nickname": "매미",
+            "guild": "패",
+            "class": "집행관",
+            "grade": 16,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "문어",
+            "guild": "패",
+            "class": "집행관",
+            "grade": 16,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "임우리행",
+            "guild": "패",
+            "class": "집행관",
+            "grade": 16,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "카테",
+            "guild": "패",
+            "class": "집행관",
+            "grade": 16,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "코트",
+            "guild": "패",
+            "class": "집행관",
+            "grade": 16,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "asgfaewg",
+            "guild": "패",
+            "class": "향사수",
+            "grade": 15,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "fhdr",
+            "guild": "패",
+            "class": "향사수",
+            "grade": 15,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "fyjdfhj",
+            "guild": "패",
+            "class": "향사수",
+            "grade": 15,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "rhdfhs",
+            "guild": "패",
+            "class": "향사수",
+            "grade": 15,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "rsgdfg",
+            "guild": "패",
+            "class": "향사수",
+            "grade": 15,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "빨강대추",
+            "guild": "패",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "용자",
+            "guild": "패",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "12": [
+          {
+            "nickname": "구해",
+            "guild": "패",
+            "class": "집행관",
+            "grade": 12,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "동양",
+            "guild": "패",
+            "class": "집행관",
+            "grade": 12,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "신군",
+            "guild": "패",
+            "class": "집행관",
+            "grade": 12,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "천우신조",
+            "guild": "패",
+            "class": "집행관",
+            "grade": 12,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          },
+          {
+            "nickname": "현실에",
+            "guild": "패",
+            "class": "집행관",
+            "grade": 12,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      }
+    },
+    "검증된화신": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "15": 1
+      },
+      "membersList": [
+        {
+          "nickname": "빛나는팡팡",
+          "guild": "검증된화신",
+          "class": "태양감시자",
+          "grade": 15,
+          "level": 78,
+          "server": "올인원부스팅 02"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "빛나는팡팡",
+            "guild": "검증된화신",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "15": [
+          {
+            "nickname": "빛나는팡팡",
+            "guild": "검증된화신",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 78,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      }
+    },
+    "나비": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "아치",
+          "guild": "나비",
+          "class": "집행관",
+          "grade": 1,
+          "level": 77,
+          "server": "올인원부스팅 02"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "아치",
+            "guild": "나비",
+            "class": "집행관",
+            "grade": 1,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "아치",
+            "guild": "나비",
+            "class": "집행관",
+            "grade": 1,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      }
+    },
+    "star": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "14": 1
+      },
+      "membersList": [
+        {
+          "nickname": "페이커",
+          "guild": "star",
+          "class": "집행관",
+          "grade": 14,
+          "level": 77,
+          "server": "올인원부스팅 02"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "페이커",
+            "guild": "star",
+            "class": "집행관",
+            "grade": 14,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "14": [
+          {
+            "nickname": "페이커",
+            "guild": "star",
+            "class": "집행관",
+            "grade": 14,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      }
+    },
+    "NUM": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "10": 1
+      },
+      "membersList": [
+        {
+          "nickname": "ZZAMZI",
+          "guild": "NUM",
+          "class": "향사수",
+          "grade": 10,
+          "level": 77,
+          "server": "올인원부스팅 02"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "ZZAMZI",
+            "guild": "NUM",
+            "class": "향사수",
+            "grade": 10,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "ZZAMZI",
+            "guild": "NUM",
+            "class": "향사수",
+            "grade": 10,
+            "level": 77,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      }
+    },
+    "NEXT": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "13": 1
+      },
+      "membersList": [
+        {
+          "nickname": "은비",
+          "guild": "NEXT",
+          "class": "집행관",
+          "grade": 13,
+          "level": 76,
+          "server": "올인원부스팅 02"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "은비",
+            "guild": "NEXT",
+            "class": "집행관",
+            "grade": 13,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "13": [
+          {
+            "nickname": "은비",
+            "guild": "NEXT",
+            "class": "집행관",
+            "grade": 13,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      }
+    },
+    "해방전": {
+      "members": 2,
+      "byClass": {
+        "주문각인사": 1,
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "15": 1,
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "강적",
+          "guild": "해방전",
+          "class": "주문각인사",
+          "grade": 15,
+          "level": 76,
+          "server": "올인원부스팅 02"
+        },
+        {
+          "nickname": "LG",
+          "guild": "해방전",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 76,
+          "server": "올인원부스팅 02"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "강적",
+            "guild": "해방전",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "LG",
+            "guild": "해방전",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "15": [
+          {
+            "nickname": "강적",
+            "guild": "해방전",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "LG",
+            "guild": "해방전",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      }
+    },
+    "하늘물결정글": {
+      "members": 1,
+      "byClass": {
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "8": 1
+      },
+      "membersList": [
+        {
+          "nickname": "그순간만",
+          "guild": "하늘물결정글",
+          "class": "심연추방자",
+          "grade": 8,
+          "level": 76,
+          "server": "올인원부스팅 02"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "그순간만",
+            "guild": "하늘물결정글",
+            "class": "심연추방자",
+            "grade": 8,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "8": [
+          {
+            "nickname": "그순간만",
+            "guild": "하늘물결정글",
+            "class": "심연추방자",
+            "grade": 8,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      }
+    },
+    "최강의안식": {
+      "members": 1,
+      "byClass": {
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "15": 1
+      },
+      "membersList": [
+        {
+          "nickname": "깜찍이",
+          "guild": "최강의안식",
+          "class": "심연추방자",
+          "grade": 15,
+          "level": 76,
+          "server": "올인원부스팅 02"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "깜찍이",
+            "guild": "최강의안식",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "15": [
+          {
+            "nickname": "깜찍이",
+            "guild": "최강의안식",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 76,
+            "server": "올인원부스팅 02"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1376 @@
+{
+  "server": "아우리엘 03",
+  "guilds": {
+    "쿠쿠": {
+      "members": 10,
+      "byClass": {
+        "주문각인사": 6,
+        "환영검사": 2,
+        "태양감시자": 1,
+        "향사수": 1
+      },
+      "byGrade": {
+        "14": 2,
+        "10": 2,
+        "9": 5,
+        "7": 1
+      },
+      "membersList": [
+        {
+          "nickname": "쿠민",
+          "guild": "쿠쿠",
+          "class": "태양감시자",
+          "grade": 14,
+          "level": 74,
+          "server": "아우리엘 03"
+        },
+        {
+          "nickname": "두방찡",
+          "guild": "쿠쿠",
+          "class": "환영검사",
+          "grade": 14,
+          "level": 72,
+          "server": "아우리엘 03"
+        },
+        {
+          "nickname": "시동",
+          "guild": "쿠쿠",
+          "class": "환영검사",
+          "grade": 10,
+          "level": 69,
+          "server": "아우리엘 03"
+        },
+        {
+          "nickname": "쿠영",
+          "guild": "쿠쿠",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 66,
+          "server": "아우리엘 03"
+        },
+        {
+          "nickname": "꽃님",
+          "guild": "쿠쿠",
+          "class": "주문각인사",
+          "grade": 9,
+          "level": 69,
+          "server": "아우리엘 03"
+        },
+        {
+          "nickname": "이두부",
+          "guild": "쿠쿠",
+          "class": "주문각인사",
+          "grade": 9,
+          "level": 68,
+          "server": "아우리엘 03"
+        },
+        {
+          "nickname": "극활",
+          "guild": "쿠쿠",
+          "class": "향사수",
+          "grade": 9,
+          "level": 67,
+          "server": "아우리엘 03"
+        },
+        {
+          "nickname": "구름이",
+          "guild": "쿠쿠",
+          "class": "주문각인사",
+          "grade": 9,
+          "level": 66,
+          "server": "아우리엘 03"
+        },
+        {
+          "nickname": "노랑",
+          "guild": "쿠쿠",
+          "class": "주문각인사",
+          "grade": 9,
+          "level": 66,
+          "server": "아우리엘 03"
+        },
+        {
+          "nickname": "치유각인",
+          "guild": "쿠쿠",
+          "class": "주문각인사",
+          "grade": 7,
+          "level": 66,
+          "server": "아우리엘 03"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "쿠민",
+            "guild": "쿠쿠",
+            "class": "태양감시자",
+            "grade": 14,
+            "level": 74,
+            "server": "아우리엘 03"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "두방찡",
+            "guild": "쿠쿠",
+            "class": "환영검사",
+            "grade": 14,
+            "level": 72,
+            "server": "아우리엘 03"
+          },
+          {
+            "nickname": "시동",
+            "guild": "쿠쿠",
+            "class": "환영검사",
+            "grade": 10,
+            "level": 69,
+            "server": "아우리엘 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "쿠영",
+            "guild": "쿠쿠",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 66,
+            "server": "아우리엘 03"
+          },
+          {
+            "nickname": "꽃님",
+            "guild": "쿠쿠",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 69,
+            "server": "아우리엘 03"
+          },
+          {
+            "nickname": "이두부",
+            "guild": "쿠쿠",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 68,
+            "server": "아우리엘 03"
+          },
+          {
+            "nickname": "구름이",
+            "guild": "쿠쿠",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 66,
+            "server": "아우리엘 03"
+          },
+          {
+            "nickname": "노랑",
+            "guild": "쿠쿠",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 66,
+            "server": "아우리엘 03"
+          },
+          {
+            "nickname": "치유각인",
+            "guild": "쿠쿠",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 66,
+            "server": "아우리엘 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "극활",
+            "guild": "쿠쿠",
+            "class": "향사수",
+            "grade": 9,
+            "level": 67,
+            "server": "아우리엘 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "14": [
+          {
+            "nickname": "쿠민",
+            "guild": "쿠쿠",
+            "class": "태양감시자",
+            "grade": 14,
+            "level": 74,
+            "server": "아우리엘 03"
+          },
+          {
+            "nickname": "두방찡",
+            "guild": "쿠쿠",
+            "class": "환영검사",
+            "grade": 14,
+            "level": 72,
+            "server": "아우리엘 03"
+          }
+        ],
+        "9": [
+          {
+            "nickname": "꽃님",
+            "guild": "쿠쿠",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 69,
+            "server": "아우리엘 03"
+          },
+          {
+            "nickname": "이두부",
+            "guild": "쿠쿠",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 68,
+            "server": "아우리엘 03"
+          },
+          {
+            "nickname": "극활",
+            "guild": "쿠쿠",
+            "class": "향사수",
+            "grade": 9,
+            "level": 67,
+            "server": "아우리엘 03"
+          },
+          {
+            "nickname": "구름이",
+            "guild": "쿠쿠",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 66,
+            "server": "아우리엘 03"
+          },
+          {
+            "nickname": "노랑",
+            "guild": "쿠쿠",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 66,
+            "server": "아우리엘 03"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "시동",
+            "guild": "쿠쿠",
+            "class": "환영검사",
+            "grade": 10,
+            "level": 69,
+            "server": "아우리엘 03"
+          },
+          {
+            "nickname": "쿠영",
+            "guild": "쿠쿠",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 66,
+            "server": "아우리엘 03"
+          }
+        ],
+        "7": [
+          {
+            "nickname": "치유각인",
+            "guild": "쿠쿠",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 66,
+            "server": "아우리엘 03"
+          }
+        ]
+      }
+    },
+    "시티": {
+      "members": 2,
+      "byClass": {
+        "향사수": 2
+      },
+      "byGrade": {
+        "12": 2
+      },
+      "membersList": [
+        {
+          "nickname": "페르",
+          "guild": "시티",
+          "class": "향사수",
+          "grade": 12,
+          "level": 73,
+          "server": "아우리엘 03"
+        },
+        {
+          "nickname": "데바",
+          "guild": "시티",
+          "class": "향사수",
+          "grade": 12,
+          "level": 71,
+          "server": "아우리엘 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "페르",
+            "guild": "시티",
+            "class": "향사수",
+            "grade": 12,
+            "level": 73,
+            "server": "아우리엘 03"
+          },
+          {
+            "nickname": "데바",
+            "guild": "시티",
+            "class": "향사수",
+            "grade": 12,
+            "level": 71,
+            "server": "아우리엘 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "12": [
+          {
+            "nickname": "페르",
+            "guild": "시티",
+            "class": "향사수",
+            "grade": 12,
+            "level": 73,
+            "server": "아우리엘 03"
+          },
+          {
+            "nickname": "데바",
+            "guild": "시티",
+            "class": "향사수",
+            "grade": 12,
+            "level": 71,
+            "server": "아우리엘 03"
+          }
+        ]
+      }
+    },
+    "울프": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "13": 1
+      },
+      "membersList": [
+        {
+          "nickname": "난수호",
+          "guild": "울프",
+          "class": "환영검사",
+          "grade": 13,
+          "level": 72,
+          "server": "아우리엘 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "난수호",
+            "guild": "울프",
+            "class": "환영검사",
+            "grade": 13,
+            "level": 72,
+            "server": "아우리엘 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "13": [
+          {
+            "nickname": "난수호",
+            "guild": "울프",
+            "class": "환영검사",
+            "grade": 13,
+            "level": 72,
+            "server": "아우리엘 03"
+          }
+        ]
+      }
+    },
+    "저승길": {
+      "members": 2,
+      "byClass": {
+        "향사수": 2
+      },
+      "byGrade": {
+        "13": 1,
+        "10": 1
+      },
+      "membersList": [
+        {
+          "nickname": "난기류",
+          "guild": "저승길",
+          "class": "향사수",
+          "grade": 13,
+          "level": 72,
+          "server": "아우리엘 03"
+        },
+        {
+          "nickname": "폭주의힘",
+          "guild": "저승길",
+          "class": "향사수",
+          "grade": 10,
+          "level": 68,
+          "server": "아우리엘 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "난기류",
+            "guild": "저승길",
+            "class": "향사수",
+            "grade": 13,
+            "level": 72,
+            "server": "아우리엘 03"
+          },
+          {
+            "nickname": "폭주의힘",
+            "guild": "저승길",
+            "class": "향사수",
+            "grade": 10,
+            "level": 68,
+            "server": "아우리엘 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "13": [
+          {
+            "nickname": "난기류",
+            "guild": "저승길",
+            "class": "향사수",
+            "grade": 13,
+            "level": 72,
+            "server": "아우리엘 03"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "폭주의힘",
+            "guild": "저승길",
+            "class": "향사수",
+            "grade": 10,
+            "level": 68,
+            "server": "아우리엘 03"
+          }
+        ]
+      }
+    },
+    "시작": {
+      "members": 4,
+      "byClass": {
+        "향사수": 4
+      },
+      "byGrade": {
+        "12": 3,
+        "10": 1
+      },
+      "membersList": [
+        {
+          "nickname": "팔월",
+          "guild": "시작",
+          "class": "향사수",
+          "grade": 12,
+          "level": 71,
+          "server": "아우리엘 03"
+        },
+        {
+          "nickname": "대규형",
+          "guild": "시작",
+          "class": "향사수",
+          "grade": 12,
+          "level": 70,
+          "server": "아우리엘 03"
+        },
+        {
+          "nickname": "촉촉화살",
+          "guild": "시작",
+          "class": "향사수",
+          "grade": 12,
+          "level": 70,
+          "server": "아우리엘 03"
+        },
+        {
+          "nickname": "췍췍",
+          "guild": "시작",
+          "class": "향사수",
+          "grade": 10,
+          "level": 70,
+          "server": "아우리엘 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "팔월",
+            "guild": "시작",
+            "class": "향사수",
+            "grade": 12,
+            "level": 71,
+            "server": "아우리엘 03"
+          },
+          {
+            "nickname": "대규형",
+            "guild": "시작",
+            "class": "향사수",
+            "grade": 12,
+            "level": 70,
+            "server": "아우리엘 03"
+          },
+          {
+            "nickname": "촉촉화살",
+            "guild": "시작",
+            "class": "향사수",
+            "grade": 12,
+            "level": 70,
+            "server": "아우리엘 03"
+          },
+          {
+            "nickname": "췍췍",
+            "guild": "시작",
+            "class": "향사수",
+            "grade": 10,
+            "level": 70,
+            "server": "아우리엘 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "12": [
+          {
+            "nickname": "팔월",
+            "guild": "시작",
+            "class": "향사수",
+            "grade": 12,
+            "level": 71,
+            "server": "아우리엘 03"
+          },
+          {
+            "nickname": "대규형",
+            "guild": "시작",
+            "class": "향사수",
+            "grade": 12,
+            "level": 70,
+            "server": "아우리엘 03"
+          },
+          {
+            "nickname": "촉촉화살",
+            "guild": "시작",
+            "class": "향사수",
+            "grade": 12,
+            "level": 70,
+            "server": "아우리엘 03"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "췍췍",
+            "guild": "시작",
+            "class": "향사수",
+            "grade": 10,
+            "level": 70,
+            "server": "아우리엘 03"
+          }
+        ]
+      }
+    },
+    "wolf": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "12": 1
+      },
+      "membersList": [
+        {
+          "nickname": "맹꽁몬",
+          "guild": "wolf",
+          "class": "태양감시자",
+          "grade": 12,
+          "level": 71,
+          "server": "아우리엘 03"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "맹꽁몬",
+            "guild": "wolf",
+            "class": "태양감시자",
+            "grade": 12,
+            "level": 71,
+            "server": "아우리엘 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "12": [
+          {
+            "nickname": "맹꽁몬",
+            "guild": "wolf",
+            "class": "태양감시자",
+            "grade": 12,
+            "level": 71,
+            "server": "아우리엘 03"
+          }
+        ]
+      }
+    },
+    "경석": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "13": 1
+      },
+      "membersList": [
+        {
+          "nickname": "난봉꾼",
+          "guild": "경석",
+          "class": "환영검사",
+          "grade": 13,
+          "level": 70,
+          "server": "아우리엘 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "난봉꾼",
+            "guild": "경석",
+            "class": "환영검사",
+            "grade": 13,
+            "level": 70,
+            "server": "아우리엘 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "13": [
+          {
+            "nickname": "난봉꾼",
+            "guild": "경석",
+            "class": "환영검사",
+            "grade": 13,
+            "level": 70,
+            "server": "아우리엘 03"
+          }
+        ]
+      }
+    },
+    "텔미": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "12": 1
+      },
+      "membersList": [
+        {
+          "nickname": "먹태깡",
+          "guild": "텔미",
+          "class": "주문각인사",
+          "grade": 12,
+          "level": 70,
+          "server": "아우리엘 03"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "먹태깡",
+            "guild": "텔미",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 70,
+            "server": "아우리엘 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "12": [
+          {
+            "nickname": "먹태깡",
+            "guild": "텔미",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 70,
+            "server": "아우리엘 03"
+          }
+        ]
+      }
+    },
+    "솔로몬": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "11": 1
+      },
+      "membersList": [
+        {
+          "nickname": "민준아",
+          "guild": "솔로몬",
+          "class": "향사수",
+          "grade": 11,
+          "level": 70,
+          "server": "아우리엘 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "민준아",
+            "guild": "솔로몬",
+            "class": "향사수",
+            "grade": 11,
+            "level": 70,
+            "server": "아우리엘 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "11": [
+          {
+            "nickname": "민준아",
+            "guild": "솔로몬",
+            "class": "향사수",
+            "grade": 11,
+            "level": 70,
+            "server": "아우리엘 03"
+          }
+        ]
+      }
+    },
+    "득이네": {
+      "members": 3,
+      "byClass": {
+        "향사수": 3
+      },
+      "byGrade": {
+        "10": 2,
+        "8": 1
+      },
+      "membersList": [
+        {
+          "nickname": "유넨",
+          "guild": "득이네",
+          "class": "향사수",
+          "grade": 10,
+          "level": 70,
+          "server": "아우리엘 03"
+        },
+        {
+          "nickname": "밍춘이",
+          "guild": "득이네",
+          "class": "향사수",
+          "grade": 10,
+          "level": 69,
+          "server": "아우리엘 03"
+        },
+        {
+          "nickname": "에봉",
+          "guild": "득이네",
+          "class": "향사수",
+          "grade": 8,
+          "level": 70,
+          "server": "아우리엘 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "유넨",
+            "guild": "득이네",
+            "class": "향사수",
+            "grade": 10,
+            "level": 70,
+            "server": "아우리엘 03"
+          },
+          {
+            "nickname": "밍춘이",
+            "guild": "득이네",
+            "class": "향사수",
+            "grade": 10,
+            "level": 69,
+            "server": "아우리엘 03"
+          },
+          {
+            "nickname": "에봉",
+            "guild": "득이네",
+            "class": "향사수",
+            "grade": 8,
+            "level": 70,
+            "server": "아우리엘 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "유넨",
+            "guild": "득이네",
+            "class": "향사수",
+            "grade": 10,
+            "level": 70,
+            "server": "아우리엘 03"
+          },
+          {
+            "nickname": "밍춘이",
+            "guild": "득이네",
+            "class": "향사수",
+            "grade": 10,
+            "level": 69,
+            "server": "아우리엘 03"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "에봉",
+            "guild": "득이네",
+            "class": "향사수",
+            "grade": 8,
+            "level": 70,
+            "server": "아우리엘 03"
+          }
+        ]
+      }
+    },
+    "카노": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "11": 1
+      },
+      "membersList": [
+        {
+          "nickname": "힐조랑",
+          "guild": "카노",
+          "class": "주문각인사",
+          "grade": 11,
+          "level": 69,
+          "server": "아우리엘 03"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "힐조랑",
+            "guild": "카노",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 69,
+            "server": "아우리엘 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "11": [
+          {
+            "nickname": "힐조랑",
+            "guild": "카노",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 69,
+            "server": "아우리엘 03"
+          }
+        ]
+      }
+    },
+    "알수있음": {
+      "members": 2,
+      "byClass": {
+        "향사수": 1,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "11": 1,
+        "9": 1
+      },
+      "membersList": [
+        {
+          "nickname": "루타추카",
+          "guild": "알수있음",
+          "class": "향사수",
+          "grade": 11,
+          "level": 69,
+          "server": "아우리엘 03"
+        },
+        {
+          "nickname": "알수없음",
+          "guild": "알수있음",
+          "class": "주문각인사",
+          "grade": 9,
+          "level": 67,
+          "server": "아우리엘 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "루타추카",
+            "guild": "알수있음",
+            "class": "향사수",
+            "grade": 11,
+            "level": 69,
+            "server": "아우리엘 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "알수없음",
+            "guild": "알수있음",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 67,
+            "server": "아우리엘 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "11": [
+          {
+            "nickname": "루타추카",
+            "guild": "알수있음",
+            "class": "향사수",
+            "grade": 11,
+            "level": 69,
+            "server": "아우리엘 03"
+          }
+        ],
+        "9": [
+          {
+            "nickname": "알수없음",
+            "guild": "알수있음",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 67,
+            "server": "아우리엘 03"
+          }
+        ]
+      }
+    },
+    "아진": {
+      "members": 2,
+      "byClass": {
+        "집행관": 1,
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "9": 2
+      },
+      "membersList": [
+        {
+          "nickname": "벨리온",
+          "guild": "아진",
+          "class": "집행관",
+          "grade": 9,
+          "level": 68,
+          "server": "아우리엘 03"
+        },
+        {
+          "nickname": "베카",
+          "guild": "아진",
+          "class": "태양감시자",
+          "grade": 9,
+          "level": 67,
+          "server": "아우리엘 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "벨리온",
+            "guild": "아진",
+            "class": "집행관",
+            "grade": 9,
+            "level": 68,
+            "server": "아우리엘 03"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "베카",
+            "guild": "아진",
+            "class": "태양감시자",
+            "grade": 9,
+            "level": 67,
+            "server": "아우리엘 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "9": [
+          {
+            "nickname": "벨리온",
+            "guild": "아진",
+            "class": "집행관",
+            "grade": 9,
+            "level": 68,
+            "server": "아우리엘 03"
+          },
+          {
+            "nickname": "베카",
+            "guild": "아진",
+            "class": "태양감시자",
+            "grade": 9,
+            "level": 67,
+            "server": "아우리엘 03"
+          }
+        ]
+      }
+    },
+    "김치전": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "11": 1
+      },
+      "membersList": [
+        {
+          "nickname": "깻잎전",
+          "guild": "김치전",
+          "class": "주문각인사",
+          "grade": 11,
+          "level": 68,
+          "server": "아우리엘 03"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "깻잎전",
+            "guild": "김치전",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 68,
+            "server": "아우리엘 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "11": [
+          {
+            "nickname": "깻잎전",
+            "guild": "김치전",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 68,
+            "server": "아우리엘 03"
+          }
+        ]
+      }
+    },
+    "TheBlue": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "10": 1
+      },
+      "membersList": [
+        {
+          "nickname": "블루오션",
+          "guild": "TheBlue",
+          "class": "향사수",
+          "grade": 10,
+          "level": 68,
+          "server": "아우리엘 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "블루오션",
+            "guild": "TheBlue",
+            "class": "향사수",
+            "grade": 10,
+            "level": 68,
+            "server": "아우리엘 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "블루오션",
+            "guild": "TheBlue",
+            "class": "향사수",
+            "grade": 10,
+            "level": 68,
+            "server": "아우리엘 03"
+          }
+        ]
+      }
+    },
+    "방댕": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "10": 1
+      },
+      "membersList": [
+        {
+          "nickname": "방댕몬",
+          "guild": "방댕",
+          "class": "집행관",
+          "grade": 10,
+          "level": 67,
+          "server": "아우리엘 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "방댕몬",
+            "guild": "방댕",
+            "class": "집행관",
+            "grade": 10,
+            "level": 67,
+            "server": "아우리엘 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "방댕몬",
+            "guild": "방댕",
+            "class": "집행관",
+            "grade": 10,
+            "level": 67,
+            "server": "아우리엘 03"
+          }
+        ]
+      }
+    },
+    "코코": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "11": 1
+      },
+      "membersList": [
+        {
+          "nickname": "치유몬",
+          "guild": "코코",
+          "class": "주문각인사",
+          "grade": 11,
+          "level": 67,
+          "server": "아우리엘 03"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "치유몬",
+            "guild": "코코",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 67,
+            "server": "아우리엘 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "11": [
+          {
+            "nickname": "치유몬",
+            "guild": "코코",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 67,
+            "server": "아우리엘 03"
+          }
+        ]
+      }
+    },
+    "코끼리": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "10": 1
+      },
+      "membersList": [
+        {
+          "nickname": "쫑비",
+          "guild": "코끼리",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 67,
+          "server": "아우리엘 03"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "쫑비",
+            "guild": "코끼리",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 67,
+            "server": "아우리엘 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "쫑비",
+            "guild": "코끼리",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 67,
+            "server": "아우리엘 03"
+          }
+        ]
+      }
+    },
+    "혼자남음": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "11": 1
+      },
+      "membersList": [
+        {
+          "nickname": "난이지",
+          "guild": "혼자남음",
+          "class": "향사수",
+          "grade": 11,
+          "level": 67,
+          "server": "아우리엘 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "난이지",
+            "guild": "혼자남음",
+            "class": "향사수",
+            "grade": 11,
+            "level": 67,
+            "server": "아우리엘 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "11": [
+          {
+            "nickname": "난이지",
+            "guild": "혼자남음",
+            "class": "향사수",
+            "grade": 11,
+            "level": 67,
+            "server": "아우리엘 03"
+          }
+        ]
+      }
+    },
+    "월드": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "10": 1
+      },
+      "membersList": [
+        {
+          "nickname": "해석",
+          "guild": "월드",
+          "class": "향사수",
+          "grade": 10,
+          "level": 67,
+          "server": "아우리엘 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "해석",
+            "guild": "월드",
+            "class": "향사수",
+            "grade": 10,
+            "level": 67,
+            "server": "아우리엘 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "해석",
+            "guild": "월드",
+            "class": "향사수",
+            "grade": 10,
+            "level": 67,
+            "server": "아우리엘 03"
+          }
+        ]
+      }
+    },
+    "쉬프트": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "9": 1
+      },
+      "membersList": [
+        {
+          "nickname": "상디",
+          "guild": "쉬프트",
+          "class": "향사수",
+          "grade": 9,
+          "level": 67,
+          "server": "아우리엘 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "상디",
+            "guild": "쉬프트",
+            "class": "향사수",
+            "grade": 9,
+            "level": 67,
+            "server": "아우리엘 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "9": [
+          {
+            "nickname": "상디",
+            "guild": "쉬프트",
+            "class": "향사수",
+            "grade": 9,
+            "level": 67,
+            "server": "아우리엘 03"
+          }
+        ]
+      }
+    }
+  }
+}

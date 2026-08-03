@@ -1,0 +1,1924 @@
+{
+  "server": "나스카 01",
+  "guilds": {
+    "레쓰비": {
+      "members": 23,
+      "byClass": {
+        "향사수": 10,
+        "집행관": 5,
+        "주문각인사": 4,
+        "환영검사": 2,
+        "태양감시자": 2
+      },
+      "byGrade": {
+        "16": 1,
+        "15": 4,
+        "14": 2,
+        "12": 5,
+        "11": 4,
+        "10": 3,
+        "6": 1,
+        "1": 3
+      },
+      "membersList": [
+        {
+          "nickname": "값대위",
+          "guild": "레쓰비",
+          "class": "환영검사",
+          "grade": 16,
+          "level": 80,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "닥스",
+          "guild": "레쓰비",
+          "class": "태양감시자",
+          "grade": 15,
+          "level": 78,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "모노",
+          "guild": "레쓰비",
+          "class": "주문각인사",
+          "grade": 15,
+          "level": 78,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "지박령",
+          "guild": "레쓰비",
+          "class": "집행관",
+          "grade": 15,
+          "level": 78,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "금도끼",
+          "guild": "레쓰비",
+          "class": "집행관",
+          "grade": 15,
+          "level": 76,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "반도",
+          "guild": "레쓰비",
+          "class": "향사수",
+          "grade": 14,
+          "level": 76,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "처돌이",
+          "guild": "레쓰비",
+          "class": "향사수",
+          "grade": 14,
+          "level": 76,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "하늬바람",
+          "guild": "레쓰비",
+          "class": "향사수",
+          "grade": 12,
+          "level": 75,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "곽튜브",
+          "guild": "레쓰비",
+          "class": "집행관",
+          "grade": 12,
+          "level": 73,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "Tether",
+          "guild": "레쓰비",
+          "class": "집행관",
+          "grade": 12,
+          "level": 72,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "벌레",
+          "guild": "레쓰비",
+          "class": "향사수",
+          "grade": 12,
+          "level": 72,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "직장인",
+          "guild": "레쓰비",
+          "class": "향사수",
+          "grade": 12,
+          "level": 71,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "하비",
+          "guild": "레쓰비",
+          "class": "환영검사",
+          "grade": 11,
+          "level": 73,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "웅희꼬",
+          "guild": "레쓰비",
+          "class": "향사수",
+          "grade": 11,
+          "level": 72,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "유한",
+          "guild": "레쓰비",
+          "class": "주문각인사",
+          "grade": 11,
+          "level": 72,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "붕붕",
+          "guild": "레쓰비",
+          "class": "향사수",
+          "grade": 11,
+          "level": 69,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "BB",
+          "guild": "레쓰비",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 72,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "비키니",
+          "guild": "레쓰비",
+          "class": "집행관",
+          "grade": 10,
+          "level": 72,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "마리오네트",
+          "guild": "레쓰비",
+          "class": "태양감시자",
+          "grade": 10,
+          "level": 69,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "망치든여자",
+          "guild": "레쓰비",
+          "class": "주문각인사",
+          "grade": 6,
+          "level": 69,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "다수",
+          "guild": "레쓰비",
+          "class": "향사수",
+          "grade": 1,
+          "level": 70,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "본마",
+          "guild": "레쓰비",
+          "class": "향사수",
+          "grade": 1,
+          "level": 70,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "헤토르",
+          "guild": "레쓰비",
+          "class": "향사수",
+          "grade": 1,
+          "level": 69,
+          "server": "나스카 01"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "값대위",
+            "guild": "레쓰비",
+            "class": "환영검사",
+            "grade": 16,
+            "level": 80,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "하비",
+            "guild": "레쓰비",
+            "class": "환영검사",
+            "grade": 11,
+            "level": 73,
+            "server": "나스카 01"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "닥스",
+            "guild": "레쓰비",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 78,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "마리오네트",
+            "guild": "레쓰비",
+            "class": "태양감시자",
+            "grade": 10,
+            "level": 69,
+            "server": "나스카 01"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "지박령",
+            "guild": "레쓰비",
+            "class": "집행관",
+            "grade": 15,
+            "level": 78,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "금도끼",
+            "guild": "레쓰비",
+            "class": "집행관",
+            "grade": 15,
+            "level": 76,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "곽튜브",
+            "guild": "레쓰비",
+            "class": "집행관",
+            "grade": 12,
+            "level": 73,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "Tether",
+            "guild": "레쓰비",
+            "class": "집행관",
+            "grade": 12,
+            "level": 72,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "비키니",
+            "guild": "레쓰비",
+            "class": "집행관",
+            "grade": 10,
+            "level": 72,
+            "server": "나스카 01"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "모노",
+            "guild": "레쓰비",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 78,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "유한",
+            "guild": "레쓰비",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 72,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "BB",
+            "guild": "레쓰비",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 72,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "망치든여자",
+            "guild": "레쓰비",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 69,
+            "server": "나스카 01"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "반도",
+            "guild": "레쓰비",
+            "class": "향사수",
+            "grade": 14,
+            "level": 76,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "처돌이",
+            "guild": "레쓰비",
+            "class": "향사수",
+            "grade": 14,
+            "level": 76,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "하늬바람",
+            "guild": "레쓰비",
+            "class": "향사수",
+            "grade": 12,
+            "level": 75,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "벌레",
+            "guild": "레쓰비",
+            "class": "향사수",
+            "grade": 12,
+            "level": 72,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "직장인",
+            "guild": "레쓰비",
+            "class": "향사수",
+            "grade": 12,
+            "level": 71,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "웅희꼬",
+            "guild": "레쓰비",
+            "class": "향사수",
+            "grade": 11,
+            "level": 72,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "붕붕",
+            "guild": "레쓰비",
+            "class": "향사수",
+            "grade": 11,
+            "level": 69,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "다수",
+            "guild": "레쓰비",
+            "class": "향사수",
+            "grade": 1,
+            "level": 70,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "본마",
+            "guild": "레쓰비",
+            "class": "향사수",
+            "grade": 1,
+            "level": 70,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "헤토르",
+            "guild": "레쓰비",
+            "class": "향사수",
+            "grade": 1,
+            "level": 69,
+            "server": "나스카 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "16": [
+          {
+            "nickname": "값대위",
+            "guild": "레쓰비",
+            "class": "환영검사",
+            "grade": 16,
+            "level": 80,
+            "server": "나스카 01"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "닥스",
+            "guild": "레쓰비",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 78,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "모노",
+            "guild": "레쓰비",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 78,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "지박령",
+            "guild": "레쓰비",
+            "class": "집행관",
+            "grade": 15,
+            "level": 78,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "금도끼",
+            "guild": "레쓰비",
+            "class": "집행관",
+            "grade": 15,
+            "level": 76,
+            "server": "나스카 01"
+          }
+        ],
+        "14": [
+          {
+            "nickname": "반도",
+            "guild": "레쓰비",
+            "class": "향사수",
+            "grade": 14,
+            "level": 76,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "처돌이",
+            "guild": "레쓰비",
+            "class": "향사수",
+            "grade": 14,
+            "level": 76,
+            "server": "나스카 01"
+          }
+        ],
+        "12": [
+          {
+            "nickname": "하늬바람",
+            "guild": "레쓰비",
+            "class": "향사수",
+            "grade": 12,
+            "level": 75,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "곽튜브",
+            "guild": "레쓰비",
+            "class": "집행관",
+            "grade": 12,
+            "level": 73,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "Tether",
+            "guild": "레쓰비",
+            "class": "집행관",
+            "grade": 12,
+            "level": 72,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "벌레",
+            "guild": "레쓰비",
+            "class": "향사수",
+            "grade": 12,
+            "level": 72,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "직장인",
+            "guild": "레쓰비",
+            "class": "향사수",
+            "grade": 12,
+            "level": 71,
+            "server": "나스카 01"
+          }
+        ],
+        "11": [
+          {
+            "nickname": "하비",
+            "guild": "레쓰비",
+            "class": "환영검사",
+            "grade": 11,
+            "level": 73,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "웅희꼬",
+            "guild": "레쓰비",
+            "class": "향사수",
+            "grade": 11,
+            "level": 72,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "유한",
+            "guild": "레쓰비",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 72,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "붕붕",
+            "guild": "레쓰비",
+            "class": "향사수",
+            "grade": 11,
+            "level": 69,
+            "server": "나스카 01"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "BB",
+            "guild": "레쓰비",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 72,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "비키니",
+            "guild": "레쓰비",
+            "class": "집행관",
+            "grade": 10,
+            "level": 72,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "마리오네트",
+            "guild": "레쓰비",
+            "class": "태양감시자",
+            "grade": 10,
+            "level": 69,
+            "server": "나스카 01"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "다수",
+            "guild": "레쓰비",
+            "class": "향사수",
+            "grade": 1,
+            "level": 70,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "본마",
+            "guild": "레쓰비",
+            "class": "향사수",
+            "grade": 1,
+            "level": 70,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "헤토르",
+            "guild": "레쓰비",
+            "class": "향사수",
+            "grade": 1,
+            "level": 69,
+            "server": "나스카 01"
+          }
+        ],
+        "6": [
+          {
+            "nickname": "망치든여자",
+            "guild": "레쓰비",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 69,
+            "server": "나스카 01"
+          }
+        ]
+      }
+    },
+    "신화": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "15": 1
+      },
+      "membersList": [
+        {
+          "nickname": "신화",
+          "guild": "신화",
+          "class": "향사수",
+          "grade": 15,
+          "level": 79,
+          "server": "나스카 01"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "신화",
+            "guild": "신화",
+            "class": "향사수",
+            "grade": 15,
+            "level": 79,
+            "server": "나스카 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "15": [
+          {
+            "nickname": "신화",
+            "guild": "신화",
+            "class": "향사수",
+            "grade": 15,
+            "level": 79,
+            "server": "나스카 01"
+          }
+        ]
+      }
+    },
+    "고잉메리호": {
+      "members": 4,
+      "byClass": {
+        "환영검사": 1,
+        "태양감시자": 1,
+        "집행관": 1,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "15": 1,
+        "14": 1,
+        "12": 1,
+        "11": 1
+      },
+      "membersList": [
+        {
+          "nickname": "꿀벌",
+          "guild": "고잉메리호",
+          "class": "환영검사",
+          "grade": 15,
+          "level": 77,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "띠느",
+          "guild": "고잉메리호",
+          "class": "태양감시자",
+          "grade": 14,
+          "level": 75,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "띠로리",
+          "guild": "고잉메리호",
+          "class": "주문각인사",
+          "grade": 12,
+          "level": 71,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "빈살만",
+          "guild": "고잉메리호",
+          "class": "집행관",
+          "grade": 11,
+          "level": 72,
+          "server": "나스카 01"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "꿀벌",
+            "guild": "고잉메리호",
+            "class": "환영검사",
+            "grade": 15,
+            "level": 77,
+            "server": "나스카 01"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "띠느",
+            "guild": "고잉메리호",
+            "class": "태양감시자",
+            "grade": 14,
+            "level": 75,
+            "server": "나스카 01"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "빈살만",
+            "guild": "고잉메리호",
+            "class": "집행관",
+            "grade": 11,
+            "level": 72,
+            "server": "나스카 01"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "띠로리",
+            "guild": "고잉메리호",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 71,
+            "server": "나스카 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "15": [
+          {
+            "nickname": "꿀벌",
+            "guild": "고잉메리호",
+            "class": "환영검사",
+            "grade": 15,
+            "level": 77,
+            "server": "나스카 01"
+          }
+        ],
+        "14": [
+          {
+            "nickname": "띠느",
+            "guild": "고잉메리호",
+            "class": "태양감시자",
+            "grade": 14,
+            "level": 75,
+            "server": "나스카 01"
+          }
+        ],
+        "11": [
+          {
+            "nickname": "빈살만",
+            "guild": "고잉메리호",
+            "class": "집행관",
+            "grade": 11,
+            "level": 72,
+            "server": "나스카 01"
+          }
+        ],
+        "12": [
+          {
+            "nickname": "띠로리",
+            "guild": "고잉메리호",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 71,
+            "server": "나스카 01"
+          }
+        ]
+      }
+    },
+    "평화주의자": {
+      "members": 5,
+      "byClass": {
+        "향사수": 4,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "12": 1,
+        "10": 3,
+        "9": 1
+      },
+      "membersList": [
+        {
+          "nickname": "나팔꽃",
+          "guild": "평화주의자",
+          "class": "향사수",
+          "grade": 12,
+          "level": 76,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "아스트랄",
+          "guild": "평화주의자",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 72,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "향유",
+          "guild": "평화주의자",
+          "class": "향사수",
+          "grade": 10,
+          "level": 72,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "호시탐탐",
+          "guild": "평화주의자",
+          "class": "향사수",
+          "grade": 10,
+          "level": 72,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "포치타",
+          "guild": "평화주의자",
+          "class": "향사수",
+          "grade": 9,
+          "level": 71,
+          "server": "나스카 01"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "나팔꽃",
+            "guild": "평화주의자",
+            "class": "향사수",
+            "grade": 12,
+            "level": 76,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "향유",
+            "guild": "평화주의자",
+            "class": "향사수",
+            "grade": 10,
+            "level": 72,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "호시탐탐",
+            "guild": "평화주의자",
+            "class": "향사수",
+            "grade": 10,
+            "level": 72,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "포치타",
+            "guild": "평화주의자",
+            "class": "향사수",
+            "grade": 9,
+            "level": 71,
+            "server": "나스카 01"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "아스트랄",
+            "guild": "평화주의자",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 72,
+            "server": "나스카 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "12": [
+          {
+            "nickname": "나팔꽃",
+            "guild": "평화주의자",
+            "class": "향사수",
+            "grade": 12,
+            "level": 76,
+            "server": "나스카 01"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "아스트랄",
+            "guild": "평화주의자",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 72,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "향유",
+            "guild": "평화주의자",
+            "class": "향사수",
+            "grade": 10,
+            "level": 72,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "호시탐탐",
+            "guild": "평화주의자",
+            "class": "향사수",
+            "grade": 10,
+            "level": 72,
+            "server": "나스카 01"
+          }
+        ],
+        "9": [
+          {
+            "nickname": "포치타",
+            "guild": "평화주의자",
+            "class": "향사수",
+            "grade": 9,
+            "level": 71,
+            "server": "나스카 01"
+          }
+        ]
+      }
+    },
+    "딸천재": {
+      "members": 2,
+      "byClass": {
+        "집행관": 1,
+        "향사수": 1
+      },
+      "byGrade": {
+        "14": 1,
+        "12": 1
+      },
+      "membersList": [
+        {
+          "nickname": "딸래미이쁨",
+          "guild": "딸천재",
+          "class": "집행관",
+          "grade": 14,
+          "level": 75,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "꼬라지아",
+          "guild": "딸천재",
+          "class": "향사수",
+          "grade": 12,
+          "level": 73,
+          "server": "나스카 01"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "딸래미이쁨",
+            "guild": "딸천재",
+            "class": "집행관",
+            "grade": 14,
+            "level": 75,
+            "server": "나스카 01"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "꼬라지아",
+            "guild": "딸천재",
+            "class": "향사수",
+            "grade": 12,
+            "level": 73,
+            "server": "나스카 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "14": [
+          {
+            "nickname": "딸래미이쁨",
+            "guild": "딸천재",
+            "class": "집행관",
+            "grade": 14,
+            "level": 75,
+            "server": "나스카 01"
+          }
+        ],
+        "12": [
+          {
+            "nickname": "꼬라지아",
+            "guild": "딸천재",
+            "class": "향사수",
+            "grade": 12,
+            "level": 73,
+            "server": "나스카 01"
+          }
+        ]
+      }
+    },
+    "별자리": {
+      "members": 2,
+      "byClass": {
+        "주문각인사": 1,
+        "향사수": 1
+      },
+      "byGrade": {
+        "14": 1,
+        "10": 1
+      },
+      "membersList": [
+        {
+          "nickname": "겨울비",
+          "guild": "별자리",
+          "class": "주문각인사",
+          "grade": 14,
+          "level": 75,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "오디세이이",
+          "guild": "별자리",
+          "class": "향사수",
+          "grade": 10,
+          "level": 69,
+          "server": "나스카 01"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "겨울비",
+            "guild": "별자리",
+            "class": "주문각인사",
+            "grade": 14,
+            "level": 75,
+            "server": "나스카 01"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "오디세이이",
+            "guild": "별자리",
+            "class": "향사수",
+            "grade": 10,
+            "level": 69,
+            "server": "나스카 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "14": [
+          {
+            "nickname": "겨울비",
+            "guild": "별자리",
+            "class": "주문각인사",
+            "grade": 14,
+            "level": 75,
+            "server": "나스카 01"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "오디세이이",
+            "guild": "별자리",
+            "class": "향사수",
+            "grade": 10,
+            "level": 69,
+            "server": "나스카 01"
+          }
+        ]
+      }
+    },
+    "중립": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "12": 1
+      },
+      "membersList": [
+        {
+          "nickname": "믿음",
+          "guild": "중립",
+          "class": "향사수",
+          "grade": 12,
+          "level": 74,
+          "server": "나스카 01"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "믿음",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 12,
+            "level": 74,
+            "server": "나스카 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "12": [
+          {
+            "nickname": "믿음",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 12,
+            "level": 74,
+            "server": "나스카 01"
+          }
+        ]
+      }
+    },
+    "오세안무역": {
+      "members": 4,
+      "byClass": {
+        "주문각인사": 1,
+        "집행관": 1,
+        "심연추방자": 1,
+        "향사수": 1
+      },
+      "byGrade": {
+        "13": 2,
+        "11": 1,
+        "10": 1
+      },
+      "membersList": [
+        {
+          "nickname": "오스본",
+          "guild": "오세안무역",
+          "class": "주문각인사",
+          "grade": 13,
+          "level": 73,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "사회복무요원",
+          "guild": "오세안무역",
+          "class": "집행관",
+          "grade": 13,
+          "level": 72,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "바이올렛",
+          "guild": "오세안무역",
+          "class": "심연추방자",
+          "grade": 11,
+          "level": 72,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "다도",
+          "guild": "오세안무역",
+          "class": "향사수",
+          "grade": 10,
+          "level": 70,
+          "server": "나스카 01"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "오스본",
+            "guild": "오세안무역",
+            "class": "주문각인사",
+            "grade": 13,
+            "level": 73,
+            "server": "나스카 01"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "사회복무요원",
+            "guild": "오세안무역",
+            "class": "집행관",
+            "grade": 13,
+            "level": 72,
+            "server": "나스카 01"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "바이올렛",
+            "guild": "오세안무역",
+            "class": "심연추방자",
+            "grade": 11,
+            "level": 72,
+            "server": "나스카 01"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "다도",
+            "guild": "오세안무역",
+            "class": "향사수",
+            "grade": 10,
+            "level": 70,
+            "server": "나스카 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "13": [
+          {
+            "nickname": "오스본",
+            "guild": "오세안무역",
+            "class": "주문각인사",
+            "grade": 13,
+            "level": 73,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "사회복무요원",
+            "guild": "오세안무역",
+            "class": "집행관",
+            "grade": 13,
+            "level": 72,
+            "server": "나스카 01"
+          }
+        ],
+        "11": [
+          {
+            "nickname": "바이올렛",
+            "guild": "오세안무역",
+            "class": "심연추방자",
+            "grade": 11,
+            "level": 72,
+            "server": "나스카 01"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "다도",
+            "guild": "오세안무역",
+            "class": "향사수",
+            "grade": 10,
+            "level": 70,
+            "server": "나스카 01"
+          }
+        ]
+      }
+    },
+    "나혼자레벨업": {
+      "members": 2,
+      "byClass": {
+        "태양감시자": 1,
+        "향사수": 1
+      },
+      "byGrade": {
+        "12": 1,
+        "9": 1
+      },
+      "membersList": [
+        {
+          "nickname": "아모레",
+          "guild": "나혼자레벨업",
+          "class": "태양감시자",
+          "grade": 12,
+          "level": 73,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "스타크래프트",
+          "guild": "나혼자레벨업",
+          "class": "향사수",
+          "grade": 9,
+          "level": 70,
+          "server": "나스카 01"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "아모레",
+            "guild": "나혼자레벨업",
+            "class": "태양감시자",
+            "grade": 12,
+            "level": 73,
+            "server": "나스카 01"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "스타크래프트",
+            "guild": "나혼자레벨업",
+            "class": "향사수",
+            "grade": 9,
+            "level": 70,
+            "server": "나스카 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "12": [
+          {
+            "nickname": "아모레",
+            "guild": "나혼자레벨업",
+            "class": "태양감시자",
+            "grade": 12,
+            "level": 73,
+            "server": "나스카 01"
+          }
+        ],
+        "9": [
+          {
+            "nickname": "스타크래프트",
+            "guild": "나혼자레벨업",
+            "class": "향사수",
+            "grade": 9,
+            "level": 70,
+            "server": "나스카 01"
+          }
+        ]
+      }
+    },
+    "신비": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "11": 1
+      },
+      "membersList": [
+        {
+          "nickname": "악마",
+          "guild": "신비",
+          "class": "집행관",
+          "grade": 11,
+          "level": 71,
+          "server": "나스카 01"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "악마",
+            "guild": "신비",
+            "class": "집행관",
+            "grade": 11,
+            "level": 71,
+            "server": "나스카 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "11": [
+          {
+            "nickname": "악마",
+            "guild": "신비",
+            "class": "집행관",
+            "grade": 11,
+            "level": 71,
+            "server": "나스카 01"
+          }
+        ]
+      }
+    },
+    "명품": {
+      "members": 2,
+      "byClass": {
+        "주문각인사": 2
+      },
+      "byGrade": {
+        "11": 1,
+        "10": 1
+      },
+      "membersList": [
+        {
+          "nickname": "개미",
+          "guild": "명품",
+          "class": "주문각인사",
+          "grade": 11,
+          "level": 70,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "패인",
+          "guild": "명품",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 71,
+          "server": "나스카 01"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "개미",
+            "guild": "명품",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 70,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "패인",
+            "guild": "명품",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 71,
+            "server": "나스카 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "패인",
+            "guild": "명품",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 71,
+            "server": "나스카 01"
+          }
+        ],
+        "11": [
+          {
+            "nickname": "개미",
+            "guild": "명품",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 70,
+            "server": "나스카 01"
+          }
+        ]
+      }
+    },
+    "잉여인간들": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "10": 1
+      },
+      "membersList": [
+        {
+          "nickname": "마리노",
+          "guild": "잉여인간들",
+          "class": "향사수",
+          "grade": 10,
+          "level": 71,
+          "server": "나스카 01"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "마리노",
+            "guild": "잉여인간들",
+            "class": "향사수",
+            "grade": 10,
+            "level": 71,
+            "server": "나스카 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "마리노",
+            "guild": "잉여인간들",
+            "class": "향사수",
+            "grade": 10,
+            "level": 71,
+            "server": "나스카 01"
+          }
+        ]
+      }
+    },
+    "야채": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "7": 1
+      },
+      "membersList": [
+        {
+          "nickname": "양송이",
+          "guild": "야채",
+          "class": "주문각인사",
+          "grade": 7,
+          "level": 71,
+          "server": "나스카 01"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "양송이",
+            "guild": "야채",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 71,
+            "server": "나스카 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "7": [
+          {
+            "nickname": "양송이",
+            "guild": "야채",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 71,
+            "server": "나스카 01"
+          }
+        ]
+      }
+    },
+    "달빛": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "12": 1
+      },
+      "membersList": [
+        {
+          "nickname": "여시보라보라",
+          "guild": "달빛",
+          "class": "환영검사",
+          "grade": 12,
+          "level": 70,
+          "server": "나스카 01"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "여시보라보라",
+            "guild": "달빛",
+            "class": "환영검사",
+            "grade": 12,
+            "level": 70,
+            "server": "나스카 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "12": [
+          {
+            "nickname": "여시보라보라",
+            "guild": "달빛",
+            "class": "환영검사",
+            "grade": 12,
+            "level": 70,
+            "server": "나스카 01"
+          }
+        ]
+      }
+    },
+    "신화가되리라": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "12": 1
+      },
+      "membersList": [
+        {
+          "nickname": "파벌검사",
+          "guild": "신화가되리라",
+          "class": "환영검사",
+          "grade": 12,
+          "level": 70,
+          "server": "나스카 01"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "파벌검사",
+            "guild": "신화가되리라",
+            "class": "환영검사",
+            "grade": 12,
+            "level": 70,
+            "server": "나스카 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "12": [
+          {
+            "nickname": "파벌검사",
+            "guild": "신화가되리라",
+            "class": "환영검사",
+            "grade": 12,
+            "level": 70,
+            "server": "나스카 01"
+          }
+        ]
+      }
+    },
+    "나혼자": {
+      "members": 5,
+      "byClass": {
+        "향사수": 4,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "10": 5
+      },
+      "membersList": [
+        {
+          "nickname": "네처공",
+          "guild": "나혼자",
+          "class": "향사수",
+          "grade": 10,
+          "level": 70,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "심바",
+          "guild": "나혼자",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 70,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "에베베",
+          "guild": "나혼자",
+          "class": "향사수",
+          "grade": 10,
+          "level": 70,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "홍일",
+          "guild": "나혼자",
+          "class": "향사수",
+          "grade": 10,
+          "level": 70,
+          "server": "나스카 01"
+        },
+        {
+          "nickname": "히메팔",
+          "guild": "나혼자",
+          "class": "향사수",
+          "grade": 10,
+          "level": 69,
+          "server": "나스카 01"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "심바",
+            "guild": "나혼자",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 70,
+            "server": "나스카 01"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "네처공",
+            "guild": "나혼자",
+            "class": "향사수",
+            "grade": 10,
+            "level": 70,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "에베베",
+            "guild": "나혼자",
+            "class": "향사수",
+            "grade": 10,
+            "level": 70,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "홍일",
+            "guild": "나혼자",
+            "class": "향사수",
+            "grade": 10,
+            "level": 70,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "히메팔",
+            "guild": "나혼자",
+            "class": "향사수",
+            "grade": 10,
+            "level": 69,
+            "server": "나스카 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "네처공",
+            "guild": "나혼자",
+            "class": "향사수",
+            "grade": 10,
+            "level": 70,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "심바",
+            "guild": "나혼자",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 70,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "에베베",
+            "guild": "나혼자",
+            "class": "향사수",
+            "grade": 10,
+            "level": 70,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "홍일",
+            "guild": "나혼자",
+            "class": "향사수",
+            "grade": 10,
+            "level": 70,
+            "server": "나스카 01"
+          },
+          {
+            "nickname": "히메팔",
+            "guild": "나혼자",
+            "class": "향사수",
+            "grade": 10,
+            "level": 69,
+            "server": "나스카 01"
+          }
+        ]
+      }
+    },
+    "3040": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "12": 1
+      },
+      "membersList": [
+        {
+          "nickname": "삼촌왔다",
+          "guild": "3040",
+          "class": "향사수",
+          "grade": 12,
+          "level": 70,
+          "server": "나스카 01"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "삼촌왔다",
+            "guild": "3040",
+            "class": "향사수",
+            "grade": 12,
+            "level": 70,
+            "server": "나스카 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "12": [
+          {
+            "nickname": "삼촌왔다",
+            "guild": "3040",
+            "class": "향사수",
+            "grade": 12,
+            "level": 70,
+            "server": "나스카 01"
+          }
+        ]
+      }
+    },
+    "베스킨라빈스31": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "11": 1
+      },
+      "membersList": [
+        {
+          "nickname": "타락악마",
+          "guild": "베스킨라빈스31",
+          "class": "주문각인사",
+          "grade": 11,
+          "level": 70,
+          "server": "나스카 01"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "타락악마",
+            "guild": "베스킨라빈스31",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 70,
+            "server": "나스카 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "11": [
+          {
+            "nickname": "타락악마",
+            "guild": "베스킨라빈스31",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 70,
+            "server": "나스카 01"
+          }
+        ]
+      }
+    },
+    "처음처럼": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "9": 1
+      },
+      "membersList": [
+        {
+          "nickname": "실리엔",
+          "guild": "처음처럼",
+          "class": "향사수",
+          "grade": 9,
+          "level": 70,
+          "server": "나스카 01"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "실리엔",
+            "guild": "처음처럼",
+            "class": "향사수",
+            "grade": 9,
+            "level": 70,
+            "server": "나스카 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "9": [
+          {
+            "nickname": "실리엔",
+            "guild": "처음처럼",
+            "class": "향사수",
+            "grade": 9,
+            "level": 70,
+            "server": "나스카 01"
+          }
+        ]
+      }
+    },
+    "흰수염해적단": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "11": 1
+      },
+      "membersList": [
+        {
+          "nickname": "철이당",
+          "guild": "흰수염해적단",
+          "class": "향사수",
+          "grade": 11,
+          "level": 69,
+          "server": "나스카 01"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "철이당",
+            "guild": "흰수염해적단",
+            "class": "향사수",
+            "grade": 11,
+            "level": 69,
+            "server": "나스카 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "11": [
+          {
+            "nickname": "철이당",
+            "guild": "흰수염해적단",
+            "class": "향사수",
+            "grade": 11,
+            "level": 69,
+            "server": "나스카 01"
+          }
+        ]
+      }
+    }
+  }
+}

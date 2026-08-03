@@ -1,0 +1,1518 @@
+{
+  "server": "바이람 02",
+  "guilds": {
+    "꽃잎": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "케리아",
+          "guild": "꽃잎",
+          "class": "집행관",
+          "grade": 20,
+          "level": 86,
+          "server": "바이람 02"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "케리아",
+            "guild": "꽃잎",
+            "class": "집행관",
+            "grade": 20,
+            "level": 86,
+            "server": "바이람 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "케리아",
+            "guild": "꽃잎",
+            "class": "집행관",
+            "grade": 20,
+            "level": 86,
+            "server": "바이람 02"
+          }
+        ]
+      }
+    },
+    "새벽": {
+      "members": 10,
+      "byClass": {
+        "심연추방자": 3,
+        "향사수": 2,
+        "환영검사": 2,
+        "주문각인사": 2,
+        "집행관": 1
+      },
+      "byGrade": {
+        "21": 1,
+        "18": 1,
+        "16": 1,
+        "15": 3,
+        "13": 1,
+        "11": 1,
+        "10": 1,
+        "8": 1
+      },
+      "membersList": [
+        {
+          "nickname": "만드레",
+          "guild": "새벽",
+          "class": "향사수",
+          "grade": 21,
+          "level": 84,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "깡병",
+          "guild": "새벽",
+          "class": "집행관",
+          "grade": 18,
+          "level": 83,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "울릉도",
+          "guild": "새벽",
+          "class": "심연추방자",
+          "grade": 16,
+          "level": 78,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "여우각시별",
+          "guild": "새벽",
+          "class": "향사수",
+          "grade": 15,
+          "level": 79,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "이치고",
+          "guild": "새벽",
+          "class": "환영검사",
+          "grade": 15,
+          "level": 78,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "싸개",
+          "guild": "새벽",
+          "class": "심연추방자",
+          "grade": 15,
+          "level": 75,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "아판",
+          "guild": "새벽",
+          "class": "환영검사",
+          "grade": 13,
+          "level": 71,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "크롱이",
+          "guild": "새벽",
+          "class": "주문각인사",
+          "grade": 11,
+          "level": 76,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "벌꿀오소리",
+          "guild": "새벽",
+          "class": "심연추방자",
+          "grade": 10,
+          "level": 71,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "얌얌",
+          "guild": "새벽",
+          "class": "주문각인사",
+          "grade": 8,
+          "level": 71,
+          "server": "바이람 02"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "만드레",
+            "guild": "새벽",
+            "class": "향사수",
+            "grade": 21,
+            "level": 84,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "여우각시별",
+            "guild": "새벽",
+            "class": "향사수",
+            "grade": 15,
+            "level": 79,
+            "server": "바이람 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "깡병",
+            "guild": "새벽",
+            "class": "집행관",
+            "grade": 18,
+            "level": 83,
+            "server": "바이람 02"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "이치고",
+            "guild": "새벽",
+            "class": "환영검사",
+            "grade": 15,
+            "level": 78,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "아판",
+            "guild": "새벽",
+            "class": "환영검사",
+            "grade": 13,
+            "level": 71,
+            "server": "바이람 02"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "울릉도",
+            "guild": "새벽",
+            "class": "심연추방자",
+            "grade": 16,
+            "level": 78,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "싸개",
+            "guild": "새벽",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 75,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "벌꿀오소리",
+            "guild": "새벽",
+            "class": "심연추방자",
+            "grade": 10,
+            "level": 71,
+            "server": "바이람 02"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "크롱이",
+            "guild": "새벽",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 76,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "얌얌",
+            "guild": "새벽",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 71,
+            "server": "바이람 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "만드레",
+            "guild": "새벽",
+            "class": "향사수",
+            "grade": 21,
+            "level": 84,
+            "server": "바이람 02"
+          }
+        ],
+        "18": [
+          {
+            "nickname": "깡병",
+            "guild": "새벽",
+            "class": "집행관",
+            "grade": 18,
+            "level": 83,
+            "server": "바이람 02"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "여우각시별",
+            "guild": "새벽",
+            "class": "향사수",
+            "grade": 15,
+            "level": 79,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "이치고",
+            "guild": "새벽",
+            "class": "환영검사",
+            "grade": 15,
+            "level": 78,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "싸개",
+            "guild": "새벽",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 75,
+            "server": "바이람 02"
+          }
+        ],
+        "16": [
+          {
+            "nickname": "울릉도",
+            "guild": "새벽",
+            "class": "심연추방자",
+            "grade": 16,
+            "level": 78,
+            "server": "바이람 02"
+          }
+        ],
+        "11": [
+          {
+            "nickname": "크롱이",
+            "guild": "새벽",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 76,
+            "server": "바이람 02"
+          }
+        ],
+        "13": [
+          {
+            "nickname": "아판",
+            "guild": "새벽",
+            "class": "환영검사",
+            "grade": 13,
+            "level": 71,
+            "server": "바이람 02"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "얌얌",
+            "guild": "새벽",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 71,
+            "server": "바이람 02"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "벌꿀오소리",
+            "guild": "새벽",
+            "class": "심연추방자",
+            "grade": 10,
+            "level": 71,
+            "server": "바이람 02"
+          }
+        ]
+      }
+    },
+    "마초": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "17": 1
+      },
+      "membersList": [
+        {
+          "nickname": "깨비",
+          "guild": "마초",
+          "class": "집행관",
+          "grade": 17,
+          "level": 81,
+          "server": "바이람 02"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "깨비",
+            "guild": "마초",
+            "class": "집행관",
+            "grade": 17,
+            "level": 81,
+            "server": "바이람 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "17": [
+          {
+            "nickname": "깨비",
+            "guild": "마초",
+            "class": "집행관",
+            "grade": 17,
+            "level": 81,
+            "server": "바이람 02"
+          }
+        ]
+      }
+    },
+    "버프": {
+      "members": 14,
+      "byClass": {
+        "주문각인사": 5,
+        "집행관": 5,
+        "심연추방자": 3,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "18": 1,
+        "16": 3,
+        "15": 5,
+        "14": 4,
+        "5": 1
+      },
+      "membersList": [
+        {
+          "nickname": "버프야",
+          "guild": "버프",
+          "class": "주문각인사",
+          "grade": 18,
+          "level": 81,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "두부찡",
+          "guild": "버프",
+          "class": "집행관",
+          "grade": 16,
+          "level": 80,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "풍백",
+          "guild": "버프",
+          "class": "집행관",
+          "grade": 16,
+          "level": 80,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "뚝배기",
+          "guild": "버프",
+          "class": "집행관",
+          "grade": 16,
+          "level": 76,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "보름달",
+          "guild": "버프",
+          "class": "심연추방자",
+          "grade": 15,
+          "level": 80,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "왕조의무덤",
+          "guild": "버프",
+          "class": "주문각인사",
+          "grade": 15,
+          "level": 79,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "혼령",
+          "guild": "버프",
+          "class": "집행관",
+          "grade": 15,
+          "level": 78,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "공속",
+          "guild": "버프",
+          "class": "집행관",
+          "grade": 15,
+          "level": 76,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "초코초코야",
+          "guild": "버프",
+          "class": "환영검사",
+          "grade": 15,
+          "level": 76,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "격퇴",
+          "guild": "버프",
+          "class": "주문각인사",
+          "grade": 14,
+          "level": 76,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "우직",
+          "guild": "버프",
+          "class": "주문각인사",
+          "grade": 14,
+          "level": 76,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "한문",
+          "guild": "버프",
+          "class": "주문각인사",
+          "grade": 14,
+          "level": 76,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "디비",
+          "guild": "버프",
+          "class": "심연추방자",
+          "grade": 14,
+          "level": 75,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "형준",
+          "guild": "버프",
+          "class": "심연추방자",
+          "grade": 5,
+          "level": 71,
+          "server": "바이람 02"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "버프야",
+            "guild": "버프",
+            "class": "주문각인사",
+            "grade": 18,
+            "level": 81,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "왕조의무덤",
+            "guild": "버프",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 79,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "격퇴",
+            "guild": "버프",
+            "class": "주문각인사",
+            "grade": 14,
+            "level": 76,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "우직",
+            "guild": "버프",
+            "class": "주문각인사",
+            "grade": 14,
+            "level": 76,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "한문",
+            "guild": "버프",
+            "class": "주문각인사",
+            "grade": 14,
+            "level": 76,
+            "server": "바이람 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "두부찡",
+            "guild": "버프",
+            "class": "집행관",
+            "grade": 16,
+            "level": 80,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "풍백",
+            "guild": "버프",
+            "class": "집행관",
+            "grade": 16,
+            "level": 80,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "뚝배기",
+            "guild": "버프",
+            "class": "집행관",
+            "grade": 16,
+            "level": 76,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "혼령",
+            "guild": "버프",
+            "class": "집행관",
+            "grade": 15,
+            "level": 78,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "공속",
+            "guild": "버프",
+            "class": "집행관",
+            "grade": 15,
+            "level": 76,
+            "server": "바이람 02"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "보름달",
+            "guild": "버프",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 80,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "디비",
+            "guild": "버프",
+            "class": "심연추방자",
+            "grade": 14,
+            "level": 75,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "형준",
+            "guild": "버프",
+            "class": "심연추방자",
+            "grade": 5,
+            "level": 71,
+            "server": "바이람 02"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "초코초코야",
+            "guild": "버프",
+            "class": "환영검사",
+            "grade": 15,
+            "level": 76,
+            "server": "바이람 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "18": [
+          {
+            "nickname": "버프야",
+            "guild": "버프",
+            "class": "주문각인사",
+            "grade": 18,
+            "level": 81,
+            "server": "바이람 02"
+          }
+        ],
+        "16": [
+          {
+            "nickname": "두부찡",
+            "guild": "버프",
+            "class": "집행관",
+            "grade": 16,
+            "level": 80,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "풍백",
+            "guild": "버프",
+            "class": "집행관",
+            "grade": 16,
+            "level": 80,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "뚝배기",
+            "guild": "버프",
+            "class": "집행관",
+            "grade": 16,
+            "level": 76,
+            "server": "바이람 02"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "보름달",
+            "guild": "버프",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 80,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "왕조의무덤",
+            "guild": "버프",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 79,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "혼령",
+            "guild": "버프",
+            "class": "집행관",
+            "grade": 15,
+            "level": 78,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "공속",
+            "guild": "버프",
+            "class": "집행관",
+            "grade": 15,
+            "level": 76,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "초코초코야",
+            "guild": "버프",
+            "class": "환영검사",
+            "grade": 15,
+            "level": 76,
+            "server": "바이람 02"
+          }
+        ],
+        "14": [
+          {
+            "nickname": "격퇴",
+            "guild": "버프",
+            "class": "주문각인사",
+            "grade": 14,
+            "level": 76,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "우직",
+            "guild": "버프",
+            "class": "주문각인사",
+            "grade": 14,
+            "level": 76,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "한문",
+            "guild": "버프",
+            "class": "주문각인사",
+            "grade": 14,
+            "level": 76,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "디비",
+            "guild": "버프",
+            "class": "심연추방자",
+            "grade": 14,
+            "level": 75,
+            "server": "바이람 02"
+          }
+        ],
+        "5": [
+          {
+            "nickname": "형준",
+            "guild": "버프",
+            "class": "심연추방자",
+            "grade": 5,
+            "level": 71,
+            "server": "바이람 02"
+          }
+        ]
+      }
+    },
+    "끕": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "18": 1
+      },
+      "membersList": [
+        {
+          "nickname": "끕끕",
+          "guild": "끕",
+          "class": "환영검사",
+          "grade": 18,
+          "level": 80,
+          "server": "바이람 02"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "끕끕",
+            "guild": "끕",
+            "class": "환영검사",
+            "grade": 18,
+            "level": 80,
+            "server": "바이람 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "18": [
+          {
+            "nickname": "끕끕",
+            "guild": "끕",
+            "class": "환영검사",
+            "grade": 18,
+            "level": 80,
+            "server": "바이람 02"
+          }
+        ]
+      }
+    },
+    "길드": {
+      "members": 2,
+      "byClass": {
+        "심연추방자": 2
+      },
+      "byGrade": {
+        "13": 1,
+        "11": 1
+      },
+      "membersList": [
+        {
+          "nickname": "리퍼",
+          "guild": "길드",
+          "class": "심연추방자",
+          "grade": 13,
+          "level": 77,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "호랑이",
+          "guild": "길드",
+          "class": "심연추방자",
+          "grade": 11,
+          "level": 79,
+          "server": "바이람 02"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "리퍼",
+            "guild": "길드",
+            "class": "심연추방자",
+            "grade": 13,
+            "level": 77,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "호랑이",
+            "guild": "길드",
+            "class": "심연추방자",
+            "grade": 11,
+            "level": 79,
+            "server": "바이람 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "11": [
+          {
+            "nickname": "호랑이",
+            "guild": "길드",
+            "class": "심연추방자",
+            "grade": 11,
+            "level": 79,
+            "server": "바이람 02"
+          }
+        ],
+        "13": [
+          {
+            "nickname": "리퍼",
+            "guild": "길드",
+            "class": "심연추방자",
+            "grade": 13,
+            "level": 77,
+            "server": "바이람 02"
+          }
+        ]
+      }
+    },
+    "다크문": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "15": 1
+      },
+      "membersList": [
+        {
+          "nickname": "어둠달",
+          "guild": "다크문",
+          "class": "주문각인사",
+          "grade": 15,
+          "level": 78,
+          "server": "바이람 02"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "어둠달",
+            "guild": "다크문",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 78,
+            "server": "바이람 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "15": [
+          {
+            "nickname": "어둠달",
+            "guild": "다크문",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 78,
+            "server": "바이람 02"
+          }
+        ]
+      }
+    },
+    "명조": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "15": 1
+      },
+      "membersList": [
+        {
+          "nickname": "럭키",
+          "guild": "명조",
+          "class": "향사수",
+          "grade": 15,
+          "level": 78,
+          "server": "바이람 02"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "럭키",
+            "guild": "명조",
+            "class": "향사수",
+            "grade": 15,
+            "level": 78,
+            "server": "바이람 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "15": [
+          {
+            "nickname": "럭키",
+            "guild": "명조",
+            "class": "향사수",
+            "grade": 15,
+            "level": 78,
+            "server": "바이람 02"
+          }
+        ]
+      }
+    },
+    "이이잉": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "15": 1
+      },
+      "membersList": [
+        {
+          "nickname": "놀러와써요",
+          "guild": "이이잉",
+          "class": "환영검사",
+          "grade": 15,
+          "level": 77,
+          "server": "바이람 02"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "놀러와써요",
+            "guild": "이이잉",
+            "class": "환영검사",
+            "grade": 15,
+            "level": 77,
+            "server": "바이람 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "15": [
+          {
+            "nickname": "놀러와써요",
+            "guild": "이이잉",
+            "class": "환영검사",
+            "grade": 15,
+            "level": 77,
+            "server": "바이람 02"
+          }
+        ]
+      }
+    },
+    "명품": {
+      "members": 3,
+      "byClass": {
+        "태양감시자": 1,
+        "심연추방자": 1,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "15": 1,
+        "13": 1,
+        "12": 1
+      },
+      "membersList": [
+        {
+          "nickname": "명품",
+          "guild": "명품",
+          "class": "태양감시자",
+          "grade": 15,
+          "level": 77,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "발베르데",
+          "guild": "명품",
+          "class": "심연추방자",
+          "grade": 13,
+          "level": 75,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "미키",
+          "guild": "명품",
+          "class": "환영검사",
+          "grade": 12,
+          "level": 73,
+          "server": "바이람 02"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "명품",
+            "guild": "명품",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 77,
+            "server": "바이람 02"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "발베르데",
+            "guild": "명품",
+            "class": "심연추방자",
+            "grade": 13,
+            "level": 75,
+            "server": "바이람 02"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "미키",
+            "guild": "명품",
+            "class": "환영검사",
+            "grade": 12,
+            "level": 73,
+            "server": "바이람 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "15": [
+          {
+            "nickname": "명품",
+            "guild": "명품",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 77,
+            "server": "바이람 02"
+          }
+        ],
+        "13": [
+          {
+            "nickname": "발베르데",
+            "guild": "명품",
+            "class": "심연추방자",
+            "grade": 13,
+            "level": 75,
+            "server": "바이람 02"
+          }
+        ],
+        "12": [
+          {
+            "nickname": "미키",
+            "guild": "명품",
+            "class": "환영검사",
+            "grade": 12,
+            "level": 73,
+            "server": "바이람 02"
+          }
+        ]
+      }
+    },
+    "수호": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "14": 1
+      },
+      "membersList": [
+        {
+          "nickname": "집탱이",
+          "guild": "수호",
+          "class": "집행관",
+          "grade": 14,
+          "level": 76,
+          "server": "바이람 02"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "집탱이",
+            "guild": "수호",
+            "class": "집행관",
+            "grade": 14,
+            "level": 76,
+            "server": "바이람 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "14": [
+          {
+            "nickname": "집탱이",
+            "guild": "수호",
+            "class": "집행관",
+            "grade": 14,
+            "level": 76,
+            "server": "바이람 02"
+          }
+        ]
+      }
+    },
+    "쬬꼬": {
+      "members": 1,
+      "byClass": {
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "13": 1
+      },
+      "membersList": [
+        {
+          "nickname": "내일",
+          "guild": "쬬꼬",
+          "class": "심연추방자",
+          "grade": 13,
+          "level": 74,
+          "server": "바이람 02"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "내일",
+            "guild": "쬬꼬",
+            "class": "심연추방자",
+            "grade": 13,
+            "level": 74,
+            "server": "바이람 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "13": [
+          {
+            "nickname": "내일",
+            "guild": "쬬꼬",
+            "class": "심연추방자",
+            "grade": 13,
+            "level": 74,
+            "server": "바이람 02"
+          }
+        ]
+      }
+    },
+    "스타일": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "12": 1
+      },
+      "membersList": [
+        {
+          "nickname": "로맨스",
+          "guild": "스타일",
+          "class": "주문각인사",
+          "grade": 12,
+          "level": 73,
+          "server": "바이람 02"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "로맨스",
+            "guild": "스타일",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 73,
+            "server": "바이람 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "12": [
+          {
+            "nickname": "로맨스",
+            "guild": "스타일",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 73,
+            "server": "바이람 02"
+          }
+        ]
+      }
+    },
+    "보가트의원소": {
+      "members": 1,
+      "byClass": {
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "13": 1
+      },
+      "membersList": [
+        {
+          "nickname": "보라",
+          "guild": "보가트의원소",
+          "class": "심연추방자",
+          "grade": 13,
+          "level": 73,
+          "server": "바이람 02"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "보라",
+            "guild": "보가트의원소",
+            "class": "심연추방자",
+            "grade": 13,
+            "level": 73,
+            "server": "바이람 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "13": [
+          {
+            "nickname": "보라",
+            "guild": "보가트의원소",
+            "class": "심연추방자",
+            "grade": 13,
+            "level": 73,
+            "server": "바이람 02"
+          }
+        ]
+      }
+    },
+    "메머드": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "11": 1
+      },
+      "membersList": [
+        {
+          "nickname": "지나가유",
+          "guild": "메머드",
+          "class": "집행관",
+          "grade": 11,
+          "level": 72,
+          "server": "바이람 02"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "지나가유",
+            "guild": "메머드",
+            "class": "집행관",
+            "grade": 11,
+            "level": 72,
+            "server": "바이람 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "11": [
+          {
+            "nickname": "지나가유",
+            "guild": "메머드",
+            "class": "집행관",
+            "grade": 11,
+            "level": 72,
+            "server": "바이람 02"
+          }
+        ]
+      }
+    },
+    "포카리": {
+      "members": 2,
+      "byClass": {
+        "향사수": 2
+      },
+      "byGrade": {
+        "4": 1,
+        "3": 1
+      },
+      "membersList": [
+        {
+          "nickname": "흑별",
+          "guild": "포카리",
+          "class": "향사수",
+          "grade": 4,
+          "level": 71,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "금별",
+          "guild": "포카리",
+          "class": "향사수",
+          "grade": 3,
+          "level": 71,
+          "server": "바이람 02"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "흑별",
+            "guild": "포카리",
+            "class": "향사수",
+            "grade": 4,
+            "level": 71,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "금별",
+            "guild": "포카리",
+            "class": "향사수",
+            "grade": 3,
+            "level": 71,
+            "server": "바이람 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "3": [
+          {
+            "nickname": "금별",
+            "guild": "포카리",
+            "class": "향사수",
+            "grade": 3,
+            "level": 71,
+            "server": "바이람 02"
+          }
+        ],
+        "4": [
+          {
+            "nickname": "흑별",
+            "guild": "포카리",
+            "class": "향사수",
+            "grade": 4,
+            "level": 71,
+            "server": "바이람 02"
+          }
+        ]
+      }
+    },
+    "물푸레의인면수": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "8": 1
+      },
+      "membersList": [
+        {
+          "nickname": "철방",
+          "guild": "물푸레의인면수",
+          "class": "집행관",
+          "grade": 8,
+          "level": 71,
+          "server": "바이람 02"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "철방",
+            "guild": "물푸레의인면수",
+            "class": "집행관",
+            "grade": 8,
+            "level": 71,
+            "server": "바이람 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "8": [
+          {
+            "nickname": "철방",
+            "guild": "물푸레의인면수",
+            "class": "집행관",
+            "grade": 8,
+            "level": 71,
+            "server": "바이람 02"
+          }
+        ]
+      }
+    },
+    "흑빽반점": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "11": 1
+      },
+      "membersList": [
+        {
+          "nickname": "대꾸",
+          "guild": "흑빽반점",
+          "class": "주문각인사",
+          "grade": 11,
+          "level": 71,
+          "server": "바이람 02"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "대꾸",
+            "guild": "흑빽반점",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 71,
+            "server": "바이람 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "11": [
+          {
+            "nickname": "대꾸",
+            "guild": "흑빽반점",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 71,
+            "server": "바이람 02"
+          }
+        ]
+      }
+    },
+    "글로리": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "북서풍",
+          "guild": "글로리",
+          "class": "향사수",
+          "grade": 1,
+          "level": 71,
+          "server": "바이람 02"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "북서풍",
+            "guild": "글로리",
+            "class": "향사수",
+            "grade": 1,
+            "level": 71,
+            "server": "바이람 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "북서풍",
+            "guild": "글로리",
+            "class": "향사수",
+            "grade": 1,
+            "level": 71,
+            "server": "바이람 02"
+          }
+        ]
+      }
+    }
+  }
+}

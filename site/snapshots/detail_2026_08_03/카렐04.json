@@ -1,0 +1,2353 @@
+{
+  "server": "카렐 04",
+  "guilds": {
+    "시월애": {
+      "members": 2,
+      "byClass": {
+        "집행관": 1,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "20": 1,
+        "11": 1
+      },
+      "membersList": [
+        {
+          "nickname": "해적왕루피",
+          "guild": "시월애",
+          "class": "집행관",
+          "grade": 20,
+          "level": 86,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "루루",
+          "guild": "시월애",
+          "class": "주문각인사",
+          "grade": 11,
+          "level": 75,
+          "server": "카렐 04"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "해적왕루피",
+            "guild": "시월애",
+            "class": "집행관",
+            "grade": 20,
+            "level": 86,
+            "server": "카렐 04"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "루루",
+            "guild": "시월애",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 75,
+            "server": "카렐 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "해적왕루피",
+            "guild": "시월애",
+            "class": "집행관",
+            "grade": 20,
+            "level": 86,
+            "server": "카렐 04"
+          }
+        ],
+        "11": [
+          {
+            "nickname": "루루",
+            "guild": "시월애",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 75,
+            "server": "카렐 04"
+          }
+        ]
+      }
+    },
+    "혈액형": {
+      "members": 11,
+      "byClass": {
+        "향사수": 6,
+        "심연추방자": 2,
+        "주문각인사": 1,
+        "환영검사": 1,
+        "집행관": 1
+      },
+      "byGrade": {
+        "21": 1,
+        "19": 2,
+        "17": 3,
+        "15": 1,
+        "14": 4
+      },
+      "membersList": [
+        {
+          "nickname": "통감자",
+          "guild": "혈액형",
+          "class": "향사수",
+          "grade": 21,
+          "level": 86,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "소서양",
+          "guild": "혈액형",
+          "class": "주문각인사",
+          "grade": 19,
+          "level": 83,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "팔레스",
+          "guild": "혈액형",
+          "class": "심연추방자",
+          "grade": 19,
+          "level": 82,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "사탕",
+          "guild": "혈액형",
+          "class": "향사수",
+          "grade": 17,
+          "level": 81,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "전설의배추양",
+          "guild": "혈액형",
+          "class": "환영검사",
+          "grade": 17,
+          "level": 80,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "집뿡이",
+          "guild": "혈액형",
+          "class": "집행관",
+          "grade": 17,
+          "level": 80,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "메이슨",
+          "guild": "혈액형",
+          "class": "향사수",
+          "grade": 15,
+          "level": 76,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "효시",
+          "guild": "혈액형",
+          "class": "향사수",
+          "grade": 14,
+          "level": 77,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "달팽이",
+          "guild": "혈액형",
+          "class": "심연추방자",
+          "grade": 14,
+          "level": 75,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "이쿤",
+          "guild": "혈액형",
+          "class": "향사수",
+          "grade": 14,
+          "level": 75,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "젊은군주",
+          "guild": "혈액형",
+          "class": "향사수",
+          "grade": 14,
+          "level": 75,
+          "server": "카렐 04"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "통감자",
+            "guild": "혈액형",
+            "class": "향사수",
+            "grade": 21,
+            "level": 86,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "사탕",
+            "guild": "혈액형",
+            "class": "향사수",
+            "grade": 17,
+            "level": 81,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "메이슨",
+            "guild": "혈액형",
+            "class": "향사수",
+            "grade": 15,
+            "level": 76,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "효시",
+            "guild": "혈액형",
+            "class": "향사수",
+            "grade": 14,
+            "level": 77,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "이쿤",
+            "guild": "혈액형",
+            "class": "향사수",
+            "grade": 14,
+            "level": 75,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "젊은군주",
+            "guild": "혈액형",
+            "class": "향사수",
+            "grade": 14,
+            "level": 75,
+            "server": "카렐 04"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "소서양",
+            "guild": "혈액형",
+            "class": "주문각인사",
+            "grade": 19,
+            "level": 83,
+            "server": "카렐 04"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "팔레스",
+            "guild": "혈액형",
+            "class": "심연추방자",
+            "grade": 19,
+            "level": 82,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "달팽이",
+            "guild": "혈액형",
+            "class": "심연추방자",
+            "grade": 14,
+            "level": 75,
+            "server": "카렐 04"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "전설의배추양",
+            "guild": "혈액형",
+            "class": "환영검사",
+            "grade": 17,
+            "level": 80,
+            "server": "카렐 04"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "집뿡이",
+            "guild": "혈액형",
+            "class": "집행관",
+            "grade": 17,
+            "level": 80,
+            "server": "카렐 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "통감자",
+            "guild": "혈액형",
+            "class": "향사수",
+            "grade": 21,
+            "level": 86,
+            "server": "카렐 04"
+          }
+        ],
+        "19": [
+          {
+            "nickname": "소서양",
+            "guild": "혈액형",
+            "class": "주문각인사",
+            "grade": 19,
+            "level": 83,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "팔레스",
+            "guild": "혈액형",
+            "class": "심연추방자",
+            "grade": 19,
+            "level": 82,
+            "server": "카렐 04"
+          }
+        ],
+        "17": [
+          {
+            "nickname": "사탕",
+            "guild": "혈액형",
+            "class": "향사수",
+            "grade": 17,
+            "level": 81,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "전설의배추양",
+            "guild": "혈액형",
+            "class": "환영검사",
+            "grade": 17,
+            "level": 80,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "집뿡이",
+            "guild": "혈액형",
+            "class": "집행관",
+            "grade": 17,
+            "level": 80,
+            "server": "카렐 04"
+          }
+        ],
+        "14": [
+          {
+            "nickname": "효시",
+            "guild": "혈액형",
+            "class": "향사수",
+            "grade": 14,
+            "level": 77,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "달팽이",
+            "guild": "혈액형",
+            "class": "심연추방자",
+            "grade": 14,
+            "level": 75,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "이쿤",
+            "guild": "혈액형",
+            "class": "향사수",
+            "grade": 14,
+            "level": 75,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "젊은군주",
+            "guild": "혈액형",
+            "class": "향사수",
+            "grade": 14,
+            "level": 75,
+            "server": "카렐 04"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "메이슨",
+            "guild": "혈액형",
+            "class": "향사수",
+            "grade": 15,
+            "level": 76,
+            "server": "카렐 04"
+          }
+        ]
+      }
+    },
+    "어시스트모드": {
+      "members": 17,
+      "byClass": {
+        "주문각인사": 6,
+        "향사수": 4,
+        "태양감시자": 4,
+        "집행관": 2,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "21": 1,
+        "19": 3,
+        "17": 1,
+        "16": 3,
+        "14": 3,
+        "13": 3,
+        "12": 1,
+        "11": 2
+      },
+      "membersList": [
+        {
+          "nickname": "오리지널",
+          "guild": "어시스트모드",
+          "class": "환영검사",
+          "grade": 21,
+          "level": 85,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "리젠",
+          "guild": "어시스트모드",
+          "class": "집행관",
+          "grade": 19,
+          "level": 85,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "존쓰",
+          "guild": "어시스트모드",
+          "class": "집행관",
+          "grade": 19,
+          "level": 84,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "절친포핀",
+          "guild": "어시스트모드",
+          "class": "주문각인사",
+          "grade": 19,
+          "level": 83,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "인연",
+          "guild": "어시스트모드",
+          "class": "향사수",
+          "grade": 17,
+          "level": 81,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "사랑과영혼",
+          "guild": "어시스트모드",
+          "class": "주문각인사",
+          "grade": 16,
+          "level": 81,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "겨울숲",
+          "guild": "어시스트모드",
+          "class": "태양감시자",
+          "grade": 16,
+          "level": 80,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "단결",
+          "guild": "어시스트모드",
+          "class": "주문각인사",
+          "grade": 16,
+          "level": 80,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "파도",
+          "guild": "어시스트모드",
+          "class": "향사수",
+          "grade": 14,
+          "level": 79,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "하드워크",
+          "guild": "어시스트모드",
+          "class": "태양감시자",
+          "grade": 14,
+          "level": 79,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "하키",
+          "guild": "어시스트모드",
+          "class": "태양감시자",
+          "grade": 14,
+          "level": 79,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "롱런",
+          "guild": "어시스트모드",
+          "class": "태양감시자",
+          "grade": 13,
+          "level": 78,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "샤샷",
+          "guild": "어시스트모드",
+          "class": "주문각인사",
+          "grade": 13,
+          "level": 78,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "어시스트모드",
+          "guild": "어시스트모드",
+          "class": "주문각인사",
+          "grade": 13,
+          "level": 78,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "봄날",
+          "guild": "어시스트모드",
+          "class": "주문각인사",
+          "grade": 12,
+          "level": 77,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "제마",
+          "guild": "어시스트모드",
+          "class": "향사수",
+          "grade": 11,
+          "level": 77,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "초록빛",
+          "guild": "어시스트모드",
+          "class": "향사수",
+          "grade": 11,
+          "level": 75,
+          "server": "카렐 04"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "오리지널",
+            "guild": "어시스트모드",
+            "class": "환영검사",
+            "grade": 21,
+            "level": 85,
+            "server": "카렐 04"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "리젠",
+            "guild": "어시스트모드",
+            "class": "집행관",
+            "grade": 19,
+            "level": 85,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "존쓰",
+            "guild": "어시스트모드",
+            "class": "집행관",
+            "grade": 19,
+            "level": 84,
+            "server": "카렐 04"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "절친포핀",
+            "guild": "어시스트모드",
+            "class": "주문각인사",
+            "grade": 19,
+            "level": 83,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "사랑과영혼",
+            "guild": "어시스트모드",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 81,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "단결",
+            "guild": "어시스트모드",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 80,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "샤샷",
+            "guild": "어시스트모드",
+            "class": "주문각인사",
+            "grade": 13,
+            "level": 78,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "어시스트모드",
+            "guild": "어시스트모드",
+            "class": "주문각인사",
+            "grade": 13,
+            "level": 78,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "봄날",
+            "guild": "어시스트모드",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 77,
+            "server": "카렐 04"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "인연",
+            "guild": "어시스트모드",
+            "class": "향사수",
+            "grade": 17,
+            "level": 81,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "파도",
+            "guild": "어시스트모드",
+            "class": "향사수",
+            "grade": 14,
+            "level": 79,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "제마",
+            "guild": "어시스트모드",
+            "class": "향사수",
+            "grade": 11,
+            "level": 77,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "초록빛",
+            "guild": "어시스트모드",
+            "class": "향사수",
+            "grade": 11,
+            "level": 75,
+            "server": "카렐 04"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "겨울숲",
+            "guild": "어시스트모드",
+            "class": "태양감시자",
+            "grade": 16,
+            "level": 80,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "하드워크",
+            "guild": "어시스트모드",
+            "class": "태양감시자",
+            "grade": 14,
+            "level": 79,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "하키",
+            "guild": "어시스트모드",
+            "class": "태양감시자",
+            "grade": 14,
+            "level": 79,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "롱런",
+            "guild": "어시스트모드",
+            "class": "태양감시자",
+            "grade": 13,
+            "level": 78,
+            "server": "카렐 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "오리지널",
+            "guild": "어시스트모드",
+            "class": "환영검사",
+            "grade": 21,
+            "level": 85,
+            "server": "카렐 04"
+          }
+        ],
+        "19": [
+          {
+            "nickname": "리젠",
+            "guild": "어시스트모드",
+            "class": "집행관",
+            "grade": 19,
+            "level": 85,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "존쓰",
+            "guild": "어시스트모드",
+            "class": "집행관",
+            "grade": 19,
+            "level": 84,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "절친포핀",
+            "guild": "어시스트모드",
+            "class": "주문각인사",
+            "grade": 19,
+            "level": 83,
+            "server": "카렐 04"
+          }
+        ],
+        "17": [
+          {
+            "nickname": "인연",
+            "guild": "어시스트모드",
+            "class": "향사수",
+            "grade": 17,
+            "level": 81,
+            "server": "카렐 04"
+          }
+        ],
+        "16": [
+          {
+            "nickname": "사랑과영혼",
+            "guild": "어시스트모드",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 81,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "겨울숲",
+            "guild": "어시스트모드",
+            "class": "태양감시자",
+            "grade": 16,
+            "level": 80,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "단결",
+            "guild": "어시스트모드",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 80,
+            "server": "카렐 04"
+          }
+        ],
+        "14": [
+          {
+            "nickname": "파도",
+            "guild": "어시스트모드",
+            "class": "향사수",
+            "grade": 14,
+            "level": 79,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "하드워크",
+            "guild": "어시스트모드",
+            "class": "태양감시자",
+            "grade": 14,
+            "level": 79,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "하키",
+            "guild": "어시스트모드",
+            "class": "태양감시자",
+            "grade": 14,
+            "level": 79,
+            "server": "카렐 04"
+          }
+        ],
+        "13": [
+          {
+            "nickname": "롱런",
+            "guild": "어시스트모드",
+            "class": "태양감시자",
+            "grade": 13,
+            "level": 78,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "샤샷",
+            "guild": "어시스트모드",
+            "class": "주문각인사",
+            "grade": 13,
+            "level": 78,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "어시스트모드",
+            "guild": "어시스트모드",
+            "class": "주문각인사",
+            "grade": 13,
+            "level": 78,
+            "server": "카렐 04"
+          }
+        ],
+        "12": [
+          {
+            "nickname": "봄날",
+            "guild": "어시스트모드",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 77,
+            "server": "카렐 04"
+          }
+        ],
+        "11": [
+          {
+            "nickname": "제마",
+            "guild": "어시스트모드",
+            "class": "향사수",
+            "grade": 11,
+            "level": 77,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "초록빛",
+            "guild": "어시스트모드",
+            "class": "향사수",
+            "grade": 11,
+            "level": 75,
+            "server": "카렐 04"
+          }
+        ]
+      }
+    },
+    "한우": {
+      "members": 10,
+      "byClass": {
+        "향사수": 6,
+        "환영검사": 2,
+        "주문각인사": 1,
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "20": 1,
+        "19": 1,
+        "18": 1,
+        "16": 1,
+        "15": 1,
+        "14": 3,
+        "13": 1,
+        "12": 1
+      },
+      "membersList": [
+        {
+          "nickname": "믹스넛",
+          "guild": "한우",
+          "class": "향사수",
+          "grade": 20,
+          "level": 84,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "여행유튜버",
+          "guild": "한우",
+          "class": "향사수",
+          "grade": 19,
+          "level": 84,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "엑조디아",
+          "guild": "한우",
+          "class": "환영검사",
+          "grade": 18,
+          "level": 81,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "삐요코",
+          "guild": "한우",
+          "class": "향사수",
+          "grade": 16,
+          "level": 78,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "명상",
+          "guild": "한우",
+          "class": "심연추방자",
+          "grade": 15,
+          "level": 76,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "돼호",
+          "guild": "한우",
+          "class": "환영검사",
+          "grade": 14,
+          "level": 79,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "미스터맥",
+          "guild": "한우",
+          "class": "향사수",
+          "grade": 14,
+          "level": 76,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "프로즌",
+          "guild": "한우",
+          "class": "향사수",
+          "grade": 14,
+          "level": 76,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "삼성가",
+          "guild": "한우",
+          "class": "주문각인사",
+          "grade": 13,
+          "level": 78,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "Greenday",
+          "guild": "한우",
+          "class": "향사수",
+          "grade": 12,
+          "level": 78,
+          "server": "카렐 04"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "믹스넛",
+            "guild": "한우",
+            "class": "향사수",
+            "grade": 20,
+            "level": 84,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "여행유튜버",
+            "guild": "한우",
+            "class": "향사수",
+            "grade": 19,
+            "level": 84,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "삐요코",
+            "guild": "한우",
+            "class": "향사수",
+            "grade": 16,
+            "level": 78,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "미스터맥",
+            "guild": "한우",
+            "class": "향사수",
+            "grade": 14,
+            "level": 76,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "프로즌",
+            "guild": "한우",
+            "class": "향사수",
+            "grade": 14,
+            "level": 76,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "Greenday",
+            "guild": "한우",
+            "class": "향사수",
+            "grade": 12,
+            "level": 78,
+            "server": "카렐 04"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "엑조디아",
+            "guild": "한우",
+            "class": "환영검사",
+            "grade": 18,
+            "level": 81,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "돼호",
+            "guild": "한우",
+            "class": "환영검사",
+            "grade": 14,
+            "level": 79,
+            "server": "카렐 04"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "삼성가",
+            "guild": "한우",
+            "class": "주문각인사",
+            "grade": 13,
+            "level": 78,
+            "server": "카렐 04"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "명상",
+            "guild": "한우",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 76,
+            "server": "카렐 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "믹스넛",
+            "guild": "한우",
+            "class": "향사수",
+            "grade": 20,
+            "level": 84,
+            "server": "카렐 04"
+          }
+        ],
+        "19": [
+          {
+            "nickname": "여행유튜버",
+            "guild": "한우",
+            "class": "향사수",
+            "grade": 19,
+            "level": 84,
+            "server": "카렐 04"
+          }
+        ],
+        "18": [
+          {
+            "nickname": "엑조디아",
+            "guild": "한우",
+            "class": "환영검사",
+            "grade": 18,
+            "level": 81,
+            "server": "카렐 04"
+          }
+        ],
+        "14": [
+          {
+            "nickname": "돼호",
+            "guild": "한우",
+            "class": "환영검사",
+            "grade": 14,
+            "level": 79,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "미스터맥",
+            "guild": "한우",
+            "class": "향사수",
+            "grade": 14,
+            "level": 76,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "프로즌",
+            "guild": "한우",
+            "class": "향사수",
+            "grade": 14,
+            "level": 76,
+            "server": "카렐 04"
+          }
+        ],
+        "13": [
+          {
+            "nickname": "삼성가",
+            "guild": "한우",
+            "class": "주문각인사",
+            "grade": 13,
+            "level": 78,
+            "server": "카렐 04"
+          }
+        ],
+        "16": [
+          {
+            "nickname": "삐요코",
+            "guild": "한우",
+            "class": "향사수",
+            "grade": 16,
+            "level": 78,
+            "server": "카렐 04"
+          }
+        ],
+        "12": [
+          {
+            "nickname": "Greenday",
+            "guild": "한우",
+            "class": "향사수",
+            "grade": 12,
+            "level": 78,
+            "server": "카렐 04"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "명상",
+            "guild": "한우",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 76,
+            "server": "카렐 04"
+          }
+        ]
+      }
+    },
+    "룩말이": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "18": 1
+      },
+      "membersList": [
+        {
+          "nickname": "카베진",
+          "guild": "룩말이",
+          "class": "집행관",
+          "grade": 18,
+          "level": 82,
+          "server": "카렐 04"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "카베진",
+            "guild": "룩말이",
+            "class": "집행관",
+            "grade": 18,
+            "level": 82,
+            "server": "카렐 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "18": [
+          {
+            "nickname": "카베진",
+            "guild": "룩말이",
+            "class": "집행관",
+            "grade": 18,
+            "level": 82,
+            "server": "카렐 04"
+          }
+        ]
+      }
+    },
+    "o자유시간o": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "17": 1
+      },
+      "membersList": [
+        {
+          "nickname": "지키는주인",
+          "guild": "o자유시간o",
+          "class": "집행관",
+          "grade": 17,
+          "level": 82,
+          "server": "카렐 04"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "지키는주인",
+            "guild": "o자유시간o",
+            "class": "집행관",
+            "grade": 17,
+            "level": 82,
+            "server": "카렐 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "17": [
+          {
+            "nickname": "지키는주인",
+            "guild": "o자유시간o",
+            "class": "집행관",
+            "grade": 17,
+            "level": 82,
+            "server": "카렐 04"
+          }
+        ]
+      }
+    },
+    "올인": {
+      "members": 8,
+      "byClass": {
+        "주문각인사": 4,
+        "심연추방자": 3,
+        "집행관": 1
+      },
+      "byGrade": {
+        "17": 1,
+        "16": 2,
+        "15": 5
+      },
+      "membersList": [
+        {
+          "nickname": "태양쭌",
+          "guild": "올인",
+          "class": "집행관",
+          "grade": 17,
+          "level": 82,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "목동마력",
+          "guild": "올인",
+          "class": "주문각인사",
+          "grade": 16,
+          "level": 80,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "영웅쭌이아빠",
+          "guild": "올인",
+          "class": "심연추방자",
+          "grade": 16,
+          "level": 79,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "전설의바다",
+          "guild": "올인",
+          "class": "심연추방자",
+          "grade": 15,
+          "level": 79,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "도트",
+          "guild": "올인",
+          "class": "주문각인사",
+          "grade": 15,
+          "level": 78,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "쇼잉",
+          "guild": "올인",
+          "class": "주문각인사",
+          "grade": 15,
+          "level": 76,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "유닛",
+          "guild": "올인",
+          "class": "주문각인사",
+          "grade": 15,
+          "level": 76,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "제로콜라",
+          "guild": "올인",
+          "class": "심연추방자",
+          "grade": 15,
+          "level": 76,
+          "server": "카렐 04"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "태양쭌",
+            "guild": "올인",
+            "class": "집행관",
+            "grade": 17,
+            "level": 82,
+            "server": "카렐 04"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "목동마력",
+            "guild": "올인",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 80,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "도트",
+            "guild": "올인",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 78,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "쇼잉",
+            "guild": "올인",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 76,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "유닛",
+            "guild": "올인",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 76,
+            "server": "카렐 04"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "영웅쭌이아빠",
+            "guild": "올인",
+            "class": "심연추방자",
+            "grade": 16,
+            "level": 79,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "전설의바다",
+            "guild": "올인",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 79,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "제로콜라",
+            "guild": "올인",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 76,
+            "server": "카렐 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "17": [
+          {
+            "nickname": "태양쭌",
+            "guild": "올인",
+            "class": "집행관",
+            "grade": 17,
+            "level": 82,
+            "server": "카렐 04"
+          }
+        ],
+        "16": [
+          {
+            "nickname": "목동마력",
+            "guild": "올인",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 80,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "영웅쭌이아빠",
+            "guild": "올인",
+            "class": "심연추방자",
+            "grade": 16,
+            "level": 79,
+            "server": "카렐 04"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "전설의바다",
+            "guild": "올인",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 79,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "도트",
+            "guild": "올인",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 78,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "쇼잉",
+            "guild": "올인",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 76,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "유닛",
+            "guild": "올인",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 76,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "제로콜라",
+            "guild": "올인",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 76,
+            "server": "카렐 04"
+          }
+        ]
+      }
+    },
+    "민둥산": {
+      "members": 2,
+      "byClass": {
+        "향사수": 1,
+        "집행관": 1
+      },
+      "byGrade": {
+        "17": 1,
+        "14": 1
+      },
+      "membersList": [
+        {
+          "nickname": "오뎅주세요",
+          "guild": "민둥산",
+          "class": "향사수",
+          "grade": 17,
+          "level": 81,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "민둥이",
+          "guild": "민둥산",
+          "class": "집행관",
+          "grade": 14,
+          "level": 76,
+          "server": "카렐 04"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "오뎅주세요",
+            "guild": "민둥산",
+            "class": "향사수",
+            "grade": 17,
+            "level": 81,
+            "server": "카렐 04"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "민둥이",
+            "guild": "민둥산",
+            "class": "집행관",
+            "grade": 14,
+            "level": 76,
+            "server": "카렐 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "17": [
+          {
+            "nickname": "오뎅주세요",
+            "guild": "민둥산",
+            "class": "향사수",
+            "grade": 17,
+            "level": 81,
+            "server": "카렐 04"
+          }
+        ],
+        "14": [
+          {
+            "nickname": "민둥이",
+            "guild": "민둥산",
+            "class": "집행관",
+            "grade": 14,
+            "level": 76,
+            "server": "카렐 04"
+          }
+        ]
+      }
+    },
+    "발해발해": {
+      "members": 7,
+      "byClass": {
+        "주문각인사": 2,
+        "환영검사": 2,
+        "심연추방자": 1,
+        "집행관": 1,
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "16": 2,
+        "15": 1,
+        "13": 3,
+        "12": 1
+      },
+      "membersList": [
+        {
+          "nickname": "켄신고",
+          "guild": "발해발해",
+          "class": "심연추방자",
+          "grade": 16,
+          "level": 81,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "이두장인",
+          "guild": "발해발해",
+          "class": "집행관",
+          "grade": 16,
+          "level": 80,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "강쿠팡",
+          "guild": "발해발해",
+          "class": "주문각인사",
+          "grade": 15,
+          "level": 80,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "완전신나",
+          "guild": "발해발해",
+          "class": "환영검사",
+          "grade": 13,
+          "level": 76,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "강둘기",
+          "guild": "발해발해",
+          "class": "주문각인사",
+          "grade": 13,
+          "level": 75,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "암냠냠",
+          "guild": "발해발해",
+          "class": "태양감시자",
+          "grade": 13,
+          "level": 75,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "누룽지",
+          "guild": "발해발해",
+          "class": "환영검사",
+          "grade": 12,
+          "level": 76,
+          "server": "카렐 04"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "켄신고",
+            "guild": "발해발해",
+            "class": "심연추방자",
+            "grade": 16,
+            "level": 81,
+            "server": "카렐 04"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "강쿠팡",
+            "guild": "발해발해",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 80,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "강둘기",
+            "guild": "발해발해",
+            "class": "주문각인사",
+            "grade": 13,
+            "level": 75,
+            "server": "카렐 04"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "이두장인",
+            "guild": "발해발해",
+            "class": "집행관",
+            "grade": 16,
+            "level": 80,
+            "server": "카렐 04"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "완전신나",
+            "guild": "발해발해",
+            "class": "환영검사",
+            "grade": 13,
+            "level": 76,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "누룽지",
+            "guild": "발해발해",
+            "class": "환영검사",
+            "grade": 12,
+            "level": 76,
+            "server": "카렐 04"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "암냠냠",
+            "guild": "발해발해",
+            "class": "태양감시자",
+            "grade": 13,
+            "level": 75,
+            "server": "카렐 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "16": [
+          {
+            "nickname": "켄신고",
+            "guild": "발해발해",
+            "class": "심연추방자",
+            "grade": 16,
+            "level": 81,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "이두장인",
+            "guild": "발해발해",
+            "class": "집행관",
+            "grade": 16,
+            "level": 80,
+            "server": "카렐 04"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "강쿠팡",
+            "guild": "발해발해",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 80,
+            "server": "카렐 04"
+          }
+        ],
+        "12": [
+          {
+            "nickname": "누룽지",
+            "guild": "발해발해",
+            "class": "환영검사",
+            "grade": 12,
+            "level": 76,
+            "server": "카렐 04"
+          }
+        ],
+        "13": [
+          {
+            "nickname": "완전신나",
+            "guild": "발해발해",
+            "class": "환영검사",
+            "grade": 13,
+            "level": 76,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "강둘기",
+            "guild": "발해발해",
+            "class": "주문각인사",
+            "grade": 13,
+            "level": 75,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "암냠냠",
+            "guild": "발해발해",
+            "class": "태양감시자",
+            "grade": 13,
+            "level": 75,
+            "server": "카렐 04"
+          }
+        ]
+      }
+    },
+    "쪼꼬미": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "16": 1
+      },
+      "membersList": [
+        {
+          "nickname": "애패",
+          "guild": "쪼꼬미",
+          "class": "주문각인사",
+          "grade": 16,
+          "level": 80,
+          "server": "카렐 04"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "애패",
+            "guild": "쪼꼬미",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 80,
+            "server": "카렐 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "16": [
+          {
+            "nickname": "애패",
+            "guild": "쪼꼬미",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 80,
+            "server": "카렐 04"
+          }
+        ]
+      }
+    },
+    "퀘스트요": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "16": 1
+      },
+      "membersList": [
+        {
+          "nickname": "어질어질",
+          "guild": "퀘스트요",
+          "class": "태양감시자",
+          "grade": 16,
+          "level": 80,
+          "server": "카렐 04"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "어질어질",
+            "guild": "퀘스트요",
+            "class": "태양감시자",
+            "grade": 16,
+            "level": 80,
+            "server": "카렐 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "16": [
+          {
+            "nickname": "어질어질",
+            "guild": "퀘스트요",
+            "class": "태양감시자",
+            "grade": 16,
+            "level": 80,
+            "server": "카렐 04"
+          }
+        ]
+      }
+    },
+    "Baay": {
+      "members": 2,
+      "byClass": {
+        "주문각인사": 2
+      },
+      "byGrade": {
+        "16": 1,
+        "15": 1
+      },
+      "membersList": [
+        {
+          "nickname": "ABB",
+          "guild": "Baay",
+          "class": "주문각인사",
+          "grade": 16,
+          "level": 80,
+          "server": "카렐 04"
+        },
+        {
+          "nickname": "Theak",
+          "guild": "Baay",
+          "class": "주문각인사",
+          "grade": 15,
+          "level": 79,
+          "server": "카렐 04"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "ABB",
+            "guild": "Baay",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 80,
+            "server": "카렐 04"
+          },
+          {
+            "nickname": "Theak",
+            "guild": "Baay",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 79,
+            "server": "카렐 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "16": [
+          {
+            "nickname": "ABB",
+            "guild": "Baay",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 80,
+            "server": "카렐 04"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "Theak",
+            "guild": "Baay",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 79,
+            "server": "카렐 04"
+          }
+        ]
+      }
+    },
+    "헤비스모커": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "16": 1
+      },
+      "membersList": [
+        {
+          "nickname": "흑기삼",
+          "guild": "헤비스모커",
+          "class": "환영검사",
+          "grade": 16,
+          "level": 80,
+          "server": "카렐 04"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "흑기삼",
+            "guild": "헤비스모커",
+            "class": "환영검사",
+            "grade": 16,
+            "level": 80,
+            "server": "카렐 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "16": [
+          {
+            "nickname": "흑기삼",
+            "guild": "헤비스모커",
+            "class": "환영검사",
+            "grade": 16,
+            "level": 80,
+            "server": "카렐 04"
+          }
+        ]
+      }
+    },
+    "핑키원정대": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "16": 1
+      },
+      "membersList": [
+        {
+          "nickname": "아비라",
+          "guild": "핑키원정대",
+          "class": "주문각인사",
+          "grade": 16,
+          "level": 80,
+          "server": "카렐 04"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "아비라",
+            "guild": "핑키원정대",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 80,
+            "server": "카렐 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "16": [
+          {
+            "nickname": "아비라",
+            "guild": "핑키원정대",
+            "class": "주문각인사",
+            "grade": 16,
+            "level": 80,
+            "server": "카렐 04"
+          }
+        ]
+      }
+    },
+    "Happy": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "16": 1
+      },
+      "membersList": [
+        {
+          "nickname": "Garig",
+          "guild": "Happy",
+          "class": "환영검사",
+          "grade": 16,
+          "level": 79,
+          "server": "카렐 04"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "Garig",
+            "guild": "Happy",
+            "class": "환영검사",
+            "grade": 16,
+            "level": 79,
+            "server": "카렐 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "16": [
+          {
+            "nickname": "Garig",
+            "guild": "Happy",
+            "class": "환영검사",
+            "grade": 16,
+            "level": 79,
+            "server": "카렐 04"
+          }
+        ]
+      }
+    },
+    "카악": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "14": 1
+      },
+      "membersList": [
+        {
+          "nickname": "군터",
+          "guild": "카악",
+          "class": "주문각인사",
+          "grade": 14,
+          "level": 78,
+          "server": "카렐 04"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "군터",
+            "guild": "카악",
+            "class": "주문각인사",
+            "grade": 14,
+            "level": 78,
+            "server": "카렐 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "14": [
+          {
+            "nickname": "군터",
+            "guild": "카악",
+            "class": "주문각인사",
+            "grade": 14,
+            "level": 78,
+            "server": "카렐 04"
+          }
+        ]
+      }
+    },
+    "우마": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "16": 1
+      },
+      "membersList": [
+        {
+          "nickname": "사대미",
+          "guild": "우마",
+          "class": "향사수",
+          "grade": 16,
+          "level": 78,
+          "server": "카렐 04"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "사대미",
+            "guild": "우마",
+            "class": "향사수",
+            "grade": 16,
+            "level": 78,
+            "server": "카렐 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "16": [
+          {
+            "nickname": "사대미",
+            "guild": "우마",
+            "class": "향사수",
+            "grade": 16,
+            "level": 78,
+            "server": "카렐 04"
+          }
+        ]
+      }
+    },
+    "유니버스": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "14": 1
+      },
+      "membersList": [
+        {
+          "nickname": "탕후루",
+          "guild": "유니버스",
+          "class": "태양감시자",
+          "grade": 14,
+          "level": 77,
+          "server": "카렐 04"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "탕후루",
+            "guild": "유니버스",
+            "class": "태양감시자",
+            "grade": 14,
+            "level": 77,
+            "server": "카렐 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "14": [
+          {
+            "nickname": "탕후루",
+            "guild": "유니버스",
+            "class": "태양감시자",
+            "grade": 14,
+            "level": 77,
+            "server": "카렐 04"
+          }
+        ]
+      }
+    },
+    "부끄": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "14": 1
+      },
+      "membersList": [
+        {
+          "nickname": "잿빛",
+          "guild": "부끄",
+          "class": "집행관",
+          "grade": 14,
+          "level": 77,
+          "server": "카렐 04"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "잿빛",
+            "guild": "부끄",
+            "class": "집행관",
+            "grade": 14,
+            "level": 77,
+            "server": "카렐 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "14": [
+          {
+            "nickname": "잿빛",
+            "guild": "부끄",
+            "class": "집행관",
+            "grade": 14,
+            "level": 77,
+            "server": "카렐 04"
+          }
+        ]
+      }
+    },
+    "휴식": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "16": 1
+      },
+      "membersList": [
+        {
+          "nickname": "타마고",
+          "guild": "휴식",
+          "class": "향사수",
+          "grade": 16,
+          "level": 76,
+          "server": "카렐 04"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "타마고",
+            "guild": "휴식",
+            "class": "향사수",
+            "grade": 16,
+            "level": 76,
+            "server": "카렐 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "16": [
+          {
+            "nickname": "타마고",
+            "guild": "휴식",
+            "class": "향사수",
+            "grade": 16,
+            "level": 76,
+            "server": "카렐 04"
+          }
+        ]
+      }
+    },
+    "5558": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "12": 1
+      },
+      "membersList": [
+        {
+          "nickname": "냉천",
+          "guild": "5558",
+          "class": "집행관",
+          "grade": 12,
+          "level": 76,
+          "server": "카렐 04"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "냉천",
+            "guild": "5558",
+            "class": "집행관",
+            "grade": 12,
+            "level": 76,
+            "server": "카렐 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "12": [
+          {
+            "nickname": "냉천",
+            "guild": "5558",
+            "class": "집행관",
+            "grade": 12,
+            "level": 76,
+            "server": "카렐 04"
+          }
+        ]
+      }
+    },
+    "최강": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "15": 1
+      },
+      "membersList": [
+        {
+          "nickname": "붉은손가락",
+          "guild": "최강",
+          "class": "향사수",
+          "grade": 15,
+          "level": 75,
+          "server": "카렐 04"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "붉은손가락",
+            "guild": "최강",
+            "class": "향사수",
+            "grade": 15,
+            "level": 75,
+            "server": "카렐 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "15": [
+          {
+            "nickname": "붉은손가락",
+            "guild": "최강",
+            "class": "향사수",
+            "grade": 15,
+            "level": 75,
+            "server": "카렐 04"
+          }
+        ]
+      }
+    },
+    "붕붕": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "13": 1
+      },
+      "membersList": [
+        {
+          "nickname": "중크",
+          "guild": "붕붕",
+          "class": "주문각인사",
+          "grade": 13,
+          "level": 75,
+          "server": "카렐 04"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "중크",
+            "guild": "붕붕",
+            "class": "주문각인사",
+            "grade": 13,
+            "level": 75,
+            "server": "카렐 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "13": [
+          {
+            "nickname": "중크",
+            "guild": "붕붕",
+            "class": "주문각인사",
+            "grade": 13,
+            "level": 75,
+            "server": "카렐 04"
+          }
+        ]
+      }
+    }
+  }
+}
