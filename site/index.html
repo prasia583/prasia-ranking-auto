@@ -685,6 +685,44 @@ body{
   .support-copy strong{font-size:16px}.support-copy small{font-size:10px}
 }
 
+
+/* ====== Guild profile header & ambient polish ====== */
+#guildModal .modal-head{align-items:center;min-height:138px;position:sticky}
+#guildModal .modal-head>div:first-child{display:grid;grid-template-columns:minmax(240px,1fr) minmax(420px,auto);align-items:center;gap:30px;width:100%}
+#gmTitle{display:flex;flex-direction:column;gap:7px;min-width:0}
+.guild-kicker{font-family:Arial,sans-serif;font-size:10px;font-weight:900;letter-spacing:.22em;color:#cda95f}
+.guild-name{display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-size:34px;color:#fff1cf;text-shadow:0 4px 22px rgba(0,0,0,.55)}
+#gmSub{display:grid;grid-template-columns:auto auto minmax(150px,auto);align-items:stretch;gap:8px;margin:0;padding:0;background:none;border-radius:0}
+.guild-meta-item{display:flex;flex-direction:column;justify-content:center;gap:5px;min-width:128px;padding:12px 15px;border:1px solid rgba(142,159,184,.15);border-radius:13px;background:rgba(255,255,255,.035)}
+.meta-label{font-size:10px;font-weight:800;color:#70839f;letter-spacing:.08em}
+.guild-meta-item strong{font-size:14px;color:#dce3ed;white-space:nowrap}
+.guild-member-total{display:flex;align-items:center;justify-content:space-between;gap:18px;padding:10px 16px;border:1px solid rgba(232,195,115,.42);border-radius:13px;background:linear-gradient(135deg,rgba(217,181,109,.18),rgba(87,59,25,.24));box-shadow:inset 0 1px 0 rgba(255,255,255,.08)}
+.guild-member-total>span{font-size:11px;font-weight:900;color:#c8a65f;white-space:nowrap}
+.guild-member-total strong{font-size:30px;line-height:1;color:#ffe2a0;text-shadow:0 2px 18px rgba(217,181,109,.2)}
+.guild-member-total em{margin-left:3px;font-size:13px;font-style:normal;color:#d2b571}
+#gmClose{flex:none;margin-left:18px;min-width:64px}
+#guildModal .modal-grid{background:
+  radial-gradient(circle at 50% 0,rgba(217,181,109,.055),transparent 38%),
+  linear-gradient(180deg,rgba(255,255,255,.012),transparent 35%)}
+#guildModal .panel{box-shadow:0 12px 35px rgba(0,0,0,.18)}
+#guildModal .panel:hover{border-color:rgba(217,181,109,.28)}
+#guildModal .panel-title{letter-spacing:-.01em}
+body:before{content:"";position:fixed;inset:0;pointer-events:none;z-index:-1;opacity:.16;background-image:linear-gradient(rgba(217,181,109,.05) 1px,transparent 1px),linear-gradient(90deg,rgba(217,181,109,.035) 1px,transparent 1px);background-size:64px 64px;mask-image:linear-gradient(to bottom,black,transparent 70%)}
+@media(max-width:980px){
+  #guildModal .modal-head>div:first-child{grid-template-columns:1fr;gap:14px}
+  #guildModal .modal-head{min-height:auto}
+  #gmSub{grid-template-columns:1fr 1fr minmax(155px,1.2fr)}
+}
+@media(max-width:640px){
+  #guildModal .modal-head{align-items:flex-start;padding:15px}
+  #guildModal .modal-head>div:first-child{gap:11px}
+  .guild-name{font-size:27px}
+  #gmSub{grid-template-columns:1fr 1fr}
+  .guild-member-total{grid-column:1/-1;padding:12px 14px}
+  .guild-member-total strong{font-size:27px}
+  #gmClose{margin-left:8px;min-width:54px}
+}
+
 </style>
 </head>
 
