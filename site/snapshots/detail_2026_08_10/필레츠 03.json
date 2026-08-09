@@ -1,0 +1,7590 @@
+{
+  "server": "필레츠 03",
+  "guilds": {
+    "루미": {
+      "members": 15,
+      "byClass": {
+        "향사수": 5,
+        "심연추방자": 4,
+        "주문각인사": 3,
+        "집행관": 2,
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "23": 1,
+        "21": 1,
+        "16": 1,
+        "15": 2,
+        "13": 1,
+        "12": 2,
+        "5": 1,
+        "3": 1,
+        "1": 5
+      },
+      "membersList": [
+        {
+          "nickname": "울짱아",
+          "guild": "루미",
+          "class": "집행관",
+          "grade": 23,
+          "level": 89,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "아떠몬",
+          "guild": "루미",
+          "class": "심연추방자",
+          "grade": 21,
+          "level": 86,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "흑돌",
+          "guild": "루미",
+          "class": "향사수",
+          "grade": 16,
+          "level": 81,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "헐크가",
+          "guild": "루미",
+          "class": "집행관",
+          "grade": 15,
+          "level": 80,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "거기",
+          "guild": "루미",
+          "class": "주문각인사",
+          "grade": 15,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "룰룰",
+          "guild": "루미",
+          "class": "향사수",
+          "grade": 13,
+          "level": 67,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "루우",
+          "guild": "루미",
+          "class": "주문각인사",
+          "grade": 12,
+          "level": 66,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "루우삼",
+          "guild": "루미",
+          "class": "주문각인사",
+          "grade": 12,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "루우미",
+          "guild": "루미",
+          "class": "향사수",
+          "grade": 5,
+          "level": 74,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "미미루",
+          "guild": "루미",
+          "class": "태양감시자",
+          "grade": 3,
+          "level": 73,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "DDDDDDd",
+          "guild": "루미",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "erqie",
+          "guild": "루미",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "jhsdh",
+          "guild": "루미",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "ssdd",
+          "guild": "루미",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "xiaoyi",
+          "guild": "루미",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "아떠몬",
+            "guild": "루미",
+            "class": "심연추방자",
+            "grade": 21,
+            "level": 86,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "jhsdh",
+            "guild": "루미",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "ssdd",
+            "guild": "루미",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "xiaoyi",
+            "guild": "루미",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "미미루",
+            "guild": "루미",
+            "class": "태양감시자",
+            "grade": 3,
+            "level": 73,
+            "server": "필레츠 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "흑돌",
+            "guild": "루미",
+            "class": "향사수",
+            "grade": 16,
+            "level": 81,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "룰룰",
+            "guild": "루미",
+            "class": "향사수",
+            "grade": 13,
+            "level": 67,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "루우미",
+            "guild": "루미",
+            "class": "향사수",
+            "grade": 5,
+            "level": 74,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "DDDDDDd",
+            "guild": "루미",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "erqie",
+            "guild": "루미",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "거기",
+            "guild": "루미",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "루우",
+            "guild": "루미",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 66,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "루우삼",
+            "guild": "루미",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 65,
+            "server": "필레츠 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "울짱아",
+            "guild": "루미",
+            "class": "집행관",
+            "grade": 23,
+            "level": 89,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "헐크가",
+            "guild": "루미",
+            "class": "집행관",
+            "grade": 15,
+            "level": 80,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "아떠몬",
+            "guild": "루미",
+            "class": "심연추방자",
+            "grade": 21,
+            "level": 86,
+            "server": "필레츠 03"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "DDDDDDd",
+            "guild": "루미",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "erqie",
+            "guild": "루미",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "jhsdh",
+            "guild": "루미",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "ssdd",
+            "guild": "루미",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "xiaoyi",
+            "guild": "루미",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          }
+        ],
+        "3": [
+          {
+            "nickname": "미미루",
+            "guild": "루미",
+            "class": "태양감시자",
+            "grade": 3,
+            "level": 73,
+            "server": "필레츠 03"
+          }
+        ],
+        "16": [
+          {
+            "nickname": "흑돌",
+            "guild": "루미",
+            "class": "향사수",
+            "grade": 16,
+            "level": 81,
+            "server": "필레츠 03"
+          }
+        ],
+        "5": [
+          {
+            "nickname": "루우미",
+            "guild": "루미",
+            "class": "향사수",
+            "grade": 5,
+            "level": 74,
+            "server": "필레츠 03"
+          }
+        ],
+        "13": [
+          {
+            "nickname": "룰룰",
+            "guild": "루미",
+            "class": "향사수",
+            "grade": 13,
+            "level": 67,
+            "server": "필레츠 03"
+          }
+        ],
+        "12": [
+          {
+            "nickname": "루우",
+            "guild": "루미",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 66,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "루우삼",
+            "guild": "루미",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 65,
+            "server": "필레츠 03"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "헐크가",
+            "guild": "루미",
+            "class": "집행관",
+            "grade": 15,
+            "level": 80,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "거기",
+            "guild": "루미",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 65,
+            "server": "필레츠 03"
+          }
+        ],
+        "23": [
+          {
+            "nickname": "울짱아",
+            "guild": "루미",
+            "class": "집행관",
+            "grade": 23,
+            "level": 89,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "ZERO": {
+      "members": 34,
+      "byClass": {
+        "향사수": 10,
+        "집행관": 10,
+        "심연추방자": 5,
+        "주문각인사": 4,
+        "태양감시자": 3,
+        "환영검사": 2
+      },
+      "byGrade": {
+        "19": 2,
+        "18": 2,
+        "17": 3,
+        "15": 3,
+        "14": 1,
+        "13": 1,
+        "10": 1,
+        "9": 1,
+        "5": 1,
+        "3": 1,
+        "2": 1,
+        "1": 17
+      },
+      "membersList": [
+        {
+          "nickname": "라이스",
+          "guild": "ZERO",
+          "class": "집행관",
+          "grade": 19,
+          "level": 82,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "고각",
+          "guild": "ZERO",
+          "class": "집행관",
+          "grade": 19,
+          "level": 81,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "죽염",
+          "guild": "ZERO",
+          "class": "심연추방자",
+          "grade": 18,
+          "level": 84,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "페르",
+          "guild": "ZERO",
+          "class": "주문각인사",
+          "grade": 18,
+          "level": 84,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "불만제로",
+          "guild": "ZERO",
+          "class": "집행관",
+          "grade": 17,
+          "level": 82,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "왓왓",
+          "guild": "ZERO",
+          "class": "태양감시자",
+          "grade": 17,
+          "level": 82,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "탕후루",
+          "guild": "ZERO",
+          "class": "향사수",
+          "grade": 17,
+          "level": 82,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "뱃살",
+          "guild": "ZERO",
+          "class": "주문각인사",
+          "grade": 15,
+          "level": 81,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "힝힝",
+          "guild": "ZERO",
+          "class": "태양감시자",
+          "grade": 15,
+          "level": 74,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "장문석",
+          "guild": "ZERO",
+          "class": "주문각인사",
+          "grade": 15,
+          "level": 64,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "베리타스",
+          "guild": "ZERO",
+          "class": "태양감시자",
+          "grade": 14,
+          "level": 81,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "장발장",
+          "guild": "ZERO",
+          "class": "향사수",
+          "grade": 13,
+          "level": 80,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "안도타다오",
+          "guild": "ZERO",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 77,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "아도겐",
+          "guild": "ZERO",
+          "class": "환영검사",
+          "grade": 9,
+          "level": 72,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "별밤지기",
+          "guild": "ZERO",
+          "class": "집행관",
+          "grade": 5,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "CCNM",
+          "guild": "ZERO",
+          "class": "환영검사",
+          "grade": 3,
+          "level": 64,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "TYF",
+          "guild": "ZERO",
+          "class": "집행관",
+          "grade": 2,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "만년일꾼",
+          "guild": "ZERO",
+          "class": "집행관",
+          "grade": 1,
+          "level": 66,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "Geer",
+          "guild": "ZERO",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "QQQZ",
+          "guild": "ZERO",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "Rdfg",
+          "guild": "ZERO",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "Toom",
+          "guild": "ZERO",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "내가진짜장문석",
+          "guild": "ZERO",
+          "class": "집행관",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "뚱보",
+          "guild": "ZERO",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "시언",
+          "guild": "ZERO",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "신성우",
+          "guild": "ZERO",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "신해철",
+          "guild": "ZERO",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "임호",
+          "guild": "ZERO",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "임호민",
+          "guild": "ZERO",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "장문석친구",
+          "guild": "ZERO",
+          "class": "집행관",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "천년일꾼",
+          "guild": "ZERO",
+          "class": "집행관",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "하미영",
+          "guild": "ZERO",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "후성준",
+          "guild": "ZERO",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "하슬라",
+          "guild": "ZERO",
+          "class": "집행관",
+          "grade": 1,
+          "level": 61,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "죽염",
+            "guild": "ZERO",
+            "class": "심연추방자",
+            "grade": 18,
+            "level": 84,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "Toom",
+            "guild": "ZERO",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "신성우",
+            "guild": "ZERO",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "신해철",
+            "guild": "ZERO",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "하미영",
+            "guild": "ZERO",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "왓왓",
+            "guild": "ZERO",
+            "class": "태양감시자",
+            "grade": 17,
+            "level": 82,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "힝힝",
+            "guild": "ZERO",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 74,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "베리타스",
+            "guild": "ZERO",
+            "class": "태양감시자",
+            "grade": 14,
+            "level": 81,
+            "server": "필레츠 03"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "아도겐",
+            "guild": "ZERO",
+            "class": "환영검사",
+            "grade": 9,
+            "level": 72,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "CCNM",
+            "guild": "ZERO",
+            "class": "환영검사",
+            "grade": 3,
+            "level": 64,
+            "server": "필레츠 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "탕후루",
+            "guild": "ZERO",
+            "class": "향사수",
+            "grade": 17,
+            "level": 82,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "장발장",
+            "guild": "ZERO",
+            "class": "향사수",
+            "grade": 13,
+            "level": 80,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "Geer",
+            "guild": "ZERO",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "QQQZ",
+            "guild": "ZERO",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "Rdfg",
+            "guild": "ZERO",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "뚱보",
+            "guild": "ZERO",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "시언",
+            "guild": "ZERO",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "임호",
+            "guild": "ZERO",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "임호민",
+            "guild": "ZERO",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "후성준",
+            "guild": "ZERO",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "페르",
+            "guild": "ZERO",
+            "class": "주문각인사",
+            "grade": 18,
+            "level": 84,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "뱃살",
+            "guild": "ZERO",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 81,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "장문석",
+            "guild": "ZERO",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 64,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "안도타다오",
+            "guild": "ZERO",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 77,
+            "server": "필레츠 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "라이스",
+            "guild": "ZERO",
+            "class": "집행관",
+            "grade": 19,
+            "level": 82,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "고각",
+            "guild": "ZERO",
+            "class": "집행관",
+            "grade": 19,
+            "level": 81,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "불만제로",
+            "guild": "ZERO",
+            "class": "집행관",
+            "grade": 17,
+            "level": 82,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "별밤지기",
+            "guild": "ZERO",
+            "class": "집행관",
+            "grade": 5,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "TYF",
+            "guild": "ZERO",
+            "class": "집행관",
+            "grade": 2,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "만년일꾼",
+            "guild": "ZERO",
+            "class": "집행관",
+            "grade": 1,
+            "level": 66,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "내가진짜장문석",
+            "guild": "ZERO",
+            "class": "집행관",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "장문석친구",
+            "guild": "ZERO",
+            "class": "집행관",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "천년일꾼",
+            "guild": "ZERO",
+            "class": "집행관",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "하슬라",
+            "guild": "ZERO",
+            "class": "집행관",
+            "grade": 1,
+            "level": 61,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "18": [
+          {
+            "nickname": "죽염",
+            "guild": "ZERO",
+            "class": "심연추방자",
+            "grade": 18,
+            "level": 84,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "페르",
+            "guild": "ZERO",
+            "class": "주문각인사",
+            "grade": 18,
+            "level": 84,
+            "server": "필레츠 03"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "만년일꾼",
+            "guild": "ZERO",
+            "class": "집행관",
+            "grade": 1,
+            "level": 66,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "Geer",
+            "guild": "ZERO",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "QQQZ",
+            "guild": "ZERO",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "Rdfg",
+            "guild": "ZERO",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "Toom",
+            "guild": "ZERO",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "내가진짜장문석",
+            "guild": "ZERO",
+            "class": "집행관",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "뚱보",
+            "guild": "ZERO",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "시언",
+            "guild": "ZERO",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "신성우",
+            "guild": "ZERO",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "신해철",
+            "guild": "ZERO",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "임호",
+            "guild": "ZERO",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "임호민",
+            "guild": "ZERO",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "장문석친구",
+            "guild": "ZERO",
+            "class": "집행관",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "천년일꾼",
+            "guild": "ZERO",
+            "class": "집행관",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "하미영",
+            "guild": "ZERO",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "후성준",
+            "guild": "ZERO",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "하슬라",
+            "guild": "ZERO",
+            "class": "집행관",
+            "grade": 1,
+            "level": 61,
+            "server": "필레츠 03"
+          }
+        ],
+        "17": [
+          {
+            "nickname": "불만제로",
+            "guild": "ZERO",
+            "class": "집행관",
+            "grade": 17,
+            "level": 82,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "왓왓",
+            "guild": "ZERO",
+            "class": "태양감시자",
+            "grade": 17,
+            "level": 82,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "탕후루",
+            "guild": "ZERO",
+            "class": "향사수",
+            "grade": 17,
+            "level": 82,
+            "server": "필레츠 03"
+          }
+        ],
+        "14": [
+          {
+            "nickname": "베리타스",
+            "guild": "ZERO",
+            "class": "태양감시자",
+            "grade": 14,
+            "level": 81,
+            "server": "필레츠 03"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "뱃살",
+            "guild": "ZERO",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 81,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "힝힝",
+            "guild": "ZERO",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 74,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "장문석",
+            "guild": "ZERO",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 64,
+            "server": "필레츠 03"
+          }
+        ],
+        "9": [
+          {
+            "nickname": "아도겐",
+            "guild": "ZERO",
+            "class": "환영검사",
+            "grade": 9,
+            "level": 72,
+            "server": "필레츠 03"
+          }
+        ],
+        "3": [
+          {
+            "nickname": "CCNM",
+            "guild": "ZERO",
+            "class": "환영검사",
+            "grade": 3,
+            "level": 64,
+            "server": "필레츠 03"
+          }
+        ],
+        "13": [
+          {
+            "nickname": "장발장",
+            "guild": "ZERO",
+            "class": "향사수",
+            "grade": 13,
+            "level": 80,
+            "server": "필레츠 03"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "안도타다오",
+            "guild": "ZERO",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 77,
+            "server": "필레츠 03"
+          }
+        ],
+        "19": [
+          {
+            "nickname": "라이스",
+            "guild": "ZERO",
+            "class": "집행관",
+            "grade": 19,
+            "level": 82,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "고각",
+            "guild": "ZERO",
+            "class": "집행관",
+            "grade": 19,
+            "level": 81,
+            "server": "필레츠 03"
+          }
+        ],
+        "2": [
+          {
+            "nickname": "TYF",
+            "guild": "ZERO",
+            "class": "집행관",
+            "grade": 2,
+            "level": 65,
+            "server": "필레츠 03"
+          }
+        ],
+        "5": [
+          {
+            "nickname": "별밤지기",
+            "guild": "ZERO",
+            "class": "집행관",
+            "grade": 5,
+            "level": 65,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "별": {
+      "members": 24,
+      "byClass": {
+        "집행관": 17,
+        "심연추방자": 5,
+        "환영검사": 1,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "21": 1,
+        "17": 1,
+        "16": 1,
+        "15": 2,
+        "6": 1,
+        "1": 18
+      },
+      "membersList": [
+        {
+          "nickname": "별츄",
+          "guild": "별",
+          "class": "집행관",
+          "grade": 21,
+          "level": 85,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "피순대",
+          "guild": "별",
+          "class": "심연추방자",
+          "grade": 17,
+          "level": 80,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "별별별별별별별별별별",
+          "guild": "별",
+          "class": "심연추방자",
+          "grade": 16,
+          "level": 79,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "별나라황후",
+          "guild": "별",
+          "class": "심연추방자",
+          "grade": 15,
+          "level": 77,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "히힛",
+          "guild": "별",
+          "class": "집행관",
+          "grade": 15,
+          "level": 77,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "별나라응애",
+          "guild": "별",
+          "class": "환영검사",
+          "grade": 6,
+          "level": 63,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "사랑합니다",
+          "guild": "별",
+          "class": "집행관",
+          "grade": 1,
+          "level": 62,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "상점",
+          "guild": "별",
+          "class": "집행관",
+          "grade": 1,
+          "level": 62,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "찌붐",
+          "guild": "별",
+          "class": "집행관",
+          "grade": 1,
+          "level": 62,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "강철방패",
+          "guild": "별",
+          "class": "집행관",
+          "grade": 1,
+          "level": 61,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "그만해라",
+          "guild": "별",
+          "class": "집행관",
+          "grade": 1,
+          "level": 61,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "또르르",
+          "guild": "별",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 61,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "보호",
+          "guild": "별",
+          "class": "집행관",
+          "grade": 1,
+          "level": 61,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "자연",
+          "guild": "별",
+          "class": "집행관",
+          "grade": 1,
+          "level": 61,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "그사람",
+          "guild": "별",
+          "class": "집행관",
+          "grade": 1,
+          "level": 60,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "망치맨",
+          "guild": "별",
+          "class": "집행관",
+          "grade": 1,
+          "level": 60,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "바이바잇",
+          "guild": "별",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 60,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "숭배자",
+          "guild": "별",
+          "class": "집행관",
+          "grade": 1,
+          "level": 60,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "촤앙",
+          "guild": "별",
+          "class": "집행관",
+          "grade": 1,
+          "level": 60,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "크일",
+          "guild": "별",
+          "class": "집행관",
+          "grade": 1,
+          "level": 60,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "킄킄",
+          "guild": "별",
+          "class": "집행관",
+          "grade": 1,
+          "level": 60,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "킄킄킄킄",
+          "guild": "별",
+          "class": "집행관",
+          "grade": 1,
+          "level": 60,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "푸바오우아우",
+          "guild": "별",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 60,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "안녕하세욧",
+          "guild": "별",
+          "class": "집행관",
+          "grade": 1,
+          "level": 59,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "피순대",
+            "guild": "별",
+            "class": "심연추방자",
+            "grade": 17,
+            "level": 80,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "별별별별별별별별별별",
+            "guild": "별",
+            "class": "심연추방자",
+            "grade": 16,
+            "level": 79,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "별나라황후",
+            "guild": "별",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 77,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "바이바잇",
+            "guild": "별",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 60,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "푸바오우아우",
+            "guild": "별",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 60,
+            "server": "필레츠 03"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "별나라응애",
+            "guild": "별",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 63,
+            "server": "필레츠 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "또르르",
+            "guild": "별",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 61,
+            "server": "필레츠 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "별츄",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 21,
+            "level": 85,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "히힛",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 15,
+            "level": 77,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "사랑합니다",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 1,
+            "level": 62,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "상점",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 1,
+            "level": 62,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "찌붐",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 1,
+            "level": 62,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "강철방패",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 1,
+            "level": 61,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "그만해라",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 1,
+            "level": 61,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "보호",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 1,
+            "level": 61,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "자연",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 1,
+            "level": 61,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "그사람",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 1,
+            "level": 60,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "망치맨",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 1,
+            "level": 60,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "숭배자",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 1,
+            "level": 60,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "촤앙",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 1,
+            "level": 60,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "크일",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 1,
+            "level": 60,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "킄킄",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 1,
+            "level": 60,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "킄킄킄킄",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 1,
+            "level": 60,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "안녕하세욧",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 1,
+            "level": 59,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "17": [
+          {
+            "nickname": "피순대",
+            "guild": "별",
+            "class": "심연추방자",
+            "grade": 17,
+            "level": 80,
+            "server": "필레츠 03"
+          }
+        ],
+        "16": [
+          {
+            "nickname": "별별별별별별별별별별",
+            "guild": "별",
+            "class": "심연추방자",
+            "grade": 16,
+            "level": 79,
+            "server": "필레츠 03"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "별나라황후",
+            "guild": "별",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 77,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "히힛",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 15,
+            "level": 77,
+            "server": "필레츠 03"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "사랑합니다",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 1,
+            "level": 62,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "상점",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 1,
+            "level": 62,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "찌붐",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 1,
+            "level": 62,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "강철방패",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 1,
+            "level": 61,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "그만해라",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 1,
+            "level": 61,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "또르르",
+            "guild": "별",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 61,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "보호",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 1,
+            "level": 61,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "자연",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 1,
+            "level": 61,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "그사람",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 1,
+            "level": 60,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "망치맨",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 1,
+            "level": 60,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "바이바잇",
+            "guild": "별",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 60,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "숭배자",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 1,
+            "level": 60,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "촤앙",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 1,
+            "level": 60,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "크일",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 1,
+            "level": 60,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "킄킄",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 1,
+            "level": 60,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "킄킄킄킄",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 1,
+            "level": 60,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "푸바오우아우",
+            "guild": "별",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 60,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "안녕하세욧",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 1,
+            "level": 59,
+            "server": "필레츠 03"
+          }
+        ],
+        "6": [
+          {
+            "nickname": "별나라응애",
+            "guild": "별",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 63,
+            "server": "필레츠 03"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "별츄",
+            "guild": "별",
+            "class": "집행관",
+            "grade": 21,
+            "level": 85,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "쑥쑥": {
+      "members": 33,
+      "byClass": {
+        "집행관": 9,
+        "향사수": 8,
+        "심연추방자": 6,
+        "주문각인사": 5,
+        "태양감시자": 3,
+        "환영검사": 2
+      },
+      "byGrade": {
+        "22": 1,
+        "19": 1,
+        "17": 1,
+        "15": 6,
+        "14": 1,
+        "13": 2,
+        "12": 1,
+        "3": 1,
+        "1": 19
+      },
+      "membersList": [
+        {
+          "nickname": "쑥쑥이",
+          "guild": "쑥쑥",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 87,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "서바리",
+          "guild": "쑥쑥",
+          "class": "주문각인사",
+          "grade": 19,
+          "level": 83,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "헤즈업",
+          "guild": "쑥쑥",
+          "class": "태양감시자",
+          "grade": 17,
+          "level": 79,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "미얀",
+          "guild": "쑥쑥",
+          "class": "집행관",
+          "grade": 15,
+          "level": 80,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "군단",
+          "guild": "쑥쑥",
+          "class": "집행관",
+          "grade": 15,
+          "level": 63,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "아간조",
+          "guild": "쑥쑥",
+          "class": "태양감시자",
+          "grade": 15,
+          "level": 63,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "정신",
+          "guild": "쑥쑥",
+          "class": "집행관",
+          "grade": 15,
+          "level": 63,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "쿠야",
+          "guild": "쑥쑥",
+          "class": "집행관",
+          "grade": 15,
+          "level": 63,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "크랙",
+          "guild": "쑥쑥",
+          "class": "집행관",
+          "grade": 15,
+          "level": 63,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "켄조",
+          "guild": "쑥쑥",
+          "class": "환영검사",
+          "grade": 14,
+          "level": 71,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "씩씩",
+          "guild": "쑥쑥",
+          "class": "집행관",
+          "grade": 13,
+          "level": 77,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "이응",
+          "guild": "쑥쑥",
+          "class": "향사수",
+          "grade": 13,
+          "level": 67,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "알쓰",
+          "guild": "쑥쑥",
+          "class": "심연추방자",
+          "grade": 12,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "ak",
+          "guild": "쑥쑥",
+          "class": "주문각인사",
+          "grade": 3,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "가이오가",
+          "guild": "쑥쑥",
+          "class": "집행관",
+          "grade": 1,
+          "level": 76,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "참격",
+          "guild": "쑥쑥",
+          "class": "향사수",
+          "grade": 1,
+          "level": 73,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "파라",
+          "guild": "쑥쑥",
+          "class": "향사수",
+          "grade": 1,
+          "level": 73,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "DDDDDddd",
+          "guild": "쑥쑥",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "Fass",
+          "guild": "쑥쑥",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "김빈우",
+          "guild": "쑥쑥",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "난림",
+          "guild": "쑥쑥",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "송우선",
+          "guild": "쑥쑥",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "자식",
+          "guild": "쑥쑥",
+          "class": "집행관",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "점비",
+          "guild": "쑥쑥",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "하유선",
+          "guild": "쑥쑥",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "포격",
+          "guild": "쑥쑥",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 62,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "피격",
+          "guild": "쑥쑥",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 62,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "그란돈",
+          "guild": "쑥쑥",
+          "class": "집행관",
+          "grade": 1,
+          "level": 61,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "레쿠쟈",
+          "guild": "쑥쑥",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 61,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "미라",
+          "guild": "쑥쑥",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 61,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "토마스",
+          "guild": "쑥쑥",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 61,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "피리",
+          "guild": "쑥쑥",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 61,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "씨익",
+          "guild": "쑥쑥",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 40,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "알쓰",
+            "guild": "쑥쑥",
+            "class": "심연추방자",
+            "grade": 12,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "Fass",
+            "guild": "쑥쑥",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "하유선",
+            "guild": "쑥쑥",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "포격",
+            "guild": "쑥쑥",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 62,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "미라",
+            "guild": "쑥쑥",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 61,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "토마스",
+            "guild": "쑥쑥",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 61,
+            "server": "필레츠 03"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "헤즈업",
+            "guild": "쑥쑥",
+            "class": "태양감시자",
+            "grade": 17,
+            "level": 79,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "아간조",
+            "guild": "쑥쑥",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 63,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "씨익",
+            "guild": "쑥쑥",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 40,
+            "server": "필레츠 03"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "켄조",
+            "guild": "쑥쑥",
+            "class": "환영검사",
+            "grade": 14,
+            "level": 71,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "레쿠쟈",
+            "guild": "쑥쑥",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 61,
+            "server": "필레츠 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "이응",
+            "guild": "쑥쑥",
+            "class": "향사수",
+            "grade": 13,
+            "level": 67,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "참격",
+            "guild": "쑥쑥",
+            "class": "향사수",
+            "grade": 1,
+            "level": 73,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "파라",
+            "guild": "쑥쑥",
+            "class": "향사수",
+            "grade": 1,
+            "level": 73,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "DDDDDddd",
+            "guild": "쑥쑥",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "김빈우",
+            "guild": "쑥쑥",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "난림",
+            "guild": "쑥쑥",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "송우선",
+            "guild": "쑥쑥",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "점비",
+            "guild": "쑥쑥",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "쑥쑥이",
+            "guild": "쑥쑥",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "서바리",
+            "guild": "쑥쑥",
+            "class": "주문각인사",
+            "grade": 19,
+            "level": 83,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "ak",
+            "guild": "쑥쑥",
+            "class": "주문각인사",
+            "grade": 3,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "피격",
+            "guild": "쑥쑥",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 62,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "피리",
+            "guild": "쑥쑥",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 61,
+            "server": "필레츠 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "미얀",
+            "guild": "쑥쑥",
+            "class": "집행관",
+            "grade": 15,
+            "level": 80,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "군단",
+            "guild": "쑥쑥",
+            "class": "집행관",
+            "grade": 15,
+            "level": 63,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "정신",
+            "guild": "쑥쑥",
+            "class": "집행관",
+            "grade": 15,
+            "level": 63,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "쿠야",
+            "guild": "쑥쑥",
+            "class": "집행관",
+            "grade": 15,
+            "level": 63,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "크랙",
+            "guild": "쑥쑥",
+            "class": "집행관",
+            "grade": 15,
+            "level": 63,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "씩씩",
+            "guild": "쑥쑥",
+            "class": "집행관",
+            "grade": 13,
+            "level": 77,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "가이오가",
+            "guild": "쑥쑥",
+            "class": "집행관",
+            "grade": 1,
+            "level": 76,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "자식",
+            "guild": "쑥쑥",
+            "class": "집행관",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "그란돈",
+            "guild": "쑥쑥",
+            "class": "집행관",
+            "grade": 1,
+            "level": 61,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "12": [
+          {
+            "nickname": "알쓰",
+            "guild": "쑥쑥",
+            "class": "심연추방자",
+            "grade": 12,
+            "level": 65,
+            "server": "필레츠 03"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "가이오가",
+            "guild": "쑥쑥",
+            "class": "집행관",
+            "grade": 1,
+            "level": 76,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "참격",
+            "guild": "쑥쑥",
+            "class": "향사수",
+            "grade": 1,
+            "level": 73,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "파라",
+            "guild": "쑥쑥",
+            "class": "향사수",
+            "grade": 1,
+            "level": 73,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "DDDDDddd",
+            "guild": "쑥쑥",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "Fass",
+            "guild": "쑥쑥",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "김빈우",
+            "guild": "쑥쑥",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "난림",
+            "guild": "쑥쑥",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "송우선",
+            "guild": "쑥쑥",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "자식",
+            "guild": "쑥쑥",
+            "class": "집행관",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "점비",
+            "guild": "쑥쑥",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "하유선",
+            "guild": "쑥쑥",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "포격",
+            "guild": "쑥쑥",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 62,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "피격",
+            "guild": "쑥쑥",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 62,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "그란돈",
+            "guild": "쑥쑥",
+            "class": "집행관",
+            "grade": 1,
+            "level": 61,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "레쿠쟈",
+            "guild": "쑥쑥",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 61,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "미라",
+            "guild": "쑥쑥",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 61,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "토마스",
+            "guild": "쑥쑥",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 61,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "피리",
+            "guild": "쑥쑥",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 61,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "씨익",
+            "guild": "쑥쑥",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 40,
+            "server": "필레츠 03"
+          }
+        ],
+        "17": [
+          {
+            "nickname": "헤즈업",
+            "guild": "쑥쑥",
+            "class": "태양감시자",
+            "grade": 17,
+            "level": 79,
+            "server": "필레츠 03"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "미얀",
+            "guild": "쑥쑥",
+            "class": "집행관",
+            "grade": 15,
+            "level": 80,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "군단",
+            "guild": "쑥쑥",
+            "class": "집행관",
+            "grade": 15,
+            "level": 63,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "아간조",
+            "guild": "쑥쑥",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 63,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "정신",
+            "guild": "쑥쑥",
+            "class": "집행관",
+            "grade": 15,
+            "level": 63,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "쿠야",
+            "guild": "쑥쑥",
+            "class": "집행관",
+            "grade": 15,
+            "level": 63,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "크랙",
+            "guild": "쑥쑥",
+            "class": "집행관",
+            "grade": 15,
+            "level": 63,
+            "server": "필레츠 03"
+          }
+        ],
+        "14": [
+          {
+            "nickname": "켄조",
+            "guild": "쑥쑥",
+            "class": "환영검사",
+            "grade": 14,
+            "level": 71,
+            "server": "필레츠 03"
+          }
+        ],
+        "13": [
+          {
+            "nickname": "씩씩",
+            "guild": "쑥쑥",
+            "class": "집행관",
+            "grade": 13,
+            "level": 77,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "이응",
+            "guild": "쑥쑥",
+            "class": "향사수",
+            "grade": 13,
+            "level": 67,
+            "server": "필레츠 03"
+          }
+        ],
+        "22": [
+          {
+            "nickname": "쑥쑥이",
+            "guild": "쑥쑥",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "필레츠 03"
+          }
+        ],
+        "19": [
+          {
+            "nickname": "서바리",
+            "guild": "쑥쑥",
+            "class": "주문각인사",
+            "grade": 19,
+            "level": 83,
+            "server": "필레츠 03"
+          }
+        ],
+        "3": [
+          {
+            "nickname": "ak",
+            "guild": "쑥쑥",
+            "class": "주문각인사",
+            "grade": 3,
+            "level": 65,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "샌즈": {
+      "members": 14,
+      "byClass": {
+        "심연추방자": 5,
+        "향사수": 5,
+        "태양감시자": 2,
+        "주문각인사": 1,
+        "집행관": 1
+      },
+      "byGrade": {
+        "15": 1,
+        "14": 1,
+        "11": 1,
+        "10": 1,
+        "9": 1,
+        "1": 9
+      },
+      "membersList": [
+        {
+          "nickname": "죽순",
+          "guild": "샌즈",
+          "class": "심연추방자",
+          "grade": 15,
+          "level": 61,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "탕탕후루",
+          "guild": "샌즈",
+          "class": "향사수",
+          "grade": 14,
+          "level": 68,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "통살",
+          "guild": "샌즈",
+          "class": "태양감시자",
+          "grade": 11,
+          "level": 63,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "아크테라",
+          "guild": "샌즈",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 62,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "사카모토",
+          "guild": "샌즈",
+          "class": "향사수",
+          "grade": 9,
+          "level": 72,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "내진모",
+          "guild": "샌즈",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "리새라",
+          "guild": "샌즈",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "악의광휘",
+          "guild": "샌즈",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "운기준",
+          "guild": "샌즈",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "유하게",
+          "guild": "샌즈",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "정비",
+          "guild": "샌즈",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "허당검사",
+          "guild": "샌즈",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "코드제로",
+          "guild": "샌즈",
+          "class": "집행관",
+          "grade": 1,
+          "level": 60,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "천하명인",
+          "guild": "샌즈",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 40,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "죽순",
+            "guild": "샌즈",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 61,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "리새라",
+            "guild": "샌즈",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "악의광휘",
+            "guild": "샌즈",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "유하게",
+            "guild": "샌즈",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "허당검사",
+            "guild": "샌즈",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "통살",
+            "guild": "샌즈",
+            "class": "태양감시자",
+            "grade": 11,
+            "level": 63,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "천하명인",
+            "guild": "샌즈",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 40,
+            "server": "필레츠 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "탕탕후루",
+            "guild": "샌즈",
+            "class": "향사수",
+            "grade": 14,
+            "level": 68,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "사카모토",
+            "guild": "샌즈",
+            "class": "향사수",
+            "grade": 9,
+            "level": 72,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "내진모",
+            "guild": "샌즈",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "운기준",
+            "guild": "샌즈",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "정비",
+            "guild": "샌즈",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "아크테라",
+            "guild": "샌즈",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 62,
+            "server": "필레츠 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "코드제로",
+            "guild": "샌즈",
+            "class": "집행관",
+            "grade": 1,
+            "level": 60,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "내진모",
+            "guild": "샌즈",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "리새라",
+            "guild": "샌즈",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "악의광휘",
+            "guild": "샌즈",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "운기준",
+            "guild": "샌즈",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "유하게",
+            "guild": "샌즈",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "정비",
+            "guild": "샌즈",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "허당검사",
+            "guild": "샌즈",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "코드제로",
+            "guild": "샌즈",
+            "class": "집행관",
+            "grade": 1,
+            "level": 60,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "천하명인",
+            "guild": "샌즈",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 40,
+            "server": "필레츠 03"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "죽순",
+            "guild": "샌즈",
+            "class": "심연추방자",
+            "grade": 15,
+            "level": 61,
+            "server": "필레츠 03"
+          }
+        ],
+        "11": [
+          {
+            "nickname": "통살",
+            "guild": "샌즈",
+            "class": "태양감시자",
+            "grade": 11,
+            "level": 63,
+            "server": "필레츠 03"
+          }
+        ],
+        "9": [
+          {
+            "nickname": "사카모토",
+            "guild": "샌즈",
+            "class": "향사수",
+            "grade": 9,
+            "level": 72,
+            "server": "필레츠 03"
+          }
+        ],
+        "14": [
+          {
+            "nickname": "탕탕후루",
+            "guild": "샌즈",
+            "class": "향사수",
+            "grade": 14,
+            "level": 68,
+            "server": "필레츠 03"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "아크테라",
+            "guild": "샌즈",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 62,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "마운트": {
+      "members": 27,
+      "byClass": {
+        "태양감시자": 6,
+        "주문각인사": 6,
+        "집행관": 6,
+        "향사수": 5,
+        "환영검사": 3,
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "20": 1,
+        "18": 1,
+        "17": 1,
+        "15": 3,
+        "14": 2,
+        "13": 6,
+        "12": 2,
+        "11": 3,
+        "7": 2,
+        "1": 6
+      },
+      "membersList": [
+        {
+          "nickname": "남준이",
+          "guild": "마운트",
+          "class": "태양감시자",
+          "grade": 20,
+          "level": 85,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "인내심",
+          "guild": "마운트",
+          "class": "주문각인사",
+          "grade": 18,
+          "level": 83,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "샤릭",
+          "guild": "마운트",
+          "class": "집행관",
+          "grade": 17,
+          "level": 80,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "폭죽",
+          "guild": "마운트",
+          "class": "집행관",
+          "grade": 15,
+          "level": 79,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "봄잉",
+          "guild": "마운트",
+          "class": "환영검사",
+          "grade": 15,
+          "level": 77,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "오픈톡",
+          "guild": "마운트",
+          "class": "태양감시자",
+          "grade": 15,
+          "level": 62,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "으랏차",
+          "guild": "마운트",
+          "class": "향사수",
+          "grade": 14,
+          "level": 78,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "단톡",
+          "guild": "마운트",
+          "class": "태양감시자",
+          "grade": 14,
+          "level": 62,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "베테르기우스",
+          "guild": "마운트",
+          "class": "향사수",
+          "grade": 13,
+          "level": 77,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "진도개",
+          "guild": "마운트",
+          "class": "주문각인사",
+          "grade": 13,
+          "level": 75,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "BOSSY",
+          "guild": "마운트",
+          "class": "주문각인사",
+          "grade": 13,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "HEAT",
+          "guild": "마운트",
+          "class": "태양감시자",
+          "grade": 13,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "HEET",
+          "guild": "마운트",
+          "class": "집행관",
+          "grade": 13,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "HIIT",
+          "guild": "마운트",
+          "class": "환영검사",
+          "grade": 13,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "스님",
+          "guild": "마운트",
+          "class": "향사수",
+          "grade": 12,
+          "level": 73,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "yuih",
+          "guild": "마운트",
+          "class": "집행관",
+          "grade": 12,
+          "level": 68,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "힘찬돼지",
+          "guild": "마운트",
+          "class": "주문각인사",
+          "grade": 11,
+          "level": 73,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "구간",
+          "guild": "마운트",
+          "class": "집행관",
+          "grade": 11,
+          "level": 60,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "단속",
+          "guild": "마운트",
+          "class": "집행관",
+          "grade": 11,
+          "level": 60,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "오영오",
+          "guild": "마운트",
+          "class": "향사수",
+          "grade": 7,
+          "level": 69,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "장범준",
+          "guild": "마운트",
+          "class": "환영검사",
+          "grade": 7,
+          "level": 69,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "Cuui",
+          "guild": "마운트",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "단유미",
+          "guild": "마운트",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "딸기사제",
+          "guild": "마운트",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "안산",
+          "guild": "마운트",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "고구마",
+          "guild": "마운트",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 59,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "메론",
+          "guild": "마운트",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 54,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "Cuui",
+            "guild": "마운트",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "남준이",
+            "guild": "마운트",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 85,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "오픈톡",
+            "guild": "마운트",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 62,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "단톡",
+            "guild": "마운트",
+            "class": "태양감시자",
+            "grade": 14,
+            "level": 62,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "HEAT",
+            "guild": "마운트",
+            "class": "태양감시자",
+            "grade": 13,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "고구마",
+            "guild": "마운트",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 59,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "메론",
+            "guild": "마운트",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 54,
+            "server": "필레츠 03"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "봄잉",
+            "guild": "마운트",
+            "class": "환영검사",
+            "grade": 15,
+            "level": 77,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "HIIT",
+            "guild": "마운트",
+            "class": "환영검사",
+            "grade": 13,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "장범준",
+            "guild": "마운트",
+            "class": "환영검사",
+            "grade": 7,
+            "level": 69,
+            "server": "필레츠 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "으랏차",
+            "guild": "마운트",
+            "class": "향사수",
+            "grade": 14,
+            "level": 78,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "베테르기우스",
+            "guild": "마운트",
+            "class": "향사수",
+            "grade": 13,
+            "level": 77,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "스님",
+            "guild": "마운트",
+            "class": "향사수",
+            "grade": 12,
+            "level": 73,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "오영오",
+            "guild": "마운트",
+            "class": "향사수",
+            "grade": 7,
+            "level": 69,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "단유미",
+            "guild": "마운트",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "인내심",
+            "guild": "마운트",
+            "class": "주문각인사",
+            "grade": 18,
+            "level": 83,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "진도개",
+            "guild": "마운트",
+            "class": "주문각인사",
+            "grade": 13,
+            "level": 75,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "BOSSY",
+            "guild": "마운트",
+            "class": "주문각인사",
+            "grade": 13,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "힘찬돼지",
+            "guild": "마운트",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 73,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "딸기사제",
+            "guild": "마운트",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "안산",
+            "guild": "마운트",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "샤릭",
+            "guild": "마운트",
+            "class": "집행관",
+            "grade": 17,
+            "level": 80,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "폭죽",
+            "guild": "마운트",
+            "class": "집행관",
+            "grade": 15,
+            "level": 79,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "HEET",
+            "guild": "마운트",
+            "class": "집행관",
+            "grade": 13,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "yuih",
+            "guild": "마운트",
+            "class": "집행관",
+            "grade": 12,
+            "level": 68,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "구간",
+            "guild": "마운트",
+            "class": "집행관",
+            "grade": 11,
+            "level": 60,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "단속",
+            "guild": "마운트",
+            "class": "집행관",
+            "grade": 11,
+            "level": 60,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "Cuui",
+            "guild": "마운트",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "단유미",
+            "guild": "마운트",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "딸기사제",
+            "guild": "마운트",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "안산",
+            "guild": "마운트",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "고구마",
+            "guild": "마운트",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 59,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "메론",
+            "guild": "마운트",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 54,
+            "server": "필레츠 03"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "남준이",
+            "guild": "마운트",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 85,
+            "server": "필레츠 03"
+          }
+        ],
+        "13": [
+          {
+            "nickname": "베테르기우스",
+            "guild": "마운트",
+            "class": "향사수",
+            "grade": 13,
+            "level": 77,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "진도개",
+            "guild": "마운트",
+            "class": "주문각인사",
+            "grade": 13,
+            "level": 75,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "BOSSY",
+            "guild": "마운트",
+            "class": "주문각인사",
+            "grade": 13,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "HEAT",
+            "guild": "마운트",
+            "class": "태양감시자",
+            "grade": 13,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "HEET",
+            "guild": "마운트",
+            "class": "집행관",
+            "grade": 13,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "HIIT",
+            "guild": "마운트",
+            "class": "환영검사",
+            "grade": 13,
+            "level": 65,
+            "server": "필레츠 03"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "폭죽",
+            "guild": "마운트",
+            "class": "집행관",
+            "grade": 15,
+            "level": 79,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "봄잉",
+            "guild": "마운트",
+            "class": "환영검사",
+            "grade": 15,
+            "level": 77,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "오픈톡",
+            "guild": "마운트",
+            "class": "태양감시자",
+            "grade": 15,
+            "level": 62,
+            "server": "필레츠 03"
+          }
+        ],
+        "14": [
+          {
+            "nickname": "으랏차",
+            "guild": "마운트",
+            "class": "향사수",
+            "grade": 14,
+            "level": 78,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "단톡",
+            "guild": "마운트",
+            "class": "태양감시자",
+            "grade": 14,
+            "level": 62,
+            "server": "필레츠 03"
+          }
+        ],
+        "7": [
+          {
+            "nickname": "오영오",
+            "guild": "마운트",
+            "class": "향사수",
+            "grade": 7,
+            "level": 69,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "장범준",
+            "guild": "마운트",
+            "class": "환영검사",
+            "grade": 7,
+            "level": 69,
+            "server": "필레츠 03"
+          }
+        ],
+        "12": [
+          {
+            "nickname": "스님",
+            "guild": "마운트",
+            "class": "향사수",
+            "grade": 12,
+            "level": 73,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "yuih",
+            "guild": "마운트",
+            "class": "집행관",
+            "grade": 12,
+            "level": 68,
+            "server": "필레츠 03"
+          }
+        ],
+        "18": [
+          {
+            "nickname": "인내심",
+            "guild": "마운트",
+            "class": "주문각인사",
+            "grade": 18,
+            "level": 83,
+            "server": "필레츠 03"
+          }
+        ],
+        "11": [
+          {
+            "nickname": "힘찬돼지",
+            "guild": "마운트",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 73,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "구간",
+            "guild": "마운트",
+            "class": "집행관",
+            "grade": 11,
+            "level": 60,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "단속",
+            "guild": "마운트",
+            "class": "집행관",
+            "grade": 11,
+            "level": 60,
+            "server": "필레츠 03"
+          }
+        ],
+        "17": [
+          {
+            "nickname": "샤릭",
+            "guild": "마운트",
+            "class": "집행관",
+            "grade": 17,
+            "level": 80,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "정": {
+      "members": 15,
+      "byClass": {
+        "태양감시자": 3,
+        "환영검사": 3,
+        "주문각인사": 3,
+        "심연추방자": 2,
+        "향사수": 2,
+        "집행관": 2
+      },
+      "byGrade": {
+        "15": 1,
+        "14": 1,
+        "13": 1,
+        "11": 3,
+        "10": 1,
+        "9": 1,
+        "6": 1,
+        "4": 1,
+        "1": 5
+      },
+      "membersList": [
+        {
+          "nickname": "이쁜가윤",
+          "guild": "정",
+          "class": "환영검사",
+          "grade": 15,
+          "level": 78,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "가즈",
+          "guild": "정",
+          "class": "태양감시자",
+          "grade": 14,
+          "level": 77,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "시즈쿠",
+          "guild": "정",
+          "class": "태양감시자",
+          "grade": 13,
+          "level": 76,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "미즈",
+          "guild": "정",
+          "class": "주문각인사",
+          "grade": 11,
+          "level": 72,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "안중근",
+          "guild": "정",
+          "class": "향사수",
+          "grade": 11,
+          "level": 72,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "롯데시윤",
+          "guild": "정",
+          "class": "환영검사",
+          "grade": 11,
+          "level": 70,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "관즈",
+          "guild": "정",
+          "class": "집행관",
+          "grade": 10,
+          "level": 60,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "환즈",
+          "guild": "정",
+          "class": "환영검사",
+          "grade": 9,
+          "level": 55,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "sfsdfdsf",
+          "guild": "정",
+          "class": "집행관",
+          "grade": 6,
+          "level": 70,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "이쁜미술",
+          "guild": "정",
+          "class": "태양감시자",
+          "grade": 4,
+          "level": 54,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "Ecloud",
+          "guild": "정",
+          "class": "향사수",
+          "grade": 1,
+          "level": 66,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "꼬마신지",
+          "guild": "정",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 66,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "비홍신녀",
+          "guild": "정",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 66,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "douyin",
+          "guild": "정",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "비궁이",
+          "guild": "정",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 64,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "douyin",
+            "guild": "정",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "비궁이",
+            "guild": "정",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 64,
+            "server": "필레츠 03"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "가즈",
+            "guild": "정",
+            "class": "태양감시자",
+            "grade": 14,
+            "level": 77,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "시즈쿠",
+            "guild": "정",
+            "class": "태양감시자",
+            "grade": 13,
+            "level": 76,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "이쁜미술",
+            "guild": "정",
+            "class": "태양감시자",
+            "grade": 4,
+            "level": 54,
+            "server": "필레츠 03"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "이쁜가윤",
+            "guild": "정",
+            "class": "환영검사",
+            "grade": 15,
+            "level": 78,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "롯데시윤",
+            "guild": "정",
+            "class": "환영검사",
+            "grade": 11,
+            "level": 70,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "환즈",
+            "guild": "정",
+            "class": "환영검사",
+            "grade": 9,
+            "level": 55,
+            "server": "필레츠 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "안중근",
+            "guild": "정",
+            "class": "향사수",
+            "grade": 11,
+            "level": 72,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "Ecloud",
+            "guild": "정",
+            "class": "향사수",
+            "grade": 1,
+            "level": 66,
+            "server": "필레츠 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "미즈",
+            "guild": "정",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 72,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "꼬마신지",
+            "guild": "정",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 66,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "비홍신녀",
+            "guild": "정",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 66,
+            "server": "필레츠 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "관즈",
+            "guild": "정",
+            "class": "집행관",
+            "grade": 10,
+            "level": 60,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "sfsdfdsf",
+            "guild": "정",
+            "class": "집행관",
+            "grade": 6,
+            "level": 70,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "Ecloud",
+            "guild": "정",
+            "class": "향사수",
+            "grade": 1,
+            "level": 66,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "꼬마신지",
+            "guild": "정",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 66,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "비홍신녀",
+            "guild": "정",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 66,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "douyin",
+            "guild": "정",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "비궁이",
+            "guild": "정",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 64,
+            "server": "필레츠 03"
+          }
+        ],
+        "14": [
+          {
+            "nickname": "가즈",
+            "guild": "정",
+            "class": "태양감시자",
+            "grade": 14,
+            "level": 77,
+            "server": "필레츠 03"
+          }
+        ],
+        "13": [
+          {
+            "nickname": "시즈쿠",
+            "guild": "정",
+            "class": "태양감시자",
+            "grade": 13,
+            "level": 76,
+            "server": "필레츠 03"
+          }
+        ],
+        "4": [
+          {
+            "nickname": "이쁜미술",
+            "guild": "정",
+            "class": "태양감시자",
+            "grade": 4,
+            "level": 54,
+            "server": "필레츠 03"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "이쁜가윤",
+            "guild": "정",
+            "class": "환영검사",
+            "grade": 15,
+            "level": 78,
+            "server": "필레츠 03"
+          }
+        ],
+        "11": [
+          {
+            "nickname": "미즈",
+            "guild": "정",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 72,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "안중근",
+            "guild": "정",
+            "class": "향사수",
+            "grade": 11,
+            "level": 72,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "롯데시윤",
+            "guild": "정",
+            "class": "환영검사",
+            "grade": 11,
+            "level": 70,
+            "server": "필레츠 03"
+          }
+        ],
+        "9": [
+          {
+            "nickname": "환즈",
+            "guild": "정",
+            "class": "환영검사",
+            "grade": 9,
+            "level": 55,
+            "server": "필레츠 03"
+          }
+        ],
+        "6": [
+          {
+            "nickname": "sfsdfdsf",
+            "guild": "정",
+            "class": "집행관",
+            "grade": 6,
+            "level": 70,
+            "server": "필레츠 03"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "관즈",
+            "guild": "정",
+            "class": "집행관",
+            "grade": 10,
+            "level": 60,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "블랙홀": {
+      "members": 15,
+      "byClass": {
+        "향사수": 5,
+        "환영검사": 4,
+        "심연추방자": 3,
+        "주문각인사": 2,
+        "집행관": 1
+      },
+      "byGrade": {
+        "15": 1,
+        "12": 1,
+        "9": 3,
+        "8": 1,
+        "1": 9
+      },
+      "membersList": [
+        {
+          "nickname": "항만",
+          "guild": "블랙홀",
+          "class": "향사수",
+          "grade": 15,
+          "level": 78,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "ohopeo",
+          "guild": "블랙홀",
+          "class": "환영검사",
+          "grade": 12,
+          "level": 74,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "goodGod",
+          "guild": "블랙홀",
+          "class": "환영검사",
+          "grade": 9,
+          "level": 69,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "oui",
+          "guild": "블랙홀",
+          "class": "집행관",
+          "grade": 9,
+          "level": 68,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "restaurant",
+          "guild": "블랙홀",
+          "class": "향사수",
+          "grade": 9,
+          "level": 67,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "joylife",
+          "guild": "블랙홀",
+          "class": "향사수",
+          "grade": 8,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "땅벌공자",
+          "guild": "블랙홀",
+          "class": "향사수",
+          "grade": 1,
+          "level": 66,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "DDDDDD",
+          "guild": "블랙홀",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "립톤이",
+          "guild": "블랙홀",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "비궁일",
+          "guild": "블랙홀",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "진행",
+          "guild": "블랙홀",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "프리퀼",
+          "guild": "블랙홀",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "비올레트",
+          "guild": "블랙홀",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 64,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "마법전공",
+          "guild": "블랙홀",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 56,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "천지불패",
+          "guild": "블랙홀",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 56,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "립톤이",
+            "guild": "블랙홀",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "비궁일",
+            "guild": "블랙홀",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "비올레트",
+            "guild": "블랙홀",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 64,
+            "server": "필레츠 03"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "ohopeo",
+            "guild": "블랙홀",
+            "class": "환영검사",
+            "grade": 12,
+            "level": 74,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "goodGod",
+            "guild": "블랙홀",
+            "class": "환영검사",
+            "grade": 9,
+            "level": 69,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "마법전공",
+            "guild": "블랙홀",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 56,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "천지불패",
+            "guild": "블랙홀",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 56,
+            "server": "필레츠 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "항만",
+            "guild": "블랙홀",
+            "class": "향사수",
+            "grade": 15,
+            "level": 78,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "restaurant",
+            "guild": "블랙홀",
+            "class": "향사수",
+            "grade": 9,
+            "level": 67,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "joylife",
+            "guild": "블랙홀",
+            "class": "향사수",
+            "grade": 8,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "땅벌공자",
+            "guild": "블랙홀",
+            "class": "향사수",
+            "grade": 1,
+            "level": 66,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "DDDDDD",
+            "guild": "블랙홀",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "진행",
+            "guild": "블랙홀",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "프리퀼",
+            "guild": "블랙홀",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "oui",
+            "guild": "블랙홀",
+            "class": "집행관",
+            "grade": 9,
+            "level": 68,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "땅벌공자",
+            "guild": "블랙홀",
+            "class": "향사수",
+            "grade": 1,
+            "level": 66,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "DDDDDD",
+            "guild": "블랙홀",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "립톤이",
+            "guild": "블랙홀",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "비궁일",
+            "guild": "블랙홀",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "진행",
+            "guild": "블랙홀",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "프리퀼",
+            "guild": "블랙홀",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "비올레트",
+            "guild": "블랙홀",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 64,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "마법전공",
+            "guild": "블랙홀",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 56,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "천지불패",
+            "guild": "블랙홀",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 56,
+            "server": "필레츠 03"
+          }
+        ],
+        "12": [
+          {
+            "nickname": "ohopeo",
+            "guild": "블랙홀",
+            "class": "환영검사",
+            "grade": 12,
+            "level": 74,
+            "server": "필레츠 03"
+          }
+        ],
+        "9": [
+          {
+            "nickname": "goodGod",
+            "guild": "블랙홀",
+            "class": "환영검사",
+            "grade": 9,
+            "level": 69,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "oui",
+            "guild": "블랙홀",
+            "class": "집행관",
+            "grade": 9,
+            "level": 68,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "restaurant",
+            "guild": "블랙홀",
+            "class": "향사수",
+            "grade": 9,
+            "level": 67,
+            "server": "필레츠 03"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "항만",
+            "guild": "블랙홀",
+            "class": "향사수",
+            "grade": 15,
+            "level": 78,
+            "server": "필레츠 03"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "joylife",
+            "guild": "블랙홀",
+            "class": "향사수",
+            "grade": 8,
+            "level": 65,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "로양": {
+      "members": 6,
+      "byClass": {
+        "향사수": 3,
+        "심연추방자": 2,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "1": 6
+      },
+      "membersList": [
+        {
+          "nickname": "두근두",
+          "guild": "로양",
+          "class": "향사수",
+          "grade": 1,
+          "level": 66,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "AABBZ",
+          "guild": "로양",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "QQQS",
+          "guild": "로양",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "립톤일",
+          "guild": "로양",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "무장간첩",
+          "guild": "로양",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "립톤삼",
+          "guild": "로양",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 61,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "립톤일",
+            "guild": "로양",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "립톤삼",
+            "guild": "로양",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 61,
+            "server": "필레츠 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "두근두",
+            "guild": "로양",
+            "class": "향사수",
+            "grade": 1,
+            "level": 66,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "AABBZ",
+            "guild": "로양",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "QQQS",
+            "guild": "로양",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "무장간첩",
+            "guild": "로양",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "두근두",
+            "guild": "로양",
+            "class": "향사수",
+            "grade": 1,
+            "level": 66,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "AABBZ",
+            "guild": "로양",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "QQQS",
+            "guild": "로양",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "립톤일",
+            "guild": "로양",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "무장간첩",
+            "guild": "로양",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "립톤삼",
+            "guild": "로양",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 61,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "눈떠보니": {
+      "members": 1,
+      "byClass": {
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "눈떠보니처재",
+          "guild": "눈떠보니",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 62,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "눈떠보니처재",
+            "guild": "눈떠보니",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 62,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "눈떠보니처재",
+            "guild": "눈떠보니",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 62,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "조달청": {
+      "members": 2,
+      "byClass": {
+        "심연추방자": 1,
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "12": 1,
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "방어뱃살",
+          "guild": "조달청",
+          "class": "심연추방자",
+          "grade": 12,
+          "level": 61,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "환타",
+          "guild": "조달청",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 46,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "방어뱃살",
+            "guild": "조달청",
+            "class": "심연추방자",
+            "grade": 12,
+            "level": 61,
+            "server": "필레츠 03"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "환타",
+            "guild": "조달청",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 46,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "12": [
+          {
+            "nickname": "방어뱃살",
+            "guild": "조달청",
+            "class": "심연추방자",
+            "grade": 12,
+            "level": 61,
+            "server": "필레츠 03"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "환타",
+            "guild": "조달청",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 46,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "전설": {
+      "members": 3,
+      "byClass": {
+        "태양감시자": 2,
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "2": 1,
+        "1": 2
+      },
+      "membersList": [
+        {
+          "nickname": "UUHRTR",
+          "guild": "전설",
+          "class": "태양감시자",
+          "grade": 2,
+          "level": 52,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "비궁삼",
+          "guild": "전설",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 61,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "레이아",
+          "guild": "전설",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 41,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "비궁삼",
+            "guild": "전설",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 61,
+            "server": "필레츠 03"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "UUHRTR",
+            "guild": "전설",
+            "class": "태양감시자",
+            "grade": 2,
+            "level": 52,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "레이아",
+            "guild": "전설",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 41,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "비궁삼",
+            "guild": "전설",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 61,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "레이아",
+            "guild": "전설",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 41,
+            "server": "필레츠 03"
+          }
+        ],
+        "2": [
+          {
+            "nickname": "UUHRTR",
+            "guild": "전설",
+            "class": "태양감시자",
+            "grade": 2,
+            "level": 52,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "로야": {
+      "members": 2,
+      "byClass": {
+        "심연추방자": 1,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "14": 1,
+        "11": 1
+      },
+      "membersList": [
+        {
+          "nickname": "죽창",
+          "guild": "로야",
+          "class": "심연추방자",
+          "grade": 14,
+          "level": 60,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "대뱃살",
+          "guild": "로야",
+          "class": "환영검사",
+          "grade": 11,
+          "level": 63,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "죽창",
+            "guild": "로야",
+            "class": "심연추방자",
+            "grade": 14,
+            "level": 60,
+            "server": "필레츠 03"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "대뱃살",
+            "guild": "로야",
+            "class": "환영검사",
+            "grade": 11,
+            "level": 63,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "14": [
+          {
+            "nickname": "죽창",
+            "guild": "로야",
+            "class": "심연추방자",
+            "grade": 14,
+            "level": 60,
+            "server": "필레츠 03"
+          }
+        ],
+        "11": [
+          {
+            "nickname": "대뱃살",
+            "guild": "로야",
+            "class": "환영검사",
+            "grade": 11,
+            "level": 63,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "아작내주마": {
+      "members": 2,
+      "byClass": {
+        "심연추방자": 1,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "13": 1,
+        "10": 1
+      },
+      "membersList": [
+        {
+          "nickname": "특급악마",
+          "guild": "아작내주마",
+          "class": "주문각인사",
+          "grade": 13,
+          "level": 76,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "헌터퐝",
+          "guild": "아작내주마",
+          "class": "심연추방자",
+          "grade": 10,
+          "level": 60,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "헌터퐝",
+            "guild": "아작내주마",
+            "class": "심연추방자",
+            "grade": 10,
+            "level": 60,
+            "server": "필레츠 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "특급악마",
+            "guild": "아작내주마",
+            "class": "주문각인사",
+            "grade": 13,
+            "level": 76,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "헌터퐝",
+            "guild": "아작내주마",
+            "class": "심연추방자",
+            "grade": 10,
+            "level": 60,
+            "server": "필레츠 03"
+          }
+        ],
+        "13": [
+          {
+            "nickname": "특급악마",
+            "guild": "아작내주마",
+            "class": "주문각인사",
+            "grade": 13,
+            "level": 76,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "코일생산": {
+      "members": 6,
+      "byClass": {
+        "환영검사": 2,
+        "집행관": 2,
+        "심연추방자": 1,
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "17": 1,
+        "14": 1,
+        "4": 1,
+        "1": 3
+      },
+      "membersList": [
+        {
+          "nickname": "철갑",
+          "guild": "코일생산",
+          "class": "집행관",
+          "grade": 17,
+          "level": 81,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "일단죽어",
+          "guild": "코일생산",
+          "class": "환영검사",
+          "grade": 14,
+          "level": 76,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "일단죽을까",
+          "guild": "코일생산",
+          "class": "태양감시자",
+          "grade": 4,
+          "level": 48,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "방패",
+          "guild": "코일생산",
+          "class": "집행관",
+          "grade": 1,
+          "level": 60,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "파워에이드",
+          "guild": "코일생산",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 60,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "심장",
+          "guild": "코일생산",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 55,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "심장",
+            "guild": "코일생산",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 55,
+            "server": "필레츠 03"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "일단죽을까",
+            "guild": "코일생산",
+            "class": "태양감시자",
+            "grade": 4,
+            "level": 48,
+            "server": "필레츠 03"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "일단죽어",
+            "guild": "코일생산",
+            "class": "환영검사",
+            "grade": 14,
+            "level": 76,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "파워에이드",
+            "guild": "코일생산",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 60,
+            "server": "필레츠 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "철갑",
+            "guild": "코일생산",
+            "class": "집행관",
+            "grade": 17,
+            "level": 81,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "방패",
+            "guild": "코일생산",
+            "class": "집행관",
+            "grade": 1,
+            "level": 60,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "방패",
+            "guild": "코일생산",
+            "class": "집행관",
+            "grade": 1,
+            "level": 60,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "파워에이드",
+            "guild": "코일생산",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 60,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "심장",
+            "guild": "코일생산",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 55,
+            "server": "필레츠 03"
+          }
+        ],
+        "4": [
+          {
+            "nickname": "일단죽을까",
+            "guild": "코일생산",
+            "class": "태양감시자",
+            "grade": 4,
+            "level": 48,
+            "server": "필레츠 03"
+          }
+        ],
+        "14": [
+          {
+            "nickname": "일단죽어",
+            "guild": "코일생산",
+            "class": "환영검사",
+            "grade": 14,
+            "level": 76,
+            "server": "필레츠 03"
+          }
+        ],
+        "17": [
+          {
+            "nickname": "철갑",
+            "guild": "코일생산",
+            "class": "집행관",
+            "grade": 17,
+            "level": 81,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "qoskss": {
+      "members": 1,
+      "byClass": {
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "znqiswod",
+          "guild": "qoskss",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 52,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "znqiswod",
+            "guild": "qoskss",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 52,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "znqiswod",
+            "guild": "qoskss",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 52,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "자사중립": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "17": 1
+      },
+      "membersList": [
+        {
+          "nickname": "앤다이브",
+          "guild": "자사중립",
+          "class": "태양감시자",
+          "grade": 17,
+          "level": 82,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "앤다이브",
+            "guild": "자사중립",
+            "class": "태양감시자",
+            "grade": 17,
+            "level": 82,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "17": [
+          {
+            "nickname": "앤다이브",
+            "guild": "자사중립",
+            "class": "태양감시자",
+            "grade": 17,
+            "level": 82,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "해커스": {
+      "members": 7,
+      "byClass": {
+        "환영검사": 4,
+        "주문각인사": 2,
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "15": 2,
+        "14": 2,
+        "8": 1,
+        "6": 1,
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "빗자루검",
+          "guild": "해커스",
+          "class": "환영검사",
+          "grade": 15,
+          "level": 79,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "소시리스",
+          "guild": "해커스",
+          "class": "주문각인사",
+          "grade": 15,
+          "level": 77,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "녹슨부메랑",
+          "guild": "해커스",
+          "class": "태양감시자",
+          "grade": 14,
+          "level": 77,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "춘권",
+          "guild": "해커스",
+          "class": "환영검사",
+          "grade": 14,
+          "level": 75,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "소시일",
+          "guild": "해커스",
+          "class": "주문각인사",
+          "grade": 8,
+          "level": 60,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "빗자루일",
+          "guild": "해커스",
+          "class": "환영검사",
+          "grade": 6,
+          "level": 61,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "빗자루사",
+          "guild": "해커스",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 56,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "녹슨부메랑",
+            "guild": "해커스",
+            "class": "태양감시자",
+            "grade": 14,
+            "level": 77,
+            "server": "필레츠 03"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "빗자루검",
+            "guild": "해커스",
+            "class": "환영검사",
+            "grade": 15,
+            "level": 79,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "춘권",
+            "guild": "해커스",
+            "class": "환영검사",
+            "grade": 14,
+            "level": 75,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "빗자루일",
+            "guild": "해커스",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 61,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "빗자루사",
+            "guild": "해커스",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 56,
+            "server": "필레츠 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "소시리스",
+            "guild": "해커스",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 77,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "소시일",
+            "guild": "해커스",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 60,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "14": [
+          {
+            "nickname": "녹슨부메랑",
+            "guild": "해커스",
+            "class": "태양감시자",
+            "grade": 14,
+            "level": 77,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "춘권",
+            "guild": "해커스",
+            "class": "환영검사",
+            "grade": 14,
+            "level": 75,
+            "server": "필레츠 03"
+          }
+        ],
+        "15": [
+          {
+            "nickname": "빗자루검",
+            "guild": "해커스",
+            "class": "환영검사",
+            "grade": 15,
+            "level": 79,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "소시리스",
+            "guild": "해커스",
+            "class": "주문각인사",
+            "grade": 15,
+            "level": 77,
+            "server": "필레츠 03"
+          }
+        ],
+        "6": [
+          {
+            "nickname": "빗자루일",
+            "guild": "해커스",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 61,
+            "server": "필레츠 03"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "빗자루사",
+            "guild": "해커스",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 56,
+            "server": "필레츠 03"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "소시일",
+            "guild": "해커스",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 60,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "Bosss": {
+      "members": 4,
+      "byClass": {
+        "태양감시자": 1,
+        "향사수": 1,
+        "주문각인사": 1,
+        "집행관": 1
+      },
+      "byGrade": {
+        "13": 1,
+        "11": 1,
+        "10": 1,
+        "9": 1
+      },
+      "membersList": [
+        {
+          "nickname": "사자탈보드랍네",
+          "guild": "Bosss",
+          "class": "집행관",
+          "grade": 13,
+          "level": 72,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "수행기사안드레",
+          "guild": "Bosss",
+          "class": "향사수",
+          "grade": 11,
+          "level": 69,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "댄싱머신부요부요",
+          "guild": "Bosss",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 67,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "성대결절리안",
+          "guild": "Bosss",
+          "class": "태양감시자",
+          "grade": 9,
+          "level": 65,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "성대결절리안",
+            "guild": "Bosss",
+            "class": "태양감시자",
+            "grade": 9,
+            "level": 65,
+            "server": "필레츠 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "수행기사안드레",
+            "guild": "Bosss",
+            "class": "향사수",
+            "grade": 11,
+            "level": 69,
+            "server": "필레츠 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "댄싱머신부요부요",
+            "guild": "Bosss",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 67,
+            "server": "필레츠 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "사자탈보드랍네",
+            "guild": "Bosss",
+            "class": "집행관",
+            "grade": 13,
+            "level": 72,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "9": [
+          {
+            "nickname": "성대결절리안",
+            "guild": "Bosss",
+            "class": "태양감시자",
+            "grade": 9,
+            "level": 65,
+            "server": "필레츠 03"
+          }
+        ],
+        "11": [
+          {
+            "nickname": "수행기사안드레",
+            "guild": "Bosss",
+            "class": "향사수",
+            "grade": 11,
+            "level": 69,
+            "server": "필레츠 03"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "댄싱머신부요부요",
+            "guild": "Bosss",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 67,
+            "server": "필레츠 03"
+          }
+        ],
+        "13": [
+          {
+            "nickname": "사자탈보드랍네",
+            "guild": "Bosss",
+            "class": "집행관",
+            "grade": 13,
+            "level": 72,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "TTTTTTT": {
+      "members": 2,
+      "byClass": {
+        "태양감시자": 2
+      },
+      "byGrade": {
+        "1": 2
+      },
+      "membersList": [
+        {
+          "nickname": "라이게키",
+          "guild": "TTTTTTT",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 49,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "라이게키센",
+          "guild": "TTTTTTT",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 48,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "라이게키",
+            "guild": "TTTTTTT",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 49,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "라이게키센",
+            "guild": "TTTTTTT",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 48,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "라이게키",
+            "guild": "TTTTTTT",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 49,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "라이게키센",
+            "guild": "TTTTTTT",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 48,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "향기": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "2": 1
+      },
+      "membersList": [
+        {
+          "nickname": "집잃은향기",
+          "guild": "향기",
+          "class": "태양감시자",
+          "grade": 2,
+          "level": 49,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "집잃은향기",
+            "guild": "향기",
+            "class": "태양감시자",
+            "grade": 2,
+            "level": 49,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "2": [
+          {
+            "nickname": "집잃은향기",
+            "guild": "향기",
+            "class": "태양감시자",
+            "grade": 2,
+            "level": 49,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "Hexe": {
+      "members": 2,
+      "byClass": {
+        "태양감시자": 2
+      },
+      "byGrade": {
+        "1": 2
+      },
+      "membersList": [
+        {
+          "nickname": "Hexe",
+          "guild": "Hexe",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 46,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "우니",
+          "guild": "Hexe",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 46,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "Hexe",
+            "guild": "Hexe",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 46,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "우니",
+            "guild": "Hexe",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 46,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "Hexe",
+            "guild": "Hexe",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 46,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "우니",
+            "guild": "Hexe",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 46,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "무엔터": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "이나니",
+          "guild": "무엔터",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 38,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "이나니",
+            "guild": "무엔터",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 38,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "이나니",
+            "guild": "무엔터",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 38,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "저승": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "콕콕콕콕콕콕콕",
+          "guild": "저승",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 35,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "콕콕콕콕콕콕콕",
+            "guild": "저승",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 35,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "콕콕콕콕콕콕콕",
+            "guild": "저승",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 35,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "흑군": {
+      "members": 2,
+      "byClass": {
+        "태양감시자": 1,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "1": 2
+      },
+      "membersList": [
+        {
+          "nickname": "챠챠",
+          "guild": "흑군",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 62,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "갱갱울갱",
+          "guild": "흑군",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 34,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "갱갱울갱",
+            "guild": "흑군",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 34,
+            "server": "필레츠 03"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "챠챠",
+            "guild": "흑군",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 62,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "챠챠",
+            "guild": "흑군",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 62,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "갱갱울갱",
+            "guild": "흑군",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 34,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "MOZU": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "겨울눈의사람",
+          "guild": "MOZU",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 31,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "겨울눈의사람",
+            "guild": "MOZU",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 31,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "겨울눈의사람",
+            "guild": "MOZU",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 31,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "침묵의칼": {
+      "members": 2,
+      "byClass": {
+        "환영검사": 1,
+        "향사수": 1
+      },
+      "byGrade": {
+        "17": 1,
+        "7": 1
+      },
+      "membersList": [
+        {
+          "nickname": "진투사",
+          "guild": "침묵의칼",
+          "class": "환영검사",
+          "grade": 17,
+          "level": 78,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "유느",
+          "guild": "침묵의칼",
+          "class": "향사수",
+          "grade": 7,
+          "level": 65,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "진투사",
+            "guild": "침묵의칼",
+            "class": "환영검사",
+            "grade": 17,
+            "level": 78,
+            "server": "필레츠 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "유느",
+            "guild": "침묵의칼",
+            "class": "향사수",
+            "grade": 7,
+            "level": 65,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "17": [
+          {
+            "nickname": "진투사",
+            "guild": "침묵의칼",
+            "class": "환영검사",
+            "grade": 17,
+            "level": 78,
+            "server": "필레츠 03"
+          }
+        ],
+        "7": [
+          {
+            "nickname": "유느",
+            "guild": "침묵의칼",
+            "class": "향사수",
+            "grade": 7,
+            "level": 65,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "캠프": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "11": 1
+      },
+      "membersList": [
+        {
+          "nickname": "김바지",
+          "guild": "캠프",
+          "class": "환영검사",
+          "grade": 11,
+          "level": 71,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "김바지",
+            "guild": "캠프",
+            "class": "환영검사",
+            "grade": 11,
+            "level": 71,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "11": [
+          {
+            "nickname": "김바지",
+            "guild": "캠프",
+            "class": "환영검사",
+            "grade": 11,
+            "level": 71,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "저기닷": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "10": 1
+      },
+      "membersList": [
+        {
+          "nickname": "익명의",
+          "guild": "저기닷",
+          "class": "환영검사",
+          "grade": 10,
+          "level": 68,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "익명의",
+            "guild": "저기닷",
+            "class": "환영검사",
+            "grade": 10,
+            "level": 68,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "익명의",
+            "guild": "저기닷",
+            "class": "환영검사",
+            "grade": 10,
+            "level": 68,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "jinsang": {
+      "members": 11,
+      "byClass": {
+        "환영검사": 9,
+        "향사수": 2
+      },
+      "byGrade": {
+        "1": 11
+      },
+      "membersList": [
+        {
+          "nickname": "AASS",
+          "guild": "jinsang",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "CCZX",
+          "guild": "jinsang",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "기기기",
+          "guild": "jinsang",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 62,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "들을피를",
+          "guild": "jinsang",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 56,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "오호텔",
+          "guild": "jinsang",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 56,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "퍼착한",
+          "guild": "jinsang",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 56,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "혹은레",
+          "guild": "jinsang",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 56,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "혹은우",
+          "guild": "jinsang",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 56,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "총탄팡",
+          "guild": "jinsang",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 55,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "하류층",
+          "guild": "jinsang",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 55,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "한번한번",
+          "guild": "jinsang",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 55,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "기기기",
+            "guild": "jinsang",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 62,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "들을피를",
+            "guild": "jinsang",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 56,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "오호텔",
+            "guild": "jinsang",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 56,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "퍼착한",
+            "guild": "jinsang",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 56,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "혹은레",
+            "guild": "jinsang",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 56,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "혹은우",
+            "guild": "jinsang",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 56,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "총탄팡",
+            "guild": "jinsang",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 55,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "하류층",
+            "guild": "jinsang",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 55,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "한번한번",
+            "guild": "jinsang",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 55,
+            "server": "필레츠 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "AASS",
+            "guild": "jinsang",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "CCZX",
+            "guild": "jinsang",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "AASS",
+            "guild": "jinsang",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "CCZX",
+            "guild": "jinsang",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "기기기",
+            "guild": "jinsang",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 62,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "들을피를",
+            "guild": "jinsang",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 56,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "오호텔",
+            "guild": "jinsang",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 56,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "퍼착한",
+            "guild": "jinsang",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 56,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "혹은레",
+            "guild": "jinsang",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 56,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "혹은우",
+            "guild": "jinsang",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 56,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "총탄팡",
+            "guild": "jinsang",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 55,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "하류층",
+            "guild": "jinsang",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 55,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "한번한번",
+            "guild": "jinsang",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 55,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "스틸": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "5": 1
+      },
+      "membersList": [
+        {
+          "nickname": "소대장",
+          "guild": "스틸",
+          "class": "환영검사",
+          "grade": 5,
+          "level": 60,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "소대장",
+            "guild": "스틸",
+            "class": "환영검사",
+            "grade": 5,
+            "level": 60,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "5": [
+          {
+            "nickname": "소대장",
+            "guild": "스틸",
+            "class": "환영검사",
+            "grade": 5,
+            "level": 60,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "nono": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "6": 1
+      },
+      "membersList": [
+        {
+          "nickname": "탄포포",
+          "guild": "nono",
+          "class": "환영검사",
+          "grade": 6,
+          "level": 56,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "탄포포",
+            "guild": "nono",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 56,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "6": [
+          {
+            "nickname": "탄포포",
+            "guild": "nono",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 56,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "좋은사람들": {
+      "members": 3,
+      "byClass": {
+        "주문각인사": 2,
+        "향사수": 1
+      },
+      "byGrade": {
+        "12": 2,
+        "10": 1
+      },
+      "membersList": [
+        {
+          "nickname": "헤이에코",
+          "guild": "좋은사람들",
+          "class": "향사수",
+          "grade": 12,
+          "level": 75,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "블르리버",
+          "guild": "좋은사람들",
+          "class": "주문각인사",
+          "grade": 12,
+          "level": 73,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "헤이보라",
+          "guild": "좋은사람들",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 72,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "헤이에코",
+            "guild": "좋은사람들",
+            "class": "향사수",
+            "grade": 12,
+            "level": 75,
+            "server": "필레츠 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "블르리버",
+            "guild": "좋은사람들",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 73,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "헤이보라",
+            "guild": "좋은사람들",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 72,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "12": [
+          {
+            "nickname": "헤이에코",
+            "guild": "좋은사람들",
+            "class": "향사수",
+            "grade": 12,
+            "level": 75,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "블르리버",
+            "guild": "좋은사람들",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 73,
+            "server": "필레츠 03"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "헤이보라",
+            "guild": "좋은사람들",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 72,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "메타": {
+      "members": 2,
+      "byClass": {
+        "향사수": 2
+      },
+      "byGrade": {
+        "13": 1,
+        "10": 1
+      },
+      "membersList": [
+        {
+          "nickname": "퐁일",
+          "guild": "메타",
+          "class": "향사수",
+          "grade": 13,
+          "level": 72,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "메일",
+          "guild": "메타",
+          "class": "향사수",
+          "grade": 10,
+          "level": 68,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "퐁일",
+            "guild": "메타",
+            "class": "향사수",
+            "grade": 13,
+            "level": 72,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "메일",
+            "guild": "메타",
+            "class": "향사수",
+            "grade": 10,
+            "level": 68,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "13": [
+          {
+            "nickname": "퐁일",
+            "guild": "메타",
+            "class": "향사수",
+            "grade": 13,
+            "level": 72,
+            "server": "필레츠 03"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "메일",
+            "guild": "메타",
+            "class": "향사수",
+            "grade": 10,
+            "level": 68,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "어흥이내놔": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "11": 1
+      },
+      "membersList": [
+        {
+          "nickname": "검은부리울리케",
+          "guild": "어흥이내놔",
+          "class": "향사수",
+          "grade": 11,
+          "level": 70,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "검은부리울리케",
+            "guild": "어흥이내놔",
+            "class": "향사수",
+            "grade": 11,
+            "level": 70,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "11": [
+          {
+            "nickname": "검은부리울리케",
+            "guild": "어흥이내놔",
+            "class": "향사수",
+            "grade": 11,
+            "level": 70,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "동백": {
+      "members": 2,
+      "byClass": {
+        "향사수": 1,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "10": 1,
+        "8": 1
+      },
+      "membersList": [
+        {
+          "nickname": "동백꽃향기",
+          "guild": "동백",
+          "class": "향사수",
+          "grade": 10,
+          "level": 67,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "동백향",
+          "guild": "동백",
+          "class": "주문각인사",
+          "grade": 8,
+          "level": 63,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "동백꽃향기",
+            "guild": "동백",
+            "class": "향사수",
+            "grade": 10,
+            "level": 67,
+            "server": "필레츠 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "동백향",
+            "guild": "동백",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 63,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "동백꽃향기",
+            "guild": "동백",
+            "class": "향사수",
+            "grade": 10,
+            "level": 67,
+            "server": "필레츠 03"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "동백향",
+            "guild": "동백",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 63,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "설겆이": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "8": 1
+      },
+      "membersList": [
+        {
+          "nickname": "퐁퐁",
+          "guild": "설겆이",
+          "class": "향사수",
+          "grade": 8,
+          "level": 67,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "퐁퐁",
+            "guild": "설겆이",
+            "class": "향사수",
+            "grade": 8,
+            "level": 67,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "8": [
+          {
+            "nickname": "퐁퐁",
+            "guild": "설겆이",
+            "class": "향사수",
+            "grade": 8,
+            "level": 67,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "폭염의화신": {
+      "members": 2,
+      "byClass": {
+        "향사수": 2
+      },
+      "byGrade": {
+        "1": 2
+      },
+      "membersList": [
+        {
+          "nickname": "굉장한걸",
+          "guild": "폭염의화신",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "동요한곡",
+          "guild": "폭염의화신",
+          "class": "향사수",
+          "grade": 1,
+          "level": 65,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "굉장한걸",
+            "guild": "폭염의화신",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "동요한곡",
+            "guild": "폭염의화신",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "굉장한걸",
+            "guild": "폭염의화신",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "동요한곡",
+            "guild": "폭염의화신",
+            "class": "향사수",
+            "grade": 1,
+            "level": 65,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "보부상": {
+      "members": 3,
+      "byClass": {
+        "주문각인사": 3
+      },
+      "byGrade": {
+        "12": 2,
+        "4": 1
+      },
+      "membersList": [
+        {
+          "nickname": "CXZVC",
+          "guild": "보부상",
+          "class": "주문각인사",
+          "grade": 12,
+          "level": 74,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "srrtvcr",
+          "guild": "보부상",
+          "class": "주문각인사",
+          "grade": 12,
+          "level": 73,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "TERUUUUM",
+          "guild": "보부상",
+          "class": "주문각인사",
+          "grade": 4,
+          "level": 66,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "CXZVC",
+            "guild": "보부상",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 74,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "srrtvcr",
+            "guild": "보부상",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 73,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "TERUUUUM",
+            "guild": "보부상",
+            "class": "주문각인사",
+            "grade": 4,
+            "level": 66,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "12": [
+          {
+            "nickname": "CXZVC",
+            "guild": "보부상",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 74,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "srrtvcr",
+            "guild": "보부상",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 73,
+            "server": "필레츠 03"
+          }
+        ],
+        "4": [
+          {
+            "nickname": "TERUUUUM",
+            "guild": "보부상",
+            "class": "주문각인사",
+            "grade": 4,
+            "level": 66,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "멜론": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "11": 1
+      },
+      "membersList": [
+        {
+          "nickname": "하늘나무",
+          "guild": "멜론",
+          "class": "주문각인사",
+          "grade": 11,
+          "level": 70,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "하늘나무",
+            "guild": "멜론",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 70,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "11": [
+          {
+            "nickname": "하늘나무",
+            "guild": "멜론",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 70,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "태양의신": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "9": 1
+      },
+      "membersList": [
+        {
+          "nickname": "니카",
+          "guild": "태양의신",
+          "class": "주문각인사",
+          "grade": 9,
+          "level": 69,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "니카",
+            "guild": "태양의신",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 69,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "9": [
+          {
+            "nickname": "니카",
+            "guild": "태양의신",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 69,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "중립결사대": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "12": 1
+      },
+      "membersList": [
+        {
+          "nickname": "홍설화",
+          "guild": "중립결사대",
+          "class": "주문각인사",
+          "grade": 12,
+          "level": 68,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "홍설화",
+            "guild": "중립결사대",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 68,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "12": [
+          {
+            "nickname": "홍설화",
+            "guild": "중립결사대",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 68,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "댕댕댕댕댕": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "8": 1
+      },
+      "membersList": [
+        {
+          "nickname": "라이미",
+          "guild": "댕댕댕댕댕",
+          "class": "주문각인사",
+          "grade": 8,
+          "level": 64,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "라이미",
+            "guild": "댕댕댕댕댕",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 64,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "8": [
+          {
+            "nickname": "라이미",
+            "guild": "댕댕댕댕댕",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 64,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "크루세이더": {
+      "members": 4,
+      "byClass": {
+        "집행관": 4
+      },
+      "byGrade": {
+        "15": 1,
+        "8": 2,
+        "6": 1
+      },
+      "membersList": [
+        {
+          "nickname": "이렐리아",
+          "guild": "크루세이더",
+          "class": "집행관",
+          "grade": 15,
+          "level": 77,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "일꾼가렌",
+          "guild": "크루세이더",
+          "class": "집행관",
+          "grade": 8,
+          "level": 61,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "말자하",
+          "guild": "크루세이더",
+          "class": "집행관",
+          "grade": 8,
+          "level": 60,
+          "server": "필레츠 03"
+        },
+        {
+          "nickname": "럭스",
+          "guild": "크루세이더",
+          "class": "집행관",
+          "grade": 6,
+          "level": 60,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "이렐리아",
+            "guild": "크루세이더",
+            "class": "집행관",
+            "grade": 15,
+            "level": 77,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "일꾼가렌",
+            "guild": "크루세이더",
+            "class": "집행관",
+            "grade": 8,
+            "level": 61,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "말자하",
+            "guild": "크루세이더",
+            "class": "집행관",
+            "grade": 8,
+            "level": 60,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "럭스",
+            "guild": "크루세이더",
+            "class": "집행관",
+            "grade": 6,
+            "level": 60,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "15": [
+          {
+            "nickname": "이렐리아",
+            "guild": "크루세이더",
+            "class": "집행관",
+            "grade": 15,
+            "level": 77,
+            "server": "필레츠 03"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "일꾼가렌",
+            "guild": "크루세이더",
+            "class": "집행관",
+            "grade": 8,
+            "level": 61,
+            "server": "필레츠 03"
+          },
+          {
+            "nickname": "말자하",
+            "guild": "크루세이더",
+            "class": "집행관",
+            "grade": 8,
+            "level": 60,
+            "server": "필레츠 03"
+          }
+        ],
+        "6": [
+          {
+            "nickname": "럭스",
+            "guild": "크루세이더",
+            "class": "집행관",
+            "grade": 6,
+            "level": 60,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "멜로디척살": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "10": 1
+      },
+      "membersList": [
+        {
+          "nickname": "평범한집붕이",
+          "guild": "멜로디척살",
+          "class": "집행관",
+          "grade": 10,
+          "level": 67,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "평범한집붕이",
+            "guild": "멜로디척살",
+            "class": "집행관",
+            "grade": 10,
+            "level": 67,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "평범한집붕이",
+            "guild": "멜로디척살",
+            "class": "집행관",
+            "grade": 10,
+            "level": 67,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    },
+    "윈팰리스": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "11": 1
+      },
+      "membersList": [
+        {
+          "nickname": "통삼겹",
+          "guild": "윈팰리스",
+          "class": "집행관",
+          "grade": 11,
+          "level": 62,
+          "server": "필레츠 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "통삼겹",
+            "guild": "윈팰리스",
+            "class": "집행관",
+            "grade": 11,
+            "level": 62,
+            "server": "필레츠 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "11": [
+          {
+            "nickname": "통삼겹",
+            "guild": "윈팰리스",
+            "class": "집행관",
+            "grade": 11,
+            "level": 62,
+            "server": "필레츠 03"
+          }
+        ]
+      }
+    }
+  }
+}
