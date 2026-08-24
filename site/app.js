@@ -2,6 +2,13 @@ let SNAP_LIST = [];
 let CURRENT_VIEW_ROWS = [];
 let FILTERED_ROWS = [];
 let CURRENT_GUILD_MEMBER_ROWS = [];
+let GUILD_DETAIL_STATE = {
+  activeTab: "members",
+  filterType: "",
+  filterKey: "",
+  search: "",
+  sort: "grade"
+};
 
 let PAGE_SIZE = 100;
 let CURRENT_PAGE = 1;
@@ -632,15 +639,43 @@ function bindGuildDetailUI(){
       return;
     }
 
+    const tabBtn = e.target.closest(".gm-tab");
+    if (tabBtn) {
+      setGuildDetailTab(tabBtn.getAttribute("data-tab") || "members");
+      return;
+    }
+
     const btn = e.target.closest(".guild-member-open");
-if (!btn) return;
+    if (btn) {
+      e.preventDefault();
+      e.stopPropagation();
+      showGuildFilteredMembers(
+        btn.getAttribute("data-type") || "",
+        btn.getAttribute("data-key") || ""
+      );
+      return;
+    }
 
-e.preventDefault();
-e.stopPropagation();
+    if (e.target.closest("#gmMemberClear")) {
+      GUILD_DETAIL_STATE.filterType = "";
+      GUILD_DETAIL_STATE.filterKey = "";
+      GUILD_DETAIL_STATE.search = "";
+      const input = document.getElementById("gmMemberSearch");
+      if (input) input.value = "";
+      renderGuildMemberTable();
+    }
+  });
 
-const type = btn.getAttribute("data-type");
-const key = btn.getAttribute("data-key");
-openGuildFilteredMemberList(type, key);
+  modal?.addEventListener("input", (e) => {
+    if (e.target?.id !== "gmMemberSearch") return;
+    GUILD_DETAIL_STATE.search = normalizeText(e.target.value || "");
+    renderGuildMemberTable();
+  });
+
+  modal?.addEventListener("change", (e) => {
+    if (e.target?.id !== "gmMemberSort") return;
+    GUILD_DETAIL_STATE.sort = e.target.value || "grade";
+    renderGuildMemberTable();
   });
 }
 
@@ -846,8 +881,96 @@ function showModal(title, sub, clsHtml, grdHtml, lvlHtml = ""){
   if (g) g.innerHTML = grdHtml;
   if (l) l.innerHTML = lvlHtml;
 
+  GUILD_DETAIL_STATE = {
+    activeTab: "members",
+    filterType: "",
+    filterKey: "",
+    search: "",
+    sort: "grade"
+  };
+  const searchInput = document.getElementById("gmMemberSearch");
+  if (searchInput) searchInput.value = "";
+  const sortSelect = document.getElementById("gmMemberSort");
+  if (sortSelect) sortSelect.value = "grade";
+  setGuildDetailTab("members");
+  renderGuildMemberTable();
+
   if (modal) modal.style.display = "block";
   document.body.style.overflow = "hidden";
+}
+
+function setGuildDetailTab(tabName){
+  const allowed = new Set(["members", "class", "grade", "level"]);
+  const active = allowed.has(tabName) ? tabName : "members";
+  GUILD_DETAIL_STATE.activeTab = active;
+
+  document.querySelectorAll("#guildModal .gm-tab").forEach((btn) => {
+    const selected = btn.getAttribute("data-tab") === active;
+    btn.classList.toggle("active", selected);
+    btn.setAttribute("aria-selected", selected ? "true" : "false");
+  });
+  document.querySelectorAll("#guildModal .gm-tab-panel").forEach((panel) => {
+    panel.hidden = panel.getAttribute("data-panel") !== active;
+  });
+}
+
+function getGuildFilteredMembers(){
+  const type = GUILD_DETAIL_STATE.filterType;
+  const key = GUILD_DETAIL_STATE.filterKey;
+  const q = normalizeSearchText(GUILD_DETAIL_STATE.search);
+
+  return CURRENT_GUILD_MEMBER_ROWS.filter((row) => {
+    let matchesFilter = true;
+    if (type === "guild-class") matchesFilter = normalizeText(row?.class) === normalizeText(key);
+    if (type === "guild-grade") matchesFilter = String(row?.grade ?? "") === String(key);
+    if (type === "guild-level") matchesFilter = String(row?.level ?? "") === String(key);
+    const matchesSearch = !q || normalizeSearchText(row?.nickname).includes(q);
+    return matchesFilter && matchesSearch;
+  });
+}
+
+function showGuildFilteredMembers(type, key){
+  GUILD_DETAIL_STATE.filterType = type;
+  GUILD_DETAIL_STATE.filterKey = key;
+  GUILD_DETAIL_STATE.search = "";
+  const input = document.getElementById("gmMemberSearch");
+  if (input) input.value = "";
+  setGuildDetailTab("members");
+  renderGuildMemberTable();
+}
+
+function renderGuildMemberTable(){
+  const wrap = document.getElementById("gmMembers");
+  const summary = document.getElementById("gmMemberSummary");
+  const clearBtn = document.getElementById("gmMemberClear");
+  if (!wrap) return;
+
+  const rows = sortMemberRows(getGuildFilteredMembers(), GUILD_DETAIL_STATE.sort);
+  const typeLabels = {
+    "guild-class": "직업",
+    "guild-grade": "토벌등급",
+    "guild-level": "레벨"
+  };
+  const hasFilter = Boolean(GUILD_DETAIL_STATE.filterType);
+  if (summary) {
+    summary.textContent = hasFilter
+      ? `${typeLabels[GUILD_DETAIL_STATE.filterType] || "조건"} ${GUILD_DETAIL_STATE.filterKey} · ${rows.length.toLocaleString("ko-KR")}명`
+      : `전체 ${rows.length.toLocaleString("ko-KR")}명`;
+  }
+  if (clearBtn) clearBtn.hidden = !hasFilter && !GUILD_DETAIL_STATE.search;
+
+  let html = `<table class="gm-member-table"><thead><tr><th>닉네임</th><th>직업</th><th>레벨</th><th>토벌등급</th></tr></thead><tbody>`;
+  for (const row of rows) {
+    html += `<tr>
+      <td title="${escapeHtml(row.nickname || "")}">${escapeHtml(row.nickname || "-")}</td>
+      <td>${escapeHtml(row.class || "-")}</td>
+      <td>${escapeHtml(String(row.level || "-"))}</td>
+      <td>${escapeHtml(String(row.grade || "-"))}</td>
+    </tr>`;
+  }
+  if (!rows.length) html += `<tr><td colspan="4" class="gm-empty">조건에 맞는 결사원이 없습니다.</td></tr>`;
+  html += `</tbody></table>`;
+  wrap.innerHTML = html;
 }
 
 function hideModal(){
