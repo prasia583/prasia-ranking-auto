@@ -179,14 +179,15 @@ tbody tr:hover{
 /* ====== Column widths ====== */
 th:nth-child(1), td:nth-child(1){ width:8%;  text-align:center; }
 th:nth-child(2), td:nth-child(2){ width:8%;  text-align:center; }
-th:nth-child(3), td:nth-child(3){ width:22%; text-align:center; }
+th:nth-child(3), td:nth-child(3){ width:20%; text-align:center; }
 th:nth-child(4), td:nth-child(4){ width:9%;  text-align:center; }
-th:nth-child(5), td:nth-child(5){ width:17%; text-align:center; }
-th:nth-child(6), td:nth-child(6){ width:18%; text-align:right;  }
-th:nth-child(7), td:nth-child(7){ width:18%; text-align:right;  }
+th:nth-child(5), td:nth-child(5){ width:8%;  text-align:center; }
+th:nth-child(6), td:nth-child(6){ width:17%; text-align:center; }
+th:nth-child(7), td:nth-child(7){ width:15%; text-align:right;  }
+th:nth-child(8), td:nth-child(8){ width:15%; text-align:right;  }
 
 td:nth-child(3),
-td:nth-child(5){
+td:nth-child(6){
   white-space:nowrap;
   overflow:hidden;
   text-overflow:ellipsis;
@@ -196,7 +197,8 @@ td:nth-child(1),
 td:nth-child(2),
 td:nth-child(4),
 td:nth-child(6),
-td:nth-child(7){
+td:nth-child(7),
+td:nth-child(8){
   font-variant-numeric:tabular-nums;
   white-space:nowrap;
   font-weight:700;
@@ -208,12 +210,12 @@ th:nth-child(3), td:nth-child(3){
   font-weight:800;
 }
 
-td:nth-child(5){
+td:nth-child(6){
   color:#d7e3ff;
 }
 
-td:nth-child(6),
-td:nth-child(7){
+td:nth-child(7),
+td:nth-child(8){
   padding-right:12px;
 }
 
@@ -440,11 +442,12 @@ td:nth-child(7){
 
   th:nth-child(1), td:nth-child(1){ width:11%; }
   th:nth-child(2), td:nth-child(2){ width:9%; }
-  th:nth-child(3), td:nth-child(3){ width:26%; }
+  th:nth-child(3), td:nth-child(3){ width:22%; }
   th:nth-child(4), td:nth-child(4){ width:10%; }
-  th:nth-child(5), td:nth-child(5){ width:16%; }
-  th:nth-child(6), td:nth-child(6){ width:14%; }
-  th:nth-child(7), td:nth-child(7){ width:14%; }
+  th:nth-child(5), td:nth-child(5){ width:10%; }
+  th:nth-child(6), td:nth-child(6){ width:15%; }
+  th:nth-child(7), td:nth-child(7){ width:12%; }
+  th:nth-child(8), td:nth-child(8){ width:11%; }
 
   #guildModal .modal-card,
   #overallModal .modal-card,
@@ -975,15 +978,17 @@ body.compact-table #rank tr{contain-intrinsic-size:auto 38px}
 .ranking-panel .table-shell th:nth-child(2),
 .ranking-panel .table-shell td:nth-child(2){width:8%}
 .ranking-panel .table-shell th:nth-child(3),
-.ranking-panel .table-shell td:nth-child(3){width:24%}
+.ranking-panel .table-shell td:nth-child(3){width:21%}
 .ranking-panel .table-shell th:nth-child(4),
 .ranking-panel .table-shell td:nth-child(4){width:9%}
 .ranking-panel .table-shell th:nth-child(5),
-.ranking-panel .table-shell td:nth-child(5){width:20%}
+.ranking-panel .table-shell td:nth-child(5){width:9%}
 .ranking-panel .table-shell th:nth-child(6),
-.ranking-panel .table-shell td:nth-child(6){width:17%}
+.ranking-panel .table-shell td:nth-child(6){width:18%}
 .ranking-panel .table-shell th:nth-child(7),
 .ranking-panel .table-shell td:nth-child(7){width:15%}
+.ranking-panel .table-shell th:nth-child(8),
+.ranking-panel .table-shell td:nth-child(8){width:13%}
 
 #overallModal{
   backdrop-filter:none!important;
@@ -1302,6 +1307,7 @@ body.compact-table #rank tr{contain-intrinsic-size:auto 38px}
       <select id="sortMode" title="결사 목록 정렬 방식">
         <option value="rank">통합 순위순</option>
         <option value="score">총점 높은순</option>
+        <option value="guildLevel">결사 레벨 높은순</option>
         <option value="members">인원 많은순</option>
         <option value="rise">순위 상승순</option>
       </select>
@@ -1342,6 +1348,7 @@ body.compact-table #rank tr{contain-intrinsic-size:auto 38px}
       <th>변동</th>
       <th>순위</th>
       <th>결사</th>
+      <th>결사 레벨</th>
       <th>인원</th>
       <th>서버</th>
       <th>총점</th>
@@ -1354,7 +1361,7 @@ body.compact-table #rank tr{contain-intrinsic-size:auto 38px}
 
 <button id="scrollTop" class="scroll-top" type="button" aria-label="맨 위로">↑</button>
 
-<script src="./app.js?v=6"></script>
+<script src="./app.js?v=7"></script>
 
 <!-- 결사 상세 모달 -->
 <div id="guildModal">
