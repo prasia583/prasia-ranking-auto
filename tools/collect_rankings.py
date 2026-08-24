@@ -138,6 +138,37 @@ def discover_worlds(page):
         pass
     return dict(WORLD_NAMES)
 
+def discover_servers(page):
+    worlds = discover_worlds(page)
+    discovered = {}
+
+    for world_no, world_name in worlds.items():
+        world_value = f"W{world_no:02d}"
+        realm_numbers = []
+        try:
+            page.locator("select").nth(0).select_option(world_value)
+            for _ in range(20):
+                options = page.locator("select").nth(1).evaluate(
+                    """el => [...el.options].map(o => o.value)"""
+                )
+                realm_numbers = sorted({
+                    int(value.split("_R", 1)[1])
+                    for value in options
+                    if value.startswith(f"{world_value}_R")
+                    and value.split("_R", 1)[1].isdigit()
+                })
+                if realm_numbers:
+                    break
+                page.wait_for_timeout(150)
+        except Exception:
+            realm_numbers = []
+
+        if not realm_numbers:
+            realm_numbers = list(range(1, REALM_COUNTS.get(world_no, 5) + 1))
+        discovered[world_no] = {"name": world_name, "realms": realm_numbers}
+
+    return discovered
+
 def member_row(raw, server):
     grade_raw = (raw.get("string_map") or {}).get("grade", 0)
     try:
@@ -193,7 +224,7 @@ def build():
         raise RuntimeError("넥슨 임시 인증 헤더를 가져오지 못했습니다")
 
 
-    worlds = discover_worlds(page)
+    servers = discover_servers(page)
     failures = []
     active_servers = 0
     request_total = 0
@@ -201,8 +232,9 @@ def build():
     empty_responses = 0
     retry_count = 0
 
-    for world_no, world_name in worlds.items():
-        for realm_no in range(1, REALM_COUNTS.get(world_no, 5) + 1):
+    for world_no, world_info in servers.items():
+        world_name = world_info["name"]
+        for realm_no in world_info["realms"]:
             server_rows = []
             for class_slug in CLASS_SLUGS:
                 request_total += 1
@@ -384,8 +416,8 @@ def build():
         "servers": active_servers, "characters": len(all_members),
         "guilds": len(ranking), "failures": failures,
         "complete": True,
-        "realmScanVersion": 2,
-        "worlds": len(worlds),
+        "realmScanVersion": 3,
+        "worlds": len(servers),
         "requests": {
             "total": request_total,
             "success": request_success,
