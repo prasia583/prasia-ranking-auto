@@ -41,7 +41,9 @@ jobs:
           date_key="$(TZ=Asia/Seoul date +%Y_%m_%d)"
           ranking_file="site/snapshots/ranking_${date_key}.json"
 
-          if [ -f "$ranking_file" ] &&              jq -e --arg label "$label" '.[] | select(.label == $label)'                site/snapshots/index.json >/dev/null; then
+          if [ -f "$ranking_file" ] && \
+             jq -e --arg label "$label" '.[] | select(.label == $label)' site/snapshots/index.json >/dev/null && \
+             jq -e '.realmScanVersion == 2' site/snapshots/collection_status.json >/dev/null; then
             echo "needed=false" >> "$GITHUB_OUTPUT"
             echo "Today's complete snapshot already exists: $label"
           else
