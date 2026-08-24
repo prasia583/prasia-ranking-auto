@@ -1,6 +1,6 @@
 Traceback (most recent call last):
-  File "/home/runner/work/prasia-ranking-auto/prasia-ranking-auto/tools/collect_rankings.py", line 391, in <module>
+  File "/home/runner/work/prasia-ranking-auto/prasia-ranking-auto/tools/collect_rankings.py", line 431, in <module>
     build()
-  File "/home/runner/work/prasia-ranking-auto/prasia-ranking-auto/tools/collect_rankings.py", line 256, in build
+  File "/home/runner/work/prasia-ranking-auto/prasia-ranking-auto/tools/collect_rankings.py", line 293, in build
     raise RuntimeError(
-RuntimeError: 완전 수집 조건 미달로 기존 스냅샷을 보존합니다: 44개 요청 실패 / 1140개 요청; ['W01_R1_guild: 결사 랭킹 3회 재시도 실패: 동일 서버 결사 랭킹 내 결사명 중복', 'W01_R4_guild: 결사 랭킹 3회 재시도 실패: 동일 서버 결사 랭킹 내 결사명 중복', 'W04_R1_guild: 결사 랭킹 3회 재시도 실패: 동일 서버 결사 랭킹 내 결사명 중복', 'W04_R2_guild: 결사 랭킹 3회 재시도 실패: 동일 서버 결사 랭킹 내 결사명 중복', 'W04_R4_guild: 결사 랭킹 3회 재시도 실패: 동일 서버 결사 랭킹 내 결사명 중복']
+RuntimeError: 완전 수집 조건 미달로 기존 스냅샷을 보존합니다: 45개 요청 실패 / 1016개 요청; ['W01_R1_guild: 결사 랭킹 3회 재시도 실패: 동일 서버 결사 랭킹 내 결사명 중복', 'W01_R4_guild: 결사 랭킹 3회 재시도 실패: 동일 서버 결사 랭킹 내 결사명 중복', 'W04_R1_guild: 결사 랭킹 3회 재시도 실패: 동일 서버 결사 랭킹 내 결사명 중복', 'W04_R2_guild: 결사 랭킹 3회 재시도 실패: 동일 서버 결사 랭킹 내 결사명 중복', 'W04_R4_guild: 결사 랭킹 3회 재시도 실패: 동일 서버 결사 랭킹 내 결사명 중복']
