@@ -1221,19 +1221,21 @@ body.compact-table #rank tr{contain-intrinsic-size:auto 38px}
 }
 
 /* ====== Guild detail tabs and member roster ====== */
-#guildModal .modal-card{max-width:1240px;width:min(1240px,calc(100vw - 24px))}
-.gm-tabs{position:sticky;top:92px;z-index:4;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px;margin:16px 0 12px;padding:8px;border:1px solid rgba(217,181,109,.18);border-radius:14px;background:rgba(10,16,26,.96)}
+#guildModal .modal-card{display:flex;flex-direction:column;height:calc(100vh - 24px);max-height:calc(100vh - 24px);margin:0 auto;max-width:1240px;width:min(1240px,calc(100vw - 24px));overflow:hidden}
+#guildModal .modal-head{position:relative;top:auto;flex:0 0 auto}
+.gm-tabs{position:relative;z-index:4;display:grid;flex:0 0 auto;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px;margin:16px 0 12px;padding:8px;border:1px solid rgba(217,181,109,.18);border-radius:14px;background:rgba(10,16,26,.96)}
 #guildModal .gm-tab{border:1px solid #2a374b;background:#111a29;color:#aebbd0;font-weight:900;white-space:nowrap}
 #guildModal .gm-tab:hover{background:#182337;color:#fff}
 #guildModal .gm-tab.active{border-color:rgba(217,181,109,.65);color:#f2d487;background:linear-gradient(135deg,rgba(91,70,31,.72),rgba(39,34,25,.92));box-shadow:inset 0 1px 0 rgba(255,255,255,.08)}
-.gm-tab-panel{min-height:360px}
+.gm-tab-panel{min-height:0;overflow-y:auto;overscroll-behavior:contain}
+.gm-tab-panel[data-panel="members"]{display:flex;flex:1 1 auto;flex-direction:column;overflow:hidden}
 .gm-tab-panel[hidden]{display:none!important}
 .gm-tab-panel>.panel{width:100%;box-sizing:border-box}
-.gm-member-tools{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:10px;padding:12px 14px;border:1px solid #23324a;border-radius:12px;background:#0f1626}
+.gm-member-tools{display:flex;flex:0 0 auto;align-items:center;justify-content:space-between;gap:12px;margin-bottom:10px;padding:12px 14px;border:1px solid #23324a;border-radius:12px;background:#0f1626}
 .gm-member-tools>div{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
 .gm-member-tools strong{font-size:18px}.gm-member-tools span{color:#91a2bb;font-size:13px;font-weight:800}
 .gm-member-tools input{min-width:210px}.gm-member-tools select{min-width:160px}
-.gm-members-wrap{overflow:auto;border:1px solid #23324a;border-radius:12px;background:#0b1220}
+.gm-members-wrap{flex:1 1 auto;min-height:0;overflow-x:auto;overflow-y:scroll;overscroll-behavior:contain;scrollbar-gutter:stable;border:1px solid #23324a;border-radius:12px;background:#0b1220}
 #guildModal .gm-member-table{min-width:620px;font-size:15px!important}
 #guildModal .gm-member-table th,#guildModal .gm-member-table td{padding:11px 12px!important;font-size:15px!important;border-top:1px solid rgba(35,50,74,.72)}
 #guildModal .gm-member-table thead th{position:sticky;top:0;z-index:2;border-top:0;background:#121d2d;color:#d9b56d}
@@ -1244,6 +1246,8 @@ body.compact-table #rank tr{contain-intrinsic-size:auto 38px}
 #guildModal .gm-member-table tbody tr:hover{background:rgba(217,181,109,.06)}
 #guildModal .gm-empty{padding:28px!important;color:#8795aa}
 @media(max-width:720px){
+  #guildModal{padding:6px}
+  #guildModal .modal-card{height:calc(100vh - 12px);max-height:calc(100vh - 12px);width:calc(100vw - 12px)}
   .gm-tabs{top:82px;display:flex;overflow-x:auto;padding:6px;scrollbar-width:none}.gm-tabs::-webkit-scrollbar{display:none}
   #guildModal .gm-tab{flex:0 0 auto;min-width:112px}
   .gm-member-tools{align-items:stretch;flex-direction:column}.gm-member-tools>div:last-child{display:grid;grid-template-columns:1fr 1fr}
@@ -1392,7 +1396,7 @@ body.compact-table #rank tr{contain-intrinsic-size:auto 38px}
 
 <button id="scrollTop" class="scroll-top" type="button" aria-label="맨 위로">↑</button>
 
-<script src="./app.js?v=8"></script>
+<script src="./app.js?v=9"></script>
 
 <!-- 결사 상세 모달 -->
 <div id="guildModal">
