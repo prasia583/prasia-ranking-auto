@@ -8,6 +8,7 @@ from pathlib import Path
 from playwright.sync_api import sync_playwright
 
 API = "https://wp-api.nexon.com/v1/GameData/gcranking"
+GUILD_API = "https://wp-api.nexon.com/v1/GameData/guildranking"
 OUT = Path("site/snapshots")
 OUT.mkdir(parents=True, exist_ok=True)
 KST = timezone(timedelta(hours=9))
@@ -50,6 +51,46 @@ def fetch_server(page, auth_headers, world_no, realm_no, class_slug):
     if payload.get("code") != "0000":
         raise RuntimeError(f"API {payload.get('code')}: {payload.get('message', 'UNKNOWN')}")
     return payload.get("result", {}).get("gc", []) or []
+
+def fetch_guild_server(page, auth_headers, world_no, realm_no):
+    group = f"LIVE_W{world_no:02d}"
+    world = f"{group}_R{realm_no}"
+    result = page.evaluate(
+        """async ({api, payload, authHeaders}) => {
+          const response = await fetch(api, {
+            method: "POST",
+            headers: {"Content-Type": "application/json", ...authHeaders},
+            body: JSON.stringify(payload)
+          });
+          return {status: response.status, text: await response.text()};
+        }""",
+        {"api": GUILD_API, "payload": {"world_id": world, "world_group_id": group}, "authHeaders": auth_headers},
+    )
+    if result["status"] != 200:
+        raise RuntimeError(f"HTTP {result['status']}")
+    payload = json.loads(result["text"])
+    if payload.get("code") != "0000":
+        raise RuntimeError(f"API {payload.get('code')}: {payload.get('message', 'UNKNOWN')}")
+    return payload.get("result", {}).get("guild_ranking", []) or []
+
+def validate_guild_ranking_rows(rows):
+    names = [str(row.get("guild_name") or "").strip() for row in rows]
+    if any(not name for name in names):
+        raise RuntimeError("결사명이 비어 있는 결사 랭킹 데이터")
+    if len(names) != len(set(names)):
+        raise RuntimeError("동일 서버 결사 랭킹 내 결사명 중복")
+
+def fetch_guild_server_complete(page, auth_headers, world_no, realm_no):
+    last_error = None
+    for attempt in range(1, 4):
+        try:
+            rows = fetch_guild_server(page, auth_headers, world_no, realm_no)
+            validate_guild_ranking_rows(rows)
+            return rows, attempt
+        except Exception as exc:
+            last_error = exc
+        page.wait_for_timeout(700 * attempt)
+    raise RuntimeError(f"결사 랭킹 3회 재시도 실패: {last_error or '빈 응답 반복'}")
 
 def validate_ranking_rows(rows):
     if len(rows) > 100:
@@ -126,6 +167,7 @@ def build():
     stem = f"ranking_{date_key}"
 
     all_members = []
+    guild_profiles = {}
     playwright = sync_playwright().start()
     browser = playwright.chromium.launch(headless=True)
     page = browser.new_page(locale="ko-KR")
@@ -179,6 +221,29 @@ def build():
             server = f"{world_name} {realm_no:02d}"
             all_members.extend(member_row(row, server) for row in server_rows)
 
+            request_total += 1
+            try:
+                guild_rows, attempts = fetch_guild_server_complete(
+                    page, auth_headers, world_no, realm_no
+                )
+                request_success += 1
+                retry_count += attempts - 1
+                if not guild_rows:
+                    empty_responses += 1
+                for row in guild_rows:
+                    guild_name = str(row.get("guild_name") or "").strip()
+                    if not guild_name:
+                        continue
+                    guild_profiles[(guild_name, server)] = {
+                        "guildLevel": int(row.get("guild_level") or 0),
+                        "guildRank": int(row.get("ranking") or 0),
+                        "guildMaster": str(row.get("guild_master_gc_name") or "").strip(),
+                        "guildMemberCount": int(row.get("guild_member_count") or 0),
+                        "maxGuildMemberCount": int(row.get("max_guild_member_count") or 0),
+                    }
+            except Exception as exc:
+                failures.append(f"W{world_no:02d}_R{realm_no}_guild: {exc}")
+
     browser.close()
     playwright.stop()
 
@@ -213,12 +278,14 @@ def build():
 
     ranking = []
     for (guild, server), members in guild_members.items():
+        profile = guild_profiles.get((guild, server), {})
         level_score = sum(exponential_score(x["level"], 80) for x in members)
         hunt_score = sum(exponential_score(x["grade"], 15) for x in members)
         ranking.append({
             "rank": 0,
             "guild": guild,
             "server": server,
+            "guild_level": profile.get("guildLevel", 0),
             "members": len(members),
             "hunt_score": hunt_score,
             "level_score": level_score,
@@ -262,10 +329,16 @@ def build():
 
     by_server = defaultdict(dict)
     for (guild, server), members in guild_members.items():
+        profile = guild_profiles.get((guild, server), {})
         by_class = Counter(x["class"] for x in members)
         by_grade = Counter(str(x["grade"]) for x in members)
         by_server[server][guild] = {
             "members": len(members),
+            "guildLevel": profile.get("guildLevel", 0),
+            "guildRank": profile.get("guildRank", 0),
+            "guildMaster": profile.get("guildMaster", ""),
+            "officialMemberCount": profile.get("guildMemberCount", 0),
+            "maxGuildMemberCount": profile.get("maxGuildMemberCount", 0),
             "byClass": dict(by_class.most_common()),
             "byGrade": dict(sorted(by_grade.items(), key=lambda x: -int(x[0]))),
             "membersList": sorted_members(members),
