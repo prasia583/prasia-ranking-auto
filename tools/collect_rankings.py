@@ -21,6 +21,11 @@ WORLD_NAMES = {
     24:"트렌체",25:"바이람",26:"하이퍼부스팅",27:"메르비스",
     28:"레전드부스팅",29:"올인원부스팅",
 }
+REALM_COUNTS = {
+    **{world_no: 5 for world_no in range(1, 18)},
+    18:3, 19:4, 20:3, 21:7, 22:3, 23:2, 24:3, 25:4,
+    26:3, 27:5, 28:3, 29:2,
+}
 CLASS_NAMES = {
     "WildWarrior":"야만투사","AbyssRevenant":"심연추방자",
     "SolarSentinel":"태양감시자","MirageBlade":"환영검사",
@@ -197,7 +202,7 @@ def build():
     retry_count = 0
 
     for world_no, world_name in worlds.items():
-        for realm_no in range(1, 6):
+        for realm_no in range(1, REALM_COUNTS.get(world_no, 5) + 1):
             server_rows = []
             for class_slug in CLASS_SLUGS:
                 request_total += 1
@@ -279,6 +284,8 @@ def build():
     ranking = []
     for (guild, server), members in guild_members.items():
         profile = guild_profiles.get((guild, server), {})
+        if not profile.get("guildLevel"):
+            continue
         level_score = sum(exponential_score(x["level"], 80) for x in members)
         hunt_score = sum(exponential_score(x["grade"], 15) for x in members)
         ranking.append({
@@ -377,6 +384,7 @@ def build():
         "servers": active_servers, "characters": len(all_members),
         "guilds": len(ranking), "failures": failures,
         "complete": True,
+        "realmScanVersion": 2,
         "worlds": len(worlds),
         "requests": {
             "total": request_total,
