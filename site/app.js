@@ -114,6 +114,7 @@ function normalizeRow(r){
     curRank: toNum(r.rank ?? 0),
     guild: normalizeText(r.guild ?? ""),
     server: normalizeText(r.server ?? ""),
+    guildLevel: toNum(r.guild_level ?? r.guildLevel ?? 0),
     members: toNum(r.members ?? 0),
     total: toNum(r.total_score ?? r.score_total ?? r.total ?? 0),
   };
@@ -467,6 +468,7 @@ async function loadRanking(fileName) {
         guild: r.guild,
         server: r.server,
         members: r.members,
+        guildLevel: r.guildLevel,
         total: r.total,
         moveText,
         moveClass,
@@ -513,6 +515,7 @@ function applySearch(){
   const sorters = {
     rank: (a,b) => toNum(a.curRank) - toNum(b.curRank),
     score: (a,b) => toNum(b.total) - toNum(a.total) || toNum(a.curRank) - toNum(b.curRank),
+    guildLevel: (a,b) => toNum(b.guildLevel) - toNum(a.guildLevel) || toNum(a.curRank) - toNum(b.curRank),
     members: (a,b) => toNum(b.members) - toNum(a.members) || toNum(a.curRank) - toNum(b.curRank),
     rise: (a,b) => {
       const rise = (row) => row.moveClass === "delta-up" ? toNum(String(row.moveText).replace(/[^0-9.-]/g,"")) : 0;
@@ -555,7 +558,7 @@ function renderRows(rows){
 
   let html = "";
   if (!rows.length) {
-    tbody.innerHTML = '<tr class="empty-state"><td colspan="7">조건에 맞는 결사가 없습니다. 검색어나 필터를 바꿔보세요.</td></tr>';
+    tbody.innerHTML = '<tr class="empty-state"><td colspan="8">조건에 맞는 결사가 없습니다. 검색어나 필터를 바꿔보세요.</td></tr>';
     return;
   }
   for (const x of rows) {
@@ -565,6 +568,7 @@ function renderRows(rows){
         <td class="delta-cell ${x.moveClass}">${escapeHtml(x.moveText)}</td>
         <td><span class="rank-badge">${x.curRank || ""}</span></td>
         <td>${escapeHtml(x.guild)}</td>
+        <td>${x.guildLevel ? `Lv.${fmtNum(x.guildLevel)}` : "-"}</td>
         <td>${fmtNum(x.members)}</td>
         <td>${escapeHtml(x.server)}</td>
         <td>${fmtNum(x.total)}</td>
@@ -748,7 +752,8 @@ showModal(
   {
     server: serverNorm,
     date: dateKey,
-    members: Number(g.members || 0)
+    members: Number(g.members || 0),
+    guildLevel: Number(g.guildLevel || 0)
   },
   clsHtml,
   grdHtml,
@@ -823,6 +828,10 @@ function showModal(title, sub, clsHtml, grdHtml, lvlHtml = ""){
         <div class="guild-meta-item">
           <span class="meta-label">기준일</span>
           <strong>${escapeHtml(cleanDate || "-")}</strong>
+        </div>
+        <div class="guild-meta-item">
+          <span class="meta-label">결사 레벨</span>
+          <strong>${sub.guildLevel ? `Lv.${Number(sub.guildLevel).toLocaleString("ko-KR")}` : "-"}</strong>
         </div>
         <div class="guild-member-total">
           <span>집계 총원</span>
