@@ -1,1 +1,6 @@
-{"label": "2026-08-24", "file": "ranking_2026_08_24.json", "statsFile": "stats_ranking_2026_08_24.json", "statsMembersFile": "stats_members_ranking_2026_08_24.json", "rows": 8365, "sheet": "Nexon API", "collectedAt": "2026-08-24T05:58:04+09:00", "characters": 76623, "servers": 125, "complete": true, "requests": 1015}
+Traceback (most recent call last):
+  File "/home/runner/work/prasia-ranking-auto/prasia-ranking-auto/tools/collect_rankings.py", line 391, in <module>
+    build()
+  File "/home/runner/work/prasia-ranking-auto/prasia-ranking-auto/tools/collect_rankings.py", line 256, in build
+    raise RuntimeError(
+RuntimeError: 완전 수집 조건 미달로 기존 스냅샷을 보존합니다: 44개 요청 실패 / 1140개 요청; ['W01_R1_guild: 결사 랭킹 3회 재시도 실패: 동일 서버 결사 랭킹 내 결사명 중복', 'W01_R4_guild: 결사 랭킹 3회 재시도 실패: 동일 서버 결사 랭킹 내 결사명 중복', 'W04_R1_guild: 결사 랭킹 3회 재시도 실패: 동일 서버 결사 랭킹 내 결사명 중복', 'W04_R2_guild: 결사 랭킹 3회 재시도 실패: 동일 서버 결사 랭킹 내 결사명 중복', 'W04_R4_guild: 결사 랭킹 3회 재시도 실패: 동일 서버 결사 랭킹 내 결사명 중복']
