@@ -1221,7 +1221,8 @@ body.compact-table #rank tr{contain-intrinsic-size:auto 38px}
 }
 
 /* ====== Guild detail tabs and member roster ====== */
-#guildModal .modal-card{display:flex;flex-direction:column;height:calc(100vh - 24px);max-height:calc(100vh - 24px);margin:0 auto;max-width:1240px;width:min(1240px,calc(100vw - 24px));overflow:hidden}
+#guildModal{background:rgba(2,4,8,.94);backdrop-filter:none;-webkit-backdrop-filter:none}
+#guildModal .modal-card{display:flex;flex-direction:column;height:calc(100vh - 24px);max-height:calc(100vh - 24px);margin:0 auto;max-width:1240px;width:min(1240px,calc(100vw - 24px));overflow:hidden;contain:layout paint style;box-shadow:0 18px 50px rgba(0,0,0,.46)}
 #guildModal .modal-head{position:relative;top:auto;flex:0 0 auto}
 .gm-tabs{position:relative;z-index:4;display:grid;flex:0 0 auto;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px;margin:16px 0 12px;padding:8px;border:1px solid rgba(217,181,109,.18);border-radius:14px;background:rgba(10,16,26,.96)}
 #guildModal .gm-tab{border:1px solid #2a374b;background:#111a29;color:#aebbd0;font-weight:900;white-space:nowrap}
@@ -1235,10 +1236,11 @@ body.compact-table #rank tr{contain-intrinsic-size:auto 38px}
 .gm-member-tools>div{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
 .gm-member-tools strong{font-size:18px}.gm-member-tools span{color:#91a2bb;font-size:13px;font-weight:800}
 .gm-member-tools input{min-width:210px}.gm-member-tools select{min-width:160px}
-.gm-members-wrap{flex:1 1 auto;min-height:0;overflow-x:auto;overflow-y:scroll;overscroll-behavior:contain;scrollbar-gutter:stable;border:1px solid #23324a;border-radius:12px;background:#0b1220}
-#guildModal .gm-member-table{min-width:620px;font-size:15px!important}
+.gm-members-wrap{flex:1 1 auto;min-height:0;overflow-x:auto;overflow-y:scroll;overscroll-behavior:contain;scrollbar-gutter:stable;border:1px solid #23324a;border-radius:12px;background:#0b1220;contain:layout paint style;transform:translateZ(0);backface-visibility:hidden;-webkit-overflow-scrolling:touch}
+#guildModal .gm-member-table{min-width:620px;font-size:15px!important;transform:translateZ(0)}
 #guildModal .gm-member-table th,#guildModal .gm-member-table td{padding:11px 12px!important;font-size:15px!important;border-top:1px solid rgba(35,50,74,.72)}
 #guildModal .gm-member-table thead th{position:sticky;top:0;z-index:2;border-top:0;background:#121d2d;color:#d9b56d}
+#guildModal .gm-member-table tbody tr{transition:none!important;contain:layout paint style}
 #guildModal .gm-member-table th:nth-child(1){width:36%}
 #guildModal .gm-member-table th:nth-child(2){width:28%}
 #guildModal .gm-member-table th:nth-child(3),#guildModal .gm-member-table th:nth-child(4){width:18%}
