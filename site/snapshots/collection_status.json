@@ -1,16 +1,17 @@
 {
   "ok": true,
-  "collectedAt": "2026-08-24T05:58:04+09:00",
-  "servers": 125,
-  "characters": 76623,
-  "guilds": 8365,
+  "collectedAt": "2026-08-25T15:17:51+09:00",
+  "servers": 127,
+  "characters": 77839,
+  "guilds": 4511,
   "failures": [],
   "complete": true,
+  "realmScanVersion": 3,
   "worlds": 29,
   "requests": {
-    "total": 1015,
-    "success": 1015,
-    "empty": 243,
-    "retried": 486
+    "total": 1016,
+    "success": 1016,
+    "empty": 105,
+    "retried": 210
   }
 }
