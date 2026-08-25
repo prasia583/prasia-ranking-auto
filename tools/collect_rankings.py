@@ -78,19 +78,39 @@ def fetch_guild_server(page, auth_headers, world_no, realm_no):
         raise RuntimeError(f"API {payload.get('code')}: {payload.get('message', 'UNKNOWN')}")
     return payload.get("result", {}).get("guild_ranking", []) or []
 
-def validate_guild_ranking_rows(rows):
-    names = [str(row.get("guild_name") or "").strip() for row in rows]
-    if any(not name for name in names):
-        raise RuntimeError("결사명이 비어 있는 결사 랭킹 데이터")
-    if len(names) != len(set(names)):
-        raise RuntimeError("동일 서버 결사 랭킹 내 결사명 중복")
+def normalize_guild_ranking_rows(rows):
+    """Validate guild rows and collapse duplicate names returned by Nexon.
+
+    After the realm changes, the guild ranking endpoint can contain the same
+    guild name more than once for one realm. Character ranking rows only carry
+    the guild name, so those entries cannot be distinguished downstream. Keep
+    the highest-ranked official profile instead of discarding the entire daily
+    snapshot.
+    """
+    unique = {}
+    for row in rows:
+        name = str(row.get("guild_name") or "").strip()
+        if not name:
+            raise RuntimeError("결사명이 비어 있는 결사 랭킹 데이터")
+
+        previous = unique.get(name)
+        if previous is None:
+            unique[name] = row
+            continue
+
+        previous_rank = int(previous.get("ranking") or 10**9)
+        current_rank = int(row.get("ranking") or 10**9)
+        if current_rank < previous_rank:
+            unique[name] = row
+
+    return list(unique.values())
 
 def fetch_guild_server_complete(page, auth_headers, world_no, realm_no):
     last_error = None
     for attempt in range(1, 4):
         try:
             rows = fetch_guild_server(page, auth_headers, world_no, realm_no)
-            validate_guild_ranking_rows(rows)
+            rows = normalize_guild_ranking_rows(rows)
             return rows, attempt
         except Exception as exc:
             last_error = exc
