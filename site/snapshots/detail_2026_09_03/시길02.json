@@ -1,0 +1,4838 @@
+{
+  "server": "시길 02",
+  "guilds": {
+    "부케전문": {
+      "members": 2,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "심연추방자": 1,
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "12": 1,
+        "10": 1
+      },
+      "membersList": [
+        {
+          "nickname": "앙꼬탄",
+          "guild": "부케전문",
+          "class": "태양감시자",
+          "grade": 12,
+          "level": 71,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "BlueBird",
+          "guild": "부케전문",
+          "class": "심연추방자",
+          "grade": 10,
+          "level": 58,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "BlueBird",
+            "guild": "부케전문",
+            "class": "심연추방자",
+            "grade": 10,
+            "level": 58,
+            "server": "시길 02"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "앙꼬탄",
+            "guild": "부케전문",
+            "class": "태양감시자",
+            "grade": 12,
+            "level": 71,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "BlueBird",
+            "guild": "부케전문",
+            "class": "심연추방자",
+            "grade": 10,
+            "level": 58,
+            "server": "시길 02"
+          }
+        ],
+        "12": [
+          {
+            "nickname": "앙꼬탄",
+            "guild": "부케전문",
+            "class": "태양감시자",
+            "grade": 12,
+            "level": 71,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "불주먹": {
+      "members": 18,
+      "guildLevel": 35,
+      "guildRank": 6,
+      "guildMaster": "삼도류",
+      "officialMemberCount": 34,
+      "maxGuildMemberCount": 40,
+      "byClass": {
+        "태양감시자": 5,
+        "주문각인사": 4,
+        "집행관": 3,
+        "심연추방자": 2,
+        "환영검사": 2,
+        "향사수": 2
+      },
+      "byGrade": {
+        "12": 1,
+        "11": 2,
+        "10": 2,
+        "8": 1,
+        "7": 1,
+        "6": 2,
+        "5": 2,
+        "4": 3,
+        "3": 1,
+        "1": 3
+      },
+      "membersList": [
+        {
+          "nickname": "날마다대박",
+          "guild": "불주먹",
+          "class": "집행관",
+          "grade": 12,
+          "level": 72,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "삼도류",
+          "guild": "불주먹",
+          "class": "환영검사",
+          "grade": 11,
+          "level": 70,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "훔쳐보는라이언",
+          "guild": "불주먹",
+          "class": "주문각인사",
+          "grade": 11,
+          "level": 70,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "롯데리아",
+          "guild": "불주먹",
+          "class": "향사수",
+          "grade": 10,
+          "level": 70,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "피오르",
+          "guild": "불주먹",
+          "class": "집행관",
+          "grade": 10,
+          "level": 65,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "춘식이패는라이언",
+          "guild": "불주먹",
+          "class": "향사수",
+          "grade": 8,
+          "level": 64,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "APT",
+          "guild": "불주먹",
+          "class": "주문각인사",
+          "grade": 7,
+          "level": 59,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "주각조아",
+          "guild": "불주먹",
+          "class": "주문각인사",
+          "grade": 6,
+          "level": 61,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "미역조아",
+          "guild": "불주먹",
+          "class": "주문각인사",
+          "grade": 6,
+          "level": 59,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "라이언패는춘식이",
+          "guild": "불주먹",
+          "class": "집행관",
+          "grade": 5,
+          "level": 61,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "asfeg",
+          "guild": "불주먹",
+          "class": "환영검사",
+          "grade": 5,
+          "level": 60,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "레스비",
+          "guild": "불주먹",
+          "class": "태양감시자",
+          "grade": 4,
+          "level": 63,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "레스이",
+          "guild": "불주먹",
+          "class": "태양감시자",
+          "grade": 4,
+          "level": 48,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "레스일",
+          "guild": "불주먹",
+          "class": "태양감시자",
+          "grade": 4,
+          "level": 48,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "염탐하는라이언",
+          "guild": "불주먹",
+          "class": "심연추방자",
+          "grade": 3,
+          "level": 54,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "추방자",
+          "guild": "불주먹",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 46,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "숙취중",
+          "guild": "불주먹",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 45,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "태양빛",
+          "guild": "불주먹",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 45,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "염탐하는라이언",
+            "guild": "불주먹",
+            "class": "심연추방자",
+            "grade": 3,
+            "level": 54,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "추방자",
+            "guild": "불주먹",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 46,
+            "server": "시길 02"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "레스비",
+            "guild": "불주먹",
+            "class": "태양감시자",
+            "grade": 4,
+            "level": 63,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "레스이",
+            "guild": "불주먹",
+            "class": "태양감시자",
+            "grade": 4,
+            "level": 48,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "레스일",
+            "guild": "불주먹",
+            "class": "태양감시자",
+            "grade": 4,
+            "level": 48,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "숙취중",
+            "guild": "불주먹",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 45,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "태양빛",
+            "guild": "불주먹",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 45,
+            "server": "시길 02"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "삼도류",
+            "guild": "불주먹",
+            "class": "환영검사",
+            "grade": 11,
+            "level": 70,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "asfeg",
+            "guild": "불주먹",
+            "class": "환영검사",
+            "grade": 5,
+            "level": 60,
+            "server": "시길 02"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "롯데리아",
+            "guild": "불주먹",
+            "class": "향사수",
+            "grade": 10,
+            "level": 70,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "춘식이패는라이언",
+            "guild": "불주먹",
+            "class": "향사수",
+            "grade": 8,
+            "level": 64,
+            "server": "시길 02"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "훔쳐보는라이언",
+            "guild": "불주먹",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 70,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "APT",
+            "guild": "불주먹",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 59,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "주각조아",
+            "guild": "불주먹",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 61,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "미역조아",
+            "guild": "불주먹",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 59,
+            "server": "시길 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "날마다대박",
+            "guild": "불주먹",
+            "class": "집행관",
+            "grade": 12,
+            "level": 72,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "피오르",
+            "guild": "불주먹",
+            "class": "집행관",
+            "grade": 10,
+            "level": 65,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "라이언패는춘식이",
+            "guild": "불주먹",
+            "class": "집행관",
+            "grade": 5,
+            "level": 61,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "3": [
+          {
+            "nickname": "염탐하는라이언",
+            "guild": "불주먹",
+            "class": "심연추방자",
+            "grade": 3,
+            "level": 54,
+            "server": "시길 02"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "추방자",
+            "guild": "불주먹",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 46,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "숙취중",
+            "guild": "불주먹",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 45,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "태양빛",
+            "guild": "불주먹",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 45,
+            "server": "시길 02"
+          }
+        ],
+        "4": [
+          {
+            "nickname": "레스비",
+            "guild": "불주먹",
+            "class": "태양감시자",
+            "grade": 4,
+            "level": 63,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "레스이",
+            "guild": "불주먹",
+            "class": "태양감시자",
+            "grade": 4,
+            "level": 48,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "레스일",
+            "guild": "불주먹",
+            "class": "태양감시자",
+            "grade": 4,
+            "level": 48,
+            "server": "시길 02"
+          }
+        ],
+        "11": [
+          {
+            "nickname": "삼도류",
+            "guild": "불주먹",
+            "class": "환영검사",
+            "grade": 11,
+            "level": 70,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "훔쳐보는라이언",
+            "guild": "불주먹",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 70,
+            "server": "시길 02"
+          }
+        ],
+        "5": [
+          {
+            "nickname": "라이언패는춘식이",
+            "guild": "불주먹",
+            "class": "집행관",
+            "grade": 5,
+            "level": 61,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "asfeg",
+            "guild": "불주먹",
+            "class": "환영검사",
+            "grade": 5,
+            "level": 60,
+            "server": "시길 02"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "롯데리아",
+            "guild": "불주먹",
+            "class": "향사수",
+            "grade": 10,
+            "level": 70,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "피오르",
+            "guild": "불주먹",
+            "class": "집행관",
+            "grade": 10,
+            "level": 65,
+            "server": "시길 02"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "춘식이패는라이언",
+            "guild": "불주먹",
+            "class": "향사수",
+            "grade": 8,
+            "level": 64,
+            "server": "시길 02"
+          }
+        ],
+        "6": [
+          {
+            "nickname": "주각조아",
+            "guild": "불주먹",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 61,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "미역조아",
+            "guild": "불주먹",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 59,
+            "server": "시길 02"
+          }
+        ],
+        "7": [
+          {
+            "nickname": "APT",
+            "guild": "불주먹",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 59,
+            "server": "시길 02"
+          }
+        ],
+        "12": [
+          {
+            "nickname": "날마다대박",
+            "guild": "불주먹",
+            "class": "집행관",
+            "grade": 12,
+            "level": 72,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "설인아": {
+      "members": 10,
+      "guildLevel": 23,
+      "guildRank": 18,
+      "guildMaster": "심연카무이",
+      "officialMemberCount": 45,
+      "maxGuildMemberCount": 45,
+      "byClass": {
+        "태양감시자": 7,
+        "심연추방자": 2,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "8": 2,
+        "6": 1,
+        "5": 1,
+        "4": 1,
+        "1": 5
+      },
+      "membersList": [
+        {
+          "nickname": "근처",
+          "guild": "설인아",
+          "class": "태양감시자",
+          "grade": 8,
+          "level": 65,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "투쟁",
+          "guild": "설인아",
+          "class": "주문각인사",
+          "grade": 8,
+          "level": 62,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "심연카무이",
+          "guild": "설인아",
+          "class": "심연추방자",
+          "grade": 6,
+          "level": 52,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "냠냠이",
+          "guild": "설인아",
+          "class": "태양감시자",
+          "grade": 5,
+          "level": 54,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "셀라피네",
+          "guild": "설인아",
+          "class": "태양감시자",
+          "grade": 4,
+          "level": 51,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "심플",
+          "guild": "설인아",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 46,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "냥냥이",
+          "guild": "설인아",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 45,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "살성",
+          "guild": "설인아",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 45,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "스피드",
+          "guild": "설인아",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 45,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "시니어",
+          "guild": "설인아",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 45,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "심연카무이",
+            "guild": "설인아",
+            "class": "심연추방자",
+            "grade": 6,
+            "level": 52,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "심플",
+            "guild": "설인아",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 46,
+            "server": "시길 02"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "근처",
+            "guild": "설인아",
+            "class": "태양감시자",
+            "grade": 8,
+            "level": 65,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "냠냠이",
+            "guild": "설인아",
+            "class": "태양감시자",
+            "grade": 5,
+            "level": 54,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "셀라피네",
+            "guild": "설인아",
+            "class": "태양감시자",
+            "grade": 4,
+            "level": 51,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "냥냥이",
+            "guild": "설인아",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 45,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "살성",
+            "guild": "설인아",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 45,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "스피드",
+            "guild": "설인아",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 45,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "시니어",
+            "guild": "설인아",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 45,
+            "server": "시길 02"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "투쟁",
+            "guild": "설인아",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 62,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "6": [
+          {
+            "nickname": "심연카무이",
+            "guild": "설인아",
+            "class": "심연추방자",
+            "grade": 6,
+            "level": 52,
+            "server": "시길 02"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "심플",
+            "guild": "설인아",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 46,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "냥냥이",
+            "guild": "설인아",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 45,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "살성",
+            "guild": "설인아",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 45,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "스피드",
+            "guild": "설인아",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 45,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "시니어",
+            "guild": "설인아",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 45,
+            "server": "시길 02"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "근처",
+            "guild": "설인아",
+            "class": "태양감시자",
+            "grade": 8,
+            "level": 65,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "투쟁",
+            "guild": "설인아",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 62,
+            "server": "시길 02"
+          }
+        ],
+        "5": [
+          {
+            "nickname": "냠냠이",
+            "guild": "설인아",
+            "class": "태양감시자",
+            "grade": 5,
+            "level": 54,
+            "server": "시길 02"
+          }
+        ],
+        "4": [
+          {
+            "nickname": "셀라피네",
+            "guild": "설인아",
+            "class": "태양감시자",
+            "grade": 4,
+            "level": 51,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "백귀": {
+      "members": 2,
+      "guildLevel": 28,
+      "guildRank": 14,
+      "guildMaster": "반딧불",
+      "officialMemberCount": 22,
+      "maxGuildMemberCount": 45,
+      "byClass": {
+        "심연추방자": 1,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "9": 1,
+        "2": 1
+      },
+      "membersList": [
+        {
+          "nickname": "반딧불",
+          "guild": "백귀",
+          "class": "환영검사",
+          "grade": 9,
+          "level": 70,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "몽둥이가저와",
+          "guild": "백귀",
+          "class": "심연추방자",
+          "grade": 2,
+          "level": 46,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "몽둥이가저와",
+            "guild": "백귀",
+            "class": "심연추방자",
+            "grade": 2,
+            "level": 46,
+            "server": "시길 02"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "반딧불",
+            "guild": "백귀",
+            "class": "환영검사",
+            "grade": 9,
+            "level": 70,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "2": [
+          {
+            "nickname": "몽둥이가저와",
+            "guild": "백귀",
+            "class": "심연추방자",
+            "grade": 2,
+            "level": 46,
+            "server": "시길 02"
+          }
+        ],
+        "9": [
+          {
+            "nickname": "반딧불",
+            "guild": "백귀",
+            "class": "환영검사",
+            "grade": 9,
+            "level": 70,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "중립": {
+      "members": 4,
+      "guildLevel": 23,
+      "guildRank": 19,
+      "guildMaster": "Ark",
+      "officialMemberCount": 13,
+      "maxGuildMemberCount": 36,
+      "byClass": {
+        "심연추방자": 1,
+        "향사수": 1,
+        "주문각인사": 1,
+        "집행관": 1
+      },
+      "byGrade": {
+        "11": 1,
+        "10": 1,
+        "8": 1,
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "열나짱나",
+          "guild": "중립",
+          "class": "향사수",
+          "grade": 11,
+          "level": 70,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "엑스칼리버",
+          "guild": "중립",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 65,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "Autobot",
+          "guild": "중립",
+          "class": "집행관",
+          "grade": 8,
+          "level": 64,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "귀족",
+          "guild": "중립",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 43,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "귀족",
+            "guild": "중립",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 43,
+            "server": "시길 02"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "열나짱나",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 11,
+            "level": 70,
+            "server": "시길 02"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "엑스칼리버",
+            "guild": "중립",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 65,
+            "server": "시길 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "Autobot",
+            "guild": "중립",
+            "class": "집행관",
+            "grade": 8,
+            "level": 64,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "귀족",
+            "guild": "중립",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 43,
+            "server": "시길 02"
+          }
+        ],
+        "11": [
+          {
+            "nickname": "열나짱나",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 11,
+            "level": 70,
+            "server": "시길 02"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "엑스칼리버",
+            "guild": "중립",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 65,
+            "server": "시길 02"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "Autobot",
+            "guild": "중립",
+            "class": "집행관",
+            "grade": 8,
+            "level": 64,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "삼국지": {
+      "members": 2,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "심연추방자": 1,
+        "집행관": 1
+      },
+      "byGrade": {
+        "6": 1,
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "유치원망치",
+          "guild": "삼국지",
+          "class": "집행관",
+          "grade": 6,
+          "level": 59,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "안방추방자",
+          "guild": "삼국지",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 39,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "안방추방자",
+            "guild": "삼국지",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 39,
+            "server": "시길 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "유치원망치",
+            "guild": "삼국지",
+            "class": "집행관",
+            "grade": 6,
+            "level": 59,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "안방추방자",
+            "guild": "삼국지",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 39,
+            "server": "시길 02"
+          }
+        ],
+        "6": [
+          {
+            "nickname": "유치원망치",
+            "guild": "삼국지",
+            "class": "집행관",
+            "grade": 6,
+            "level": 59,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "야망": {
+      "members": 10,
+      "guildLevel": 33,
+      "guildRank": 9,
+      "guildMaster": "McRaim",
+      "officialMemberCount": 17,
+      "maxGuildMemberCount": 42,
+      "byClass": {
+        "향사수": 5,
+        "환영검사": 2,
+        "심연추방자": 1,
+        "태양감시자": 1,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "10": 1,
+        "9": 1,
+        "6": 1,
+        "5": 4,
+        "4": 2,
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "McRaim",
+          "guild": "야망",
+          "class": "향사수",
+          "grade": 10,
+          "level": 65,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "오딘토르아빠",
+          "guild": "야망",
+          "class": "주문각인사",
+          "grade": 9,
+          "level": 66,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "포리츠",
+          "guild": "야망",
+          "class": "환영검사",
+          "grade": 6,
+          "level": 65,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "농심진라면",
+          "guild": "야망",
+          "class": "환영검사",
+          "grade": 5,
+          "level": 63,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "복수혈전",
+          "guild": "야망",
+          "class": "향사수",
+          "grade": 5,
+          "level": 63,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "가드리아",
+          "guild": "야망",
+          "class": "향사수",
+          "grade": 5,
+          "level": 62,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "희귀한남자",
+          "guild": "야망",
+          "class": "향사수",
+          "grade": 5,
+          "level": 61,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "오딘토르엄마",
+          "guild": "야망",
+          "class": "향사수",
+          "grade": 4,
+          "level": 65,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "라임엉클",
+          "guild": "야망",
+          "class": "태양감시자",
+          "grade": 4,
+          "level": 56,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "권신",
+          "guild": "야망",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 36,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "권신",
+            "guild": "야망",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 36,
+            "server": "시길 02"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "라임엉클",
+            "guild": "야망",
+            "class": "태양감시자",
+            "grade": 4,
+            "level": 56,
+            "server": "시길 02"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "포리츠",
+            "guild": "야망",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 65,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "농심진라면",
+            "guild": "야망",
+            "class": "환영검사",
+            "grade": 5,
+            "level": 63,
+            "server": "시길 02"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "McRaim",
+            "guild": "야망",
+            "class": "향사수",
+            "grade": 10,
+            "level": 65,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "복수혈전",
+            "guild": "야망",
+            "class": "향사수",
+            "grade": 5,
+            "level": 63,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "가드리아",
+            "guild": "야망",
+            "class": "향사수",
+            "grade": 5,
+            "level": 62,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "희귀한남자",
+            "guild": "야망",
+            "class": "향사수",
+            "grade": 5,
+            "level": 61,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "오딘토르엄마",
+            "guild": "야망",
+            "class": "향사수",
+            "grade": 4,
+            "level": 65,
+            "server": "시길 02"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "오딘토르아빠",
+            "guild": "야망",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 66,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "권신",
+            "guild": "야망",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 36,
+            "server": "시길 02"
+          }
+        ],
+        "4": [
+          {
+            "nickname": "오딘토르엄마",
+            "guild": "야망",
+            "class": "향사수",
+            "grade": 4,
+            "level": 65,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "라임엉클",
+            "guild": "야망",
+            "class": "태양감시자",
+            "grade": 4,
+            "level": 56,
+            "server": "시길 02"
+          }
+        ],
+        "6": [
+          {
+            "nickname": "포리츠",
+            "guild": "야망",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 65,
+            "server": "시길 02"
+          }
+        ],
+        "5": [
+          {
+            "nickname": "농심진라면",
+            "guild": "야망",
+            "class": "환영검사",
+            "grade": 5,
+            "level": 63,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "복수혈전",
+            "guild": "야망",
+            "class": "향사수",
+            "grade": 5,
+            "level": 63,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "가드리아",
+            "guild": "야망",
+            "class": "향사수",
+            "grade": 5,
+            "level": 62,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "희귀한남자",
+            "guild": "야망",
+            "class": "향사수",
+            "grade": 5,
+            "level": 61,
+            "server": "시길 02"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "McRaim",
+            "guild": "야망",
+            "class": "향사수",
+            "grade": 10,
+            "level": 65,
+            "server": "시길 02"
+          }
+        ],
+        "9": [
+          {
+            "nickname": "오딘토르아빠",
+            "guild": "야망",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 66,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "렉스젠": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "이준규",
+          "guild": "렉스젠",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 34,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "이준규",
+            "guild": "렉스젠",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 34,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "이준규",
+            "guild": "렉스젠",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 34,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "작업장1111": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "시길이이",
+          "guild": "작업장1111",
+          "class": "심연추방자",
+          "grade": 1,
+          "level": 31,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "시길이이",
+            "guild": "작업장1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 31,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "시길이이",
+            "guild": "작업장1111",
+            "class": "심연추방자",
+            "grade": 1,
+            "level": 31,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "결사대": {
+      "members": 3,
+      "guildLevel": 33,
+      "guildRank": 10,
+      "guildMaster": "까진바나나",
+      "officialMemberCount": 6,
+      "maxGuildMemberCount": 42,
+      "byClass": {
+        "태양감시자": 1,
+        "향사수": 1,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "11": 1,
+        "10": 2
+      },
+      "membersList": [
+        {
+          "nickname": "둥이",
+          "guild": "결사대",
+          "class": "향사수",
+          "grade": 11,
+          "level": 71,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "까진바나나",
+          "guild": "결사대",
+          "class": "태양감시자",
+          "grade": 10,
+          "level": 72,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "샤쿠라",
+          "guild": "결사대",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 69,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "까진바나나",
+            "guild": "결사대",
+            "class": "태양감시자",
+            "grade": 10,
+            "level": 72,
+            "server": "시길 02"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "둥이",
+            "guild": "결사대",
+            "class": "향사수",
+            "grade": 11,
+            "level": 71,
+            "server": "시길 02"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "샤쿠라",
+            "guild": "결사대",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 69,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "까진바나나",
+            "guild": "결사대",
+            "class": "태양감시자",
+            "grade": 10,
+            "level": 72,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "샤쿠라",
+            "guild": "결사대",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 69,
+            "server": "시길 02"
+          }
+        ],
+        "11": [
+          {
+            "nickname": "둥이",
+            "guild": "결사대",
+            "class": "향사수",
+            "grade": 11,
+            "level": 71,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "신전": {
+      "members": 1,
+      "guildLevel": 34,
+      "guildRank": 8,
+      "guildMaster": "니카",
+      "officialMemberCount": 1,
+      "maxGuildMemberCount": 45,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "11": 1
+      },
+      "membersList": [
+        {
+          "nickname": "니카",
+          "guild": "신전",
+          "class": "태양감시자",
+          "grade": 11,
+          "level": 69,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "니카",
+            "guild": "신전",
+            "class": "태양감시자",
+            "grade": 11,
+            "level": 69,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "11": [
+          {
+            "nickname": "니카",
+            "guild": "신전",
+            "class": "태양감시자",
+            "grade": 11,
+            "level": 69,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "매": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "7": 1
+      },
+      "membersList": [
+        {
+          "nickname": "브레인",
+          "guild": "매",
+          "class": "태양감시자",
+          "grade": 7,
+          "level": 53,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "브레인",
+            "guild": "매",
+            "class": "태양감시자",
+            "grade": 7,
+            "level": 53,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "7": [
+          {
+            "nickname": "브레인",
+            "guild": "매",
+            "class": "태양감시자",
+            "grade": 7,
+            "level": 53,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "야인시대": {
+      "members": 4,
+      "guildLevel": 18,
+      "guildRank": 27,
+      "guildMaster": "노바쏘울",
+      "officialMemberCount": 23,
+      "maxGuildMemberCount": 40,
+      "byClass": {
+        "주문각인사": 2,
+        "태양감시자": 1,
+        "집행관": 1
+      },
+      "byGrade": {
+        "10": 1,
+        "3": 1,
+        "1": 2
+      },
+      "membersList": [
+        {
+          "nickname": "수피",
+          "guild": "야인시대",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 68,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "jjnk",
+          "guild": "야인시대",
+          "class": "집행관",
+          "grade": 3,
+          "level": 56,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "스탠스",
+          "guild": "야인시대",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 58,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "쉐이크",
+          "guild": "야인시대",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 49,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "쉐이크",
+            "guild": "야인시대",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 49,
+            "server": "시길 02"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "수피",
+            "guild": "야인시대",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 68,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "스탠스",
+            "guild": "야인시대",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 58,
+            "server": "시길 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "jjnk",
+            "guild": "야인시대",
+            "class": "집행관",
+            "grade": 3,
+            "level": 56,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "스탠스",
+            "guild": "야인시대",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 58,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "쉐이크",
+            "guild": "야인시대",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 49,
+            "server": "시길 02"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "수피",
+            "guild": "야인시대",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 68,
+            "server": "시길 02"
+          }
+        ],
+        "3": [
+          {
+            "nickname": "jjnk",
+            "guild": "야인시대",
+            "class": "집행관",
+            "grade": 3,
+            "level": 56,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "알쏭달쏭": {
+      "members": 2,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "태양감시자": 2
+      },
+      "byGrade": {
+        "1": 2
+      },
+      "membersList": [
+        {
+          "nickname": "Royal",
+          "guild": "알쏭달쏭",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 46,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "roket",
+          "guild": "알쏭달쏭",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 46,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "Royal",
+            "guild": "알쏭달쏭",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 46,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "roket",
+            "guild": "알쏭달쏭",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 46,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "Royal",
+            "guild": "알쏭달쏭",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 46,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "roket",
+            "guild": "알쏭달쏭",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 46,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "주말": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "코랄",
+          "guild": "주말",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 46,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "코랄",
+            "guild": "주말",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 46,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "코랄",
+            "guild": "주말",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 46,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "자유결사": {
+      "members": 3,
+      "guildLevel": 31,
+      "guildRank": 11,
+      "guildMaster": "반달",
+      "officialMemberCount": 7,
+      "maxGuildMemberCount": 42,
+      "byClass": {
+        "향사수": 2,
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "9": 1,
+        "7": 1,
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "궁귀",
+          "guild": "자유결사",
+          "class": "향사수",
+          "grade": 9,
+          "level": 65,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "반달",
+          "guild": "자유결사",
+          "class": "향사수",
+          "grade": 7,
+          "level": 66,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "시리엘",
+          "guild": "자유결사",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 40,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "시리엘",
+            "guild": "자유결사",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 40,
+            "server": "시길 02"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "궁귀",
+            "guild": "자유결사",
+            "class": "향사수",
+            "grade": 9,
+            "level": 65,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "반달",
+            "guild": "자유결사",
+            "class": "향사수",
+            "grade": 7,
+            "level": 66,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "시리엘",
+            "guild": "자유결사",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 40,
+            "server": "시길 02"
+          }
+        ],
+        "7": [
+          {
+            "nickname": "반달",
+            "guild": "자유결사",
+            "class": "향사수",
+            "grade": 7,
+            "level": 66,
+            "server": "시길 02"
+          }
+        ],
+        "9": [
+          {
+            "nickname": "궁귀",
+            "guild": "자유결사",
+            "class": "향사수",
+            "grade": 9,
+            "level": 65,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "아리아": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "길상천",
+          "guild": "아리아",
+          "class": "태양감시자",
+          "grade": 1,
+          "level": 31,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "길상천",
+            "guild": "아리아",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 31,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "길상천",
+            "guild": "아리아",
+            "class": "태양감시자",
+            "grade": 1,
+            "level": 31,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "하양": {
+      "members": 2,
+      "guildLevel": 22,
+      "guildRank": 20,
+      "guildMaster": "마린",
+      "officialMemberCount": 8,
+      "maxGuildMemberCount": 37,
+      "byClass": {
+        "환영검사": 1,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "14": 1,
+        "8": 1
+      },
+      "membersList": [
+        {
+          "nickname": "마린",
+          "guild": "하양",
+          "class": "환영검사",
+          "grade": 14,
+          "level": 75,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "프로브",
+          "guild": "하양",
+          "class": "주문각인사",
+          "grade": 8,
+          "level": 66,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "마린",
+            "guild": "하양",
+            "class": "환영검사",
+            "grade": 14,
+            "level": 75,
+            "server": "시길 02"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "프로브",
+            "guild": "하양",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 66,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "14": [
+          {
+            "nickname": "마린",
+            "guild": "하양",
+            "class": "환영검사",
+            "grade": 14,
+            "level": 75,
+            "server": "시길 02"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "프로브",
+            "guild": "하양",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 66,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "에테르는서비스": {
+      "members": 8,
+      "guildLevel": 50,
+      "guildRank": 1,
+      "guildMaster": "놀로가고있다",
+      "officialMemberCount": 25,
+      "maxGuildMemberCount": 50,
+      "byClass": {
+        "주문각인사": 3,
+        "집행관": 3,
+        "환영검사": 1,
+        "향사수": 1
+      },
+      "byGrade": {
+        "12": 2,
+        "11": 1,
+        "10": 3,
+        "2": 1,
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "달모어",
+          "guild": "에테르는서비스",
+          "class": "환영검사",
+          "grade": 12,
+          "level": 75,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "나오거라",
+          "guild": "에테르는서비스",
+          "class": "집행관",
+          "grade": 12,
+          "level": 69,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "놀로가고있다",
+          "guild": "에테르는서비스",
+          "class": "주문각인사",
+          "grade": 11,
+          "level": 74,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "해피루피",
+          "guild": "에테르는서비스",
+          "class": "집행관",
+          "grade": 10,
+          "level": 67,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "해피뤂",
+          "guild": "에테르는서비스",
+          "class": "향사수",
+          "grade": 10,
+          "level": 67,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "화난루피",
+          "guild": "에테르는서비스",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 66,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "호퓨랴",
+          "guild": "에테르는서비스",
+          "class": "집행관",
+          "grade": 2,
+          "level": 57,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "배고파랑",
+          "guild": "에테르는서비스",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 58,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "달모어",
+            "guild": "에테르는서비스",
+            "class": "환영검사",
+            "grade": 12,
+            "level": 75,
+            "server": "시길 02"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "해피뤂",
+            "guild": "에테르는서비스",
+            "class": "향사수",
+            "grade": 10,
+            "level": 67,
+            "server": "시길 02"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "놀로가고있다",
+            "guild": "에테르는서비스",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 74,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "화난루피",
+            "guild": "에테르는서비스",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 66,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "배고파랑",
+            "guild": "에테르는서비스",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 58,
+            "server": "시길 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "나오거라",
+            "guild": "에테르는서비스",
+            "class": "집행관",
+            "grade": 12,
+            "level": 69,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "해피루피",
+            "guild": "에테르는서비스",
+            "class": "집행관",
+            "grade": 10,
+            "level": 67,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "호퓨랴",
+            "guild": "에테르는서비스",
+            "class": "집행관",
+            "grade": 2,
+            "level": 57,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "12": [
+          {
+            "nickname": "달모어",
+            "guild": "에테르는서비스",
+            "class": "환영검사",
+            "grade": 12,
+            "level": 75,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "나오거라",
+            "guild": "에테르는서비스",
+            "class": "집행관",
+            "grade": 12,
+            "level": 69,
+            "server": "시길 02"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "해피루피",
+            "guild": "에테르는서비스",
+            "class": "집행관",
+            "grade": 10,
+            "level": 67,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "해피뤂",
+            "guild": "에테르는서비스",
+            "class": "향사수",
+            "grade": 10,
+            "level": 67,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "화난루피",
+            "guild": "에테르는서비스",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 66,
+            "server": "시길 02"
+          }
+        ],
+        "11": [
+          {
+            "nickname": "놀로가고있다",
+            "guild": "에테르는서비스",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 74,
+            "server": "시길 02"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "배고파랑",
+            "guild": "에테르는서비스",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 58,
+            "server": "시길 02"
+          }
+        ],
+        "2": [
+          {
+            "nickname": "호퓨랴",
+            "guild": "에테르는서비스",
+            "class": "집행관",
+            "grade": 2,
+            "level": 57,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "무한노가다": {
+      "members": 1,
+      "guildLevel": 17,
+      "guildRank": 30,
+      "guildMaster": "절정젤리",
+      "officialMemberCount": 1,
+      "maxGuildMemberCount": 30,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "13": 1
+      },
+      "membersList": [
+        {
+          "nickname": "절정젤리",
+          "guild": "무한노가다",
+          "class": "환영검사",
+          "grade": 13,
+          "level": 74,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "절정젤리",
+            "guild": "무한노가다",
+            "class": "환영검사",
+            "grade": 13,
+            "level": 74,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "13": [
+          {
+            "nickname": "절정젤리",
+            "guild": "무한노가다",
+            "class": "환영검사",
+            "grade": 13,
+            "level": 74,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "XXX": {
+      "members": 2,
+      "guildLevel": 26,
+      "guildRank": 15,
+      "guildMaster": "luolita",
+      "officialMemberCount": 26,
+      "maxGuildMemberCount": 42,
+      "byClass": {
+        "환영검사": 1,
+        "집행관": 1
+      },
+      "byGrade": {
+        "11": 1,
+        "2": 1
+      },
+      "membersList": [
+        {
+          "nickname": "버거킹",
+          "guild": "XXX",
+          "class": "환영검사",
+          "grade": 11,
+          "level": 71,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "Mtjj",
+          "guild": "XXX",
+          "class": "집행관",
+          "grade": 2,
+          "level": 56,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "버거킹",
+            "guild": "XXX",
+            "class": "환영검사",
+            "grade": 11,
+            "level": 71,
+            "server": "시길 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "Mtjj",
+            "guild": "XXX",
+            "class": "집행관",
+            "grade": 2,
+            "level": 56,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "11": [
+          {
+            "nickname": "버거킹",
+            "guild": "XXX",
+            "class": "환영검사",
+            "grade": 11,
+            "level": 71,
+            "server": "시길 02"
+          }
+        ],
+        "2": [
+          {
+            "nickname": "Mtjj",
+            "guild": "XXX",
+            "class": "집행관",
+            "grade": 2,
+            "level": 56,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "한": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "10": 1
+      },
+      "membersList": [
+        {
+          "nickname": "카라",
+          "guild": "한",
+          "class": "환영검사",
+          "grade": 10,
+          "level": 70,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "카라",
+            "guild": "한",
+            "class": "환영검사",
+            "grade": 10,
+            "level": 70,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "카라",
+            "guild": "한",
+            "class": "환영검사",
+            "grade": 10,
+            "level": 70,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "CGV": {
+      "members": 4,
+      "guildLevel": 19,
+      "guildRank": 24,
+      "guildMaster": "따개비",
+      "officialMemberCount": 11,
+      "maxGuildMemberCount": 37,
+      "byClass": {
+        "환영검사": 2,
+        "주문각인사": 1,
+        "집행관": 1
+      },
+      "byGrade": {
+        "6": 1,
+        "5": 1,
+        "2": 1,
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "토글",
+          "guild": "CGV",
+          "class": "환영검사",
+          "grade": 6,
+          "level": 61,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "따개비",
+          "guild": "CGV",
+          "class": "주문각인사",
+          "grade": 5,
+          "level": 62,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "밍고",
+          "guild": "CGV",
+          "class": "환영검사",
+          "grade": 2,
+          "level": 51,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "미오",
+          "guild": "CGV",
+          "class": "집행관",
+          "grade": 1,
+          "level": 50,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "토글",
+            "guild": "CGV",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 61,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "밍고",
+            "guild": "CGV",
+            "class": "환영검사",
+            "grade": 2,
+            "level": 51,
+            "server": "시길 02"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "따개비",
+            "guild": "CGV",
+            "class": "주문각인사",
+            "grade": 5,
+            "level": 62,
+            "server": "시길 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "미오",
+            "guild": "CGV",
+            "class": "집행관",
+            "grade": 1,
+            "level": 50,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "6": [
+          {
+            "nickname": "토글",
+            "guild": "CGV",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 61,
+            "server": "시길 02"
+          }
+        ],
+        "2": [
+          {
+            "nickname": "밍고",
+            "guild": "CGV",
+            "class": "환영검사",
+            "grade": 2,
+            "level": 51,
+            "server": "시길 02"
+          }
+        ],
+        "5": [
+          {
+            "nickname": "따개비",
+            "guild": "CGV",
+            "class": "주문각인사",
+            "grade": 5,
+            "level": 62,
+            "server": "시길 02"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "미오",
+            "guild": "CGV",
+            "class": "집행관",
+            "grade": 1,
+            "level": 50,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "물결": {
+      "members": 3,
+      "guildLevel": 17,
+      "guildRank": 31,
+      "guildMaster": "카리소",
+      "officialMemberCount": 7,
+      "maxGuildMemberCount": 34,
+      "byClass": {
+        "주문각인사": 2,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "8": 1,
+        "7": 1,
+        "6": 1
+      },
+      "membersList": [
+        {
+          "nickname": "데둥",
+          "guild": "물결",
+          "class": "주문각인사",
+          "grade": 8,
+          "level": 60,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "카리소",
+          "guild": "물결",
+          "class": "주문각인사",
+          "grade": 7,
+          "level": 63,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "강틴",
+          "guild": "물결",
+          "class": "환영검사",
+          "grade": 6,
+          "level": 60,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "강틴",
+            "guild": "물결",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 60,
+            "server": "시길 02"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "데둥",
+            "guild": "물결",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 60,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "카리소",
+            "guild": "물결",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 63,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "6": [
+          {
+            "nickname": "강틴",
+            "guild": "물결",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 60,
+            "server": "시길 02"
+          }
+        ],
+        "7": [
+          {
+            "nickname": "카리소",
+            "guild": "물결",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 63,
+            "server": "시길 02"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "데둥",
+            "guild": "물결",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 60,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "직장인": {
+      "members": 8,
+      "guildLevel": 41,
+      "guildRank": 4,
+      "guildMaster": "꽃사탕",
+      "officialMemberCount": 14,
+      "maxGuildMemberCount": 43,
+      "byClass": {
+        "주문각인사": 3,
+        "환영검사": 2,
+        "향사수": 2,
+        "집행관": 1
+      },
+      "byGrade": {
+        "12": 2,
+        "11": 1,
+        "10": 1,
+        "8": 2,
+        "5": 1,
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "꽃사탕",
+          "guild": "직장인",
+          "class": "향사수",
+          "grade": 12,
+          "level": 74,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "리본",
+          "guild": "직장인",
+          "class": "집행관",
+          "grade": 12,
+          "level": 71,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "엠삥",
+          "guild": "직장인",
+          "class": "주문각인사",
+          "grade": 11,
+          "level": 71,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "폭탄",
+          "guild": "직장인",
+          "class": "환영검사",
+          "grade": 10,
+          "level": 60,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "꽃가윤",
+          "guild": "직장인",
+          "class": "향사수",
+          "grade": 8,
+          "level": 61,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "꽃가인",
+          "guild": "직장인",
+          "class": "환영검사",
+          "grade": 8,
+          "level": 60,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "위들린",
+          "guild": "직장인",
+          "class": "주문각인사",
+          "grade": 5,
+          "level": 58,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "빌리야드",
+          "guild": "직장인",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 59,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "폭탄",
+            "guild": "직장인",
+            "class": "환영검사",
+            "grade": 10,
+            "level": 60,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "꽃가인",
+            "guild": "직장인",
+            "class": "환영검사",
+            "grade": 8,
+            "level": 60,
+            "server": "시길 02"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "꽃사탕",
+            "guild": "직장인",
+            "class": "향사수",
+            "grade": 12,
+            "level": 74,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "꽃가윤",
+            "guild": "직장인",
+            "class": "향사수",
+            "grade": 8,
+            "level": 61,
+            "server": "시길 02"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "엠삥",
+            "guild": "직장인",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 71,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "위들린",
+            "guild": "직장인",
+            "class": "주문각인사",
+            "grade": 5,
+            "level": 58,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "빌리야드",
+            "guild": "직장인",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 59,
+            "server": "시길 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "리본",
+            "guild": "직장인",
+            "class": "집행관",
+            "grade": 12,
+            "level": 71,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "폭탄",
+            "guild": "직장인",
+            "class": "환영검사",
+            "grade": 10,
+            "level": 60,
+            "server": "시길 02"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "꽃가윤",
+            "guild": "직장인",
+            "class": "향사수",
+            "grade": 8,
+            "level": 61,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "꽃가인",
+            "guild": "직장인",
+            "class": "환영검사",
+            "grade": 8,
+            "level": 60,
+            "server": "시길 02"
+          }
+        ],
+        "12": [
+          {
+            "nickname": "꽃사탕",
+            "guild": "직장인",
+            "class": "향사수",
+            "grade": 12,
+            "level": 74,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "리본",
+            "guild": "직장인",
+            "class": "집행관",
+            "grade": 12,
+            "level": 71,
+            "server": "시길 02"
+          }
+        ],
+        "11": [
+          {
+            "nickname": "엠삥",
+            "guild": "직장인",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 71,
+            "server": "시길 02"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "빌리야드",
+            "guild": "직장인",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 59,
+            "server": "시길 02"
+          }
+        ],
+        "5": [
+          {
+            "nickname": "위들린",
+            "guild": "직장인",
+            "class": "주문각인사",
+            "grade": 5,
+            "level": 58,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "활": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "KTI",
+          "guild": "활",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 57,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "KTI",
+            "guild": "활",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 57,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "KTI",
+            "guild": "활",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 57,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "우주": {
+      "members": 1,
+      "guildLevel": 18,
+      "guildRank": 25,
+      "guildMaster": "춘식이",
+      "officialMemberCount": 6,
+      "maxGuildMemberCount": 39,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "6": 1
+      },
+      "membersList": [
+        {
+          "nickname": "희망",
+          "guild": "우주",
+          "class": "환영검사",
+          "grade": 6,
+          "level": 57,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "희망",
+            "guild": "우주",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 57,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "6": [
+          {
+            "nickname": "희망",
+            "guild": "우주",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 57,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "Mark": {
+      "members": 1,
+      "guildLevel": 15,
+      "guildRank": 36,
+      "guildMaster": "Mayona",
+      "officialMemberCount": 29,
+      "maxGuildMemberCount": 40,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "5": 1
+      },
+      "membersList": [
+        {
+          "nickname": "마낭",
+          "guild": "Mark",
+          "class": "환영검사",
+          "grade": 5,
+          "level": 56,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "마낭",
+            "guild": "Mark",
+            "class": "환영검사",
+            "grade": 5,
+            "level": 56,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "5": [
+          {
+            "nickname": "마낭",
+            "guild": "Mark",
+            "class": "환영검사",
+            "grade": 5,
+            "level": 56,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "쌀먹부케모임": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "5": 1
+      },
+      "membersList": [
+        {
+          "nickname": "Lazer",
+          "guild": "쌀먹부케모임",
+          "class": "환영검사",
+          "grade": 5,
+          "level": 55,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "Lazer",
+            "guild": "쌀먹부케모임",
+            "class": "환영검사",
+            "grade": 5,
+            "level": 55,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "5": [
+          {
+            "nickname": "Lazer",
+            "guild": "쌀먹부케모임",
+            "class": "환영검사",
+            "grade": 5,
+            "level": 55,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "1001": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "SFC",
+          "guild": "1001",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 52,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "SFC",
+            "guild": "1001",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 52,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "SFC",
+            "guild": "1001",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 52,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "전사": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "3": 1
+      },
+      "membersList": [
+        {
+          "nickname": "텐퍼센트",
+          "guild": "전사",
+          "class": "환영검사",
+          "grade": 3,
+          "level": 52,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "텐퍼센트",
+            "guild": "전사",
+            "class": "환영검사",
+            "grade": 3,
+            "level": 52,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "3": [
+          {
+            "nickname": "텐퍼센트",
+            "guild": "전사",
+            "class": "환영검사",
+            "grade": 3,
+            "level": 52,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "many": {
+      "members": 1,
+      "guildLevel": 14,
+      "guildRank": 47,
+      "guildMaster": "Fedsa",
+      "officialMemberCount": 3,
+      "maxGuildMemberCount": 30,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "qihui",
+          "guild": "many",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 51,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "qihui",
+            "guild": "many",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 51,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "qihui",
+            "guild": "many",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 51,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "전차": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "5": 1
+      },
+      "membersList": [
+        {
+          "nickname": "페미대장부",
+          "guild": "전차",
+          "class": "환영검사",
+          "grade": 5,
+          "level": 50,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "페미대장부",
+            "guild": "전차",
+            "class": "환영검사",
+            "grade": 5,
+            "level": 50,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "5": [
+          {
+            "nickname": "페미대장부",
+            "guild": "전차",
+            "class": "환영검사",
+            "grade": 5,
+            "level": 50,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "스타벅스": {
+      "members": 3,
+      "guildLevel": 21,
+      "guildRank": 22,
+      "guildMaster": "무기",
+      "officialMemberCount": 5,
+      "maxGuildMemberCount": 37,
+      "byClass": {
+        "향사수": 2,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "13": 2,
+        "10": 1
+      },
+      "membersList": [
+        {
+          "nickname": "무기",
+          "guild": "스타벅스",
+          "class": "향사수",
+          "grade": 13,
+          "level": 75,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "카페모카",
+          "guild": "스타벅스",
+          "class": "향사수",
+          "grade": 13,
+          "level": 73,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "오늘의커피",
+          "guild": "스타벅스",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 71,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "무기",
+            "guild": "스타벅스",
+            "class": "향사수",
+            "grade": 13,
+            "level": 75,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "카페모카",
+            "guild": "스타벅스",
+            "class": "향사수",
+            "grade": 13,
+            "level": 73,
+            "server": "시길 02"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "오늘의커피",
+            "guild": "스타벅스",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 71,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "13": [
+          {
+            "nickname": "무기",
+            "guild": "스타벅스",
+            "class": "향사수",
+            "grade": 13,
+            "level": 75,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "카페모카",
+            "guild": "스타벅스",
+            "class": "향사수",
+            "grade": 13,
+            "level": 73,
+            "server": "시길 02"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "오늘의커피",
+            "guild": "스타벅스",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 71,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "쥬룽과맘모스": {
+      "members": 8,
+      "guildLevel": 34,
+      "guildRank": 7,
+      "guildMaster": "운듀공",
+      "officialMemberCount": 8,
+      "maxGuildMemberCount": 46,
+      "byClass": {
+        "향사수": 8
+      },
+      "byGrade": {
+        "5": 4,
+        "2": 4
+      },
+      "membersList": [
+        {
+          "nickname": "듀룽공듀",
+          "guild": "쥬룽과맘모스",
+          "class": "향사수",
+          "grade": 5,
+          "level": 70,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "듀룽듀룽",
+          "guild": "쥬룽과맘모스",
+          "class": "향사수",
+          "grade": 5,
+          "level": 70,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "듀룽바라기",
+          "guild": "쥬룽과맘모스",
+          "class": "향사수",
+          "grade": 5,
+          "level": 70,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "운듀공",
+          "guild": "쥬룽과맘모스",
+          "class": "향사수",
+          "grade": 5,
+          "level": 70,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "밍키수염깍아",
+          "guild": "쥬룽과맘모스",
+          "class": "향사수",
+          "grade": 2,
+          "level": 66,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "그대와사랑을",
+          "guild": "쥬룽과맘모스",
+          "class": "향사수",
+          "grade": 2,
+          "level": 65,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "빵장군",
+          "guild": "쥬룽과맘모스",
+          "class": "향사수",
+          "grade": 2,
+          "level": 65,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "운듀는빵장군",
+          "guild": "쥬룽과맘모스",
+          "class": "향사수",
+          "grade": 2,
+          "level": 65,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "듀룽공듀",
+            "guild": "쥬룽과맘모스",
+            "class": "향사수",
+            "grade": 5,
+            "level": 70,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "듀룽듀룽",
+            "guild": "쥬룽과맘모스",
+            "class": "향사수",
+            "grade": 5,
+            "level": 70,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "듀룽바라기",
+            "guild": "쥬룽과맘모스",
+            "class": "향사수",
+            "grade": 5,
+            "level": 70,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "운듀공",
+            "guild": "쥬룽과맘모스",
+            "class": "향사수",
+            "grade": 5,
+            "level": 70,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "밍키수염깍아",
+            "guild": "쥬룽과맘모스",
+            "class": "향사수",
+            "grade": 2,
+            "level": 66,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "그대와사랑을",
+            "guild": "쥬룽과맘모스",
+            "class": "향사수",
+            "grade": 2,
+            "level": 65,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "빵장군",
+            "guild": "쥬룽과맘모스",
+            "class": "향사수",
+            "grade": 2,
+            "level": 65,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "운듀는빵장군",
+            "guild": "쥬룽과맘모스",
+            "class": "향사수",
+            "grade": 2,
+            "level": 65,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "5": [
+          {
+            "nickname": "듀룽공듀",
+            "guild": "쥬룽과맘모스",
+            "class": "향사수",
+            "grade": 5,
+            "level": 70,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "듀룽듀룽",
+            "guild": "쥬룽과맘모스",
+            "class": "향사수",
+            "grade": 5,
+            "level": 70,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "듀룽바라기",
+            "guild": "쥬룽과맘모스",
+            "class": "향사수",
+            "grade": 5,
+            "level": 70,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "운듀공",
+            "guild": "쥬룽과맘모스",
+            "class": "향사수",
+            "grade": 5,
+            "level": 70,
+            "server": "시길 02"
+          }
+        ],
+        "2": [
+          {
+            "nickname": "밍키수염깍아",
+            "guild": "쥬룽과맘모스",
+            "class": "향사수",
+            "grade": 2,
+            "level": 66,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "그대와사랑을",
+            "guild": "쥬룽과맘모스",
+            "class": "향사수",
+            "grade": 2,
+            "level": 65,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "빵장군",
+            "guild": "쥬룽과맘모스",
+            "class": "향사수",
+            "grade": 2,
+            "level": 65,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "운듀는빵장군",
+            "guild": "쥬룽과맘모스",
+            "class": "향사수",
+            "grade": 2,
+            "level": 65,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "제우스": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "10": 1
+      },
+      "membersList": [
+        {
+          "nickname": "가람킹",
+          "guild": "제우스",
+          "class": "향사수",
+          "grade": 10,
+          "level": 69,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "가람킹",
+            "guild": "제우스",
+            "class": "향사수",
+            "grade": 10,
+            "level": 69,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "10": [
+          {
+            "nickname": "가람킹",
+            "guild": "제우스",
+            "class": "향사수",
+            "grade": 10,
+            "level": 69,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "아이": {
+      "members": 1,
+      "guildLevel": 20,
+      "guildRank": 23,
+      "guildMaster": "깡깡길",
+      "officialMemberCount": 1,
+      "maxGuildMemberCount": 36,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "8": 1
+      },
+      "membersList": [
+        {
+          "nickname": "깡깡길",
+          "guild": "아이",
+          "class": "향사수",
+          "grade": 8,
+          "level": 68,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "깡깡길",
+            "guild": "아이",
+            "class": "향사수",
+            "grade": 8,
+            "level": 68,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "8": [
+          {
+            "nickname": "깡깡길",
+            "guild": "아이",
+            "class": "향사수",
+            "grade": 8,
+            "level": 68,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "BLACK": {
+      "members": 1,
+      "guildLevel": 14,
+      "guildRank": 45,
+      "guildMaster": "요인내하자",
+      "officialMemberCount": 15,
+      "maxGuildMemberCount": 34,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "9": 1
+      },
+      "membersList": [
+        {
+          "nickname": "화성호",
+          "guild": "BLACK",
+          "class": "향사수",
+          "grade": 9,
+          "level": 67,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "화성호",
+            "guild": "BLACK",
+            "class": "향사수",
+            "grade": 9,
+            "level": 67,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "9": [
+          {
+            "nickname": "화성호",
+            "guild": "BLACK",
+            "class": "향사수",
+            "grade": 9,
+            "level": 67,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "삼족오": {
+      "members": 1,
+      "guildLevel": 17,
+      "guildRank": 29,
+      "guildMaster": "소독",
+      "officialMemberCount": 2,
+      "maxGuildMemberCount": 34,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "9": 1
+      },
+      "membersList": [
+        {
+          "nickname": "지나가라",
+          "guild": "삼족오",
+          "class": "향사수",
+          "grade": 9,
+          "level": 63,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "지나가라",
+            "guild": "삼족오",
+            "class": "향사수",
+            "grade": 9,
+            "level": 63,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "9": [
+          {
+            "nickname": "지나가라",
+            "guild": "삼족오",
+            "class": "향사수",
+            "grade": 9,
+            "level": 63,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "Xd22": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "7": 1
+      },
+      "membersList": [
+        {
+          "nickname": "옛날통닭",
+          "guild": "Xd22",
+          "class": "향사수",
+          "grade": 7,
+          "level": 61,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "옛날통닭",
+            "guild": "Xd22",
+            "class": "향사수",
+            "grade": 7,
+            "level": 61,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "7": [
+          {
+            "nickname": "옛날통닭",
+            "guild": "Xd22",
+            "class": "향사수",
+            "grade": 7,
+            "level": 61,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "제주도": {
+      "members": 1,
+      "guildLevel": 31,
+      "guildRank": 12,
+      "guildMaster": "건들면운다",
+      "officialMemberCount": 1,
+      "maxGuildMemberCount": 45,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "11": 1
+      },
+      "membersList": [
+        {
+          "nickname": "건들면운다",
+          "guild": "제주도",
+          "class": "주문각인사",
+          "grade": 11,
+          "level": 72,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "건들면운다",
+            "guild": "제주도",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 72,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "11": [
+          {
+            "nickname": "건들면운다",
+            "guild": "제주도",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 72,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "czf": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "12": 1
+      },
+      "membersList": [
+        {
+          "nickname": "fiondiud",
+          "guild": "czf",
+          "class": "주문각인사",
+          "grade": 12,
+          "level": 71,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "fiondiud",
+            "guild": "czf",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 71,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "12": [
+          {
+            "nickname": "fiondiud",
+            "guild": "czf",
+            "class": "주문각인사",
+            "grade": 12,
+            "level": 71,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "리플삼천원": {
+      "members": 1,
+      "guildLevel": 24,
+      "guildRank": 16,
+      "guildMaster": "보라돌이",
+      "officialMemberCount": 1,
+      "maxGuildMemberCount": 42,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "11": 1
+      },
+      "membersList": [
+        {
+          "nickname": "보라돌이",
+          "guild": "리플삼천원",
+          "class": "주문각인사",
+          "grade": 11,
+          "level": 70,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "보라돌이",
+            "guild": "리플삼천원",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 70,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "11": [
+          {
+            "nickname": "보라돌이",
+            "guild": "리플삼천원",
+            "class": "주문각인사",
+            "grade": 11,
+            "level": 70,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "흑여우": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "8": 1
+      },
+      "membersList": [
+        {
+          "nickname": "딘프",
+          "guild": "흑여우",
+          "class": "주문각인사",
+          "grade": 8,
+          "level": 62,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "딘프",
+            "guild": "흑여우",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 62,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "8": [
+          {
+            "nickname": "딘프",
+            "guild": "흑여우",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 62,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "병원": {
+      "members": 1,
+      "guildLevel": 17,
+      "guildRank": 32,
+      "guildMaster": "브블랙폭스",
+      "officialMemberCount": 16,
+      "maxGuildMemberCount": 37,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "가죽밸트",
+          "guild": "병원",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 60,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "가죽밸트",
+            "guild": "병원",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 60,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "가죽밸트",
+            "guild": "병원",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 60,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "THIS": {
+      "members": 3,
+      "guildLevel": 28,
+      "guildRank": 13,
+      "guildMaster": "fhhhfhh",
+      "officialMemberCount": 12,
+      "maxGuildMemberCount": 42,
+      "byClass": {
+        "집행관": 2,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "2": 1,
+        "1": 2
+      },
+      "membersList": [
+        {
+          "nickname": "fhhhfhh",
+          "guild": "THIS",
+          "class": "집행관",
+          "grade": 2,
+          "level": 53,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "식빵",
+          "guild": "THIS",
+          "class": "집행관",
+          "grade": 1,
+          "level": 64,
+          "server": "시길 02"
+        },
+        {
+          "nickname": "자천망토",
+          "guild": "THIS",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 59,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "자천망토",
+            "guild": "THIS",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 59,
+            "server": "시길 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "fhhhfhh",
+            "guild": "THIS",
+            "class": "집행관",
+            "grade": 2,
+            "level": 53,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "식빵",
+            "guild": "THIS",
+            "class": "집행관",
+            "grade": 1,
+            "level": 64,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "식빵",
+            "guild": "THIS",
+            "class": "집행관",
+            "grade": 1,
+            "level": 64,
+            "server": "시길 02"
+          },
+          {
+            "nickname": "자천망토",
+            "guild": "THIS",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 59,
+            "server": "시길 02"
+          }
+        ],
+        "2": [
+          {
+            "nickname": "fhhhfhh",
+            "guild": "THIS",
+            "class": "집행관",
+            "grade": 2,
+            "level": 53,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "꿀": {
+      "members": 1,
+      "guildLevel": 44,
+      "guildRank": 2,
+      "guildMaster": "지레",
+      "officialMemberCount": 9,
+      "maxGuildMemberCount": 48,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "천족얼짱",
+          "guild": "꿀",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 58,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "천족얼짱",
+            "guild": "꿀",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 58,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "천족얼짱",
+            "guild": "꿀",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 58,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "하늘하늘": {
+      "members": 1,
+      "guildLevel": 22,
+      "guildRank": 21,
+      "guildMaster": "낙인",
+      "officialMemberCount": 1,
+      "maxGuildMemberCount": 41,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "12": 1
+      },
+      "membersList": [
+        {
+          "nickname": "낙인",
+          "guild": "하늘하늘",
+          "class": "집행관",
+          "grade": 12,
+          "level": 72,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "낙인",
+            "guild": "하늘하늘",
+            "class": "집행관",
+            "grade": 12,
+            "level": 72,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "12": [
+          {
+            "nickname": "낙인",
+            "guild": "하늘하늘",
+            "class": "집행관",
+            "grade": 12,
+            "level": 72,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "모결": {
+      "members": 1,
+      "guildLevel": 14,
+      "guildRank": 41,
+      "guildMaster": "jjlk",
+      "officialMemberCount": 2,
+      "maxGuildMemberCount": 34,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "4": 1
+      },
+      "membersList": [
+        {
+          "nickname": "jjlk",
+          "guild": "모결",
+          "class": "집행관",
+          "grade": 4,
+          "level": 57,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "jjlk",
+            "guild": "모결",
+            "class": "집행관",
+            "grade": 4,
+            "level": 57,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "4": [
+          {
+            "nickname": "jjlk",
+            "guild": "모결",
+            "class": "집행관",
+            "grade": 4,
+            "level": 57,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "살려줘": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "2": 1
+      },
+      "membersList": [
+        {
+          "nickname": "aj",
+          "guild": "살려줘",
+          "class": "집행관",
+          "grade": 2,
+          "level": 52,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "aj",
+            "guild": "살려줘",
+            "class": "집행관",
+            "grade": 2,
+            "level": 52,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "2": [
+          {
+            "nickname": "aj",
+            "guild": "살려줘",
+            "class": "집행관",
+            "grade": 2,
+            "level": 52,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "KINGDOM": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "4": 1
+      },
+      "membersList": [
+        {
+          "nickname": "버킹검",
+          "guild": "KINGDOM",
+          "class": "집행관",
+          "grade": 4,
+          "level": 51,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "버킹검",
+            "guild": "KINGDOM",
+            "class": "집행관",
+            "grade": 4,
+            "level": 51,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "4": [
+          {
+            "nickname": "버킹검",
+            "guild": "KINGDOM",
+            "class": "집행관",
+            "grade": 4,
+            "level": 51,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "wwwddz": {
+      "members": 1,
+      "guildLevel": 14,
+      "guildRank": 42,
+      "guildMaster": "dsa",
+      "officialMemberCount": 18,
+      "maxGuildMemberCount": 30,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "3": 1
+      },
+      "membersList": [
+        {
+          "nickname": "chuzi",
+          "guild": "wwwddz",
+          "class": "집행관",
+          "grade": 3,
+          "level": 51,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "chuzi",
+            "guild": "wwwddz",
+            "class": "집행관",
+            "grade": 3,
+            "level": 51,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "3": [
+          {
+            "nickname": "chuzi",
+            "guild": "wwwddz",
+            "class": "집행관",
+            "grade": 3,
+            "level": 51,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "dsasa": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "도스타코스",
+          "guild": "dsasa",
+          "class": "집행관",
+          "grade": 1,
+          "level": 50,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "도스타코스",
+            "guild": "dsasa",
+            "class": "집행관",
+            "grade": 1,
+            "level": 50,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "도스타코스",
+            "guild": "dsasa",
+            "class": "집행관",
+            "grade": 1,
+            "level": 50,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "치유": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "5": 1
+      },
+      "membersList": [
+        {
+          "nickname": "꼬꼬킬러",
+          "guild": "치유",
+          "class": "집행관",
+          "grade": 5,
+          "level": 50,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "꼬꼬킬러",
+            "guild": "치유",
+            "class": "집행관",
+            "grade": 5,
+            "level": 50,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "5": [
+          {
+            "nickname": "꼬꼬킬러",
+            "guild": "치유",
+            "class": "집행관",
+            "grade": 5,
+            "level": 50,
+            "server": "시길 02"
+          }
+        ]
+      }
+    },
+    "쉰": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "3": 1
+      },
+      "membersList": [
+        {
+          "nickname": "동서순",
+          "guild": "쉰",
+          "class": "집행관",
+          "grade": 3,
+          "level": 50,
+          "server": "시길 02"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "동서순",
+            "guild": "쉰",
+            "class": "집행관",
+            "grade": 3,
+            "level": 50,
+            "server": "시길 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "3": [
+          {
+            "nickname": "동서순",
+            "guild": "쉰",
+            "class": "집행관",
+            "grade": 3,
+            "level": 50,
+            "server": "시길 02"
+          }
+        ]
+      }
+    }
+  }
+}
