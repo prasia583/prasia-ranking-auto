@@ -1,5 +1,18 @@
 [
   {
+    "label": "2026-10-02",
+    "file": "ranking_2026_10_02.json",
+    "statsFile": "stats_ranking_2026_10_02.json",
+    "statsMembersFile": "stats_members_ranking_2026_10_02.json",
+    "rows": 4562,
+    "sheet": "Nexon API",
+    "collectedAt": "2026-10-02T09:14:20+09:00",
+    "characters": 77873,
+    "servers": 127,
+    "complete": true,
+    "requests": 1016
+  },
+  {
     "label": "2026-10-01",
     "file": "ranking_2026_10_01.json",
     "statsFile": "stats_ranking_2026_10_01.json",
@@ -765,16 +778,5 @@
     "servers": 125,
     "complete": true,
     "requests": 1015
-  },
-  {
-    "label": "2026-08-03",
-    "file": "ranking_2026_08_03.json",
-    "statsFile": "stats_ranking_2026_08_03.json",
-    "statsMembersFile": "stats_members_ranking_2026_08_03.json",
-    "rows": 8349,
-    "sheet": "Nexon API",
-    "collectedAt": "2026-08-03T16:11:42+09:00",
-    "characters": 76175,
-    "servers": 125
   }
 ]
