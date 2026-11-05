@@ -1,0 +1,6371 @@
+{
+  "server": "엘렌 03",
+  "guilds": {
+    "극성": {
+      "members": 5,
+      "guildLevel": 14,
+      "guildRank": 27,
+      "guildMaster": "라칸",
+      "officialMemberCount": 33,
+      "maxGuildMemberCount": 34,
+      "byClass": {
+        "환영검사": 2,
+        "향사수": 2,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "8": 2,
+        "5": 1,
+        "4": 1,
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "디아블로",
+          "guild": "극성",
+          "class": "환영검사",
+          "grade": 8,
+          "level": 64,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "달커피",
+          "guild": "극성",
+          "class": "환영검사",
+          "grade": 8,
+          "level": 62,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "라칸",
+          "guild": "극성",
+          "class": "향사수",
+          "grade": 5,
+          "level": 57,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "블라",
+          "guild": "극성",
+          "class": "주문각인사",
+          "grade": 4,
+          "level": 55,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "yshisansan",
+          "guild": "극성",
+          "class": "향사수",
+          "grade": 1,
+          "level": 55,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "디아블로",
+            "guild": "극성",
+            "class": "환영검사",
+            "grade": 8,
+            "level": 64,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "달커피",
+            "guild": "극성",
+            "class": "환영검사",
+            "grade": 8,
+            "level": 62,
+            "server": "엘렌 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "라칸",
+            "guild": "극성",
+            "class": "향사수",
+            "grade": 5,
+            "level": 57,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "yshisansan",
+            "guild": "극성",
+            "class": "향사수",
+            "grade": 1,
+            "level": 55,
+            "server": "엘렌 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "블라",
+            "guild": "극성",
+            "class": "주문각인사",
+            "grade": 4,
+            "level": 55,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "8": [
+          {
+            "nickname": "디아블로",
+            "guild": "극성",
+            "class": "환영검사",
+            "grade": 8,
+            "level": 64,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "달커피",
+            "guild": "극성",
+            "class": "환영검사",
+            "grade": 8,
+            "level": 62,
+            "server": "엘렌 03"
+          }
+        ],
+        "5": [
+          {
+            "nickname": "라칸",
+            "guild": "극성",
+            "class": "향사수",
+            "grade": 5,
+            "level": 57,
+            "server": "엘렌 03"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "yshisansan",
+            "guild": "극성",
+            "class": "향사수",
+            "grade": 1,
+            "level": 55,
+            "server": "엘렌 03"
+          }
+        ],
+        "4": [
+          {
+            "nickname": "블라",
+            "guild": "극성",
+            "class": "주문각인사",
+            "grade": 4,
+            "level": 55,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "아트": {
+      "members": 10,
+      "guildLevel": 37,
+      "guildRank": 1,
+      "guildMaster": "은솔",
+      "officialMemberCount": 24,
+      "maxGuildMemberCount": 45,
+      "byClass": {
+        "주문각인사": 4,
+        "환영검사": 2,
+        "향사수": 2,
+        "집행관": 2
+      },
+      "byGrade": {
+        "9": 3,
+        "7": 2,
+        "6": 1,
+        "5": 3,
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "아트",
+          "guild": "아트",
+          "class": "주문각인사",
+          "grade": 9,
+          "level": 64,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "볼트",
+          "guild": "아트",
+          "class": "환영검사",
+          "grade": 9,
+          "level": 63,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "은솔",
+          "guild": "아트",
+          "class": "향사수",
+          "grade": 9,
+          "level": 63,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "활보스",
+          "guild": "아트",
+          "class": "향사수",
+          "grade": 7,
+          "level": 60,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "기억",
+          "guild": "아트",
+          "class": "주문각인사",
+          "grade": 7,
+          "level": 59,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "바나나샷",
+          "guild": "아트",
+          "class": "주문각인사",
+          "grade": 6,
+          "level": 59,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "세준",
+          "guild": "아트",
+          "class": "집행관",
+          "grade": 5,
+          "level": 59,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "투준",
+          "guild": "아트",
+          "class": "주문각인사",
+          "grade": 5,
+          "level": 58,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "ART",
+          "guild": "아트",
+          "class": "환영검사",
+          "grade": 5,
+          "level": 48,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "카준",
+          "guild": "아트",
+          "class": "집행관",
+          "grade": 1,
+          "level": 48,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "볼트",
+            "guild": "아트",
+            "class": "환영검사",
+            "grade": 9,
+            "level": 63,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "ART",
+            "guild": "아트",
+            "class": "환영검사",
+            "grade": 5,
+            "level": 48,
+            "server": "엘렌 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "은솔",
+            "guild": "아트",
+            "class": "향사수",
+            "grade": 9,
+            "level": 63,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "활보스",
+            "guild": "아트",
+            "class": "향사수",
+            "grade": 7,
+            "level": 60,
+            "server": "엘렌 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "아트",
+            "guild": "아트",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 64,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "기억",
+            "guild": "아트",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 59,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "바나나샷",
+            "guild": "아트",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 59,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "투준",
+            "guild": "아트",
+            "class": "주문각인사",
+            "grade": 5,
+            "level": 58,
+            "server": "엘렌 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "세준",
+            "guild": "아트",
+            "class": "집행관",
+            "grade": 5,
+            "level": 59,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "카준",
+            "guild": "아트",
+            "class": "집행관",
+            "grade": 1,
+            "level": 48,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "9": [
+          {
+            "nickname": "아트",
+            "guild": "아트",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 64,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "볼트",
+            "guild": "아트",
+            "class": "환영검사",
+            "grade": 9,
+            "level": 63,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "은솔",
+            "guild": "아트",
+            "class": "향사수",
+            "grade": 9,
+            "level": 63,
+            "server": "엘렌 03"
+          }
+        ],
+        "5": [
+          {
+            "nickname": "세준",
+            "guild": "아트",
+            "class": "집행관",
+            "grade": 5,
+            "level": 59,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "투준",
+            "guild": "아트",
+            "class": "주문각인사",
+            "grade": 5,
+            "level": 58,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "ART",
+            "guild": "아트",
+            "class": "환영검사",
+            "grade": 5,
+            "level": 48,
+            "server": "엘렌 03"
+          }
+        ],
+        "7": [
+          {
+            "nickname": "활보스",
+            "guild": "아트",
+            "class": "향사수",
+            "grade": 7,
+            "level": 60,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "기억",
+            "guild": "아트",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 59,
+            "server": "엘렌 03"
+          }
+        ],
+        "6": [
+          {
+            "nickname": "바나나샷",
+            "guild": "아트",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 59,
+            "server": "엘렌 03"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "카준",
+            "guild": "아트",
+            "class": "집행관",
+            "grade": 1,
+            "level": 48,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "폼사": {
+      "members": 13,
+      "guildLevel": 26,
+      "guildRank": 2,
+      "guildMaster": "환영의밀리아",
+      "officialMemberCount": 33,
+      "maxGuildMemberCount": 42,
+      "byClass": {
+        "환영검사": 5,
+        "향사수": 4,
+        "주문각인사": 3,
+        "집행관": 1
+      },
+      "byGrade": {
+        "9": 1,
+        "8": 1,
+        "7": 5,
+        "6": 3,
+        "5": 2,
+        "4": 1
+      },
+      "membersList": [
+        {
+          "nickname": "얍삐",
+          "guild": "폼사",
+          "class": "주문각인사",
+          "grade": 9,
+          "level": 62,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "빠염",
+          "guild": "폼사",
+          "class": "집행관",
+          "grade": 8,
+          "level": 64,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "개미핥기",
+          "guild": "폼사",
+          "class": "향사수",
+          "grade": 7,
+          "level": 62,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "뽀실뽀실",
+          "guild": "폼사",
+          "class": "주문각인사",
+          "grade": 7,
+          "level": 62,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "카리안",
+          "guild": "폼사",
+          "class": "환영검사",
+          "grade": 7,
+          "level": 62,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "해수",
+          "guild": "폼사",
+          "class": "환영검사",
+          "grade": 7,
+          "level": 62,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "공무도하",
+          "guild": "폼사",
+          "class": "향사수",
+          "grade": 7,
+          "level": 60,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "구리반지",
+          "guild": "폼사",
+          "class": "환영검사",
+          "grade": 6,
+          "level": 60,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "헤헤헤헤하하하",
+          "guild": "폼사",
+          "class": "환영검사",
+          "grade": 6,
+          "level": 57,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "네고객님",
+          "guild": "폼사",
+          "class": "주문각인사",
+          "grade": 6,
+          "level": 55,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "Baffle",
+          "guild": "폼사",
+          "class": "환영검사",
+          "grade": 5,
+          "level": 59,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "그남자그여자",
+          "guild": "폼사",
+          "class": "향사수",
+          "grade": 5,
+          "level": 55,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "려원",
+          "guild": "폼사",
+          "class": "향사수",
+          "grade": 4,
+          "level": 54,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "카리안",
+            "guild": "폼사",
+            "class": "환영검사",
+            "grade": 7,
+            "level": 62,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "해수",
+            "guild": "폼사",
+            "class": "환영검사",
+            "grade": 7,
+            "level": 62,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "구리반지",
+            "guild": "폼사",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 60,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "헤헤헤헤하하하",
+            "guild": "폼사",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 57,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "Baffle",
+            "guild": "폼사",
+            "class": "환영검사",
+            "grade": 5,
+            "level": 59,
+            "server": "엘렌 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "개미핥기",
+            "guild": "폼사",
+            "class": "향사수",
+            "grade": 7,
+            "level": 62,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "공무도하",
+            "guild": "폼사",
+            "class": "향사수",
+            "grade": 7,
+            "level": 60,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "그남자그여자",
+            "guild": "폼사",
+            "class": "향사수",
+            "grade": 5,
+            "level": 55,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "려원",
+            "guild": "폼사",
+            "class": "향사수",
+            "grade": 4,
+            "level": 54,
+            "server": "엘렌 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "얍삐",
+            "guild": "폼사",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 62,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "뽀실뽀실",
+            "guild": "폼사",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 62,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "네고객님",
+            "guild": "폼사",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 55,
+            "server": "엘렌 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "빠염",
+            "guild": "폼사",
+            "class": "집행관",
+            "grade": 8,
+            "level": 64,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "7": [
+          {
+            "nickname": "개미핥기",
+            "guild": "폼사",
+            "class": "향사수",
+            "grade": 7,
+            "level": 62,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "뽀실뽀실",
+            "guild": "폼사",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 62,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "카리안",
+            "guild": "폼사",
+            "class": "환영검사",
+            "grade": 7,
+            "level": 62,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "해수",
+            "guild": "폼사",
+            "class": "환영검사",
+            "grade": 7,
+            "level": 62,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "공무도하",
+            "guild": "폼사",
+            "class": "향사수",
+            "grade": 7,
+            "level": 60,
+            "server": "엘렌 03"
+          }
+        ],
+        "6": [
+          {
+            "nickname": "구리반지",
+            "guild": "폼사",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 60,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "헤헤헤헤하하하",
+            "guild": "폼사",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 57,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "네고객님",
+            "guild": "폼사",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 55,
+            "server": "엘렌 03"
+          }
+        ],
+        "5": [
+          {
+            "nickname": "Baffle",
+            "guild": "폼사",
+            "class": "환영검사",
+            "grade": 5,
+            "level": 59,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "그남자그여자",
+            "guild": "폼사",
+            "class": "향사수",
+            "grade": 5,
+            "level": 55,
+            "server": "엘렌 03"
+          }
+        ],
+        "4": [
+          {
+            "nickname": "려원",
+            "guild": "폼사",
+            "class": "향사수",
+            "grade": 4,
+            "level": 54,
+            "server": "엘렌 03"
+          }
+        ],
+        "9": [
+          {
+            "nickname": "얍삐",
+            "guild": "폼사",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 62,
+            "server": "엘렌 03"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "빠염",
+            "guild": "폼사",
+            "class": "집행관",
+            "grade": 8,
+            "level": 64,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "사탄들렸니": {
+      "members": 4,
+      "guildLevel": 16,
+      "guildRank": 15,
+      "guildMaster": "북치기박치기",
+      "officialMemberCount": 25,
+      "maxGuildMemberCount": 36,
+      "byClass": {
+        "주문각인사": 2,
+        "환영검사": 1,
+        "집행관": 1
+      },
+      "byGrade": {
+        "6": 2,
+        "1": 2
+      },
+      "membersList": [
+        {
+          "nickname": "Miny",
+          "guild": "사탄들렸니",
+          "class": "환영검사",
+          "grade": 6,
+          "level": 62,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "소서리스",
+          "guild": "사탄들렸니",
+          "class": "주문각인사",
+          "grade": 6,
+          "level": 56,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "끌림",
+          "guild": "사탄들렸니",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 55,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "시둥",
+          "guild": "사탄들렸니",
+          "class": "집행관",
+          "grade": 1,
+          "level": 48,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "Miny",
+            "guild": "사탄들렸니",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 62,
+            "server": "엘렌 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "소서리스",
+            "guild": "사탄들렸니",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 56,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "끌림",
+            "guild": "사탄들렸니",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 55,
+            "server": "엘렌 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "시둥",
+            "guild": "사탄들렸니",
+            "class": "집행관",
+            "grade": 1,
+            "level": 48,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "6": [
+          {
+            "nickname": "Miny",
+            "guild": "사탄들렸니",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 62,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "소서리스",
+            "guild": "사탄들렸니",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 56,
+            "server": "엘렌 03"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "끌림",
+            "guild": "사탄들렸니",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 55,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "시둥",
+            "guild": "사탄들렸니",
+            "class": "집행관",
+            "grade": 1,
+            "level": 48,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "라온": {
+      "members": 7,
+      "guildLevel": 18,
+      "guildRank": 9,
+      "guildMaster": "신호수",
+      "officialMemberCount": 17,
+      "maxGuildMemberCount": 36,
+      "byClass": {
+        "환영검사": 2,
+        "향사수": 2,
+        "주문각인사": 2,
+        "집행관": 1
+      },
+      "byGrade": {
+        "10": 2,
+        "8": 1,
+        "7": 2,
+        "5": 2
+      },
+      "membersList": [
+        {
+          "nickname": "이팀장",
+          "guild": "라온",
+          "class": "집행관",
+          "grade": 10,
+          "level": 67,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "평택",
+          "guild": "라온",
+          "class": "주문각인사",
+          "grade": 10,
+          "level": 64,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "고덕명사수",
+          "guild": "라온",
+          "class": "향사수",
+          "grade": 8,
+          "level": 62,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "건전지",
+          "guild": "라온",
+          "class": "환영검사",
+          "grade": 7,
+          "level": 62,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "신호수",
+          "guild": "라온",
+          "class": "주문각인사",
+          "grade": 7,
+          "level": 58,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "용이동발발이",
+          "guild": "라온",
+          "class": "향사수",
+          "grade": 5,
+          "level": 55,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "유도원",
+          "guild": "라온",
+          "class": "환영검사",
+          "grade": 5,
+          "level": 50,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "건전지",
+            "guild": "라온",
+            "class": "환영검사",
+            "grade": 7,
+            "level": 62,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "유도원",
+            "guild": "라온",
+            "class": "환영검사",
+            "grade": 5,
+            "level": 50,
+            "server": "엘렌 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "고덕명사수",
+            "guild": "라온",
+            "class": "향사수",
+            "grade": 8,
+            "level": 62,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "용이동발발이",
+            "guild": "라온",
+            "class": "향사수",
+            "grade": 5,
+            "level": 55,
+            "server": "엘렌 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "평택",
+            "guild": "라온",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 64,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "신호수",
+            "guild": "라온",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 58,
+            "server": "엘렌 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "이팀장",
+            "guild": "라온",
+            "class": "집행관",
+            "grade": 10,
+            "level": 67,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "7": [
+          {
+            "nickname": "건전지",
+            "guild": "라온",
+            "class": "환영검사",
+            "grade": 7,
+            "level": 62,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "신호수",
+            "guild": "라온",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 58,
+            "server": "엘렌 03"
+          }
+        ],
+        "5": [
+          {
+            "nickname": "용이동발발이",
+            "guild": "라온",
+            "class": "향사수",
+            "grade": 5,
+            "level": 55,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "유도원",
+            "guild": "라온",
+            "class": "환영검사",
+            "grade": 5,
+            "level": 50,
+            "server": "엘렌 03"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "고덕명사수",
+            "guild": "라온",
+            "class": "향사수",
+            "grade": 8,
+            "level": 62,
+            "server": "엘렌 03"
+          }
+        ],
+        "10": [
+          {
+            "nickname": "이팀장",
+            "guild": "라온",
+            "class": "집행관",
+            "grade": 10,
+            "level": 67,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "평택",
+            "guild": "라온",
+            "class": "주문각인사",
+            "grade": 10,
+            "level": 64,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "다니네아이들": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "8": 1
+      },
+      "membersList": [
+        {
+          "nickname": "흑도",
+          "guild": "다니네아이들",
+          "class": "환영검사",
+          "grade": 8,
+          "level": 60,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "흑도",
+            "guild": "다니네아이들",
+            "class": "환영검사",
+            "grade": 8,
+            "level": 60,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "8": [
+          {
+            "nickname": "흑도",
+            "guild": "다니네아이들",
+            "class": "환영검사",
+            "grade": 8,
+            "level": 60,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "볼튼호텔": {
+      "members": 7,
+      "guildLevel": 24,
+      "guildRank": 3,
+      "guildMaster": "엘름",
+      "officialMemberCount": 10,
+      "maxGuildMemberCount": 40,
+      "byClass": {
+        "향사수": 4,
+        "환영검사": 1,
+        "주문각인사": 1,
+        "집행관": 1
+      },
+      "byGrade": {
+        "8": 1,
+        "7": 2,
+        "6": 2,
+        "1": 2
+      },
+      "membersList": [
+        {
+          "nickname": "잔다르크",
+          "guild": "볼튼호텔",
+          "class": "주문각인사",
+          "grade": 8,
+          "level": 61,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "그그그",
+          "guild": "볼튼호텔",
+          "class": "향사수",
+          "grade": 7,
+          "level": 61,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "잔느",
+          "guild": "볼튼호텔",
+          "class": "환영검사",
+          "grade": 7,
+          "level": 60,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "엘름",
+          "guild": "볼튼호텔",
+          "class": "향사수",
+          "grade": 6,
+          "level": 60,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "어흥",
+          "guild": "볼튼호텔",
+          "class": "집행관",
+          "grade": 6,
+          "level": 57,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "아이고",
+          "guild": "볼튼호텔",
+          "class": "향사수",
+          "grade": 1,
+          "level": 56,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "허허",
+          "guild": "볼튼호텔",
+          "class": "향사수",
+          "grade": 1,
+          "level": 54,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "잔느",
+            "guild": "볼튼호텔",
+            "class": "환영검사",
+            "grade": 7,
+            "level": 60,
+            "server": "엘렌 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "그그그",
+            "guild": "볼튼호텔",
+            "class": "향사수",
+            "grade": 7,
+            "level": 61,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "엘름",
+            "guild": "볼튼호텔",
+            "class": "향사수",
+            "grade": 6,
+            "level": 60,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "아이고",
+            "guild": "볼튼호텔",
+            "class": "향사수",
+            "grade": 1,
+            "level": 56,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "허허",
+            "guild": "볼튼호텔",
+            "class": "향사수",
+            "grade": 1,
+            "level": 54,
+            "server": "엘렌 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "잔다르크",
+            "guild": "볼튼호텔",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 61,
+            "server": "엘렌 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "어흥",
+            "guild": "볼튼호텔",
+            "class": "집행관",
+            "grade": 6,
+            "level": 57,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "7": [
+          {
+            "nickname": "그그그",
+            "guild": "볼튼호텔",
+            "class": "향사수",
+            "grade": 7,
+            "level": 61,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "잔느",
+            "guild": "볼튼호텔",
+            "class": "환영검사",
+            "grade": 7,
+            "level": 60,
+            "server": "엘렌 03"
+          }
+        ],
+        "6": [
+          {
+            "nickname": "엘름",
+            "guild": "볼튼호텔",
+            "class": "향사수",
+            "grade": 6,
+            "level": 60,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "어흥",
+            "guild": "볼튼호텔",
+            "class": "집행관",
+            "grade": 6,
+            "level": 57,
+            "server": "엘렌 03"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "아이고",
+            "guild": "볼튼호텔",
+            "class": "향사수",
+            "grade": 1,
+            "level": 56,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "허허",
+            "guild": "볼튼호텔",
+            "class": "향사수",
+            "grade": 1,
+            "level": 54,
+            "server": "엘렌 03"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "잔다르크",
+            "guild": "볼튼호텔",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 61,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "레인저": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "6": 1
+      },
+      "membersList": [
+        {
+          "nickname": "사이아",
+          "guild": "레인저",
+          "class": "환영검사",
+          "grade": 6,
+          "level": 59,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "사이아",
+            "guild": "레인저",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 59,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "6": [
+          {
+            "nickname": "사이아",
+            "guild": "레인저",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 59,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "달": {
+      "members": 3,
+      "guildLevel": 13,
+      "guildRank": 28,
+      "guildMaster": "결사",
+      "officialMemberCount": 11,
+      "maxGuildMemberCount": 40,
+      "byClass": {
+        "환영검사": 1,
+        "주문각인사": 1,
+        "집행관": 1
+      },
+      "byGrade": {
+        "8": 2,
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "결사",
+          "guild": "달",
+          "class": "환영검사",
+          "grade": 8,
+          "level": 58,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "루루아",
+          "guild": "달",
+          "class": "주문각인사",
+          "grade": 8,
+          "level": 58,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "카이트",
+          "guild": "달",
+          "class": "집행관",
+          "grade": 1,
+          "level": 52,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "결사",
+            "guild": "달",
+            "class": "환영검사",
+            "grade": 8,
+            "level": 58,
+            "server": "엘렌 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "루루아",
+            "guild": "달",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 58,
+            "server": "엘렌 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "카이트",
+            "guild": "달",
+            "class": "집행관",
+            "grade": 1,
+            "level": 52,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "8": [
+          {
+            "nickname": "결사",
+            "guild": "달",
+            "class": "환영검사",
+            "grade": 8,
+            "level": 58,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "루루아",
+            "guild": "달",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 58,
+            "server": "엘렌 03"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "카이트",
+            "guild": "달",
+            "class": "집행관",
+            "grade": 1,
+            "level": 52,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "신세계": {
+      "members": 9,
+      "guildLevel": 20,
+      "guildRank": 6,
+      "guildMaster": "천년여우소주먹빵",
+      "officialMemberCount": 41,
+      "maxGuildMemberCount": 41,
+      "byClass": {
+        "환영검사": 3,
+        "집행관": 3,
+        "향사수": 2,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "7": 1,
+        "6": 1,
+        "1": 7
+      },
+      "membersList": [
+        {
+          "nickname": "태클",
+          "guild": "신세계",
+          "class": "집행관",
+          "grade": 7,
+          "level": 59,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "스워드피시",
+          "guild": "신세계",
+          "class": "환영검사",
+          "grade": 6,
+          "level": 58,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "집행갓",
+          "guild": "신세계",
+          "class": "집행관",
+          "grade": 1,
+          "level": 57,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "천년여우소주먹빵",
+          "guild": "신세계",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 55,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "Acccca",
+          "guild": "신세계",
+          "class": "향사수",
+          "grade": 1,
+          "level": 54,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "llllt",
+          "guild": "신세계",
+          "class": "향사수",
+          "grade": 1,
+          "level": 54,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "욘듀요",
+          "guild": "신세계",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 52,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "yunyunmoyu",
+          "guild": "신세계",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 51,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "KJFGTBDCAQ",
+          "guild": "신세계",
+          "class": "집행관",
+          "grade": 1,
+          "level": 48,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "스워드피시",
+            "guild": "신세계",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 58,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "욘듀요",
+            "guild": "신세계",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 52,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "yunyunmoyu",
+            "guild": "신세계",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 51,
+            "server": "엘렌 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "Acccca",
+            "guild": "신세계",
+            "class": "향사수",
+            "grade": 1,
+            "level": 54,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "llllt",
+            "guild": "신세계",
+            "class": "향사수",
+            "grade": 1,
+            "level": 54,
+            "server": "엘렌 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "천년여우소주먹빵",
+            "guild": "신세계",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 55,
+            "server": "엘렌 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "태클",
+            "guild": "신세계",
+            "class": "집행관",
+            "grade": 7,
+            "level": 59,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "집행갓",
+            "guild": "신세계",
+            "class": "집행관",
+            "grade": 1,
+            "level": 57,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "KJFGTBDCAQ",
+            "guild": "신세계",
+            "class": "집행관",
+            "grade": 1,
+            "level": 48,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "6": [
+          {
+            "nickname": "스워드피시",
+            "guild": "신세계",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 58,
+            "server": "엘렌 03"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "집행갓",
+            "guild": "신세계",
+            "class": "집행관",
+            "grade": 1,
+            "level": 57,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "천년여우소주먹빵",
+            "guild": "신세계",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 55,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "Acccca",
+            "guild": "신세계",
+            "class": "향사수",
+            "grade": 1,
+            "level": 54,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "llllt",
+            "guild": "신세계",
+            "class": "향사수",
+            "grade": 1,
+            "level": 54,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "욘듀요",
+            "guild": "신세계",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 52,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "yunyunmoyu",
+            "guild": "신세계",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 51,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "KJFGTBDCAQ",
+            "guild": "신세계",
+            "class": "집행관",
+            "grade": 1,
+            "level": 48,
+            "server": "엘렌 03"
+          }
+        ],
+        "7": [
+          {
+            "nickname": "태클",
+            "guild": "신세계",
+            "class": "집행관",
+            "grade": 7,
+            "level": 59,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "수호자": {
+      "members": 5,
+      "guildLevel": 15,
+      "guildRank": 18,
+      "guildMaster": "리나",
+      "officialMemberCount": 17,
+      "maxGuildMemberCount": 40,
+      "byClass": {
+        "환영검사": 2,
+        "주문각인사": 2,
+        "집행관": 1
+      },
+      "byGrade": {
+        "7": 1,
+        "6": 1,
+        "5": 2,
+        "3": 1
+      },
+      "membersList": [
+        {
+          "nickname": "가케무사",
+          "guild": "수호자",
+          "class": "환영검사",
+          "grade": 7,
+          "level": 58,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "프리즈아골드",
+          "guild": "수호자",
+          "class": "환영검사",
+          "grade": 6,
+          "level": 49,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "리나",
+          "guild": "수호자",
+          "class": "주문각인사",
+          "grade": 5,
+          "level": 58,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "프리즈아블루",
+          "guild": "수호자",
+          "class": "집행관",
+          "grade": 5,
+          "level": 52,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "프리즈아",
+          "guild": "수호자",
+          "class": "주문각인사",
+          "grade": 3,
+          "level": 52,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "가케무사",
+            "guild": "수호자",
+            "class": "환영검사",
+            "grade": 7,
+            "level": 58,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "프리즈아골드",
+            "guild": "수호자",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 49,
+            "server": "엘렌 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "리나",
+            "guild": "수호자",
+            "class": "주문각인사",
+            "grade": 5,
+            "level": 58,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "프리즈아",
+            "guild": "수호자",
+            "class": "주문각인사",
+            "grade": 3,
+            "level": 52,
+            "server": "엘렌 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "프리즈아블루",
+            "guild": "수호자",
+            "class": "집행관",
+            "grade": 5,
+            "level": 52,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "7": [
+          {
+            "nickname": "가케무사",
+            "guild": "수호자",
+            "class": "환영검사",
+            "grade": 7,
+            "level": 58,
+            "server": "엘렌 03"
+          }
+        ],
+        "6": [
+          {
+            "nickname": "프리즈아골드",
+            "guild": "수호자",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 49,
+            "server": "엘렌 03"
+          }
+        ],
+        "5": [
+          {
+            "nickname": "리나",
+            "guild": "수호자",
+            "class": "주문각인사",
+            "grade": 5,
+            "level": 58,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "프리즈아블루",
+            "guild": "수호자",
+            "class": "집행관",
+            "grade": 5,
+            "level": 52,
+            "server": "엘렌 03"
+          }
+        ],
+        "3": [
+          {
+            "nickname": "프리즈아",
+            "guild": "수호자",
+            "class": "주문각인사",
+            "grade": 3,
+            "level": 52,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "보옹": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "5": 1
+      },
+      "membersList": [
+        {
+          "nickname": "하랑",
+          "guild": "보옹",
+          "class": "환영검사",
+          "grade": 5,
+          "level": 57,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "하랑",
+            "guild": "보옹",
+            "class": "환영검사",
+            "grade": 5,
+            "level": 57,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "5": [
+          {
+            "nickname": "하랑",
+            "guild": "보옹",
+            "class": "환영검사",
+            "grade": 5,
+            "level": 57,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "백의민족": {
+      "members": 3,
+      "guildLevel": 19,
+      "guildRank": 7,
+      "guildMaster": "Agdfg",
+      "officialMemberCount": 40,
+      "maxGuildMemberCount": 40,
+      "byClass": {
+        "환영검사": 1,
+        "향사수": 1,
+        "집행관": 1
+      },
+      "byGrade": {
+        "4": 2,
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "대구이시아폴리스",
+          "guild": "백의민족",
+          "class": "집행관",
+          "grade": 4,
+          "level": 57,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "대구봉무동",
+          "guild": "백의민족",
+          "class": "환영검사",
+          "grade": 4,
+          "level": 56,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "Agdfg",
+          "guild": "백의민족",
+          "class": "향사수",
+          "grade": 1,
+          "level": 55,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "대구봉무동",
+            "guild": "백의민족",
+            "class": "환영검사",
+            "grade": 4,
+            "level": 56,
+            "server": "엘렌 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "Agdfg",
+            "guild": "백의민족",
+            "class": "향사수",
+            "grade": 1,
+            "level": 55,
+            "server": "엘렌 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "대구이시아폴리스",
+            "guild": "백의민족",
+            "class": "집행관",
+            "grade": 4,
+            "level": 57,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "4": [
+          {
+            "nickname": "대구이시아폴리스",
+            "guild": "백의민족",
+            "class": "집행관",
+            "grade": 4,
+            "level": 57,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "대구봉무동",
+            "guild": "백의민족",
+            "class": "환영검사",
+            "grade": 4,
+            "level": 56,
+            "server": "엘렌 03"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "Agdfg",
+            "guild": "백의민족",
+            "class": "향사수",
+            "grade": 1,
+            "level": 55,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "투지": {
+      "members": 8,
+      "guildLevel": 19,
+      "guildRank": 8,
+      "guildMaster": "디올",
+      "officialMemberCount": 15,
+      "maxGuildMemberCount": 36,
+      "byClass": {
+        "환영검사": 3,
+        "향사수": 2,
+        "집행관": 2,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "6": 3,
+        "5": 2,
+        "4": 1,
+        "3": 1,
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "살닌자",
+          "guild": "투지",
+          "class": "환영검사",
+          "grade": 6,
+          "level": 56,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "디올",
+          "guild": "투지",
+          "class": "환영검사",
+          "grade": 6,
+          "level": 55,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "장수말벌",
+          "guild": "투지",
+          "class": "향사수",
+          "grade": 6,
+          "level": 55,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "무전",
+          "guild": "투지",
+          "class": "집행관",
+          "grade": 5,
+          "level": 56,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "구타",
+          "guild": "투지",
+          "class": "집행관",
+          "grade": 5,
+          "level": 55,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "obt",
+          "guild": "투지",
+          "class": "향사수",
+          "grade": 4,
+          "level": 56,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "꼬장카이",
+          "guild": "투지",
+          "class": "주문각인사",
+          "grade": 3,
+          "level": 54,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "희망",
+          "guild": "투지",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 48,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "살닌자",
+            "guild": "투지",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 56,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "디올",
+            "guild": "투지",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 55,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "희망",
+            "guild": "투지",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 48,
+            "server": "엘렌 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "장수말벌",
+            "guild": "투지",
+            "class": "향사수",
+            "grade": 6,
+            "level": 55,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "obt",
+            "guild": "투지",
+            "class": "향사수",
+            "grade": 4,
+            "level": 56,
+            "server": "엘렌 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "꼬장카이",
+            "guild": "투지",
+            "class": "주문각인사",
+            "grade": 3,
+            "level": 54,
+            "server": "엘렌 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "무전",
+            "guild": "투지",
+            "class": "집행관",
+            "grade": 5,
+            "level": 56,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "구타",
+            "guild": "투지",
+            "class": "집행관",
+            "grade": 5,
+            "level": 55,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "6": [
+          {
+            "nickname": "살닌자",
+            "guild": "투지",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 56,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "디올",
+            "guild": "투지",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 55,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "장수말벌",
+            "guild": "투지",
+            "class": "향사수",
+            "grade": 6,
+            "level": 55,
+            "server": "엘렌 03"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "희망",
+            "guild": "투지",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 48,
+            "server": "엘렌 03"
+          }
+        ],
+        "4": [
+          {
+            "nickname": "obt",
+            "guild": "투지",
+            "class": "향사수",
+            "grade": 4,
+            "level": 56,
+            "server": "엘렌 03"
+          }
+        ],
+        "3": [
+          {
+            "nickname": "꼬장카이",
+            "guild": "투지",
+            "class": "주문각인사",
+            "grade": 3,
+            "level": 54,
+            "server": "엘렌 03"
+          }
+        ],
+        "5": [
+          {
+            "nickname": "무전",
+            "guild": "투지",
+            "class": "집행관",
+            "grade": 5,
+            "level": 56,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "구타",
+            "guild": "투지",
+            "class": "집행관",
+            "grade": 5,
+            "level": 55,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "순양": {
+      "members": 2,
+      "guildLevel": 14,
+      "guildRank": 25,
+      "guildMaster": "순양전자",
+      "officialMemberCount": 3,
+      "maxGuildMemberCount": 40,
+      "byClass": {
+        "환영검사": 2
+      },
+      "byGrade": {
+        "3": 2
+      },
+      "membersList": [
+        {
+          "nickname": "순양검사",
+          "guild": "순양",
+          "class": "환영검사",
+          "grade": 3,
+          "level": 55,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "COBY",
+          "guild": "순양",
+          "class": "환영검사",
+          "grade": 3,
+          "level": 49,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "순양검사",
+            "guild": "순양",
+            "class": "환영검사",
+            "grade": 3,
+            "level": 55,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "COBY",
+            "guild": "순양",
+            "class": "환영검사",
+            "grade": 3,
+            "level": 49,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "3": [
+          {
+            "nickname": "순양검사",
+            "guild": "순양",
+            "class": "환영검사",
+            "grade": 3,
+            "level": 55,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "COBY",
+            "guild": "순양",
+            "class": "환영검사",
+            "grade": 3,
+            "level": 49,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "띠용": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "6": 1
+      },
+      "membersList": [
+        {
+          "nickname": "영혼",
+          "guild": "띠용",
+          "class": "환영검사",
+          "grade": 6,
+          "level": 55,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "영혼",
+            "guild": "띠용",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 55,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "6": [
+          {
+            "nickname": "영혼",
+            "guild": "띠용",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 55,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "아랑": {
+      "members": 2,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "환영검사": 1,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "6": 1,
+        "3": 1
+      },
+      "membersList": [
+        {
+          "nickname": "한휘",
+          "guild": "아랑",
+          "class": "환영검사",
+          "grade": 6,
+          "level": 54,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "한아",
+          "guild": "아랑",
+          "class": "주문각인사",
+          "grade": 3,
+          "level": 52,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "한휘",
+            "guild": "아랑",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 54,
+            "server": "엘렌 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "한아",
+            "guild": "아랑",
+            "class": "주문각인사",
+            "grade": 3,
+            "level": 52,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "6": [
+          {
+            "nickname": "한휘",
+            "guild": "아랑",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 54,
+            "server": "엘렌 03"
+          }
+        ],
+        "3": [
+          {
+            "nickname": "한아",
+            "guild": "아랑",
+            "class": "주문각인사",
+            "grade": 3,
+            "level": 52,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "롸잇": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "5": 1
+      },
+      "membersList": [
+        {
+          "nickname": "건달왕철",
+          "guild": "롸잇",
+          "class": "환영검사",
+          "grade": 5,
+          "level": 53,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "건달왕철",
+            "guild": "롸잇",
+            "class": "환영검사",
+            "grade": 5,
+            "level": 53,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "5": [
+          {
+            "nickname": "건달왕철",
+            "guild": "롸잇",
+            "class": "환영검사",
+            "grade": 5,
+            "level": 53,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "집나간사람들": {
+      "members": 4,
+      "guildLevel": 17,
+      "guildRank": 12,
+      "guildMaster": "비어있는토마토안녕",
+      "officialMemberCount": 40,
+      "maxGuildMemberCount": 40,
+      "byClass": {
+        "환영검사": 1,
+        "향사수": 1,
+        "주문각인사": 1,
+        "집행관": 1
+      },
+      "byGrade": {
+        "4": 3,
+        "3": 1
+      },
+      "membersList": [
+        {
+          "nickname": "집나간그넘",
+          "guild": "집나간사람들",
+          "class": "주문각인사",
+          "grade": 4,
+          "level": 53,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "집나간마누라",
+          "guild": "집나간사람들",
+          "class": "환영검사",
+          "grade": 4,
+          "level": 53,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "집나간스님",
+          "guild": "집나간사람들",
+          "class": "집행관",
+          "grade": 4,
+          "level": 53,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "사랑해",
+          "guild": "집나간사람들",
+          "class": "향사수",
+          "grade": 3,
+          "level": 62,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "집나간마누라",
+            "guild": "집나간사람들",
+            "class": "환영검사",
+            "grade": 4,
+            "level": 53,
+            "server": "엘렌 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "사랑해",
+            "guild": "집나간사람들",
+            "class": "향사수",
+            "grade": 3,
+            "level": 62,
+            "server": "엘렌 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "집나간그넘",
+            "guild": "집나간사람들",
+            "class": "주문각인사",
+            "grade": 4,
+            "level": 53,
+            "server": "엘렌 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "집나간스님",
+            "guild": "집나간사람들",
+            "class": "집행관",
+            "grade": 4,
+            "level": 53,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "4": [
+          {
+            "nickname": "집나간그넘",
+            "guild": "집나간사람들",
+            "class": "주문각인사",
+            "grade": 4,
+            "level": 53,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "집나간마누라",
+            "guild": "집나간사람들",
+            "class": "환영검사",
+            "grade": 4,
+            "level": 53,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "집나간스님",
+            "guild": "집나간사람들",
+            "class": "집행관",
+            "grade": 4,
+            "level": 53,
+            "server": "엘렌 03"
+          }
+        ],
+        "3": [
+          {
+            "nickname": "사랑해",
+            "guild": "집나간사람들",
+            "class": "향사수",
+            "grade": 3,
+            "level": 62,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "헬시온": {
+      "members": 17,
+      "guildLevel": 23,
+      "guildRank": 4,
+      "guildMaster": "헬라이트",
+      "officialMemberCount": 31,
+      "maxGuildMemberCount": 40,
+      "byClass": {
+        "향사수": 9,
+        "집행관": 6,
+        "환영검사": 1,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "8": 1,
+        "7": 1,
+        "6": 3,
+        "5": 1,
+        "3": 2,
+        "2": 2,
+        "1": 7
+      },
+      "membersList": [
+        {
+          "nickname": "블라인드",
+          "guild": "헬시온",
+          "class": "향사수",
+          "grade": 8,
+          "level": 64,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "아모건",
+          "guild": "헬시온",
+          "class": "향사수",
+          "grade": 7,
+          "level": 60,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "미소의테레사",
+          "guild": "헬시온",
+          "class": "향사수",
+          "grade": 6,
+          "level": 65,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "헬나이프",
+          "guild": "헬시온",
+          "class": "집행관",
+          "grade": 6,
+          "level": 61,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "화궁",
+          "guild": "헬시온",
+          "class": "향사수",
+          "grade": 6,
+          "level": 57,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "헬라이트",
+          "guild": "헬시온",
+          "class": "주문각인사",
+          "grade": 5,
+          "level": 61,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "kuang",
+          "guild": "헬시온",
+          "class": "환영검사",
+          "grade": 3,
+          "level": 53,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "헬나이",
+          "guild": "헬시온",
+          "class": "집행관",
+          "grade": 3,
+          "level": 50,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "oonnoo",
+          "guild": "헬시온",
+          "class": "집행관",
+          "grade": 2,
+          "level": 50,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "헬라이",
+          "guild": "헬시온",
+          "class": "집행관",
+          "grade": 2,
+          "level": 46,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "둘레미",
+          "guild": "헬시온",
+          "class": "향사수",
+          "grade": 1,
+          "level": 58,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "fbbbb",
+          "guild": "헬시온",
+          "class": "향사수",
+          "grade": 1,
+          "level": 57,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "Aasdf",
+          "guild": "헬시온",
+          "class": "향사수",
+          "grade": 1,
+          "level": 55,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "Basdf",
+          "guild": "헬시온",
+          "class": "향사수",
+          "grade": 1,
+          "level": 54,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "사공이배를",
+          "guild": "헬시온",
+          "class": "향사수",
+          "grade": 1,
+          "level": 54,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "sgfdhbd",
+          "guild": "헬시온",
+          "class": "집행관",
+          "grade": 1,
+          "level": 49,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "RWFS",
+          "guild": "헬시온",
+          "class": "집행관",
+          "grade": 1,
+          "level": 48,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "kuang",
+            "guild": "헬시온",
+            "class": "환영검사",
+            "grade": 3,
+            "level": 53,
+            "server": "엘렌 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "블라인드",
+            "guild": "헬시온",
+            "class": "향사수",
+            "grade": 8,
+            "level": 64,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "아모건",
+            "guild": "헬시온",
+            "class": "향사수",
+            "grade": 7,
+            "level": 60,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "미소의테레사",
+            "guild": "헬시온",
+            "class": "향사수",
+            "grade": 6,
+            "level": 65,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "화궁",
+            "guild": "헬시온",
+            "class": "향사수",
+            "grade": 6,
+            "level": 57,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "둘레미",
+            "guild": "헬시온",
+            "class": "향사수",
+            "grade": 1,
+            "level": 58,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "fbbbb",
+            "guild": "헬시온",
+            "class": "향사수",
+            "grade": 1,
+            "level": 57,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "Aasdf",
+            "guild": "헬시온",
+            "class": "향사수",
+            "grade": 1,
+            "level": 55,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "Basdf",
+            "guild": "헬시온",
+            "class": "향사수",
+            "grade": 1,
+            "level": 54,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "사공이배를",
+            "guild": "헬시온",
+            "class": "향사수",
+            "grade": 1,
+            "level": 54,
+            "server": "엘렌 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "헬라이트",
+            "guild": "헬시온",
+            "class": "주문각인사",
+            "grade": 5,
+            "level": 61,
+            "server": "엘렌 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "헬나이프",
+            "guild": "헬시온",
+            "class": "집행관",
+            "grade": 6,
+            "level": 61,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "헬나이",
+            "guild": "헬시온",
+            "class": "집행관",
+            "grade": 3,
+            "level": 50,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "oonnoo",
+            "guild": "헬시온",
+            "class": "집행관",
+            "grade": 2,
+            "level": 50,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "헬라이",
+            "guild": "헬시온",
+            "class": "집행관",
+            "grade": 2,
+            "level": 46,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "sgfdhbd",
+            "guild": "헬시온",
+            "class": "집행관",
+            "grade": 1,
+            "level": 49,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "RWFS",
+            "guild": "헬시온",
+            "class": "집행관",
+            "grade": 1,
+            "level": 48,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "3": [
+          {
+            "nickname": "kuang",
+            "guild": "헬시온",
+            "class": "환영검사",
+            "grade": 3,
+            "level": 53,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "헬나이",
+            "guild": "헬시온",
+            "class": "집행관",
+            "grade": 3,
+            "level": 50,
+            "server": "엘렌 03"
+          }
+        ],
+        "6": [
+          {
+            "nickname": "미소의테레사",
+            "guild": "헬시온",
+            "class": "향사수",
+            "grade": 6,
+            "level": 65,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "헬나이프",
+            "guild": "헬시온",
+            "class": "집행관",
+            "grade": 6,
+            "level": 61,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "화궁",
+            "guild": "헬시온",
+            "class": "향사수",
+            "grade": 6,
+            "level": 57,
+            "server": "엘렌 03"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "블라인드",
+            "guild": "헬시온",
+            "class": "향사수",
+            "grade": 8,
+            "level": 64,
+            "server": "엘렌 03"
+          }
+        ],
+        "7": [
+          {
+            "nickname": "아모건",
+            "guild": "헬시온",
+            "class": "향사수",
+            "grade": 7,
+            "level": 60,
+            "server": "엘렌 03"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "둘레미",
+            "guild": "헬시온",
+            "class": "향사수",
+            "grade": 1,
+            "level": 58,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "fbbbb",
+            "guild": "헬시온",
+            "class": "향사수",
+            "grade": 1,
+            "level": 57,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "Aasdf",
+            "guild": "헬시온",
+            "class": "향사수",
+            "grade": 1,
+            "level": 55,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "Basdf",
+            "guild": "헬시온",
+            "class": "향사수",
+            "grade": 1,
+            "level": 54,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "사공이배를",
+            "guild": "헬시온",
+            "class": "향사수",
+            "grade": 1,
+            "level": 54,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "sgfdhbd",
+            "guild": "헬시온",
+            "class": "집행관",
+            "grade": 1,
+            "level": 49,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "RWFS",
+            "guild": "헬시온",
+            "class": "집행관",
+            "grade": 1,
+            "level": 48,
+            "server": "엘렌 03"
+          }
+        ],
+        "5": [
+          {
+            "nickname": "헬라이트",
+            "guild": "헬시온",
+            "class": "주문각인사",
+            "grade": 5,
+            "level": 61,
+            "server": "엘렌 03"
+          }
+        ],
+        "2": [
+          {
+            "nickname": "oonnoo",
+            "guild": "헬시온",
+            "class": "집행관",
+            "grade": 2,
+            "level": 50,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "헬라이",
+            "guild": "헬시온",
+            "class": "집행관",
+            "grade": 2,
+            "level": 46,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "마레": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "LoveSieun",
+          "guild": "마레",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 52,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "LoveSieun",
+            "guild": "마레",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 52,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "LoveSieun",
+            "guild": "마레",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 52,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "각인": {
+      "members": 2,
+      "guildLevel": 13,
+      "guildRank": 36,
+      "guildMaster": "더킹",
+      "officialMemberCount": 6,
+      "maxGuildMemberCount": 38,
+      "byClass": {
+        "환영검사": 1,
+        "집행관": 1
+      },
+      "byGrade": {
+        "8": 1,
+        "6": 1
+      },
+      "membersList": [
+        {
+          "nickname": "더킹",
+          "guild": "각인",
+          "class": "집행관",
+          "grade": 8,
+          "level": 60,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "저승",
+          "guild": "각인",
+          "class": "환영검사",
+          "grade": 6,
+          "level": 51,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "저승",
+            "guild": "각인",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 51,
+            "server": "엘렌 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "더킹",
+            "guild": "각인",
+            "class": "집행관",
+            "grade": 8,
+            "level": 60,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "6": [
+          {
+            "nickname": "저승",
+            "guild": "각인",
+            "class": "환영검사",
+            "grade": 6,
+            "level": 51,
+            "server": "엘렌 03"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "더킹",
+            "guild": "각인",
+            "class": "집행관",
+            "grade": 8,
+            "level": 60,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "부캐들결사": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "3": 1
+      },
+      "membersList": [
+        {
+          "nickname": "민찬",
+          "guild": "부캐들결사",
+          "class": "환영검사",
+          "grade": 3,
+          "level": 51,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "민찬",
+            "guild": "부캐들결사",
+            "class": "환영검사",
+            "grade": 3,
+            "level": 51,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "3": [
+          {
+            "nickname": "민찬",
+            "guild": "부캐들결사",
+            "class": "환영검사",
+            "grade": 3,
+            "level": 51,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "수원": {
+      "members": 2,
+      "guildLevel": 20,
+      "guildRank": 5,
+      "guildMaster": "재니큐",
+      "officialMemberCount": 18,
+      "maxGuildMemberCount": 42,
+      "byClass": {
+        "환영검사": 1,
+        "향사수": 1
+      },
+      "byGrade": {
+        "2": 1,
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "치코리타",
+          "guild": "수원",
+          "class": "환영검사",
+          "grade": 2,
+          "level": 51,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "참대곰",
+          "guild": "수원",
+          "class": "향사수",
+          "grade": 1,
+          "level": 56,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "치코리타",
+            "guild": "수원",
+            "class": "환영검사",
+            "grade": 2,
+            "level": 51,
+            "server": "엘렌 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "참대곰",
+            "guild": "수원",
+            "class": "향사수",
+            "grade": 1,
+            "level": 56,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "2": [
+          {
+            "nickname": "치코리타",
+            "guild": "수원",
+            "class": "환영검사",
+            "grade": 2,
+            "level": 51,
+            "server": "엘렌 03"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "참대곰",
+            "guild": "수원",
+            "class": "향사수",
+            "grade": 1,
+            "level": 56,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "라이온하트스튜디오": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "2": 1
+      },
+      "membersList": [
+        {
+          "nickname": "오딘발할라라이징",
+          "guild": "라이온하트스튜디오",
+          "class": "환영검사",
+          "grade": 2,
+          "level": 50,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "오딘발할라라이징",
+            "guild": "라이온하트스튜디오",
+            "class": "환영검사",
+            "grade": 2,
+            "level": 50,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "2": [
+          {
+            "nickname": "오딘발할라라이징",
+            "guild": "라이온하트스튜디오",
+            "class": "환영검사",
+            "grade": 2,
+            "level": 50,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "DIOR": {
+      "members": 7,
+      "guildLevel": 18,
+      "guildRank": 10,
+      "guildMaster": "옥탑방기생충",
+      "officialMemberCount": 40,
+      "maxGuildMemberCount": 40,
+      "byClass": {
+        "향사수": 2,
+        "주문각인사": 2,
+        "집행관": 2,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "8": 2,
+        "5": 1,
+        "4": 1,
+        "2": 1,
+        "1": 2
+      },
+      "membersList": [
+        {
+          "nickname": "카를레스",
+          "guild": "DIOR",
+          "class": "향사수",
+          "grade": 8,
+          "level": 67,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "유능한신입생",
+          "guild": "DIOR",
+          "class": "주문각인사",
+          "grade": 8,
+          "level": 66,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "자라키켄파치",
+          "guild": "DIOR",
+          "class": "집행관",
+          "grade": 5,
+          "level": 59,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "두부두부",
+          "guild": "DIOR",
+          "class": "주문각인사",
+          "grade": 4,
+          "level": 52,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "금발검사",
+          "guild": "DIOR",
+          "class": "환영검사",
+          "grade": 2,
+          "level": 50,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "cherrypop",
+          "guild": "DIOR",
+          "class": "향사수",
+          "grade": 1,
+          "level": 54,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "gh",
+          "guild": "DIOR",
+          "class": "집행관",
+          "grade": 1,
+          "level": 48,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "금발검사",
+            "guild": "DIOR",
+            "class": "환영검사",
+            "grade": 2,
+            "level": 50,
+            "server": "엘렌 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "카를레스",
+            "guild": "DIOR",
+            "class": "향사수",
+            "grade": 8,
+            "level": 67,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "cherrypop",
+            "guild": "DIOR",
+            "class": "향사수",
+            "grade": 1,
+            "level": 54,
+            "server": "엘렌 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "유능한신입생",
+            "guild": "DIOR",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 66,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "두부두부",
+            "guild": "DIOR",
+            "class": "주문각인사",
+            "grade": 4,
+            "level": 52,
+            "server": "엘렌 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "자라키켄파치",
+            "guild": "DIOR",
+            "class": "집행관",
+            "grade": 5,
+            "level": 59,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "gh",
+            "guild": "DIOR",
+            "class": "집행관",
+            "grade": 1,
+            "level": 48,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "2": [
+          {
+            "nickname": "금발검사",
+            "guild": "DIOR",
+            "class": "환영검사",
+            "grade": 2,
+            "level": 50,
+            "server": "엘렌 03"
+          }
+        ],
+        "8": [
+          {
+            "nickname": "카를레스",
+            "guild": "DIOR",
+            "class": "향사수",
+            "grade": 8,
+            "level": 67,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "유능한신입생",
+            "guild": "DIOR",
+            "class": "주문각인사",
+            "grade": 8,
+            "level": 66,
+            "server": "엘렌 03"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "cherrypop",
+            "guild": "DIOR",
+            "class": "향사수",
+            "grade": 1,
+            "level": 54,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "gh",
+            "guild": "DIOR",
+            "class": "집행관",
+            "grade": 1,
+            "level": 48,
+            "server": "엘렌 03"
+          }
+        ],
+        "4": [
+          {
+            "nickname": "두부두부",
+            "guild": "DIOR",
+            "class": "주문각인사",
+            "grade": 4,
+            "level": 52,
+            "server": "엘렌 03"
+          }
+        ],
+        "5": [
+          {
+            "nickname": "자라키켄파치",
+            "guild": "DIOR",
+            "class": "집행관",
+            "grade": 5,
+            "level": 59,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "치킨": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "아크",
+          "guild": "치킨",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 49,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "아크",
+            "guild": "치킨",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 49,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "아크",
+            "guild": "치킨",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 49,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "모범": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "2": 1
+      },
+      "membersList": [
+        {
+          "nickname": "애증",
+          "guild": "모범",
+          "class": "환영검사",
+          "grade": 2,
+          "level": 49,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "애증",
+            "guild": "모범",
+            "class": "환영검사",
+            "grade": 2,
+            "level": 49,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "2": [
+          {
+            "nickname": "애증",
+            "guild": "모범",
+            "class": "환영검사",
+            "grade": 2,
+            "level": 49,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "1": {
+      "members": 1,
+      "guildLevel": 12,
+      "guildRank": 42,
+      "guildMaster": "fsdfdsf",
+      "officialMemberCount": 10,
+      "maxGuildMemberCount": 34,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "fsafasf",
+          "guild": "1",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 48,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "fsafasf",
+            "guild": "1",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 48,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "fsafasf",
+            "guild": "1",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 48,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "너의이름은": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "2": 1
+      },
+      "membersList": [
+        {
+          "nickname": "만덕춘",
+          "guild": "너의이름은",
+          "class": "환영검사",
+          "grade": 2,
+          "level": 48,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "만덕춘",
+            "guild": "너의이름은",
+            "class": "환영검사",
+            "grade": 2,
+            "level": 48,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "2": [
+          {
+            "nickname": "만덕춘",
+            "guild": "너의이름은",
+            "class": "환영검사",
+            "grade": 2,
+            "level": 48,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "패파": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "대박잉",
+          "guild": "패파",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 47,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "대박잉",
+            "guild": "패파",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 47,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "대박잉",
+            "guild": "패파",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 47,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "하이": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "AIB",
+          "guild": "하이",
+          "class": "환영검사",
+          "grade": 1,
+          "level": 47,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "AIB",
+            "guild": "하이",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 47,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "AIB",
+            "guild": "하이",
+            "class": "환영검사",
+            "grade": 1,
+            "level": 47,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "미카엘": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "3": 1
+      },
+      "membersList": [
+        {
+          "nickname": "흑풍",
+          "guild": "미카엘",
+          "class": "환영검사",
+          "grade": 3,
+          "level": 47,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "흑풍",
+            "guild": "미카엘",
+            "class": "환영검사",
+            "grade": 3,
+            "level": 47,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "3": [
+          {
+            "nickname": "흑풍",
+            "guild": "미카엘",
+            "class": "환영검사",
+            "grade": 3,
+            "level": 47,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "엔틱": {
+      "members": 1,
+      "guildLevel": 17,
+      "guildRank": 11,
+      "guildMaster": "스톰",
+      "officialMemberCount": 1,
+      "maxGuildMemberCount": 40,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "7": 1
+      },
+      "membersList": [
+        {
+          "nickname": "스톰",
+          "guild": "엔틱",
+          "class": "향사수",
+          "grade": 7,
+          "level": 62,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "스톰",
+            "guild": "엔틱",
+            "class": "향사수",
+            "grade": 7,
+            "level": 62,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "7": [
+          {
+            "nickname": "스톰",
+            "guild": "엔틱",
+            "class": "향사수",
+            "grade": 7,
+            "level": 62,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "쉬어가요": {
+      "members": 1,
+      "guildLevel": 15,
+      "guildRank": 19,
+      "guildMaster": "라볼라스",
+      "officialMemberCount": 36,
+      "maxGuildMemberCount": 36,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "6": 1
+      },
+      "membersList": [
+        {
+          "nickname": "펀치",
+          "guild": "쉬어가요",
+          "class": "향사수",
+          "grade": 6,
+          "level": 62,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "펀치",
+            "guild": "쉬어가요",
+            "class": "향사수",
+            "grade": 6,
+            "level": 62,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "6": [
+          {
+            "nickname": "펀치",
+            "guild": "쉬어가요",
+            "class": "향사수",
+            "grade": 6,
+            "level": 62,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "잠수전문가": {
+      "members": 1,
+      "guildLevel": 12,
+      "guildRank": 41,
+      "guildMaster": "dsdf",
+      "officialMemberCount": 34,
+      "maxGuildMemberCount": 34,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "4": 1
+      },
+      "membersList": [
+        {
+          "nickname": "수소",
+          "guild": "잠수전문가",
+          "class": "향사수",
+          "grade": 4,
+          "level": 60,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "수소",
+            "guild": "잠수전문가",
+            "class": "향사수",
+            "grade": 4,
+            "level": 60,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "4": [
+          {
+            "nickname": "수소",
+            "guild": "잠수전문가",
+            "class": "향사수",
+            "grade": 4,
+            "level": 60,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "이웃주민": {
+      "members": 2,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "향사수": 1,
+        "집행관": 1
+      },
+      "byGrade": {
+        "7": 1,
+        "5": 1
+      },
+      "membersList": [
+        {
+          "nickname": "발칸",
+          "guild": "이웃주민",
+          "class": "향사수",
+          "grade": 7,
+          "level": 60,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "해머쇼크",
+          "guild": "이웃주민",
+          "class": "집행관",
+          "grade": 5,
+          "level": 47,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "발칸",
+            "guild": "이웃주민",
+            "class": "향사수",
+            "grade": 7,
+            "level": 60,
+            "server": "엘렌 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "해머쇼크",
+            "guild": "이웃주민",
+            "class": "집행관",
+            "grade": 5,
+            "level": 47,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "7": [
+          {
+            "nickname": "발칸",
+            "guild": "이웃주민",
+            "class": "향사수",
+            "grade": 7,
+            "level": 60,
+            "server": "엘렌 03"
+          }
+        ],
+        "5": [
+          {
+            "nickname": "해머쇼크",
+            "guild": "이웃주민",
+            "class": "집행관",
+            "grade": 5,
+            "level": 47,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "산호초": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "6": 1
+      },
+      "membersList": [
+        {
+          "nickname": "갸우뚱",
+          "guild": "산호초",
+          "class": "향사수",
+          "grade": 6,
+          "level": 60,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "갸우뚱",
+            "guild": "산호초",
+            "class": "향사수",
+            "grade": 6,
+            "level": 60,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "6": [
+          {
+            "nickname": "갸우뚱",
+            "guild": "산호초",
+            "class": "향사수",
+            "grade": 6,
+            "level": 60,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "불": {
+      "members": 1,
+      "guildLevel": 16,
+      "guildRank": 16,
+      "guildMaster": "송하예",
+      "officialMemberCount": 3,
+      "maxGuildMemberCount": 40,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "5": 1
+      },
+      "membersList": [
+        {
+          "nickname": "송하예",
+          "guild": "불",
+          "class": "향사수",
+          "grade": 5,
+          "level": 60,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "송하예",
+            "guild": "불",
+            "class": "향사수",
+            "grade": 5,
+            "level": 60,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "5": [
+          {
+            "nickname": "송하예",
+            "guild": "불",
+            "class": "향사수",
+            "grade": 5,
+            "level": 60,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "기네스": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "6": 1
+      },
+      "membersList": [
+        {
+          "nickname": "폭스",
+          "guild": "기네스",
+          "class": "향사수",
+          "grade": 6,
+          "level": 59,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "폭스",
+            "guild": "기네스",
+            "class": "향사수",
+            "grade": 6,
+            "level": 59,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "6": [
+          {
+            "nickname": "폭스",
+            "guild": "기네스",
+            "class": "향사수",
+            "grade": 6,
+            "level": 59,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "보지마": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "4": 1
+      },
+      "membersList": [
+        {
+          "nickname": "뭘보노",
+          "guild": "보지마",
+          "class": "향사수",
+          "grade": 4,
+          "level": 58,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "뭘보노",
+            "guild": "보지마",
+            "class": "향사수",
+            "grade": 4,
+            "level": 58,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "4": [
+          {
+            "nickname": "뭘보노",
+            "guild": "보지마",
+            "class": "향사수",
+            "grade": 4,
+            "level": 58,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "U2": {
+      "members": 1,
+      "guildLevel": 14,
+      "guildRank": 21,
+      "guildMaster": "fdhuty",
+      "officialMemberCount": 4,
+      "maxGuildMemberCount": 34,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "Agogogo",
+          "guild": "U2",
+          "class": "향사수",
+          "grade": 1,
+          "level": 56,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "Agogogo",
+            "guild": "U2",
+            "class": "향사수",
+            "grade": 1,
+            "level": 56,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "Agogogo",
+            "guild": "U2",
+            "class": "향사수",
+            "grade": 1,
+            "level": 56,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "아이유": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "6": 1
+      },
+      "membersList": [
+        {
+          "nickname": "만월",
+          "guild": "아이유",
+          "class": "향사수",
+          "grade": 6,
+          "level": 56,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "만월",
+            "guild": "아이유",
+            "class": "향사수",
+            "grade": 6,
+            "level": 56,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "6": [
+          {
+            "nickname": "만월",
+            "guild": "아이유",
+            "class": "향사수",
+            "grade": 6,
+            "level": 56,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "파도야야": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "5": 1
+      },
+      "membersList": [
+        {
+          "nickname": "심마",
+          "guild": "파도야야",
+          "class": "향사수",
+          "grade": 5,
+          "level": 56,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "심마",
+            "guild": "파도야야",
+            "class": "향사수",
+            "grade": 5,
+            "level": 56,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "5": [
+          {
+            "nickname": "심마",
+            "guild": "파도야야",
+            "class": "향사수",
+            "grade": 5,
+            "level": 56,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "레드드래곤": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "6": 1
+      },
+      "membersList": [
+        {
+          "nickname": "비셔스",
+          "guild": "레드드래곤",
+          "class": "향사수",
+          "grade": 6,
+          "level": 55,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "비셔스",
+            "guild": "레드드래곤",
+            "class": "향사수",
+            "grade": 6,
+            "level": 55,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "6": [
+          {
+            "nickname": "비셔스",
+            "guild": "레드드래곤",
+            "class": "향사수",
+            "grade": 6,
+            "level": 55,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "LG전자": {
+      "members": 2,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "향사수": 1,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "4": 2
+      },
+      "membersList": [
+        {
+          "nickname": "가전시너지팀",
+          "guild": "LG전자",
+          "class": "향사수",
+          "grade": 4,
+          "level": 55,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "모바일영업팀",
+          "guild": "LG전자",
+          "class": "주문각인사",
+          "grade": 4,
+          "level": 55,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "가전시너지팀",
+            "guild": "LG전자",
+            "class": "향사수",
+            "grade": 4,
+            "level": 55,
+            "server": "엘렌 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "모바일영업팀",
+            "guild": "LG전자",
+            "class": "주문각인사",
+            "grade": 4,
+            "level": 55,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "4": [
+          {
+            "nickname": "가전시너지팀",
+            "guild": "LG전자",
+            "class": "향사수",
+            "grade": 4,
+            "level": 55,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "모바일영업팀",
+            "guild": "LG전자",
+            "class": "주문각인사",
+            "grade": 4,
+            "level": 55,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "금빛향": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "9": 1
+      },
+      "membersList": [
+        {
+          "nickname": "요술지팡이",
+          "guild": "금빛향",
+          "class": "주문각인사",
+          "grade": 9,
+          "level": 63,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "요술지팡이",
+            "guild": "금빛향",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 63,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "9": [
+          {
+            "nickname": "요술지팡이",
+            "guild": "금빛향",
+            "class": "주문각인사",
+            "grade": 9,
+            "level": 63,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "언더형": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "6": 1
+      },
+      "membersList": [
+        {
+          "nickname": "담이",
+          "guild": "언더형",
+          "class": "주문각인사",
+          "grade": 6,
+          "level": 59,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "담이",
+            "guild": "언더형",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 59,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "6": [
+          {
+            "nickname": "담이",
+            "guild": "언더형",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 59,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "코인": {
+      "members": 2,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "주문각인사": 2
+      },
+      "byGrade": {
+        "7": 1,
+        "4": 1
+      },
+      "membersList": [
+        {
+          "nickname": "도지",
+          "guild": "코인",
+          "class": "주문각인사",
+          "grade": 7,
+          "level": 59,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "비트코인",
+          "guild": "코인",
+          "class": "주문각인사",
+          "grade": 4,
+          "level": 57,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "도지",
+            "guild": "코인",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 59,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "비트코인",
+            "guild": "코인",
+            "class": "주문각인사",
+            "grade": 4,
+            "level": 57,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "7": [
+          {
+            "nickname": "도지",
+            "guild": "코인",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 59,
+            "server": "엘렌 03"
+          }
+        ],
+        "4": [
+          {
+            "nickname": "비트코인",
+            "guild": "코인",
+            "class": "주문각인사",
+            "grade": 4,
+            "level": 57,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "대한민국": {
+      "members": 5,
+      "guildLevel": 16,
+      "guildRank": 14,
+      "guildMaster": "대한민국",
+      "officialMemberCount": 25,
+      "maxGuildMemberCount": 40,
+      "byClass": {
+        "주문각인사": 5
+      },
+      "byGrade": {
+        "5": 4,
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "국가대표",
+          "guild": "대한민국",
+          "class": "주문각인사",
+          "grade": 5,
+          "level": 59,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "큐피트",
+          "guild": "대한민국",
+          "class": "주문각인사",
+          "grade": 5,
+          "level": 59,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "대한민국",
+          "guild": "대한민국",
+          "class": "주문각인사",
+          "grade": 5,
+          "level": 58,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "사나이",
+          "guild": "대한민국",
+          "class": "주문각인사",
+          "grade": 5,
+          "level": 58,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "챔피언",
+          "guild": "대한민국",
+          "class": "주문각인사",
+          "grade": 1,
+          "level": 59,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "국가대표",
+            "guild": "대한민국",
+            "class": "주문각인사",
+            "grade": 5,
+            "level": 59,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "큐피트",
+            "guild": "대한민국",
+            "class": "주문각인사",
+            "grade": 5,
+            "level": 59,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "대한민국",
+            "guild": "대한민국",
+            "class": "주문각인사",
+            "grade": 5,
+            "level": 58,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "사나이",
+            "guild": "대한민국",
+            "class": "주문각인사",
+            "grade": 5,
+            "level": 58,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "챔피언",
+            "guild": "대한민국",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 59,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "5": [
+          {
+            "nickname": "국가대표",
+            "guild": "대한민국",
+            "class": "주문각인사",
+            "grade": 5,
+            "level": 59,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "큐피트",
+            "guild": "대한민국",
+            "class": "주문각인사",
+            "grade": 5,
+            "level": 59,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "대한민국",
+            "guild": "대한민국",
+            "class": "주문각인사",
+            "grade": 5,
+            "level": 58,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "사나이",
+            "guild": "대한민국",
+            "class": "주문각인사",
+            "grade": 5,
+            "level": 58,
+            "server": "엘렌 03"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "챔피언",
+            "guild": "대한민국",
+            "class": "주문각인사",
+            "grade": 1,
+            "level": 59,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "우주": {
+      "members": 1,
+      "guildLevel": 17,
+      "guildRank": 13,
+      "guildMaster": "건달한방",
+      "officialMemberCount": 2,
+      "maxGuildMemberCount": 41,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "6": 1
+      },
+      "membersList": [
+        {
+          "nickname": "건달소녀",
+          "guild": "우주",
+          "class": "주문각인사",
+          "grade": 6,
+          "level": 58,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "건달소녀",
+            "guild": "우주",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 58,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "6": [
+          {
+            "nickname": "건달소녀",
+            "guild": "우주",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 58,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "적빛": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "7": 1
+      },
+      "membersList": [
+        {
+          "nickname": "저주",
+          "guild": "적빛",
+          "class": "주문각인사",
+          "grade": 7,
+          "level": 57,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "저주",
+            "guild": "적빛",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 57,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "7": [
+          {
+            "nickname": "저주",
+            "guild": "적빛",
+            "class": "주문각인사",
+            "grade": 7,
+            "level": 57,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "what": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "5": 1
+      },
+      "membersList": [
+        {
+          "nickname": "도우와강단",
+          "guild": "what",
+          "class": "주문각인사",
+          "grade": 5,
+          "level": 56,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "도우와강단",
+            "guild": "what",
+            "class": "주문각인사",
+            "grade": 5,
+            "level": 56,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "5": [
+          {
+            "nickname": "도우와강단",
+            "guild": "what",
+            "class": "주문각인사",
+            "grade": 5,
+            "level": 56,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "에덴": {
+      "members": 1,
+      "guildLevel": 13,
+      "guildRank": 33,
+      "guildMaster": "암호",
+      "officialMemberCount": 34,
+      "maxGuildMemberCount": 34,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "5": 1
+      },
+      "membersList": [
+        {
+          "nickname": "에덴",
+          "guild": "에덴",
+          "class": "주문각인사",
+          "grade": 5,
+          "level": 54,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "에덴",
+            "guild": "에덴",
+            "class": "주문각인사",
+            "grade": 5,
+            "level": 54,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "5": [
+          {
+            "nickname": "에덴",
+            "guild": "에덴",
+            "class": "주문각인사",
+            "grade": 5,
+            "level": 54,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "봉인전": {
+      "members": 1,
+      "guildLevel": 13,
+      "guildRank": 32,
+      "guildMaster": "쟈이쿠",
+      "officialMemberCount": 31,
+      "maxGuildMemberCount": 34,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "3": 1
+      },
+      "membersList": [
+        {
+          "nickname": "특별한님",
+          "guild": "봉인전",
+          "class": "주문각인사",
+          "grade": 3,
+          "level": 54,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "특별한님",
+            "guild": "봉인전",
+            "class": "주문각인사",
+            "grade": 3,
+            "level": 54,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "3": [
+          {
+            "nickname": "특별한님",
+            "guild": "봉인전",
+            "class": "주문각인사",
+            "grade": 3,
+            "level": 54,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "나랑놀래": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "6": 1
+      },
+      "membersList": [
+        {
+          "nickname": "야기",
+          "guild": "나랑놀래",
+          "class": "주문각인사",
+          "grade": 6,
+          "level": 54,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "야기",
+            "guild": "나랑놀래",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 54,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "6": [
+          {
+            "nickname": "야기",
+            "guild": "나랑놀래",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 54,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "메가피플": {
+      "members": 1,
+      "guildLevel": 11,
+      "guildRank": 50,
+      "guildMaster": "YadeiYQl",
+      "officialMemberCount": 29,
+      "maxGuildMemberCount": 34,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "4": 1
+      },
+      "membersList": [
+        {
+          "nickname": "킬러조",
+          "guild": "메가피플",
+          "class": "주문각인사",
+          "grade": 4,
+          "level": 53,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "킬러조",
+            "guild": "메가피플",
+            "class": "주문각인사",
+            "grade": 4,
+            "level": 53,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "4": [
+          {
+            "nickname": "킬러조",
+            "guild": "메가피플",
+            "class": "주문각인사",
+            "grade": 4,
+            "level": 53,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "세라핌": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "6": 1
+      },
+      "membersList": [
+        {
+          "nickname": "주방장",
+          "guild": "세라핌",
+          "class": "주문각인사",
+          "grade": 6,
+          "level": 53,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "주방장",
+            "guild": "세라핌",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 53,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "6": [
+          {
+            "nickname": "주방장",
+            "guild": "세라핌",
+            "class": "주문각인사",
+            "grade": 6,
+            "level": 53,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "112": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "7": 1
+      },
+      "membersList": [
+        {
+          "nickname": "구글",
+          "guild": "112",
+          "class": "집행관",
+          "grade": 7,
+          "level": 58,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "구글",
+            "guild": "112",
+            "class": "집행관",
+            "grade": 7,
+            "level": 58,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "7": [
+          {
+            "nickname": "구글",
+            "guild": "112",
+            "class": "집행관",
+            "grade": 7,
+            "level": 58,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "앙칼진것들": {
+      "members": 1,
+      "guildLevel": 15,
+      "guildRank": 20,
+      "guildMaster": "용군",
+      "officialMemberCount": 7,
+      "maxGuildMemberCount": 34,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "4": 1
+      },
+      "membersList": [
+        {
+          "nickname": "용군",
+          "guild": "앙칼진것들",
+          "class": "집행관",
+          "grade": 4,
+          "level": 56,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "용군",
+            "guild": "앙칼진것들",
+            "class": "집행관",
+            "grade": 4,
+            "level": 56,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "4": [
+          {
+            "nickname": "용군",
+            "guild": "앙칼진것들",
+            "class": "집행관",
+            "grade": 4,
+            "level": 56,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "다이아": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "6": 1
+      },
+      "membersList": [
+        {
+          "nickname": "성기사",
+          "guild": "다이아",
+          "class": "집행관",
+          "grade": 6,
+          "level": 56,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "성기사",
+            "guild": "다이아",
+            "class": "집행관",
+            "grade": 6,
+            "level": 56,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "6": [
+          {
+            "nickname": "성기사",
+            "guild": "다이아",
+            "class": "집행관",
+            "grade": 6,
+            "level": 56,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "CrossGate": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "2": 1
+      },
+      "membersList": [
+        {
+          "nickname": "내아임다",
+          "guild": "CrossGate",
+          "class": "집행관",
+          "grade": 2,
+          "level": 56,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "내아임다",
+            "guild": "CrossGate",
+            "class": "집행관",
+            "grade": 2,
+            "level": 56,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "2": [
+          {
+            "nickname": "내아임다",
+            "guild": "CrossGate",
+            "class": "집행관",
+            "grade": 2,
+            "level": 56,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "화이트소드": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "3": 1
+      },
+      "membersList": [
+        {
+          "nickname": "석빠",
+          "guild": "화이트소드",
+          "class": "집행관",
+          "grade": 3,
+          "level": 52,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "석빠",
+            "guild": "화이트소드",
+            "class": "집행관",
+            "grade": 3,
+            "level": 52,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "3": [
+          {
+            "nickname": "석빠",
+            "guild": "화이트소드",
+            "class": "집행관",
+            "grade": 3,
+            "level": 52,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "프랑켄왕국": {
+      "members": 1,
+      "guildLevel": 15,
+      "guildRank": 17,
+      "guildMaster": "프랑켄슈타인",
+      "officialMemberCount": 1,
+      "maxGuildMemberCount": 38,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "3": 1
+      },
+      "membersList": [
+        {
+          "nickname": "프랑켄슈타인",
+          "guild": "프랑켄왕국",
+          "class": "집행관",
+          "grade": 3,
+          "level": 50,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "프랑켄슈타인",
+            "guild": "프랑켄왕국",
+            "class": "집행관",
+            "grade": 3,
+            "level": 50,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "3": [
+          {
+            "nickname": "프랑켄슈타인",
+            "guild": "프랑켄왕국",
+            "class": "집행관",
+            "grade": 3,
+            "level": 50,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "1818": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "5": 1
+      },
+      "membersList": [
+        {
+          "nickname": "퇴근시켜주세요",
+          "guild": "1818",
+          "class": "집행관",
+          "grade": 5,
+          "level": 50,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "퇴근시켜주세요",
+            "guild": "1818",
+            "class": "집행관",
+            "grade": 5,
+            "level": 50,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "5": [
+          {
+            "nickname": "퇴근시켜주세요",
+            "guild": "1818",
+            "class": "집행관",
+            "grade": 5,
+            "level": 50,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "부족": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "2": 1
+      },
+      "membersList": [
+        {
+          "nickname": "아담",
+          "guild": "부족",
+          "class": "집행관",
+          "grade": 2,
+          "level": 50,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "아담",
+            "guild": "부족",
+            "class": "집행관",
+            "grade": 2,
+            "level": 50,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "2": [
+          {
+            "nickname": "아담",
+            "guild": "부족",
+            "class": "집행관",
+            "grade": 2,
+            "level": 50,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "해탈": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "지난안읽다",
+          "guild": "해탈",
+          "class": "집행관",
+          "grade": 1,
+          "level": 50,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "지난안읽다",
+            "guild": "해탈",
+            "class": "집행관",
+            "grade": 1,
+            "level": 50,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "지난안읽다",
+            "guild": "해탈",
+            "class": "집행관",
+            "grade": 1,
+            "level": 50,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "장미": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "3": 1
+      },
+      "membersList": [
+        {
+          "nickname": "루팡",
+          "guild": "장미",
+          "class": "집행관",
+          "grade": 3,
+          "level": 48,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "루팡",
+            "guild": "장미",
+            "class": "집행관",
+            "grade": 3,
+            "level": 48,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "3": [
+          {
+            "nickname": "루팡",
+            "guild": "장미",
+            "class": "집행관",
+            "grade": 3,
+            "level": 48,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "0527": {
+      "members": 2,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "집행관": 2
+      },
+      "byGrade": {
+        "2": 1,
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "lines",
+          "guild": "0527",
+          "class": "집행관",
+          "grade": 2,
+          "level": 48,
+          "server": "엘렌 03"
+        },
+        {
+          "nickname": "SDF",
+          "guild": "0527",
+          "class": "집행관",
+          "grade": 1,
+          "level": 47,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "lines",
+            "guild": "0527",
+            "class": "집행관",
+            "grade": 2,
+            "level": 48,
+            "server": "엘렌 03"
+          },
+          {
+            "nickname": "SDF",
+            "guild": "0527",
+            "class": "집행관",
+            "grade": 1,
+            "level": 47,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "2": [
+          {
+            "nickname": "lines",
+            "guild": "0527",
+            "class": "집행관",
+            "grade": 2,
+            "level": 48,
+            "server": "엘렌 03"
+          }
+        ],
+        "1": [
+          {
+            "nickname": "SDF",
+            "guild": "0527",
+            "class": "집행관",
+            "grade": 1,
+            "level": 47,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "7564": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "QC",
+          "guild": "7564",
+          "class": "집행관",
+          "grade": 1,
+          "level": 48,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "QC",
+            "guild": "7564",
+            "class": "집행관",
+            "grade": 1,
+            "level": 48,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "QC",
+            "guild": "7564",
+            "class": "집행관",
+            "grade": 1,
+            "level": 48,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "긴급탈출": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "vcxbx",
+          "guild": "긴급탈출",
+          "class": "집행관",
+          "grade": 1,
+          "level": 48,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "vcxbx",
+            "guild": "긴급탈출",
+            "class": "집행관",
+            "grade": 1,
+            "level": 48,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "vcxbx",
+            "guild": "긴급탈출",
+            "class": "집행관",
+            "grade": 1,
+            "level": 48,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "154": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "QH",
+          "guild": "154",
+          "class": "집행관",
+          "grade": 1,
+          "level": 47,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "QH",
+            "guild": "154",
+            "class": "집행관",
+            "grade": 1,
+            "level": 47,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "QH",
+            "guild": "154",
+            "class": "집행관",
+            "grade": 1,
+            "level": 47,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "부캐결사": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "2": 1
+      },
+      "membersList": [
+        {
+          "nickname": "햄딘",
+          "guild": "부캐결사",
+          "class": "집행관",
+          "grade": 2,
+          "level": 47,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "햄딘",
+            "guild": "부캐결사",
+            "class": "집행관",
+            "grade": 2,
+            "level": 47,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "2": [
+          {
+            "nickname": "햄딘",
+            "guild": "부캐결사",
+            "class": "집행관",
+            "grade": 2,
+            "level": 47,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "Y": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "3": 1
+      },
+      "membersList": [
+        {
+          "nickname": "덩치",
+          "guild": "Y",
+          "class": "집행관",
+          "grade": 3,
+          "level": 47,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "덩치",
+            "guild": "Y",
+            "class": "집행관",
+            "grade": 3,
+            "level": 47,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "3": [
+          {
+            "nickname": "덩치",
+            "guild": "Y",
+            "class": "집행관",
+            "grade": 3,
+            "level": 47,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "성": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "무결",
+          "guild": "성",
+          "class": "집행관",
+          "grade": 1,
+          "level": 46,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "무결",
+            "guild": "성",
+            "class": "집행관",
+            "grade": 1,
+            "level": 46,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "무결",
+            "guild": "성",
+            "class": "집행관",
+            "grade": 1,
+            "level": 46,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "3434343434": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "1": 1
+      },
+      "membersList": [
+        {
+          "nickname": "vbnvbb",
+          "guild": "3434343434",
+          "class": "집행관",
+          "grade": 1,
+          "level": 46,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "vbnvbb",
+            "guild": "3434343434",
+            "class": "집행관",
+            "grade": 1,
+            "level": 46,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "1": [
+          {
+            "nickname": "vbnvbb",
+            "guild": "3434343434",
+            "class": "집행관",
+            "grade": 1,
+            "level": 46,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    },
+    "제3의눈": {
+      "members": 1,
+      "guildLevel": 0,
+      "guildRank": 0,
+      "guildMaster": "",
+      "officialMemberCount": 0,
+      "maxGuildMemberCount": 0,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "3": 1
+      },
+      "membersList": [
+        {
+          "nickname": "파멸의루비",
+          "guild": "제3의눈",
+          "class": "집행관",
+          "grade": 3,
+          "level": 46,
+          "server": "엘렌 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "파멸의루비",
+            "guild": "제3의눈",
+            "class": "집행관",
+            "grade": 3,
+            "level": 46,
+            "server": "엘렌 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "3": [
+          {
+            "nickname": "파멸의루비",
+            "guild": "제3의눈",
+            "class": "집행관",
+            "grade": 3,
+            "level": 46,
+            "server": "엘렌 03"
+          }
+        ]
+      }
+    }
+  }
+}
